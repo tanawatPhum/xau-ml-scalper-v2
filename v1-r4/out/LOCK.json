@@ -1,0 +1,44 @@
+{
+ "version": "v1-r4",
+ "locked_utc": "2026-10-31T19:21:05.869221+00:00",
+ "status": "NOT_CONFIRMED",
+ "pick": null,
+ "base_v1r2_01": {
+  "net": 353805.2506998925,
+  "dd": 29686.869300000224,
+  "dd_pct": 12.474871818536437,
+  "lowest": 99261.45009999996,
+  "trades": 2737,
+  "worst": -19706.82120000008,
+  "worst_pct": 7.651130504099557,
+  "recent": 46954.65224997187,
+  "boot50": 9.920270521230979,
+  "boot95": 15.230583046914834,
+  "boot99": 18.25901400428965,
+  "p_dd_gt_30": 0.0,
+  "p_low_lt_half": 0.0,
+  "longest_underwater_days": 274,
+  "mean_lot": 0.09999999999999998,
+  "share_lot_gt_01": 0.0,
+  "max_lot": 0.1,
+  "risk_pct_mean": 1.4483217706149325,
+  "risk_pct_max": 9.48508507995555,
+  "acceptable": false
+ },
+ "limits": {
+  "dd_pct": 20.0,
+  "boot95_pct": 30.0,
+  "worst_trade_pct": 6.0,
+  "lowest": 80000.0
+ },
+ "candidates": 18,
+ "acceptable": [],
+ "base_lock_sha256": "9523319b9f2ae27b3b3daf683ec28fec8535005ba364d3623aa825da04bcdfe0",
+ "code_sha256": "8ed2e2798a3e59c40538cdce25d90f427ee934ccdd31b4314ed8ca152197b5d7",
+ "plan_sha256": "caaaf0266fade17f382a9f8f0a27c9dfd31b89a7bd4172b603d34538b388509c",
+ "training_years": [
+  2010,
+  2016
+ ],
+ "note": "design 2010-2016 only; 2017+ not read before this lock"
+}

@@ -1,0 +1,164 @@
+{
+  "status": "PASS",
+  "actual_prefix_checks": [
+    {
+      "name": "baseline",
+      "quotes": 175413,
+      "closed_trades": 417,
+      "open_positions": 0
+    },
+    {
+      "name": "baseline",
+      "quotes": 175626,
+      "closed_trades": 417,
+      "open_positions": 1
+    },
+    {
+      "name": "old_rx",
+      "quotes": 175413,
+      "closed_trades": 210,
+      "open_positions": 0
+    },
+    {
+      "name": "old_rx",
+      "quotes": 179937,
+      "closed_trades": 210,
+      "open_positions": 1
+    },
+    {
+      "name": "rx",
+      "quotes": 175413,
+      "closed_trades": 157,
+      "open_positions": 0
+    },
+    {
+      "name": "rx",
+      "quotes": 176405,
+      "closed_trades": 157,
+      "open_positions": 1
+    }
+  ],
+  "accounting": [
+    {
+      "period": "full",
+      "scenario": "fixed",
+      "variant": "baseline",
+      "market_close_crossings": 2
+    },
+    {
+      "period": "full",
+      "scenario": "fixed",
+      "variant": "old_rx",
+      "market_close_crossings": 0
+    },
+    {
+      "period": "full",
+      "scenario": "fixed",
+      "variant": "rx",
+      "market_close_crossings": 0
+    },
+    {
+      "period": "full",
+      "scenario": "cost_example",
+      "variant": "baseline",
+      "market_close_crossings": 2
+    },
+    {
+      "period": "full",
+      "scenario": "cost_example",
+      "variant": "old_rx",
+      "market_close_crossings": 0
+    },
+    {
+      "period": "full",
+      "scenario": "cost_example",
+      "variant": "rx",
+      "market_close_crossings": 0
+    },
+    {
+      "period": "full",
+      "scenario": "historical",
+      "variant": "baseline",
+      "market_close_crossings": 2
+    },
+    {
+      "period": "full",
+      "scenario": "historical",
+      "variant": "old_rx",
+      "market_close_crossings": 0
+    },
+    {
+      "period": "full",
+      "scenario": "historical",
+      "variant": "rx",
+      "market_close_crossings": 0
+    },
+    {
+      "period": "validation",
+      "scenario": "fixed",
+      "variant": "baseline",
+      "market_close_crossings": 0
+    },
+    {
+      "period": "validation",
+      "scenario": "fixed",
+      "variant": "old_rx",
+      "market_close_crossings": 0
+    },
+    {
+      "period": "validation",
+      "scenario": "fixed",
+      "variant": "rx",
+      "market_close_crossings": 0
+    },
+    {
+      "period": "validation",
+      "scenario": "cost_example",
+      "variant": "baseline",
+      "market_close_crossings": 0
+    },
+    {
+      "period": "validation",
+      "scenario": "cost_example",
+      "variant": "old_rx",
+      "market_close_crossings": 0
+    },
+    {
+      "period": "validation",
+      "scenario": "cost_example",
+      "variant": "rx",
+      "market_close_crossings": 0
+    },
+    {
+      "period": "validation",
+      "scenario": "historical",
+      "variant": "baseline",
+      "market_close_crossings": 0
+    },
+    {
+      "period": "validation",
+      "scenario": "historical",
+      "variant": "old_rx",
+      "market_close_crossings": 0
+    },
+    {
+      "period": "validation",
+      "scenario": "historical",
+      "variant": "rx",
+      "market_close_crossings": 0
+    }
+  ],
+  "original_sources_and_locks_unchanged": true,
+  "calendar_sha256": "7999d7d1afca972550211692cf98d18223d2ffa2db8d5539404abfd4d85e9324",
+  "lock_sha256": "b819a098e183f944287c120fa64628786a7fc368c437e781c76c19c01ab94432",
+  "source_hashes": {
+    "D:\\xau-ml-scalper-claude\\v1-rx\\daily\\calendar_rules.py": "2042fe2103c70fca31aef2c62489ee6e29c4af89dfbe08baa9a26c5f11b40148",
+    "D:\\xau-ml-scalper-claude\\v1-rx\\daily\\execution.py": "8b7126b11116f4a1968341938c544be33dd762d68e26fc06aec7a708e80f5697",
+    "D:\\xau-ml-scalper-claude\\v1-rx\\daily\\run_study.py": "579e6b0c26d4484927a157c7d12a1b6fe0b5f4cc204558fb6d4233fc10ed1d7b",
+    "D:\\xau-ml-scalper-claude\\v1-rx\\daily\\DESIGN.md": "acd23fad0212f6a89fa033abcdb3c95d4defb5b4687f70e547b46529f944d6e1",
+    "D:\\xau-ml-scalper-claude\\v1-rx\\baseline_engine.py": "964127ce2827f8e157a2d013dc17e121c48a97b1305288b945f0fa843719ed88",
+    "D:\\xau-ml-scalper-claude\\v1-rx\\strategy.py": "080bddb0b67d629f066e09057d869543e0c0bb5c88a5dbcd08e28da56ba8a883",
+    "D:\\xau-ml-scalper-claude\\v1-rx\\study.py": "952d78eb8489fd8473da22cc65f0b0564e59a540e896a43d6d8e12c5e17b7697"
+  },
+  "verification_script_sha256": "66aa114e2c1ac00e41e5a658641e0b3ad01edf901340c1326e32953ddead8076"
+}

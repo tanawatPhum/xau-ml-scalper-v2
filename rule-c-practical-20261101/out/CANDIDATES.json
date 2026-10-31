@@ -1,0 +1,290 @@
+[
+  {
+    "id": "path_w15_k1_d1_h30",
+    "family": "price_path",
+    "params": {
+      "w": 15,
+      "k": 1,
+      "d": 1
+    },
+    "hold": 30,
+    "stop": 1.0,
+    "tp": 2.0
+  },
+  {
+    "id": "path_w15_k1_d1_h90",
+    "family": "price_path",
+    "params": {
+      "w": 15,
+      "k": 1,
+      "d": 1
+    },
+    "hold": 90,
+    "stop": 1.0,
+    "tp": 2.0
+  },
+  {
+    "id": "path_w15_k1_d-1_h30",
+    "family": "price_path",
+    "params": {
+      "w": 15,
+      "k": 1,
+      "d": -1
+    },
+    "hold": 30,
+    "stop": 1.0,
+    "tp": 2.0
+  },
+  {
+    "id": "path_w15_k1_d-1_h90",
+    "family": "price_path",
+    "params": {
+      "w": 15,
+      "k": 1,
+      "d": -1
+    },
+    "hold": 90,
+    "stop": 1.0,
+    "tp": 2.0
+  },
+  {
+    "id": "path_w15_k2_d1_h30",
+    "family": "price_path",
+    "params": {
+      "w": 15,
+      "k": 2,
+      "d": 1
+    },
+    "hold": 30,
+    "stop": 1.0,
+    "tp": 2.0
+  },
+  {
+    "id": "path_w15_k2_d1_h90",
+    "family": "price_path",
+    "params": {
+      "w": 15,
+      "k": 2,
+      "d": 1
+    },
+    "hold": 90,
+    "stop": 1.0,
+    "tp": 2.0
+  },
+  {
+    "id": "path_w15_k2_d-1_h30",
+    "family": "price_path",
+    "params": {
+      "w": 15,
+      "k": 2,
+      "d": -1
+    },
+    "hold": 30,
+    "stop": 1.0,
+    "tp": 2.0
+  },
+  {
+    "id": "path_w15_k2_d-1_h90",
+    "family": "price_path",
+    "params": {
+      "w": 15,
+      "k": 2,
+      "d": -1
+    },
+    "hold": 90,
+    "stop": 1.0,
+    "tp": 2.0
+  },
+  {
+    "id": "path_w30_k1_d1_h30",
+    "family": "price_path",
+    "params": {
+      "w": 30,
+      "k": 1,
+      "d": 1
+    },
+    "hold": 30,
+    "stop": 1.0,
+    "tp": 2.0
+  },
+  {
+    "id": "path_w30_k1_d1_h90",
+    "family": "price_path",
+    "params": {
+      "w": 30,
+      "k": 1,
+      "d": 1
+    },
+    "hold": 90,
+    "stop": 1.0,
+    "tp": 2.0
+  },
+  {
+    "id": "path_w30_k1_d-1_h30",
+    "family": "price_path",
+    "params": {
+      "w": 30,
+      "k": 1,
+      "d": -1
+    },
+    "hold": 30,
+    "stop": 1.0,
+    "tp": 2.0
+  },
+  {
+    "id": "path_w30_k1_d-1_h90",
+    "family": "price_path",
+    "params": {
+      "w": 30,
+      "k": 1,
+      "d": -1
+    },
+    "hold": 90,
+    "stop": 1.0,
+    "tp": 2.0
+  },
+  {
+    "id": "path_w30_k2_d1_h30",
+    "family": "price_path",
+    "params": {
+      "w": 30,
+      "k": 2,
+      "d": 1
+    },
+    "hold": 30,
+    "stop": 1.0,
+    "tp": 2.0
+  },
+  {
+    "id": "path_w30_k2_d1_h90",
+    "family": "price_path",
+    "params": {
+      "w": 30,
+      "k": 2,
+      "d": 1
+    },
+    "hold": 90,
+    "stop": 1.0,
+    "tp": 2.0
+  },
+  {
+    "id": "path_w30_k2_d-1_h30",
+    "family": "price_path",
+    "params": {
+      "w": 30,
+      "k": 2,
+      "d": -1
+    },
+    "hold": 30,
+    "stop": 1.0,
+    "tp": 2.0
+  },
+  {
+    "id": "path_w30_k2_d-1_h90",
+    "family": "price_path",
+    "params": {
+      "w": 30,
+      "k": 2,
+      "d": -1
+    },
+    "hold": 90,
+    "stop": 1.0,
+    "tp": 2.0
+  },
+  {
+    "id": "path_w60_k1_d1_h30",
+    "family": "price_path",
+    "params": {
+      "w": 60,
+      "k": 1,
+      "d": 1
+    },
+    "hold": 30,
+    "stop": 1.0,
+    "tp": 2.0
+  },
+  {
+    "id": "path_w60_k1_d1_h90",
+    "family": "price_path",
+    "params": {
+      "w": 60,
+      "k": 1,
+      "d": 1
+    },
+    "hold": 90,
+    "stop": 1.0,
+    "tp": 2.0
+  },
+  {
+    "id": "path_w60_k1_d-1_h30",
+    "family": "price_path",
+    "params": {
+      "w": 60,
+      "k": 1,
+      "d": -1
+    },
+    "hold": 30,
+    "stop": 1.0,
+    "tp": 2.0
+  },
+  {
+    "id": "path_w60_k1_d-1_h90",
+    "family": "price_path",
+    "params": {
+      "w": 60,
+      "k": 1,
+      "d": -1
+    },
+    "hold": 90,
+    "stop": 1.0,
+    "tp": 2.0
+  },
+  {
+    "id": "path_w60_k2_d1_h30",
+    "family": "price_path",
+    "params": {
+      "w": 60,
+      "k": 2,
+      "d": 1
+    },
+    "hold": 30,
+    "stop": 1.0,
+    "tp": 2.0
+  },
+  {
+    "id": "path_w60_k2_d1_h90",
+    "family": "price_path",
+    "params": {
+      "w": 60,
+      "k": 2,
+      "d": 1
+    },
+    "hold": 90,
+    "stop": 1.0,
+    "tp": 2.0
+  },
+  {
+    "id": "path_w60_k2_d-1_h30",
+    "family": "price_path",
+    "params": {
+      "w": 60,
+      "k": 2,
+      "d": -1
+    },
+    "hold": 30,
+    "stop": 1.0,
+    "tp": 2.0
+  },
+  {
+    "id": "path_w60_k2_d-1_h90",
+    "family": "price_path",
+    "params": {
+      "w": 60,
+      "k": 2,
+      "d": -1
+    },
+    "hold": 90,
+    "stop": 1.0,
+    "tp": 2.0
+  }
+]

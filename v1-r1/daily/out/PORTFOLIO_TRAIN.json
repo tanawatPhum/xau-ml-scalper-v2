@@ -1,0 +1,3422 @@
+[
+  {
+    "id": "D000",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "all"
+      },
+      "B": {
+        "k": 1.5,
+        "long_vol": false,
+        "min_usd": 0.0,
+        "leg": 3.5,
+        "policy": "all"
+      }
+    },
+    "stop_theta": 2.0,
+    "complexity": 1,
+    "metrics": {
+      "net": 202596.19214979734,
+      "dd": 58590.95000004576,
+      "dd_pct": 30.129912896038206,
+      "loss": 2105111.37210008,
+      "trades": 5145,
+      "worst": -17449.296700000097,
+      "lowest": 91024.60939999702,
+      "recent": -25731.220350074,
+      "early": 228327.41249987134,
+      "open_positions": 0,
+      "late_cutoff_exits": 13,
+      "market_close_crossings": 2,
+      "session_crossings": 2,
+      "trades_spanning_data_gap": 2,
+      "scheduled_exits": 746
+    }
+  },
+  {
+    "id": "D001",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "all"
+      },
+      "B": {
+        "k": 1.5,
+        "long_vol": false,
+        "min_usd": 0.0,
+        "leg": 3.5,
+        "policy": "all"
+      }
+    },
+    "stop_theta": 2.5,
+    "complexity": 1,
+    "metrics": {
+      "net": 266036.34529979626,
+      "dd": 61117.2837000452,
+      "dd_pct": 18.220660708862887,
+      "loss": 2050468.1351000804,
+      "trades": 5145,
+      "worst": -19706.82120000008,
+      "lowest": 91699.33399999673,
+      "recent": -13118.631900074543,
+      "early": 279154.9771998708,
+      "open_positions": 0,
+      "late_cutoff_exits": 14,
+      "market_close_crossings": 2,
+      "session_crossings": 2,
+      "trades_spanning_data_gap": 2,
+      "scheduled_exits": 764
+    }
+  },
+  {
+    "id": "D002",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "all"
+      },
+      "B": {
+        "k": 1.5,
+        "long_vol": false,
+        "min_usd": 0.0,
+        "leg": 3.5,
+        "policy": "all"
+      }
+    },
+    "stop_theta": 3.0,
+    "complexity": 0,
+    "metrics": {
+      "net": 285225.47239979706,
+      "dd": 57626.309950043855,
+      "dd_pct": 21.408872075969708,
+      "loss": 2032019.5841000795,
+      "trades": 5145,
+      "worst": -13570.981050000086,
+      "lowest": 92077.895699997,
+      "recent": -9211.611750073382,
+      "early": 294437.08414987044,
+      "open_positions": 0,
+      "late_cutoff_exits": 14,
+      "market_close_crossings": 2,
+      "session_crossings": 2,
+      "trades_spanning_data_gap": 2,
+      "scheduled_exits": 775
+    }
+  },
+  {
+    "id": "D003",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "all"
+      },
+      "B": {
+        "k": 2.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 3.5,
+        "policy": "vol_le15"
+      }
+    },
+    "stop_theta": 2.0,
+    "complexity": 4,
+    "metrics": {
+      "net": 262702.0643498425,
+      "dd": 44700.84245003079,
+      "dd_pct": 18.180910423077812,
+      "loss": 1715725.036300062,
+      "trades": 4017,
+      "worst": -17449.296700000097,
+      "lowest": 91027.31099999863,
+      "recent": -3228.5808500524727,
+      "early": 265930.64519989496,
+      "open_positions": 0,
+      "late_cutoff_exits": 8,
+      "market_close_crossings": 0,
+      "session_crossings": 0,
+      "trades_spanning_data_gap": 0,
+      "scheduled_exits": 596
+    }
+  },
+  {
+    "id": "D004",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "all"
+      },
+      "B": {
+        "k": 2.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 3.5,
+        "policy": "vol_le15"
+      }
+    },
+    "stop_theta": 2.5,
+    "complexity": 4,
+    "metrics": {
+      "net": 307683.70434984175,
+      "dd": 51933.363350030326,
+      "dd_pct": 14.64826528426414,
+      "loss": 1671762.2372000623,
+      "trades": 4017,
+      "worst": -19706.82120000008,
+      "lowest": 91625.71539999869,
+      "recent": 4324.586199947575,
+      "early": 303359.1181498942,
+      "open_positions": 0,
+      "late_cutoff_exits": 8,
+      "market_close_crossings": 0,
+      "session_crossings": 0,
+      "trades_spanning_data_gap": 0,
+      "scheduled_exits": 609
+    }
+  },
+  {
+    "id": "D005",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "all"
+      },
+      "B": {
+        "k": 2.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 3.5,
+        "policy": "vol_le15"
+      }
+    },
+    "stop_theta": 3.0,
+    "complexity": 3,
+    "metrics": {
+      "net": 314133.9431998421,
+      "dd": 42383.71390001889,
+      "dd_pct": 19.900186333718686,
+      "loss": 1665593.1336000622,
+      "trades": 4017,
+      "worst": -13570.981050000086,
+      "lowest": 92391.28129999863,
+      "recent": 14922.96299994801,
+      "early": 299210.9801998941,
+      "open_positions": 0,
+      "late_cutoff_exits": 8,
+      "market_close_crossings": 0,
+      "session_crossings": 0,
+      "trades_spanning_data_gap": 0,
+      "scheduled_exits": 616
+    }
+  },
+  {
+    "id": "D006",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "all"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "skip_asia"
+      }
+    },
+    "stop_theta": 2.0,
+    "complexity": 5,
+    "metrics": {
+      "net": 307148.7875497539,
+      "dd": 92554.95865002909,
+      "dd_pct": 30.581539431232123,
+      "loss": 2610280.5168000944,
+      "trades": 6220,
+      "worst": -17449.296700000097,
+      "lowest": 80220.23559999804,
+      "recent": -29191.463400077657,
+      "early": 336340.25094983156,
+      "open_positions": 0,
+      "late_cutoff_exits": 7,
+      "market_close_crossings": 1,
+      "session_crossings": 1,
+      "trades_spanning_data_gap": 1,
+      "scheduled_exits": 547
+    }
+  },
+  {
+    "id": "D007",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "all"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "skip_asia"
+      }
+    },
+    "stop_theta": 2.5,
+    "complexity": 5,
+    "metrics": {
+      "net": 389720.321099753,
+      "dd": 86291.97445002827,
+      "dd_pct": 21.70282302561418,
+      "loss": 2529620.365250095,
+      "trades": 6220,
+      "worst": -19706.82120000008,
+      "lowest": 79983.84559999818,
+      "recent": -1903.2772000778932,
+      "early": 391623.5982998309,
+      "open_positions": 0,
+      "late_cutoff_exits": 7,
+      "market_close_crossings": 1,
+      "session_crossings": 1,
+      "trades_spanning_data_gap": 1,
+      "scheduled_exits": 561
+    }
+  },
+  {
+    "id": "D008",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "all"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "skip_asia"
+      }
+    },
+    "stop_theta": 3.0,
+    "complexity": 4,
+    "metrics": {
+      "net": 418043.55779975385,
+      "dd": 86080.067700012,
+      "dd_pct": 20.203979145123093,
+      "loss": 2501483.032400094,
+      "trades": 6220,
+      "worst": -13570.981050000086,
+      "lowest": 81514.97739999807,
+      "recent": 7589.13209992263,
+      "early": 410454.4256998312,
+      "open_positions": 0,
+      "late_cutoff_exits": 7,
+      "market_close_crossings": 1,
+      "session_crossings": 1,
+      "trades_spanning_data_gap": 1,
+      "scheduled_exits": 569
+    }
+  },
+  {
+    "id": "D009",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "all"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "vol_ge1"
+      }
+    },
+    "stop_theta": 2.0,
+    "complexity": 5,
+    "metrics": {
+      "net": 337378.1718998171,
+      "dd": 63337.661200009636,
+      "dd_pct": 29.827997393965887,
+      "loss": 2024207.0634500696,
+      "trades": 4678,
+      "worst": -17449.296700000097,
+      "lowest": 85314.44009998256,
+      "recent": 3404.8602499431,
+      "early": 333973.311649874,
+      "open_positions": 0,
+      "late_cutoff_exits": 6,
+      "market_close_crossings": 0,
+      "session_crossings": 0,
+      "trades_spanning_data_gap": 0,
+      "scheduled_exits": 422
+    }
+  },
+  {
+    "id": "D010",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "all"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "vol_ge1"
+      }
+    },
+    "stop_theta": 2.5,
+    "complexity": 5,
+    "metrics": {
+      "net": 399443.88604981627,
+      "dd": 58611.718550009246,
+      "dd_pct": 19.357004290434617,
+      "loss": 1962331.64325007,
+      "trades": 4678,
+      "worst": -19706.82120000008,
+      "lowest": 86825.30989999857,
+      "recent": 19540.8416499428,
+      "early": 379903.04439987347,
+      "open_positions": 0,
+      "late_cutoff_exits": 6,
+      "market_close_crossings": 0,
+      "session_crossings": 0,
+      "trades_spanning_data_gap": 0,
+      "scheduled_exits": 433
+    }
+  },
+  {
+    "id": "D011",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "all"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "vol_ge1"
+      }
+    },
+    "stop_theta": 3.0,
+    "complexity": 4,
+    "metrics": {
+      "net": 411515.47909981676,
+      "dd": 58899.945500009635,
+      "dd_pct": 18.41629805128438,
+      "loss": 1950445.9540500697,
+      "trades": 4678,
+      "worst": -13570.981050000086,
+      "lowest": 87590.87579999851,
+      "recent": 25364.815849943494,
+      "early": 386150.66324987327,
+      "open_positions": 0,
+      "late_cutoff_exits": 6,
+      "market_close_crossings": 0,
+      "session_crossings": 0,
+      "trades_spanning_data_gap": 0,
+      "scheduled_exits": 439
+    }
+  },
+  {
+    "id": "D012",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "all"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "vol_ge1"
+      }
+    },
+    "stop_theta": 2.0,
+    "complexity": 5,
+    "metrics": {
+      "net": 319577.8360497948,
+      "dd": 84988.28360002523,
+      "dd_pct": 32.506980260842596,
+      "loss": 2204498.1706000785,
+      "trades": 5232,
+      "worst": -17449.296700000097,
+      "lowest": 79069.69169999806,
+      "recent": -24256.99100006849,
+      "early": 343834.8270498633,
+      "open_positions": 0,
+      "late_cutoff_exits": 6,
+      "market_close_crossings": 0,
+      "session_crossings": 0,
+      "trades_spanning_data_gap": 0,
+      "scheduled_exits": 444
+    }
+  },
+  {
+    "id": "D013",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "all"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "vol_ge1"
+      }
+    },
+    "stop_theta": 2.5,
+    "complexity": 5,
+    "metrics": {
+      "net": 392403.17874979426,
+      "dd": 79868.41390002443,
+      "dd_pct": 22.82910469761096,
+      "loss": 2132021.1654500784,
+      "trades": 5232,
+      "worst": -19706.82120000008,
+      "lowest": 78833.3016999982,
+      "recent": -3182.991350068478,
+      "early": 395586.17009986273,
+      "open_positions": 0,
+      "late_cutoff_exits": 6,
+      "market_close_crossings": 0,
+      "session_crossings": 0,
+      "trades_spanning_data_gap": 0,
+      "scheduled_exits": 455
+    }
+  },
+  {
+    "id": "D014",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "all"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "vol_ge1"
+      }
+    },
+    "stop_theta": 3.0,
+    "complexity": 4,
+    "metrics": {
+      "net": 402313.6606497948,
+      "dd": 73284.95240002434,
+      "dd_pct": 21.33026081711987,
+      "loss": 2122296.5874000783,
+      "trades": 5232,
+      "worst": -13570.981050000086,
+      "lowest": 80364.4334999981,
+      "recent": 5631.316349932167,
+      "early": 396682.3442998626,
+      "open_positions": 0,
+      "late_cutoff_exits": 6,
+      "market_close_crossings": 0,
+      "session_crossings": 0,
+      "trades_spanning_data_gap": 0,
+      "scheduled_exits": 461
+    }
+  },
+  {
+    "id": "D015",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "all"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "skip_asia"
+      }
+    },
+    "stop_theta": 2.0,
+    "complexity": 5,
+    "metrics": {
+      "net": 313125.23329980473,
+      "dd": 72143.86410000984,
+      "dd_pct": 28.093787207789717,
+      "loss": 2206645.0983500746,
+      "trades": 4982,
+      "worst": -17449.296700000097,
+      "lowest": 85990.17779999843,
+      "recent": -12565.648150057474,
+      "early": 325690.8814498622,
+      "open_positions": 0,
+      "late_cutoff_exits": 7,
+      "market_close_crossings": 1,
+      "session_crossings": 1,
+      "trades_spanning_data_gap": 1,
+      "scheduled_exits": 459
+    }
+  },
+  {
+    "id": "D016",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "all"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "skip_asia"
+      }
+    },
+    "stop_theta": 2.5,
+    "complexity": 5,
+    "metrics": {
+      "net": 371874.39574980375,
+      "dd": 69496.29610000958,
+      "dd_pct": 17.67505706139439,
+      "loss": 2148500.925450075,
+      "trades": 4982,
+      "worst": -19706.82120000008,
+      "lowest": 86825.30989999857,
+      "recent": 5047.095349942043,
+      "early": 366827.3003998617,
+      "open_positions": 0,
+      "late_cutoff_exits": 7,
+      "market_close_crossings": 1,
+      "session_crossings": 1,
+      "trades_spanning_data_gap": 1,
+      "scheduled_exits": 471
+    }
+  },
+  {
+    "id": "D017",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "all"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "skip_asia"
+      }
+    },
+    "stop_theta": 3.0,
+    "complexity": 4,
+    "metrics": {
+      "net": 395857.5120498048,
+      "dd": 69310.05455000995,
+      "dd_pct": 17.061397371358204,
+      "loss": 2124703.7130000745,
+      "trades": 4982,
+      "worst": -13570.981050000086,
+      "lowest": 87590.87579999851,
+      "recent": 10910.41159994289,
+      "early": 384947.1004498619,
+      "open_positions": 0,
+      "late_cutoff_exits": 7,
+      "market_close_crossings": 1,
+      "session_crossings": 1,
+      "trades_spanning_data_gap": 1,
+      "scheduled_exits": 477
+    }
+  },
+  {
+    "id": "D018",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "long_only"
+      },
+      "B": {
+        "k": 1.5,
+        "long_vol": false,
+        "min_usd": 0.0,
+        "leg": 3.5,
+        "policy": "all"
+      }
+    },
+    "stop_theta": 2.0,
+    "complexity": 2,
+    "metrics": {
+      "net": 168073.7965498644,
+      "dd": 48396.968950039765,
+      "dd_pct": 18.777052240186812,
+      "loss": 1336348.803900053,
+      "trades": 3451,
+      "worst": -8200.031400000053,
+      "lowest": 94289.83069999951,
+      "recent": -32204.25395005144,
+      "early": 200278.05049991584,
+      "open_positions": 0,
+      "late_cutoff_exits": 12,
+      "market_close_crossings": 2,
+      "session_crossings": 2,
+      "trades_spanning_data_gap": 2,
+      "scheduled_exits": 550
+    }
+  },
+  {
+    "id": "D019",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "long_only"
+      },
+      "B": {
+        "k": 1.5,
+        "long_vol": false,
+        "min_usd": 0.0,
+        "leg": 3.5,
+        "policy": "all"
+      }
+    },
+    "stop_theta": 2.5,
+    "complexity": 2,
+    "metrics": {
+      "net": 217043.33584986284,
+      "dd": 43260.38310003164,
+      "dd_pct": 13.428584416273875,
+      "loss": 1296143.930400054,
+      "trades": 3451,
+      "worst": -9945.771550000043,
+      "lowest": 94393.50459999828,
+      "recent": -21718.162400052126,
+      "early": 238761.49824991496,
+      "open_positions": 0,
+      "late_cutoff_exits": 13,
+      "market_close_crossings": 2,
+      "session_crossings": 2,
+      "trades_spanning_data_gap": 2,
+      "scheduled_exits": 561
+    }
+  },
+  {
+    "id": "D020",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "long_only"
+      },
+      "B": {
+        "k": 1.5,
+        "long_vol": false,
+        "min_usd": 0.0,
+        "leg": 3.5,
+        "policy": "all"
+      }
+    },
+    "stop_theta": 3.0,
+    "complexity": 1,
+    "metrics": {
+      "net": 227661.80579986383,
+      "dd": 47770.36660003086,
+      "dd_pct": 15.581024749031174,
+      "loss": 1286080.132700053,
+      "trades": 3451,
+      "worst": -10486.766950000074,
+      "lowest": 95595.0411999982,
+      "recent": -25864.27415005112,
+      "early": 253526.07994991494,
+      "open_positions": 0,
+      "late_cutoff_exits": 13,
+      "market_close_crossings": 2,
+      "session_crossings": 2,
+      "trades_spanning_data_gap": 2,
+      "scheduled_exits": 570
+    }
+  },
+  {
+    "id": "D021",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "long_only"
+      },
+      "B": {
+        "k": 2.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 3.5,
+        "policy": "vol_le15"
+      }
+    },
+    "stop_theta": 2.0,
+    "complexity": 5,
+    "metrics": {
+      "net": 228179.6687499095,
+      "dd": 28661.78095001832,
+      "dd_pct": 11.27248580135682,
+      "loss": 946962.4681000352,
+      "trades": 2323,
+      "worst": -7588.4567000000025,
+      "lowest": 93907.8919999997,
+      "recent": -9701.61445002997,
+      "early": 237881.28319993947,
+      "open_positions": 0,
+      "late_cutoff_exits": 7,
+      "market_close_crossings": 0,
+      "session_crossings": 0,
+      "trades_spanning_data_gap": 0,
+      "scheduled_exits": 400
+    }
+  },
+  {
+    "id": "D022",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "long_only"
+      },
+      "B": {
+        "k": 2.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 3.5,
+        "policy": "vol_le15"
+      }
+    },
+    "stop_theta": 2.5,
+    "complexity": 5,
+    "metrics": {
+      "net": 258690.69489990833,
+      "dd": 32488.935050018248,
+      "dd_pct": 10.04023660184719,
+      "loss": 917438.0325000361,
+      "trades": 2323,
+      "worst": -10107.023300000032,
+      "lowest": 94748.42729999965,
+      "recent": -4274.944300030067,
+      "early": 262965.6391999384,
+      "open_positions": 0,
+      "late_cutoff_exits": 7,
+      "market_close_crossings": 0,
+      "session_crossings": 0,
+      "trades_spanning_data_gap": 0,
+      "scheduled_exits": 406
+    }
+  },
+  {
+    "id": "D023",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "long_only"
+      },
+      "B": {
+        "k": 2.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 3.5,
+        "policy": "vol_le15"
+      }
+    },
+    "stop_theta": 3.0,
+    "complexity": 4,
+    "metrics": {
+      "net": 256570.27659990883,
+      "dd": 31325.052000018128,
+      "dd_pct": 14.187333510027278,
+      "loss": 919653.6822000355,
+      "trades": 2323,
+      "worst": -13197.315999999977,
+      "lowest": 95941.85909999929,
+      "recent": -1729.6994000298437,
+      "early": 258299.97599993867,
+      "open_positions": 0,
+      "late_cutoff_exits": 7,
+      "market_close_crossings": 0,
+      "session_crossings": 0,
+      "trades_spanning_data_gap": 0,
+      "scheduled_exits": 411
+    }
+  },
+  {
+    "id": "D024",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "long_only"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "skip_asia"
+      }
+    },
+    "stop_theta": 2.0,
+    "complexity": 6,
+    "metrics": {
+      "net": 272626.3919498209,
+      "dd": 74698.73345000978,
+      "dd_pct": 18.564667891793757,
+      "loss": 1841517.9486000678,
+      "trades": 4526,
+      "worst": -17449.296700000097,
+      "lowest": 84912.23939999743,
+      "recent": -35664.497000055155,
+      "early": 308290.88894987607,
+      "open_positions": 0,
+      "late_cutoff_exits": 6,
+      "market_close_crossings": 1,
+      "session_crossings": 1,
+      "trades_spanning_data_gap": 1,
+      "scheduled_exits": 351
+    }
+  },
+  {
+    "id": "D025",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "long_only"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "skip_asia"
+      }
+    },
+    "stop_theta": 2.5,
+    "complexity": 6,
+    "metrics": {
+      "net": 340727.3116498196,
+      "dd": 65376.01840000745,
+      "dd_pct": 17.465900827138295,
+      "loss": 1775296.1605500681,
+      "trades": 4526,
+      "worst": -19706.82120000008,
+      "lowest": 84388.12899999738,
+      "recent": -10502.807700055535,
+      "early": 351230.11934987514,
+      "open_positions": 0,
+      "late_cutoff_exits": 6,
+      "market_close_crossings": 1,
+      "session_crossings": 1,
+      "trades_spanning_data_gap": 1,
+      "scheduled_exits": 358
+    }
+  },
+  {
+    "id": "D026",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "long_only"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "skip_asia"
+      }
+    },
+    "stop_theta": 3.0,
+    "complexity": 5,
+    "metrics": {
+      "net": 360479.89119982056,
+      "dd": 68481.16990000714,
+      "dd_pct": 16.00969348348949,
+      "loss": 1755543.5810000673,
+      "trades": 4526,
+      "worst": -13570.981050000086,
+      "lowest": 85877.04829999727,
+      "recent": -9063.530300055165,
+      "early": 369543.4214998757,
+      "open_positions": 0,
+      "late_cutoff_exits": 6,
+      "market_close_crossings": 1,
+      "session_crossings": 1,
+      "trades_spanning_data_gap": 1,
+      "scheduled_exits": 364
+    }
+  },
+  {
+    "id": "D027",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "long_only"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "vol_ge1"
+      }
+    },
+    "stop_theta": 2.0,
+    "complexity": 6,
+    "metrics": {
+      "net": 302855.7762998842,
+      "dd": 51086.58060000546,
+      "dd_pct": 16.520079802954523,
+      "loss": 1255444.4952500425,
+      "trades": 2984,
+      "worst": -17449.296700000097,
+      "lowest": 91092.82479999885,
+      "recent": -3068.17335003434,
+      "early": 305923.94964991853,
+      "open_positions": 0,
+      "late_cutoff_exits": 5,
+      "market_close_crossings": 0,
+      "session_crossings": 0,
+      "trades_spanning_data_gap": 0,
+      "scheduled_exits": 226
+    }
+  },
+  {
+    "id": "D028",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "long_only"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "vol_ge1"
+      }
+    },
+    "stop_theta": 2.5,
+    "complexity": 6,
+    "metrics": {
+      "net": 350450.87659988285,
+      "dd": 41221.5193500052,
+      "dd_pct": 12.360365320395836,
+      "loss": 1208007.4385500439,
+      "trades": 2984,
+      "worst": -19706.82120000008,
+      "lowest": 91773.62799999896,
+      "recent": 10941.311149965273,
+      "early": 339509.5654499176,
+      "open_positions": 0,
+      "late_cutoff_exits": 5,
+      "market_close_crossings": 0,
+      "session_crossings": 0,
+      "trades_spanning_data_gap": 0,
+      "scheduled_exits": 230
+    }
+  },
+  {
+    "id": "D029",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "long_only"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "vol_ge1"
+      }
+    },
+    "stop_theta": 3.0,
+    "complexity": 5,
+    "metrics": {
+      "net": 353951.8124998836,
+      "dd": 42345.89150000515,
+      "dd_pct": 13.299359029631882,
+      "loss": 1204506.502650043,
+      "trades": 2984,
+      "worst": -13570.981050000086,
+      "lowest": 92855.28109999895,
+      "recent": 8712.153449965816,
+      "early": 345239.65904991777,
+      "open_positions": 0,
+      "late_cutoff_exits": 5,
+      "market_close_crossings": 0,
+      "session_crossings": 0,
+      "trades_spanning_data_gap": 0,
+      "scheduled_exits": 234
+    }
+  },
+  {
+    "id": "D030",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "long_only"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "vol_ge1"
+      }
+    },
+    "stop_theta": 2.0,
+    "complexity": 6,
+    "metrics": {
+      "net": 285055.4404498618,
+      "dd": 62405.77805001655,
+      "dd_pct": 19.91016204260546,
+      "loss": 1435735.602400052,
+      "trades": 3538,
+      "worst": -17449.296700000097,
+      "lowest": 84172.3386999985,
+      "recent": -30730.02460004599,
+      "early": 315785.4650499078,
+      "open_positions": 0,
+      "late_cutoff_exits": 5,
+      "market_close_crossings": 0,
+      "session_crossings": 0,
+      "trades_spanning_data_gap": 0,
+      "scheduled_exits": 248
+    }
+  },
+  {
+    "id": "D031",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "long_only"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "vol_ge1"
+      }
+    },
+    "stop_theta": 2.5,
+    "complexity": 6,
+    "metrics": {
+      "net": 343410.16929986083,
+      "dd": 54016.63465001632,
+      "dd_pct": 18.059084857346544,
+      "loss": 1377696.9607500527,
+      "trades": 3538,
+      "worst": -19706.82120000008,
+      "lowest": 83781.6197999986,
+      "recent": -11782.52185004612,
+      "early": 355192.69114990695,
+      "open_positions": 0,
+      "late_cutoff_exits": 5,
+      "market_close_crossings": 0,
+      "session_crossings": 0,
+      "trades_spanning_data_gap": 0,
+      "scheduled_exits": 252
+    }
+  },
+  {
+    "id": "D032",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "long_only"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "vol_ge1"
+      }
+    },
+    "stop_theta": 3.0,
+    "complexity": 5,
+    "metrics": {
+      "net": 344749.99404986156,
+      "dd": 54687.813400006446,
+      "dd_pct": 16.252449754203152,
+      "loss": 1376357.1360000519,
+      "trades": 3538,
+      "worst": -13570.981050000086,
+      "lowest": 85628.83879999853,
+      "recent": -11021.34605004557,
+      "early": 355771.34009990713,
+      "open_positions": 0,
+      "late_cutoff_exits": 5,
+      "market_close_crossings": 0,
+      "session_crossings": 0,
+      "trades_spanning_data_gap": 0,
+      "scheduled_exits": 256
+    }
+  },
+  {
+    "id": "D033",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "long_only"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "skip_asia"
+      }
+    },
+    "stop_theta": 2.0,
+    "complexity": 6,
+    "metrics": {
+      "net": 278602.8376998718,
+      "dd": 61023.23425000708,
+      "dd_pct": 14.77294281234602,
+      "loss": 1437882.5301500477,
+      "trades": 3288,
+      "worst": -17449.296700000097,
+      "lowest": 89234.46169999872,
+      "recent": -19038.681750034913,
+      "early": 297641.5194499067,
+      "open_positions": 0,
+      "late_cutoff_exits": 6,
+      "market_close_crossings": 1,
+      "session_crossings": 1,
+      "trades_spanning_data_gap": 1,
+      "scheduled_exits": 263
+    }
+  },
+  {
+    "id": "D034",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "long_only"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "skip_asia"
+      }
+    },
+    "stop_theta": 2.5,
+    "complexity": 6,
+    "metrics": {
+      "net": 322881.3862998703,
+      "dd": 51836.95000000566,
+      "dd_pct": 11.283198362538768,
+      "loss": 1394176.7207500488,
+      "trades": 3288,
+      "worst": -19706.82120000008,
+      "lowest": 90397.16279999872,
+      "recent": -3552.4351500355406,
+      "early": 326433.82144990587,
+      "open_positions": 0,
+      "late_cutoff_exits": 6,
+      "market_close_crossings": 1,
+      "session_crossings": 1,
+      "trades_spanning_data_gap": 1,
+      "scheduled_exits": 268
+    }
+  },
+  {
+    "id": "D035",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "long_only"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "skip_asia"
+      }
+    },
+    "stop_theta": 3.0,
+    "complexity": 5,
+    "metrics": {
+      "net": 338293.8454498715,
+      "dd": 52486.85365000542,
+      "dd_pct": 12.208672563589607,
+      "loss": 1378764.2616000478,
+      "trades": 3288,
+      "worst": -13570.981050000086,
+      "lowest": 91685.82599999865,
+      "recent": -5742.250800034904,
+      "early": 344036.0962499064,
+      "open_positions": 0,
+      "late_cutoff_exits": 6,
+      "market_close_crossings": 1,
+      "session_crossings": 1,
+      "trades_spanning_data_gap": 1,
+      "scheduled_exits": 272
+    }
+  },
+  {
+    "id": "D036",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "skip_late"
+      },
+      "B": {
+        "k": 1.5,
+        "long_vol": false,
+        "min_usd": 0.0,
+        "leg": 3.5,
+        "policy": "all"
+      }
+    },
+    "stop_theta": 2.0,
+    "complexity": 2,
+    "metrics": {
+      "net": 219818.04789979942,
+      "dd": 54580.4248000455,
+      "dd_pct": 29.858192547366514,
+      "loss": 2079180.9087500786,
+      "trades": 5098,
+      "worst": -17449.296700000097,
+      "lowest": 91024.60939999702,
+      "recent": -15288.016700073029,
+      "early": 235106.06459987245,
+      "open_positions": 0,
+      "late_cutoff_exits": 13,
+      "market_close_crossings": 2,
+      "session_crossings": 2,
+      "trades_spanning_data_gap": 2,
+      "scheduled_exits": 714
+    }
+  },
+  {
+    "id": "D037",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "skip_late"
+      },
+      "B": {
+        "k": 1.5,
+        "long_vol": false,
+        "min_usd": 0.0,
+        "leg": 3.5,
+        "policy": "all"
+      }
+    },
+    "stop_theta": 2.5,
+    "complexity": 2,
+    "metrics": {
+      "net": 286508.3946997983,
+      "dd": 56654.40935004491,
+      "dd_pct": 18.040323974386524,
+      "loss": 2021287.478100079,
+      "trades": 5098,
+      "worst": -19706.82120000008,
+      "lowest": 91699.33399999673,
+      "recent": -1684.109900073614,
+      "early": 288192.5045998719,
+      "open_positions": 0,
+      "late_cutoff_exits": 14,
+      "market_close_crossings": 2,
+      "session_crossings": 2,
+      "trades_spanning_data_gap": 2,
+      "scheduled_exits": 732
+    }
+  },
+  {
+    "id": "D038",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "skip_late"
+      },
+      "B": {
+        "k": 1.5,
+        "long_vol": false,
+        "min_usd": 0.0,
+        "leg": 3.5,
+        "policy": "all"
+      }
+    },
+    "stop_theta": 3.0,
+    "complexity": 1,
+    "metrics": {
+      "net": 299221.7865997987,
+      "dd": 54036.3901000435,
+      "dd_pct": 21.157688800723687,
+      "loss": 2009314.6623000787,
+      "trades": 5098,
+      "worst": -13570.981050000086,
+      "lowest": 92077.895699997,
+      "recent": -1045.350350072782,
+      "early": 300267.1369498715,
+      "open_positions": 0,
+      "late_cutoff_exits": 14,
+      "market_close_crossings": 2,
+      "session_crossings": 2,
+      "trades_spanning_data_gap": 2,
+      "scheduled_exits": 742
+    }
+  },
+  {
+    "id": "D039",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "skip_late"
+      },
+      "B": {
+        "k": 2.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 3.5,
+        "policy": "vol_le15"
+      }
+    },
+    "stop_theta": 2.0,
+    "complexity": 5,
+    "metrics": {
+      "net": 279923.9200998445,
+      "dd": 41070.0609000306,
+      "dd_pct": 17.861979411747466,
+      "loss": 1689794.572950061,
+      "trades": 3970,
+      "worst": -17449.296700000097,
+      "lowest": 91027.31099999863,
+      "recent": 7214.622799948498,
+      "early": 272709.297299896,
+      "open_positions": 0,
+      "late_cutoff_exits": 8,
+      "market_close_crossings": 0,
+      "session_crossings": 0,
+      "trades_spanning_data_gap": 0,
+      "scheduled_exits": 564
+    }
+  },
+  {
+    "id": "D040",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "skip_late"
+      },
+      "B": {
+        "k": 2.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 3.5,
+        "policy": "vol_le15"
+      }
+    },
+    "stop_theta": 2.5,
+    "complexity": 5,
+    "metrics": {
+      "net": 328155.7537498438,
+      "dd": 47850.23265003023,
+      "dd_pct": 14.592716755942831,
+      "loss": 1642581.5802000612,
+      "trades": 3970,
+      "worst": -19706.82120000008,
+      "lowest": 91625.71539999869,
+      "recent": 15759.108199948445,
+      "early": 312396.64554989536,
+      "open_positions": 0,
+      "late_cutoff_exits": 8,
+      "market_close_crossings": 0,
+      "session_crossings": 0,
+      "trades_spanning_data_gap": 0,
+      "scheduled_exits": 577
+    }
+  },
+  {
+    "id": "D041",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "skip_late"
+      },
+      "B": {
+        "k": 2.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 3.5,
+        "policy": "vol_le15"
+      }
+    },
+    "stop_theta": 3.0,
+    "complexity": 4,
+    "metrics": {
+      "net": 328130.2573998438,
+      "dd": 42535.67890000195,
+      "dd_pct": 19.753458009331123,
+      "loss": 1642888.2118000612,
+      "trades": 3970,
+      "worst": -13570.981050000086,
+      "lowest": 92391.28129999863,
+      "recent": 23089.22439994861,
+      "early": 305041.03299989516,
+      "open_positions": 0,
+      "late_cutoff_exits": 8,
+      "market_close_crossings": 0,
+      "session_crossings": 0,
+      "trades_spanning_data_gap": 0,
+      "scheduled_exits": 583
+    }
+  },
+  {
+    "id": "D042",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "skip_late"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "skip_asia"
+      }
+    },
+    "stop_theta": 2.0,
+    "complexity": 6,
+    "metrics": {
+      "net": 324370.64329975593,
+      "dd": 88924.1771000289,
+      "dd_pct": 30.04250386980291,
+      "loss": 2584350.0534500936,
+      "trades": 6173,
+      "worst": -17449.296700000097,
+      "lowest": 80220.23559999804,
+      "recent": -18748.259750076686,
+      "early": 343118.9030498326,
+      "open_positions": 0,
+      "late_cutoff_exits": 7,
+      "market_close_crossings": 1,
+      "session_crossings": 1,
+      "trades_spanning_data_gap": 1,
+      "scheduled_exits": 515
+    }
+  },
+  {
+    "id": "D043",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "skip_late"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "skip_asia"
+      }
+    },
+    "stop_theta": 2.5,
+    "complexity": 6,
+    "metrics": {
+      "net": 410192.37049975514,
+      "dd": 82208.84375002811,
+      "dd_pct": 21.70282302561418,
+      "loss": 2500439.7082500933,
+      "trades": 6173,
+      "worst": -19706.82120000008,
+      "lowest": 79983.84559999818,
+      "recent": 9531.244799923035,
+      "early": 400661.1256998321,
+      "open_positions": 0,
+      "late_cutoff_exits": 7,
+      "market_close_crossings": 1,
+      "session_crossings": 1,
+      "trades_spanning_data_gap": 1,
+      "scheduled_exits": 529
+    }
+  },
+  {
+    "id": "D044",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "skip_late"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "skip_asia"
+      }
+    },
+    "stop_theta": 3.0,
+    "complexity": 5,
+    "metrics": {
+      "net": 432039.8719997555,
+      "dd": 84385.82680001197,
+      "dd_pct": 20.203979145123093,
+      "loss": 2478778.110600093,
+      "trades": 6173,
+      "worst": -13570.981050000086,
+      "lowest": 81514.97739999807,
+      "recent": 15755.393499923288,
+      "early": 416284.4784998322,
+      "open_positions": 0,
+      "late_cutoff_exits": 7,
+      "market_close_crossings": 1,
+      "session_crossings": 1,
+      "trades_spanning_data_gap": 1,
+      "scheduled_exits": 536
+    }
+  },
+  {
+    "id": "D045",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "skip_late"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "vol_ge1"
+      }
+    },
+    "stop_theta": 2.0,
+    "complexity": 6,
+    "metrics": {
+      "net": 354600.02764981915,
+      "dd": 61222.814950009575,
+      "dd_pct": 29.309253601993202,
+      "loss": 1998276.6001000681,
+      "trades": 4631,
+      "worst": -17449.296700000097,
+      "lowest": 85990.17779999843,
+      "recent": 13848.06389994407,
+      "early": 340751.9637498751,
+      "open_positions": 0,
+      "late_cutoff_exits": 6,
+      "market_close_crossings": 0,
+      "session_crossings": 0,
+      "trades_spanning_data_gap": 0,
+      "scheduled_exits": 390
+    }
+  },
+  {
+    "id": "D046",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "skip_late"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "vol_ge1"
+      }
+    },
+    "stop_theta": 2.5,
+    "complexity": 6,
+    "metrics": {
+      "net": 419915.93544981827,
+      "dd": 56044.523150009336,
+      "dd_pct": 18.933140170686485,
+      "loss": 1933150.986250069,
+      "trades": 4631,
+      "worst": -19706.82120000008,
+      "lowest": 86825.30989999857,
+      "recent": 30975.36364994367,
+      "early": 388940.5717998746,
+      "open_positions": 0,
+      "late_cutoff_exits": 6,
+      "market_close_crossings": 0,
+      "session_crossings": 0,
+      "trades_spanning_data_gap": 0,
+      "scheduled_exits": 401
+    }
+  },
+  {
+    "id": "D047",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "skip_late"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "vol_ge1"
+      }
+    },
+    "stop_theta": 3.0,
+    "complexity": 5,
+    "metrics": {
+      "net": 425511.7932998184,
+      "dd": 57205.7046000096,
+      "dd_pct": 17.971700116179978,
+      "loss": 1927741.0322500686,
+      "trades": 4631,
+      "worst": -13570.981050000086,
+      "lowest": 87590.87579999851,
+      "recent": 33531.07724994409,
+      "early": 391980.7160498743,
+      "open_positions": 0,
+      "late_cutoff_exits": 6,
+      "market_close_crossings": 0,
+      "session_crossings": 0,
+      "trades_spanning_data_gap": 0,
+      "scheduled_exits": 406
+    }
+  },
+  {
+    "id": "D048",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "skip_late"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "vol_ge1"
+      }
+    },
+    "stop_theta": 2.0,
+    "complexity": 6,
+    "metrics": {
+      "net": 336799.6917997968,
+      "dd": 81357.5020500251,
+      "dd_pct": 31.926413569056493,
+      "loss": 2178567.7072500773,
+      "trades": 5185,
+      "worst": -17449.296700000097,
+      "lowest": 79069.69169999806,
+      "recent": -13813.78735006752,
+      "early": 350613.47914986435,
+      "open_positions": 0,
+      "late_cutoff_exits": 6,
+      "market_close_crossings": 0,
+      "session_crossings": 0,
+      "trades_spanning_data_gap": 0,
+      "scheduled_exits": 412
+    }
+  },
+  {
+    "id": "D049",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "skip_late"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "vol_ge1"
+      }
+    },
+    "stop_theta": 2.5,
+    "complexity": 6,
+    "metrics": {
+      "net": 412875.2281497963,
+      "dd": 75785.28320002428,
+      "dd_pct": 22.82910469761096,
+      "loss": 2102840.508450078,
+      "trades": 5185,
+      "worst": -19706.82120000008,
+      "lowest": 78833.3016999982,
+      "recent": 8251.530649932392,
+      "early": 404623.6974998639,
+      "open_positions": 0,
+      "late_cutoff_exits": 6,
+      "market_close_crossings": 0,
+      "session_crossings": 0,
+      "trades_spanning_data_gap": 0,
+      "scheduled_exits": 423
+    }
+  },
+  {
+    "id": "D050",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "skip_late"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "vol_ge1"
+      }
+    },
+    "stop_theta": 3.0,
+    "complexity": 5,
+    "metrics": {
+      "net": 416309.97484979645,
+      "dd": 70089.63500001084,
+      "dd_pct": 21.33026081711987,
+      "loss": 2099591.6656000772,
+      "trades": 5185,
+      "worst": -13570.981050000086,
+      "lowest": 80364.4334999981,
+      "recent": 13797.577749932767,
+      "early": 402512.3970998637,
+      "open_positions": 0,
+      "late_cutoff_exits": 6,
+      "market_close_crossings": 0,
+      "session_crossings": 0,
+      "trades_spanning_data_gap": 0,
+      "scheduled_exits": 428
+    }
+  },
+  {
+    "id": "D051",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "skip_late"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "skip_asia"
+      }
+    },
+    "stop_theta": 2.0,
+    "complexity": 6,
+    "metrics": {
+      "net": 330347.08904980676,
+      "dd": 70029.01785000984,
+      "dd_pct": 27.601359554570315,
+      "loss": 2180714.6350000734,
+      "trades": 4935,
+      "worst": -17449.296700000097,
+      "lowest": 85990.17779999843,
+      "recent": -2122.444500056503,
+      "early": 332469.53354986326,
+      "open_positions": 0,
+      "late_cutoff_exits": 7,
+      "market_close_crossings": 1,
+      "session_crossings": 1,
+      "trades_spanning_data_gap": 1,
+      "scheduled_exits": 427
+    }
+  },
+  {
+    "id": "D052",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "skip_late"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "skip_asia"
+      }
+    },
+    "stop_theta": 2.5,
+    "complexity": 6,
+    "metrics": {
+      "net": 392346.44514980586,
+      "dd": 66929.10070000973,
+      "dd_pct": 17.28521891963741,
+      "loss": 2119320.268450074,
+      "trades": 4935,
+      "worst": -19706.82120000008,
+      "lowest": 86825.30989999857,
+      "recent": 16481.61734994303,
+      "early": 375864.82779986283,
+      "open_positions": 0,
+      "late_cutoff_exits": 7,
+      "market_close_crossings": 1,
+      "session_crossings": 1,
+      "trades_spanning_data_gap": 1,
+      "scheduled_exits": 439
+    }
+  },
+  {
+    "id": "D053",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "skip_late"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "skip_asia"
+      }
+    },
+    "stop_theta": 3.0,
+    "complexity": 5,
+    "metrics": {
+      "net": 409853.82624980644,
+      "dd": 67615.81365000992,
+      "dd_pct": 16.897230722575713,
+      "loss": 2101998.7912000734,
+      "trades": 4935,
+      "worst": -13570.981050000086,
+      "lowest": 87590.87579999851,
+      "recent": 19076.67299994349,
+      "early": 390777.15324986295,
+      "open_positions": 0,
+      "late_cutoff_exits": 7,
+      "market_close_crossings": 1,
+      "session_crossings": 1,
+      "trades_spanning_data_gap": 1,
+      "scheduled_exits": 444
+    }
+  },
+  {
+    "id": "D054",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "skip_late"
+      },
+      "B": {
+        "k": 1.5,
+        "long_vol": false,
+        "min_usd": 0.0,
+        "leg": 3.5,
+        "policy": "all"
+      }
+    },
+    "stop_theta": 2.0,
+    "complexity": 3,
+    "metrics": {
+      "net": 210125.88904985733,
+      "dd": 42378.98610000864,
+      "dd_pct": 26.09635133661019,
+      "loss": 1583233.0002500564,
+      "trades": 3629,
+      "worst": -17449.296700000097,
+      "lowest": 99660.9491999998,
+      "recent": 10007.232949954923,
+      "early": 200118.6560999024,
+      "open_positions": 0,
+      "late_cutoff_exits": 8,
+      "market_close_crossings": 2,
+      "session_crossings": 2,
+      "trades_spanning_data_gap": 2,
+      "scheduled_exits": 553
+    }
+  },
+  {
+    "id": "D055",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "skip_late"
+      },
+      "B": {
+        "k": 1.5,
+        "long_vol": false,
+        "min_usd": 0.0,
+        "leg": 3.5,
+        "policy": "all"
+      }
+    },
+    "stop_theta": 2.5,
+    "complexity": 3,
+    "metrics": {
+      "net": 257298.5266498566,
+      "dd": 32170.821650005353,
+      "dd_pct": 17.173645742785144,
+      "loss": 1544679.8174500563,
+      "trades": 3629,
+      "worst": -19706.82120000008,
+      "lowest": 99342.49809999981,
+      "recent": 20222.151399954397,
+      "early": 237076.3752499022,
+      "open_positions": 0,
+      "late_cutoff_exits": 9,
+      "market_close_crossings": 2,
+      "session_crossings": 2,
+      "trades_spanning_data_gap": 2,
+      "scheduled_exits": 564
+    }
+  },
+  {
+    "id": "D056",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "skip_late"
+      },
+      "B": {
+        "k": 1.5,
+        "long_vol": false,
+        "min_usd": 0.0,
+        "leg": 3.5,
+        "policy": "all"
+      }
+    },
+    "stop_theta": 3.0,
+    "complexity": 2,
+    "metrics": {
+      "net": 274697.6748998568,
+      "dd": 39596.33810001635,
+      "dd_pct": 19.648375512555425,
+      "loss": 1527835.341450056,
+      "trades": 3629,
+      "worst": -13570.981050000086,
+      "lowest": 99704.5125,
+      "recent": 16159.282699954929,
+      "early": 258538.39219990186,
+      "open_positions": 0,
+      "late_cutoff_exits": 9,
+      "market_close_crossings": 2,
+      "session_crossings": 2,
+      "trades_spanning_data_gap": 2,
+      "scheduled_exits": 572
+    }
+  },
+  {
+    "id": "D057",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "skip_late"
+      },
+      "B": {
+        "k": 2.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 3.5,
+        "policy": "vol_le15"
+      }
+    },
+    "stop_theta": 2.0,
+    "complexity": 6,
+    "metrics": {
+      "net": 270231.7612499024,
+      "dd": 29187.2421500067,
+      "dd_pct": 15.582940411294938,
+      "loss": 1193846.6644500382,
+      "trades": 2501,
+      "worst": -17449.296700000097,
+      "lowest": 99278.33509999963,
+      "recent": 32509.872449976392,
+      "early": 237721.88879992603,
+      "open_positions": 0,
+      "late_cutoff_exits": 3,
+      "market_close_crossings": 0,
+      "session_crossings": 0,
+      "trades_spanning_data_gap": 0,
+      "scheduled_exits": 403
+    }
+  },
+  {
+    "id": "D058",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "skip_late"
+      },
+      "B": {
+        "k": 2.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 3.5,
+        "policy": "vol_le15"
+      }
+    },
+    "stop_theta": 2.5,
+    "complexity": 6,
+    "metrics": {
+      "net": 298945.8856999021,
+      "dd": 30211.14855000208,
+      "dd_pct": 14.190230214791963,
+      "loss": 1165973.9195500384,
+      "trades": 2501,
+      "worst": -19706.82120000008,
+      "lowest": 99515.06279999972,
+      "recent": 37665.369499976514,
+      "early": 261280.51619992557,
+      "open_positions": 0,
+      "late_cutoff_exits": 3,
+      "market_close_crossings": 0,
+      "session_crossings": 0,
+      "trades_spanning_data_gap": 0,
+      "scheduled_exits": 409
+    }
+  },
+  {
+    "id": "D059",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "skip_late"
+      },
+      "B": {
+        "k": 2.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 3.5,
+        "policy": "vol_le15"
+      }
+    },
+    "stop_theta": 3.0,
+    "complexity": 5,
+    "metrics": {
+      "net": 303606.1456999018,
+      "dd": 40520.96070000192,
+      "dd_pct": 18.664216406101783,
+      "loss": 1161408.8909500386,
+      "trades": 2501,
+      "worst": -13570.981050000086,
+      "lowest": 99515.06279999972,
+      "recent": 40293.85744997626,
+      "early": 263312.28824992554,
+      "open_positions": 0,
+      "late_cutoff_exits": 3,
+      "market_close_crossings": 0,
+      "session_crossings": 0,
+      "trades_spanning_data_gap": 0,
+      "scheduled_exits": 413
+    }
+  },
+  {
+    "id": "D060",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "skip_late"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "skip_asia"
+      }
+    },
+    "stop_theta": 2.0,
+    "complexity": 7,
+    "metrics": {
+      "net": 314678.48444981384,
+      "dd": 73457.68595000729,
+      "dd_pct": 27.639236189668047,
+      "loss": 2088402.144950071,
+      "trades": 4704,
+      "worst": -17449.296700000097,
+      "lowest": 88471.25969999903,
+      "recent": 6546.989899951266,
+      "early": 308131.4945498626,
+      "open_positions": 0,
+      "late_cutoff_exits": 2,
+      "market_close_crossings": 1,
+      "session_crossings": 1,
+      "trades_spanning_data_gap": 1,
+      "scheduled_exits": 354
+    }
+  },
+  {
+    "id": "D061",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "skip_late"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "skip_asia"
+      }
+    },
+    "stop_theta": 2.5,
+    "complexity": 7,
+    "metrics": {
+      "net": 380982.5024498134,
+      "dd": 71698.26895000698,
+      "dd_pct": 18.434891712421095,
+      "loss": 2023832.0476000705,
+      "trades": 4704,
+      "worst": -19706.82120000008,
+      "lowest": 87873.19299999921,
+      "recent": 31437.506099951104,
+      "early": 349544.9963498623,
+      "open_positions": 0,
+      "late_cutoff_exits": 2,
+      "market_close_crossings": 1,
+      "session_crossings": 1,
+      "trades_spanning_data_gap": 1,
+      "scheduled_exits": 361
+    }
+  },
+  {
+    "id": "D062",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "skip_late"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "skip_asia"
+      }
+    },
+    "stop_theta": 3.0,
+    "complexity": 6,
+    "metrics": {
+      "net": 407515.7602998135,
+      "dd": 72271.51470000704,
+      "dd_pct": 17.55486682625369,
+      "loss": 1997298.7897500703,
+      "trades": 4704,
+      "worst": -13570.981050000086,
+      "lowest": 88638.75889999914,
+      "recent": 32960.02654995088,
+      "early": 374555.73374986264,
+      "open_positions": 0,
+      "late_cutoff_exits": 2,
+      "market_close_crossings": 1,
+      "session_crossings": 1,
+      "trades_spanning_data_gap": 1,
+      "scheduled_exits": 366
+    }
+  },
+  {
+    "id": "D063",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "skip_late"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "vol_ge1"
+      }
+    },
+    "stop_theta": 2.0,
+    "complexity": 7,
+    "metrics": {
+      "net": 344907.8687998771,
+      "dd": 51747.29065000487,
+      "dd_pct": 28.059040719926287,
+      "loss": 1502328.691600046,
+      "trades": 3162,
+      "worst": -17449.296700000097,
+      "lowest": 92062.36149999083,
+      "recent": 39143.31354997208,
+      "early": 305764.55524990504,
+      "open_positions": 0,
+      "late_cutoff_exits": 1,
+      "market_close_crossings": 0,
+      "session_crossings": 0,
+      "trades_spanning_data_gap": 0,
+      "scheduled_exits": 229
+    }
+  },
+  {
+    "id": "D064",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "skip_late"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "vol_ge1"
+      }
+    },
+    "stop_theta": 2.5,
+    "complexity": 7,
+    "metrics": {
+      "net": 390706.06739987654,
+      "dd": 46773.476200004574,
+      "dd_pct": 19.239235973840785,
+      "loss": 1456543.3256000462,
+      "trades": 3162,
+      "worst": -19706.82120000008,
+      "lowest": 94714.6572999996,
+      "recent": 52881.62494997168,
+      "early": 337824.44244990486,
+      "open_positions": 0,
+      "late_cutoff_exits": 1,
+      "market_close_crossings": 0,
+      "session_crossings": 0,
+      "trades_spanning_data_gap": 0,
+      "scheduled_exits": 233
+    }
+  },
+  {
+    "id": "D065",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "skip_late"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "vol_ge1"
+      }
+    },
+    "stop_theta": 3.0,
+    "complexity": 6,
+    "metrics": {
+      "net": 400987.6815998765,
+      "dd": 54628.715900005074,
+      "dd_pct": 18.034424908631227,
+      "loss": 1446261.711400046,
+      "trades": 3162,
+      "worst": -13570.981050000086,
+      "lowest": 94714.6572999996,
+      "recent": 50735.71029997186,
+      "early": 350251.97129990463,
+      "open_positions": 0,
+      "late_cutoff_exits": 1,
+      "market_close_crossings": 0,
+      "session_crossings": 0,
+      "trades_spanning_data_gap": 0,
+      "scheduled_exits": 236
+    }
+  },
+  {
+    "id": "D066",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "skip_late"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "vol_ge1"
+      }
+    },
+    "stop_theta": 2.0,
+    "complexity": 7,
+    "metrics": {
+      "net": 327107.53294985474,
+      "dd": 61994.62830000627,
+      "dd_pct": 29.364189209764085,
+      "loss": 1682619.798750055,
+      "trades": 3716,
+      "worst": -17449.296700000097,
+      "lowest": 87320.71579999906,
+      "recent": 11481.462299960433,
+      "early": 315626.0706498943,
+      "open_positions": 0,
+      "late_cutoff_exits": 1,
+      "market_close_crossings": 0,
+      "session_crossings": 0,
+      "trades_spanning_data_gap": 0,
+      "scheduled_exits": 251
+    }
+  },
+  {
+    "id": "D067",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "skip_late"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "vol_ge1"
+      }
+    },
+    "stop_theta": 2.5,
+    "complexity": 7,
+    "metrics": {
+      "net": 383665.3600998546,
+      "dd": 58172.202000005986,
+      "dd_pct": 20.472323013929785,
+      "loss": 1626232.8478000548,
+      "trades": 3716,
+      "worst": -19706.82120000008,
+      "lowest": 86722.64909999924,
+      "recent": 30157.79194996046,
+      "early": 353507.5681498941,
+      "open_positions": 0,
+      "late_cutoff_exits": 1,
+      "market_close_crossings": 0,
+      "session_crossings": 0,
+      "trades_spanning_data_gap": 0,
+      "scheduled_exits": 255
+    }
+  },
+  {
+    "id": "D068",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "skip_late"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "vol_ge1"
+      }
+    },
+    "stop_theta": 3.0,
+    "complexity": 6,
+    "metrics": {
+      "net": 391785.8631498545,
+      "dd": 58249.87300000602,
+      "dd_pct": 19.400602627243384,
+      "loss": 1618112.3447500546,
+      "trades": 3716,
+      "worst": -13570.981050000086,
+      "lowest": 87488.21499999917,
+      "recent": 31002.21079996042,
+      "early": 360783.65234989405,
+      "open_positions": 0,
+      "late_cutoff_exits": 1,
+      "market_close_crossings": 0,
+      "session_crossings": 0,
+      "trades_spanning_data_gap": 0,
+      "scheduled_exits": 258
+    }
+  },
+  {
+    "id": "D069",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "skip_late"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "skip_asia"
+      }
+    },
+    "stop_theta": 2.0,
+    "complexity": 7,
+    "metrics": {
+      "net": 320654.9301998647,
+      "dd": 60553.493550005136,
+      "dd_pct": 26.39863653653174,
+      "loss": 1684766.726500051,
+      "trades": 3466,
+      "worst": -17449.296700000097,
+      "lowest": 93476.31139999081,
+      "recent": 23172.80514997145,
+      "early": 297482.1250498933,
+      "open_positions": 0,
+      "late_cutoff_exits": 2,
+      "market_close_crossings": 1,
+      "session_crossings": 1,
+      "trades_spanning_data_gap": 1,
+      "scheduled_exits": 266
+    }
+  },
+  {
+    "id": "D070",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "skip_late"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "skip_asia"
+      }
+    },
+    "stop_theta": 2.5,
+    "complexity": 7,
+    "metrics": {
+      "net": 363136.57709986414,
+      "dd": 57658.053750005085,
+      "dd_pct": 17.656524693991063,
+      "loss": 1642712.607800051,
+      "trades": 3466,
+      "worst": -19706.82120000008,
+      "lowest": 94714.6572999996,
+      "recent": 38387.87864997104,
+      "early": 324748.6984498931,
+      "open_positions": 0,
+      "late_cutoff_exits": 2,
+      "market_close_crossings": 1,
+      "session_crossings": 1,
+      "trades_spanning_data_gap": 1,
+      "scheduled_exits": 271
+    }
+  },
+  {
+    "id": "D071",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "skip_late"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "skip_asia"
+      }
+    },
+    "stop_theta": 3.0,
+    "complexity": 6,
+    "metrics": {
+      "net": 385329.71454986447,
+      "dd": 55922.95115000458,
+      "dd_pct": 16.676522287029755,
+      "loss": 1620519.4703500508,
+      "trades": 3466,
+      "worst": -13570.981050000086,
+      "lowest": 94714.6572999996,
+      "recent": 36281.3060499712,
+      "early": 349048.40849989327,
+      "open_positions": 0,
+      "late_cutoff_exits": 2,
+      "market_close_crossings": 1,
+      "session_crossings": 1,
+      "trades_spanning_data_gap": 1,
+      "scheduled_exits": 274
+    }
+  },
+  {
+    "id": "D072",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "all"
+      },
+      "B": {
+        "k": 1.5,
+        "long_vol": false,
+        "min_usd": 0.0,
+        "leg": 3.5,
+        "policy": "all"
+      }
+    },
+    "stop_theta": 2.0,
+    "complexity": 2,
+    "metrics": {
+      "net": 201852.40789985622,
+      "dd": 42242.048750008704,
+      "dd_pct": 25.986601852123137,
+      "loss": 1599433.1446500574,
+      "trades": 3659,
+      "worst": -17449.296700000097,
+      "lowest": 99660.9491999998,
+      "recent": 4070.2980999543797,
+      "early": 197782.10979990184,
+      "open_positions": 0,
+      "late_cutoff_exits": 8,
+      "market_close_crossings": 2,
+      "session_crossings": 2,
+      "trades_spanning_data_gap": 2,
+      "scheduled_exits": 572
+    }
+  },
+  {
+    "id": "D073",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "all"
+      },
+      "B": {
+        "k": 1.5,
+        "long_vol": false,
+        "min_usd": 0.0,
+        "leg": 3.5,
+        "policy": "all"
+      }
+    },
+    "stop_theta": 2.5,
+    "complexity": 2,
+    "metrics": {
+      "net": 247111.13074985542,
+      "dd": 32985.354050008464,
+      "dd_pct": 17.086052771219382,
+      "loss": 1562793.8766000574,
+      "trades": 3659,
+      "worst": -19706.82120000008,
+      "lowest": 99342.49809999981,
+      "recent": 13832.867399953888,
+      "early": 233278.26334990154,
+      "open_positions": 0,
+      "late_cutoff_exits": 9,
+      "market_close_crossings": 2,
+      "session_crossings": 2,
+      "trades_spanning_data_gap": 2,
+      "scheduled_exits": 583
+    }
+  },
+  {
+    "id": "D074",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "all"
+      },
+      "B": {
+        "k": 1.5,
+        "long_vol": false,
+        "min_usd": 0.0,
+        "leg": 3.5,
+        "policy": "all"
+      }
+    },
+    "stop_theta": 3.0,
+    "complexity": 1,
+    "metrics": {
+      "net": 269636.5649998558,
+      "dd": 39370.41680001642,
+      "dd_pct": 19.561288561997543,
+      "loss": 1540823.1146000568,
+      "trades": 3659,
+      "worst": -13570.981050000086,
+      "lowest": 99704.5125,
+      "recent": 12062.812849954527,
+      "early": 257573.7521499013,
+      "open_positions": 0,
+      "late_cutoff_exits": 9,
+      "market_close_crossings": 2,
+      "session_crossings": 2,
+      "trades_spanning_data_gap": 2,
+      "scheduled_exits": 591
+    }
+  },
+  {
+    "id": "D075",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "all"
+      },
+      "B": {
+        "k": 2.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 3.5,
+        "policy": "vol_le15"
+      }
+    },
+    "stop_theta": 2.0,
+    "complexity": 5,
+    "metrics": {
+      "net": 261958.28009990137,
+      "dd": 29775.009000003978,
+      "dd_pct": 15.582940411294938,
+      "loss": 1210046.8088500393,
+      "trades": 2531,
+      "worst": -17449.296700000097,
+      "lowest": 99278.33509999963,
+      "recent": 26572.937599975965,
+      "early": 235385.3424999254,
+      "open_positions": 0,
+      "late_cutoff_exits": 3,
+      "market_close_crossings": 0,
+      "session_crossings": 0,
+      "trades_spanning_data_gap": 0,
+      "scheduled_exits": 422
+    }
+  },
+  {
+    "id": "D076",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "all"
+      },
+      "B": {
+        "k": 2.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 3.5,
+        "policy": "vol_le15"
+      }
+    },
+    "stop_theta": 2.5,
+    "complexity": 5,
+    "metrics": {
+      "net": 288758.4897999009,
+      "dd": 32475.764750003756,
+      "dd_pct": 14.053802630326043,
+      "loss": 1184087.9787000394,
+      "trades": 2531,
+      "worst": -19706.82120000008,
+      "lowest": 99515.06279999972,
+      "recent": 31276.085499975947,
+      "early": 257482.40429992497,
+      "open_positions": 0,
+      "late_cutoff_exits": 3,
+      "market_close_crossings": 0,
+      "session_crossings": 0,
+      "trades_spanning_data_gap": 0,
+      "scheduled_exits": 428
+    }
+  },
+  {
+    "id": "D077",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "all"
+      },
+      "B": {
+        "k": 2.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 3.5,
+        "policy": "vol_le15"
+      }
+    },
+    "stop_theta": 3.0,
+    "complexity": 4,
+    "metrics": {
+      "net": 298545.0357999009,
+      "dd": 40231.38295000201,
+      "dd_pct": 18.530301791861337,
+      "loss": 1174396.6641000395,
+      "trades": 2531,
+      "worst": -13570.981050000086,
+      "lowest": 99515.06279999972,
+      "recent": 36197.38759997592,
+      "early": 262347.64819992497,
+      "open_positions": 0,
+      "late_cutoff_exits": 3,
+      "market_close_crossings": 0,
+      "session_crossings": 0,
+      "trades_spanning_data_gap": 0,
+      "scheduled_exits": 432
+    }
+  },
+  {
+    "id": "D078",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "all"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "skip_asia"
+      }
+    },
+    "stop_theta": 2.0,
+    "complexity": 6,
+    "metrics": {
+      "net": 306405.0032998127,
+      "dd": 75572.53220000729,
+      "dd_pct": 27.639236189668047,
+      "loss": 2104602.289350072,
+      "trades": 4734,
+      "worst": -17449.296700000097,
+      "lowest": 88471.25969999903,
+      "recent": 610.0550499507226,
+      "early": 305794.948249862,
+      "open_positions": 0,
+      "late_cutoff_exits": 2,
+      "market_close_crossings": 1,
+      "session_crossings": 1,
+      "trades_spanning_data_gap": 1,
+      "scheduled_exits": 373
+    }
+  },
+  {
+    "id": "D079",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "all"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "skip_asia"
+      }
+    },
+    "stop_theta": 2.5,
+    "complexity": 6,
+    "metrics": {
+      "net": 370795.10654981225,
+      "dd": 74265.46435000707,
+      "dd_pct": 18.434891712421095,
+      "loss": 2041946.1067500713,
+      "trades": 4734,
+      "worst": -19706.82120000008,
+      "lowest": 87873.19299999921,
+      "recent": 25048.222099950537,
+      "early": 345746.8844498617,
+      "open_positions": 0,
+      "late_cutoff_exits": 2,
+      "market_close_crossings": 1,
+      "session_crossings": 1,
+      "trades_spanning_data_gap": 1,
+      "scheduled_exits": 380
+    }
+  },
+  {
+    "id": "D080",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "all"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "skip_asia"
+      }
+    },
+    "stop_theta": 3.0,
+    "complexity": 5,
+    "metrics": {
+      "net": 402454.6503998126,
+      "dd": 73965.75560000708,
+      "dd_pct": 17.55486682625369,
+      "loss": 2010286.562900071,
+      "trades": 4734,
+      "worst": -13570.981050000086,
+      "lowest": 88638.75889999914,
+      "recent": 28863.55669995054,
+      "early": 373591.0936998621,
+      "open_positions": 0,
+      "late_cutoff_exits": 2,
+      "market_close_crossings": 1,
+      "session_crossings": 1,
+      "trades_spanning_data_gap": 1,
+      "scheduled_exits": 385
+    }
+  },
+  {
+    "id": "D081",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "all"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "vol_ge1"
+      }
+    },
+    "stop_theta": 2.0,
+    "complexity": 6,
+    "metrics": {
+      "net": 336634.38764987595,
+      "dd": 53862.13690000487,
+      "dd_pct": 28.059040719926287,
+      "loss": 1518528.8360000467,
+      "trades": 3192,
+      "worst": -17449.296700000097,
+      "lowest": 92062.36149999083,
+      "recent": 33206.37869997148,
+      "early": 303428.00894990447,
+      "open_positions": 0,
+      "late_cutoff_exits": 1,
+      "market_close_crossings": 0,
+      "session_crossings": 0,
+      "trades_spanning_data_gap": 0,
+      "scheduled_exits": 248
+    }
+  },
+  {
+    "id": "D082",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "all"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "vol_ge1"
+      }
+    },
+    "stop_theta": 2.5,
+    "complexity": 6,
+    "metrics": {
+      "net": 380518.6714998754,
+      "dd": 49340.67160000466,
+      "dd_pct": 19.239235973840785,
+      "loss": 1474657.384750047,
+      "trades": 3192,
+      "worst": -19706.82120000008,
+      "lowest": 94714.6572999996,
+      "recent": 46492.34094997117,
+      "early": 334026.3305499042,
+      "open_positions": 0,
+      "late_cutoff_exits": 1,
+      "market_close_crossings": 0,
+      "session_crossings": 0,
+      "trades_spanning_data_gap": 0,
+      "scheduled_exits": 252
+    }
+  },
+  {
+    "id": "D083",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "all"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "vol_ge1"
+      }
+    },
+    "stop_theta": 3.0,
+    "complexity": 5,
+    "metrics": {
+      "net": 395926.5716998755,
+      "dd": 54402.79460000509,
+      "dd_pct": 18.034424908631227,
+      "loss": 1459249.484550047,
+      "trades": 3192,
+      "worst": -13570.981050000086,
+      "lowest": 94714.6572999996,
+      "recent": 46639.2404499714,
+      "early": 349287.3312499041,
+      "open_positions": 0,
+      "late_cutoff_exits": 1,
+      "market_close_crossings": 0,
+      "session_crossings": 0,
+      "trades_spanning_data_gap": 0,
+      "scheduled_exits": 255
+    }
+  },
+  {
+    "id": "D084",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "all"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "vol_ge1"
+      }
+    },
+    "stop_theta": 2.0,
+    "complexity": 6,
+    "metrics": {
+      "net": 318834.0517998536,
+      "dd": 64109.47455000627,
+      "dd_pct": 29.364189209764085,
+      "loss": 1698819.943150056,
+      "trades": 3746,
+      "worst": -17449.296700000097,
+      "lowest": 87320.71579999906,
+      "recent": 5544.527449959947,
+      "early": 313289.5243498937,
+      "open_positions": 0,
+      "late_cutoff_exits": 1,
+      "market_close_crossings": 0,
+      "session_crossings": 0,
+      "trades_spanning_data_gap": 0,
+      "scheduled_exits": 270
+    }
+  },
+  {
+    "id": "D085",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "all"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "vol_ge1"
+      }
+    },
+    "stop_theta": 2.5,
+    "complexity": 6,
+    "metrics": {
+      "net": 373477.9641998534,
+      "dd": 60739.39740000595,
+      "dd_pct": 20.472323013929785,
+      "loss": 1644346.9069500556,
+      "trades": 3746,
+      "worst": -19706.82120000008,
+      "lowest": 86722.64909999924,
+      "recent": 23768.507949959894,
+      "early": 349709.4562498935,
+      "open_positions": 0,
+      "late_cutoff_exits": 1,
+      "market_close_crossings": 0,
+      "session_crossings": 0,
+      "trades_spanning_data_gap": 0,
+      "scheduled_exits": 274
+    }
+  },
+  {
+    "id": "D086",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "all"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "vol_ge1"
+      }
+    },
+    "stop_theta": 3.0,
+    "complexity": 5,
+    "metrics": {
+      "net": 386724.75324985356,
+      "dd": 59944.11390000605,
+      "dd_pct": 19.400602627243384,
+      "loss": 1631100.1179000558,
+      "trades": 3746,
+      "worst": -13570.981050000086,
+      "lowest": 87488.21499999917,
+      "recent": 26905.740949960018,
+      "early": 359819.01229989354,
+      "open_positions": 0,
+      "late_cutoff_exits": 1,
+      "market_close_crossings": 0,
+      "session_crossings": 0,
+      "trades_spanning_data_gap": 0,
+      "scheduled_exits": 277
+    }
+  },
+  {
+    "id": "D087",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "all"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "skip_asia"
+      }
+    },
+    "stop_theta": 2.0,
+    "complexity": 6,
+    "metrics": {
+      "net": 312381.4490498636,
+      "dd": 62668.33980000514,
+      "dd_pct": 26.39863653653174,
+      "loss": 1700966.8709000517,
+      "trades": 3496,
+      "worst": -17449.296700000097,
+      "lowest": 93476.31139999081,
+      "recent": 17235.870299970964,
+      "early": 295145.57874989265,
+      "open_positions": 0,
+      "late_cutoff_exits": 2,
+      "market_close_crossings": 1,
+      "session_crossings": 1,
+      "trades_spanning_data_gap": 1,
+      "scheduled_exits": 285
+    }
+  },
+  {
+    "id": "D088",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "all"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "skip_asia"
+      }
+    },
+    "stop_theta": 2.5,
+    "complexity": 6,
+    "metrics": {
+      "net": 352949.181199863,
+      "dd": 60225.24915000517,
+      "dd_pct": 17.656524693991063,
+      "loss": 1660826.6669500521,
+      "trades": 3496,
+      "worst": -19706.82120000008,
+      "lowest": 94714.6572999996,
+      "recent": 31998.59464997053,
+      "early": 320950.58654989244,
+      "open_positions": 0,
+      "late_cutoff_exits": 2,
+      "market_close_crossings": 1,
+      "session_crossings": 1,
+      "trades_spanning_data_gap": 1,
+      "scheduled_exits": 290
+    }
+  },
+  {
+    "id": "D089",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "all"
+      },
+      "B": {
+        "k": 1.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "skip_asia"
+      }
+    },
+    "stop_theta": 3.0,
+    "complexity": 5,
+    "metrics": {
+      "net": 380268.60464986356,
+      "dd": 57617.192050004494,
+      "dd_pct": 16.65952382863577,
+      "loss": 1633507.2435000516,
+      "trades": 3496,
+      "worst": -13570.981050000086,
+      "lowest": 94714.6572999996,
+      "recent": 32184.8361999708,
+      "early": 348083.76844989276,
+      "open_positions": 0,
+      "late_cutoff_exits": 2,
+      "market_close_crossings": 1,
+      "session_crossings": 1,
+      "trades_spanning_data_gap": 1,
+      "scheduled_exits": 293
+    }
+  }
+]

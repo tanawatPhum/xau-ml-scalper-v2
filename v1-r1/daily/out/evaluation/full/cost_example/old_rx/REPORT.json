@@ -1,0 +1,157 @@
+{
+  "summary": {
+    "trades": 2735,
+    "open_positions": 0,
+    "end_balance_thb": 315488.22734991775,
+    "end_equity_thb": 315488.22734991775,
+    "net_equity_thb": 215488.22734991775,
+    "realized_net_thb": 215488.22734991775,
+    "closed_trade_net_thb": 215488.2273499265,
+    "open_unrealized_thb": 0.0,
+    "max_equity_drawdown_thb": 55237.58900002489,
+    "max_equity_drawdown_pct": 15.916451448409175,
+    "max_balance_drawdown_thb": 53648.3728000251,
+    "lowest_equity_thb": 95556.88109999953,
+    "max_gross_oz": 20.0,
+    "nonpositive_equity_minutes": 0,
+    "first_nonpositive_utc_minute": null,
+    "gross_mid_thb": 426071.19335000374,
+    "spread_cost_thb": 155166.39600000004,
+    "slippage_cost_thb": 36944.38000000002,
+    "commission_thb": 18472.19000000001,
+    "open_entry_commission_thb": 0.0,
+    "commission_paid_thb": 18472.19000000001
+  },
+  "metrics": {
+    "net": 215488.22734991775,
+    "dd": 55237.58900002489,
+    "dd_pct": 15.916451448409175,
+    "loss": 1077497.3638000311,
+    "trades": 2735,
+    "worst": -13217.577999999967,
+    "lowest": 95556.88109999953,
+    "recent": -11385.386650038185,
+    "early": 226873.61399995594,
+    "open_positions": 0,
+    "late_cutoff_exits": 7,
+    "market_close_crossings": 0,
+    "session_crossings": 0,
+    "trades_spanning_data_gap": 0,
+    "scheduled_exits": 500
+  },
+  "yearly": {
+    "2010": {
+      "trades": 390,
+      "closed_net": 75275.52504998927,
+      "equity_change": 75275.52504998911,
+      "end_equity": 175275.5250499891,
+      "dd": 7887.321200000864,
+      "loss": 113614.09950000411,
+      "worst": -4522.816100000016
+    },
+    "2011": {
+      "trades": 403,
+      "closed_net": 73358.06444998985,
+      "equity_change": 73358.06444999055,
+      "end_equity": 248633.58949997966,
+      "dd": 32097.034200000926,
+      "loss": 202115.30735000342,
+      "worst": -13217.577999999967
+    },
+    "2012": {
+      "trades": 378,
+      "closed_net": 73294.74569998885,
+      "equity_change": 73294.74569998847,
+      "end_equity": 321928.33519996813,
+      "dd": 10769.759550000366,
+      "loss": 116566.44175000391,
+      "worst": -4815.939700000073
+    },
+    "2013": {
+      "trades": 380,
+      "closed_net": 4945.278799989926,
+      "equity_change": 4945.2787999878055,
+      "end_equity": 326873.61399995594,
+      "dd": 28680.523300001223,
+      "loss": 195738.34940000455,
+      "worst": -9966.033550000031
+    },
+    "2014": {
+      "trades": 244,
+      "closed_net": 8690.70949999348,
+      "equity_change": 8690.709499992081,
+      "end_equity": 335564.323499948,
+      "dd": 12932.390350004367,
+      "loss": 85252.02730000304,
+      "worst": -3692.411799999996
+    },
+    "2015": {
+      "trades": 229,
+      "closed_net": -12837.327800006668,
+      "equity_change": -12837.327800008003,
+      "end_equity": 322726.99569994,
+      "dd": 30329.850100006908,
+      "loss": 91353.92860000317,
+      "worst": -4331.17134999998
+    },
+    "2016": {
+      "trades": 299,
+      "closed_net": -13225.345100007362,
+      "equity_change": -13225.34510000929,
+      "end_equity": 309501.6505999307,
+      "dd": 27108.698650003935,
+      "loss": 132632.18155000333,
+      "worst": -5139.625150000058
+    },
+    "2017": {
+      "trades": 110,
+      "closed_net": 12378.900049997272,
+      "equity_change": 12378.900049996737,
+      "end_equity": 321880.55064992746,
+      "dd": 5791.555000000808,
+      "loss": 22489.469200001153,
+      "worst": -4480.941299999931
+    },
+    "2018": {
+      "trades": 102,
+      "closed_net": -9073.999000003276,
+      "equity_change": -9073.999000003852,
+      "end_equity": 312806.5516499236,
+      "dd": 14494.252850000805,
+      "loss": 34631.810400002054,
+      "worst": -3103.969550000051
+    },
+    "2019": {
+      "trades": 200,
+      "closed_net": 2681.675699995175,
+      "equity_change": 2681.6756999941426,
+      "end_equity": 315488.22734991775,
+      "dd": 21995.75180000096,
+      "loss": 83103.74875000228,
+      "worst": -7521.5921000000535
+    }
+  },
+  "config": {
+    "start": 100000.0,
+    "oz": 10.0,
+    "fx": 33.77,
+    "cost_mode": "fixed",
+    "spread": 0.168,
+    "commission": 0.01,
+    "slippage": 0.02,
+    "flat_minute_utc": null
+  },
+  "diagnostics": {
+    "cancelled_entries": 3,
+    "pending_orders_at_end": 0,
+    "gap_count": 2614,
+    "close_based_stop": true,
+    "terminal_liquidation": false,
+    "late_cutoff_exits": 7,
+    "market_close_crossings": 0,
+    "session_crossings": 0,
+    "trades_spanning_data_gap": 0,
+    "scheduled_exits": 500,
+    "stop_theta": 3.0
+  }
+}

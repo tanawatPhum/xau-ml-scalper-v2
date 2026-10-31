@@ -1,0 +1,74 @@
+{
+  "created_utc": "2026-10-31T16:02:09.656401+00:00",
+  "owner_authorized_2020_2022": true,
+  "years": [
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022
+  ],
+  "selected_id": "D058",
+  "rules": {
+    "A": {
+      "k": 1.0,
+      "long_vol": true,
+      "min_usd": 3.0,
+      "leg": 2.5,
+      "policy": "skip_late"
+    },
+    "B": {
+      "k": 2.0,
+      "long_vol": false,
+      "min_usd": 3.0,
+      "leg": 3.5,
+      "policy": "vol_le15"
+    }
+  },
+  "stop_theta": 2.5,
+  "config": {
+    "start": 100000.0,
+    "oz": 50.0,
+    "fx": 33.77,
+    "cost_mode": "fixed",
+    "spread": 0.168,
+    "commission": 0.0,
+    "slippage": 0.0,
+    "flat_minute_utc": null
+  },
+  "lock_sha256": "b819a098e183f944287c120fa64628786a7fc368c437e781c76c19c01ab94432",
+  "source_hashes": {
+    "D:\\xau-ml-scalper-claude\\v1-rx\\daily\\calendar_rules.py": "2042fe2103c70fca31aef2c62489ee6e29c4af89dfbe08baa9a26c5f11b40148",
+    "D:\\xau-ml-scalper-claude\\v1-rx\\daily\\execution.py": "8b7126b11116f4a1968341938c544be33dd762d68e26fc06aec7a708e80f5697",
+    "D:\\xau-ml-scalper-claude\\v1-rx\\daily\\run_study.py": "579e6b0c26d4484927a157c7d12a1b6fe0b5f4cc204558fb6d4233fc10ed1d7b",
+    "D:\\xau-ml-scalper-claude\\v1-rx\\daily\\DESIGN.md": "acd23fad0212f6a89fa033abcdb3c95d4defb5b4687f70e547b46529f944d6e1",
+    "D:\\xau-ml-scalper-claude\\v1-rx\\baseline_engine.py": "964127ce2827f8e157a2d013dc17e121c48a97b1305288b945f0fa843719ed88",
+    "D:\\xau-ml-scalper-claude\\v1-rx\\strategy.py": "080bddb0b67d629f066e09057d869543e0c0bb5c88a5dbcd08e28da56ba8a883",
+    "D:\\xau-ml-scalper-claude\\v1-rx\\study.py": "952d78eb8489fd8473da22cc65f0b0564e59a540e896a43d6d8e12c5e17b7697",
+    "D:\\xau-ml-scalper-claude\\v1-rx\\daily\\extend_2022.py": "1fd0531f2ba12bbfe0a52c73e35a3a47f1fb2bb6e20bbd5e647c9564e22ce5ff"
+  },
+  "data_hashes": {
+    "D:\\xau-ml-scalper-claude\\microstructure-edge-map\\cache\\M1_2010.private.npz": "d1f2ece2d4b0b82b180bc9dd723df9acaaedeb56d54ac4fd54b39b104e96c029",
+    "D:\\xau-ml-scalper-claude\\microstructure-edge-map\\cache\\M1_2011.private.npz": "6510880b5793e1e53aac1c62f5da71b476795459dd06ce799f85e2eea52fb7c3",
+    "D:\\xau-ml-scalper-claude\\microstructure-edge-map\\cache\\M1_2012.private.npz": "793e75f05409d58bb3f765fdebf0c5a1171183ffd0685d335bd3cc69c42ff9e9",
+    "D:\\xau-ml-scalper-claude\\microstructure-edge-map\\cache\\M1_2013.private.npz": "d212194522ba8f2df3cea55c233a4980e9fdb65c839d6a05afdf0e50634a8dd2",
+    "D:\\xau-ml-scalper-claude\\microstructure-edge-map\\cache\\M1_2014.private.npz": "b404bf7b3d9eae979624dc078fbfda4027d8e66f7e805152b067f7f0e173ab62",
+    "D:\\xau-ml-scalper-claude\\microstructure-edge-map\\cache\\M1_2015.private.npz": "6f0030be36ddc836f00ea4cb1ee6c90fcef1c426eefa398ef260fbc81d2cc45f",
+    "D:\\xau-ml-scalper-claude\\microstructure-edge-map\\cache\\M1_2016.private.npz": "635235b3809f75ca5f319a2c81cd1a03070f9be3eceaf6aebfd890289b40cf8d",
+    "D:\\xau-ml-scalper-claude\\microstructure-edge-map\\cache\\M1_2017.private.npz": "38f3741edc1541a3f098444a9315fdfc1e5a519278331d0a4e6f90c05fa98206",
+    "D:\\xau-ml-scalper-claude\\microstructure-edge-map\\cache\\M1_2018.private.npz": "76da72a5b725c528a86a5864324629edfd3e457d66ac8fa2285e6605986da3a8",
+    "D:\\xau-ml-scalper-claude\\microstructure-edge-map\\cache\\M1_2019.private.npz": "9b3e172c83209c696e777e2cccd37beee943a2de0c031a6011002ddfd4a6155e",
+    "D:\\xau-ml-scalper-claude\\microstructure-edge-map\\cache\\M1_2020.private.npz": "7167f470cbbb7e1922e8835496d608323a0783e831b152114d8929347f98facf",
+    "D:\\xau-ml-scalper-claude\\microstructure-edge-map\\cache\\M1_2021.private.npz": "05e8bbadac70a11f289b3e84a9706c5b9958c3de3ae4d4d0ba6bd162adcff503",
+    "D:\\xau-ml-scalper-claude\\microstructure-edge-map\\cache\\M1_2022.private.npz": "d6e9bb69de6d4dab2e4b4fa1f2033f094c8b83e08203a1dca23c9600aaeacaf0"
+  },
+  "mode": "Frozen parameters; continuous equity; no annual capital reset; no retuning"
+}

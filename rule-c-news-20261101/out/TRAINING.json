@@ -1,0 +1,380 @@
+{
+  "spec": {
+    "id": "C_FOMC_declared_time_jump_continuation",
+    "hold": 15,
+    "stop": 1000000000000.0,
+    "tp": 1000000000000.0,
+    "response_minutes": 5,
+    "jump_threshold": 2.0,
+    "fill_delay_minutes": 1,
+    "primary_min_train": 20,
+    "primary_min_validation": 8,
+    "actual_latency_verified": false
+  },
+  "primary": {
+    "metrics": {
+      "net": 2389.058649999751,
+      "closed_net": 2389.058649999751,
+      "gross_wins": 4079.58484999978,
+      "gross_losses": 1690.5262000000291,
+      "profit_factor": 2.4132041550138115,
+      "trades": 5,
+      "overlap_count": 0,
+      "overlap": 0.0,
+      "dd": 2063.8535500000726,
+      "dd_pct": 2.0077114167375556,
+      "lowest": 99813.25190000003,
+      "net_2014_2016": 2389.058649999751,
+      "daily_t": 0.8850685889075446,
+      "market_close_crossings": 0,
+      "session_crossings": 0,
+      "late_cutoff_exits": 0,
+      "trades_spanning_data_gap": 0,
+      "open_positions": 0,
+      "combined_net": 356194.30934989225,
+      "combined_dd": 29755.253550004447,
+      "combined_dd_pct": 12.474871818536437,
+      "combined_lowest": 99261.45009999996,
+      "lot05": {
+        "net": 11945.293249998756,
+        "dd": 10319.267750000348,
+        "dd_pct": 9.053448586911506,
+        "lowest": 99066.25950000019,
+        "combined_net": 1780971.5467494612,
+        "combined_dd": 148776.26775002223,
+        "combined_dd_pct": 30.44495739543033,
+        "combined_lowest": 96307.25049999979
+      },
+      "example_net": 2287.7486499998126,
+      "historical_net": 2117.3789999999944,
+      "eligible": false,
+      "checks": {
+        "minimum_trades": false,
+        "net_positive": true,
+        "profit_factor_above_one": true,
+        "example_cost_positive": true,
+        "recent_positive": true,
+        "natural_overlap": true,
+        "no_close_crossings": true,
+        "no_session_crossings": true,
+        "no_terminal_position": true,
+        "solvent": true,
+        "solvent_lot05": true
+      },
+      "failed": [
+        "minimum_trades"
+      ],
+      "gross_mid_net": 2672.7266499999537
+    },
+    "yearly": {
+      "2010": {
+        "net": 0.0,
+        "end_equity": 100000.0,
+        "dd": 0.0,
+        "trades": 0
+      },
+      "2011": {
+        "net": 0.0,
+        "end_equity": 100000.0,
+        "dd": 0.0,
+        "trades": 0
+      },
+      "2012": {
+        "net": 0.0,
+        "end_equity": 100000.0,
+        "dd": 0.0,
+        "trades": 0
+      },
+      "2013": {
+        "net": 0.0,
+        "end_equity": 100000.0,
+        "dd": 0.0,
+        "trades": 0
+      },
+      "2014": {
+        "net": 0.0,
+        "end_equity": 100000.0,
+        "dd": 0.0,
+        "trades": 0
+      },
+      "2015": {
+        "net": 0.0,
+        "end_equity": 100000.0,
+        "dd": 0.0,
+        "trades": 0
+      },
+      "2016": {
+        "net": 2389.058649999751,
+        "end_equity": 102389.05864999974,
+        "dd": 2063.85355000007,
+        "trades": 5
+      }
+    }
+  },
+  "stop3_sensitivity": {
+    "metrics": {
+      "net": 2389.058649999751,
+      "closed_net": 2389.058649999751,
+      "gross_wins": 4079.58484999978,
+      "gross_losses": 1690.5262000000291,
+      "profit_factor": 2.4132041550138115,
+      "trades": 5,
+      "overlap_count": 0,
+      "overlap": 0.0,
+      "dd": 2063.8535500000726,
+      "dd_pct": 2.0077114167375556,
+      "lowest": 99813.25190000003,
+      "net_2014_2016": 2389.058649999751,
+      "daily_t": 0.8850685889075446,
+      "market_close_crossings": 0,
+      "session_crossings": 0,
+      "late_cutoff_exits": 0,
+      "trades_spanning_data_gap": 0,
+      "open_positions": 0,
+      "combined_net": 356194.30934989225,
+      "combined_dd": 29755.253550004447,
+      "combined_dd_pct": 12.474871818536437,
+      "combined_lowest": 99261.45009999996,
+      "lot05": {
+        "net": 11945.293249998756,
+        "dd": 10319.267750000348,
+        "dd_pct": 9.053448586911506,
+        "lowest": 99066.25950000019,
+        "combined_net": 1780971.5467494612,
+        "combined_dd": 148776.26775002223,
+        "combined_dd_pct": 30.44495739543033,
+        "combined_lowest": 96307.25049999979
+      },
+      "example_net": 2287.7486499998126,
+      "historical_net": 2117.3789999999944,
+      "eligible": false,
+      "checks": {
+        "minimum_trades": false,
+        "net_positive": true,
+        "profit_factor_above_one": true,
+        "example_cost_positive": true,
+        "recent_positive": true,
+        "natural_overlap": true,
+        "no_close_crossings": true,
+        "no_session_crossings": true,
+        "no_terminal_position": true,
+        "solvent": true,
+        "solvent_lot05": true
+      },
+      "failed": [
+        "minimum_trades"
+      ],
+      "gross_mid_net": 2672.7266499999537
+    },
+    "yearly": {
+      "2010": {
+        "net": 0.0,
+        "end_equity": 100000.0,
+        "dd": 0.0,
+        "trades": 0
+      },
+      "2011": {
+        "net": 0.0,
+        "end_equity": 100000.0,
+        "dd": 0.0,
+        "trades": 0
+      },
+      "2012": {
+        "net": 0.0,
+        "end_equity": 100000.0,
+        "dd": 0.0,
+        "trades": 0
+      },
+      "2013": {
+        "net": 0.0,
+        "end_equity": 100000.0,
+        "dd": 0.0,
+        "trades": 0
+      },
+      "2014": {
+        "net": 0.0,
+        "end_equity": 100000.0,
+        "dd": 0.0,
+        "trades": 0
+      },
+      "2015": {
+        "net": 0.0,
+        "end_equity": 100000.0,
+        "dd": 0.0,
+        "trades": 0
+      },
+      "2016": {
+        "net": 2389.058649999751,
+        "end_equity": 102389.05864999974,
+        "dd": 2063.85355000007,
+        "trades": 5
+      }
+    }
+  },
+  "event_records": [
+    {
+      "event_utc_minute": 24232020,
+      "status": "below_fixed_jump_threshold",
+      "impulse_bps": 10.871243949001919,
+      "jump_ratio": 1.9666705219878353,
+      "pre_event_eff_bps": 19.148654185465553,
+      "scale_usd": 2.1389429698248734
+    },
+    {
+      "event_utc_minute": 24302520,
+      "status": "signal",
+      "impulse_bps": 93.48501072088065,
+      "jump_ratio": 19.935021347234127,
+      "pre_event_eff_bps": 16.244857278485142,
+      "scale_usd": 1.9987103825443373,
+      "signal_utc_minute": 24302524,
+      "expected_entry_utc_minute": 24302525
+    },
+    {
+      "event_utc_minute": 24363000,
+      "status": "signal",
+      "impulse_bps": -15.85624010862039,
+      "jump_ratio": 2.6732399624359275,
+      "pre_event_eff_bps": 20.54721152688157,
+      "scale_usd": 2.5678055717259167,
+      "signal_utc_minute": 24363004,
+      "expected_entry_utc_minute": 24363005
+    },
+    {
+      "event_utc_minute": 24433560,
+      "status": "signal",
+      "impulse_bps": 46.97778945846573,
+      "jump_ratio": 8.489985608944652,
+      "pre_event_eff_bps": 19.167975522505202,
+      "scale_usd": 2.462739831082514,
+      "signal_utc_minute": 24433564,
+      "expected_entry_utc_minute": 24433565
+    },
+    {
+      "event_utc_minute": 24494040,
+      "status": "signal",
+      "impulse_bps": -23.94957780952289,
+      "jump_ratio": 6.634962958218244,
+      "pre_event_eff_bps": 12.504029290634458,
+      "scale_usd": 1.6596473037166208,
+      "signal_utc_minute": 24494044,
+      "expected_entry_utc_minute": 24494045
+    },
+    {
+      "event_utc_minute": 24574680,
+      "status": "below_fixed_jump_threshold",
+      "impulse_bps": 5.952493253156308,
+      "jump_ratio": 1.3342735662559055,
+      "pre_event_eff_bps": 15.45413325560896,
+      "scale_usd": 2.050423492087686
+    },
+    {
+      "event_utc_minute": 24635160,
+      "status": "below_fixed_jump_threshold",
+      "impulse_bps": 2.2098571591543994,
+      "jump_ratio": 0.42732791441210244,
+      "pre_event_eff_bps": 17.914040941561485,
+      "scale_usd": 2.3384451623886116
+    },
+    {
+      "event_utc_minute": 24695700,
+      "status": "signal",
+      "impulse_bps": -32.04982384078179,
+      "jump_ratio": 6.211124101648873,
+      "pre_event_eff_bps": 17.875000517580887,
+      "scale_usd": 2.07610981011495,
+      "signal_utc_minute": 24695704,
+      "expected_entry_utc_minute": 24695705
+    }
+  ],
+  "trades": [
+    {
+      "event_utc_minute": 24302520,
+      "signal_utc_minute": 24302524,
+      "entry_utc_minute": 24302525,
+      "exit_utc_minute": 24302540,
+      "side": 1,
+      "gross_mid_thb": 702.2471500000179,
+      "net_thb": 645.5135499999774,
+      "exit_reason": 1,
+      "scale_usd": 1.9987103825443373
+    },
+    {
+      "event_utc_minute": 24363000,
+      "signal_utc_minute": 24363004,
+      "entry_utc_minute": 24363005,
+      "exit_utc_minute": 24363020,
+      "side": -1,
+      "gross_mid_thb": 1292.0401999999308,
+      "net_thb": 1235.3065999998903,
+      "exit_reason": 1,
+      "scale_usd": 2.5678055717259167
+    },
+    {
+      "event_utc_minute": 24433560,
+      "signal_utc_minute": 24433564,
+      "entry_utc_minute": 24433565,
+      "exit_utc_minute": 24433580,
+      "side": 1,
+      "gross_mid_thb": 972.238300000045,
+      "net_thb": 915.5047000000044,
+      "exit_reason": 1,
+      "scale_usd": 2.462739831082514
+    },
+    {
+      "event_utc_minute": 24494040,
+      "signal_utc_minute": 24494044,
+      "entry_utc_minute": 24494045,
+      "exit_utc_minute": 24494060,
+      "side": -1,
+      "gross_mid_thb": -1633.7925999999886,
+      "net_thb": -1690.5262000000291,
+      "exit_reason": 1,
+      "scale_usd": 1.6596473037166208
+    },
+    {
+      "event_utc_minute": 24695700,
+      "signal_utc_minute": 24695704,
+      "entry_utc_minute": 24695705,
+      "exit_utc_minute": 24695720,
+      "side": -1,
+      "gross_mid_thb": 1339.9935999999486,
+      "net_thb": 1283.2599999999081,
+      "exit_reason": 1,
+      "scale_usd": 2.07610981011495
+    }
+  ],
+  "prefix_check": {
+    "status": "PASS",
+    "quotes": 2191498,
+    "open_at_cut": true
+  },
+  "ab_metrics": {
+    "net": 353805.2506998925,
+    "dd": 29686.869300000195,
+    "dd_pct": 12.474871818536437,
+    "loss": 1250588.2004000414,
+    "trades": 2737,
+    "worst": -19706.82120000008,
+    "lowest": 99261.45009999996,
+    "recent": 46954.65224997187,
+    "early": 306850.59844992065,
+    "open_positions": 0,
+    "late_cutoff_exits": 3,
+    "market_close_crossings": 0,
+    "session_crossings": 0,
+    "trades_spanning_data_gap": 0,
+    "scheduled_exits": 411
+  },
+  "years_read": [
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016
+  ],
+  "source_actual_latency_verified": false,
+  "selection": []
+}

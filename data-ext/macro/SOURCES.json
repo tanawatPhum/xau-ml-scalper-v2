@@ -1,0 +1,950 @@
+{
+ "report": {
+  "gvz": {
+   "rows": 3343,
+   "first": "2009-09-18",
+   "last": "2022-12-30"
+  },
+  "fomc": {
+   "press_releases": 110,
+   "statements": 109,
+   "missing_time": 48
+  },
+  "nfp": {
+   "error": "failed https://web.archive.org/web/2023id_/https://www.bls.gov/bls/news-release/empsit.htm"
+  },
+  "cpi": {
+   "error": "failed https://web.archive.org/web/2023id_/https://www.bls.gov/bls/news-release/cpi.htm"
+  },
+  "gdp": {
+   "rows": 38,
+   "per_year": {
+    "2017": 2,
+    "2018": 8,
+    "2019": 10,
+    "2020": 7,
+    "2021": 9,
+    "2022": 2
+   }
+  }
+ },
+ "sources": {
+  "https://cdn.cboe.com/api/global/us_indices/daily_prices/GVZ_History.csv": {
+   "fetched_utc": "2026-10-31T17:57:55.729687+00:00",
+   "bytes": 90333,
+   "sha256": "8c4b43e6d9c9a2393dfdba75aa7f1ee053162fb05ebe98f546e595bc9381a577"
+  },
+  "https://www.federalreserve.gov/monetarypolicy/fomchistorical2010.htm": {
+   "fetched_utc": "2026-10-31T17:57:56.199868+00:00",
+   "bytes": 98501,
+   "sha256": "faa2cf023a60a6ea8816ddad44568b65d484e640441daf3ff373b513e7562a06"
+  },
+  "https://www.federalreserve.gov/monetarypolicy/fomchistorical2011.htm": {
+   "fetched_utc": "2026-10-31T17:57:57.596194+00:00",
+   "bytes": 100508,
+   "sha256": "ea22e523c435a90b29b395b889da7d478a9020d51d4fc64e0852ee91a1eacf76"
+  },
+  "https://www.federalreserve.gov/monetarypolicy/fomchistorical2012.htm": {
+   "fetched_utc": "2026-10-31T17:57:59.007577+00:00",
+   "bytes": 100429,
+   "sha256": "4bdc48b3d5fcfda06ec91a38679df9361fd6bb73b4993c7a8ad80655bf1d79ad"
+  },
+  "https://www.federalreserve.gov/monetarypolicy/fomchistorical2013.htm": {
+   "fetched_utc": "2026-10-31T17:58:00.404805+00:00",
+   "bytes": 98090,
+   "sha256": "d57f5b93bcbad5c0303205017f8b5d38ef5e4837d3a3fe52cdd7618c901e556b"
+  },
+  "https://www.federalreserve.gov/monetarypolicy/fomchistorical2014.htm": {
+   "fetched_utc": "2026-10-31T17:58:01.798002+00:00",
+   "bytes": 98370,
+   "sha256": "a85b7101e78c0092483be7e7d7f80c496e3e0c8fa7dd522db745035ac35faa23"
+  },
+  "https://www.federalreserve.gov/monetarypolicy/fomchistorical2015.htm": {
+   "fetched_utc": "2026-10-31T17:58:03.197328+00:00",
+   "bytes": 97522,
+   "sha256": "25382db8ac6ae05c0686dc35a838c14ad30fbbe0df1652bcb3f19803bff8af30"
+  },
+  "https://www.federalreserve.gov/monetarypolicy/fomchistorical2016.htm": {
+   "fetched_utc": "2026-10-31T17:58:05.101571+00:00",
+   "bytes": 98110,
+   "sha256": "e607e317dc7acaf024c1381702d3c9362834b89641917376d8246e2b4e29c143"
+  },
+  "https://www.federalreserve.gov/monetarypolicy/fomchistorical2017.htm": {
+   "fetched_utc": "2026-10-31T17:58:06.501661+00:00",
+   "bytes": 97481,
+   "sha256": "dde6ed521b6c7fbd355398e9740971a58b16e3fc96fac1e1d0c54d0faaa9f5a6"
+  },
+  "https://www.federalreserve.gov/monetarypolicy/fomchistorical2018.htm": {
+   "fetched_utc": "2026-10-31T17:58:08.632388+00:00",
+   "bytes": 97986,
+   "sha256": "48cb45cab90e4d6bd68563c3ef8b84c1323caafef5bd6318493d942c61ddd7fc"
+  },
+  "https://www.federalreserve.gov/monetarypolicy/fomchistorical2019.htm": {
+   "fetched_utc": "2026-10-31T17:58:10.066462+00:00",
+   "bytes": 99625,
+   "sha256": "e54a16059e438120c3c9e9b93f745745a247eb6c0314e491929d0deed00206a7"
+  },
+  "https://www.federalreserve.gov/monetarypolicy/fomchistorical2020.htm": {
+   "fetched_utc": "2026-10-31T17:58:11.453251+00:00",
+   "bytes": 100836,
+   "sha256": "477b1e591c057bc12bc23fdb5bbe6489a0b6b23fa46a90b52c474548d0c08db5"
+  },
+  "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm": {
+   "fetched_utc": "2026-10-31T17:58:13.400043+00:00",
+   "bytes": 168455,
+   "sha256": "32312ee078270b6c949476cd0151338573f40eaa1d15c59e4953188c0c40f164"
+  },
+  "https://www.federalreserve.gov/newsevents/press/monetary/20100127a.htm": {
+   "fetched_utc": "2026-10-31T17:58:15.761751+00:00",
+   "bytes": 85210,
+   "sha256": "e0f15c4ae6fd5ba7e4ed7cf5ccd609ce8bf2f94bbc6c0b4e4a2c6f75bfaab6f6"
+  },
+  "https://www.federalreserve.gov/newsevents/press/monetary/20100316a.htm": {
+   "fetched_utc": "2026-10-31T17:58:17.672005+00:00",
+   "bytes": 84669,
+   "sha256": "65a705f9973d4c9aa66dec5c798f03d792100d656eb39a3b9f652483b7819789"
+  },
+  "https://www.federalreserve.gov/newsevents/press/monetary/20100428a.htm": {
+   "fetched_utc": "2026-10-31T17:58:19.208243+00:00",
+   "bytes": 84411,
+   "sha256": "459be1f376fc8237a350a6a7ee459f83264352da73c6fa5343c264350164ea75"
+  },
+  "https://www.federalreserve.gov/newsevents/press/monetary/20100509a.htm": {
+   "fetched_utc": "2026-10-31T17:58:21.078258+00:00",
+   "bytes": 85655,
+   "sha256": "37673c29485303838e4961efb968bc3b07256088d1fe665eeef1324a8426eba7"
+  },
+  "https://www.federalreserve.gov/newsevents/press/monetary/20100623a.htm": {
+   "fetched_utc": "2026-10-31T17:58:23.173363+00:00",
+   "bytes": 84131,
+   "sha256": "d8d7a92fb868ceaa48f3e84f0d92e4eac6dcd168a93aa264a50076ec24dfde23"
+  },
+  "https://www.federalreserve.gov/newsevents/press/monetary/20100810a.htm": {
+   "fetched_utc": "2026-10-31T17:58:27.577557+00:00",
+   "bytes": 85125,
+   "sha256": "88fca151112a57aa947e83cc03b93a81bc8d0f9c154d8129d28ade49ccdf328e"
+  },
+  "https://www.federalreserve.gov/newsevents/press/monetary/20100921a.htm": {
+   "fetched_utc": "2026-10-31T17:58:29.686161+00:00",
+   "bytes": 84583,
+   "sha256": "b489ed9889cd49924d98207479ed5e1737d9dd13b4f3c4f001f4d9c0b8d5cb29"
+  },
+  "https://www.federalreserve.gov/newsevents/press/monetary/20101103a.htm": {
+   "fetched_utc": "2026-10-31T17:58:31.365649+00:00",
+   "bytes": 85172,
+   "sha256": "b608dd30a2bba9020f48131d9517ea4c3487a405d273fbcdc52cc5a953f2a492"
+  },
+  "https://www.federalreserve.gov/newsevents/press/monetary/20101214a.htm": {
+   "fetched_utc": "2026-10-31T17:58:33.413383+00:00",
+   "bytes": 85021,
+   "sha256": "5b717ef2f76ce2d31286963d32e1c8b107049832c38c4e0641d6bb44717e55d1"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20110126a.htm": {
+   "fetched_utc": "2026-10-31T17:58:34.904523+00:00",
+   "bytes": 84654,
+   "sha256": "369691778a3daf763c45fd17c8e30b797fdb256a7fbf5ebb7530f063f1d3dac1"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20110315a.htm": {
+   "fetched_utc": "2026-10-31T17:58:36.226129+00:00",
+   "bytes": 84796,
+   "sha256": "a5f67a4d1c1635a18f259afb3ef56c75a521b28e5bb2d91a1cc3b34b40d77e92"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20110427a.htm": {
+   "fetched_utc": "2026-10-31T17:58:37.417915+00:00",
+   "bytes": 84861,
+   "sha256": "00ec0a01eeca5778e3185c6eea6889b922800b65837e9dbdef3429d47866a87e"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20110622a.htm": {
+   "fetched_utc": "2026-10-31T17:58:38.570979+00:00",
+   "bytes": 84806,
+   "sha256": "23557d92b74f20713abd2fc7f8607a6650a21210e991b710c6eec85c93d22af9"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20110809a.htm": {
+   "fetched_utc": "2026-10-31T17:58:39.668024+00:00",
+   "bytes": 85279,
+   "sha256": "53abe9ff1f3d2edf7de2cd9341089c2d3665be2febde7b6d35a11f7caed84bbb"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20110921a.htm": {
+   "fetched_utc": "2026-10-31T17:58:41.054489+00:00",
+   "bytes": 86512,
+   "sha256": "4937505c432eb4bf0e39a2a9d6a3be0dbec6ac6f006522f3a7e830ae8737eb09"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20111102a.htm": {
+   "fetched_utc": "2026-10-31T17:58:42.231665+00:00",
+   "bytes": 85226,
+   "sha256": "29576c34a2ae791cff84423905c4c5dfae3f7b506bdcaea0854e08acd38130a4"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20111213a.htm": {
+   "fetched_utc": "2026-10-31T17:58:44.175131+00:00",
+   "bytes": 84869,
+   "sha256": "be80f1d5a9f22016a344a90312deece1dd4c9c04da0706e74ed6043a523b2125"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20120125a.htm": {
+   "fetched_utc": "2026-10-31T17:58:46.071441+00:00",
+   "bytes": 84755,
+   "sha256": "9abce5f25099a72b5ed692e10c879e05527efbe52b6ce43f0b198f7807301ec8"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20120313a.htm": {
+   "fetched_utc": "2026-10-31T17:58:47.192394+00:00",
+   "bytes": 84804,
+   "sha256": "695ff91800959d35722d00afa729ff9700c2f4d6a98899e97a8d991d4e78dfca"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20120425a.htm": {
+   "fetched_utc": "2026-10-31T17:58:48.552177+00:00",
+   "bytes": 84855,
+   "sha256": "e7007c89f3f0d074a7e577e27359c9960cc97a7560ef108571e2209a10028b4d"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20120620a.htm": {
+   "fetched_utc": "2026-10-31T17:58:50.423511+00:00",
+   "bytes": 85965,
+   "sha256": "4a51f461fda4a9878ae3907dc6ce990c7d51793a3edf58e4439b7949c528f1d5"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20120801a.htm": {
+   "fetched_utc": "2026-10-31T17:58:51.529538+00:00",
+   "bytes": 84933,
+   "sha256": "c7333e4003cb963b4aedffb8075bcdcb19dd4419b96844613448d1babe524eaf"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20120913a.htm": {
+   "fetched_utc": "2026-10-31T17:58:52.940644+00:00",
+   "bytes": 85762,
+   "sha256": "0c184e793873bcda54639b8cf0857f77cd71103672361e50288bdfe2e1fc5d83"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20121024a.htm": {
+   "fetched_utc": "2026-10-31T17:58:56.194974+00:00",
+   "bytes": 85746,
+   "sha256": "114f42a244d13af84df64b6725d1a4037d1c2e4760cc8c40b43739847d059cd7"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20121212a.htm": {
+   "fetched_utc": "2026-10-31T17:58:57.362917+00:00",
+   "bytes": 86798,
+   "sha256": "c9953c7f4a948b7141a22b4bb5a29148cb51b07eea9a3ca08c786cfd4ce0c1f7"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20130130a.htm": {
+   "fetched_utc": "2026-10-31T17:58:58.754266+00:00",
+   "bytes": 86384,
+   "sha256": "cac0c1e35cdd19a56d1278419118b24dd29891a260196d49890ad22f05ed1a90"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20130320a.htm": {
+   "fetched_utc": "2026-10-31T17:59:00.714569+00:00",
+   "bytes": 86421,
+   "sha256": "fb435c31b54f5d5e2cc04038b4db7a8e489aa0b0470b3f90fd72315b4c646259"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20130501a.htm": {
+   "fetched_utc": "2026-10-31T17:59:02.165318+00:00",
+   "bytes": 86496,
+   "sha256": "10e00ba3e403016ffe06705c54a365ceeb191f7ce925dcfe5c071e0c58a416d5"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20130619a.htm": {
+   "fetched_utc": "2026-10-31T17:59:03.388434+00:00",
+   "bytes": 86708,
+   "sha256": "a908af0fe2a61013e765d5769077e84005d9291d0ff35b1ab29093051826b0c6"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20130731a.htm": {
+   "fetched_utc": "2026-10-31T17:59:04.907825+00:00",
+   "bytes": 86684,
+   "sha256": "8b820565475cebb60c2df83d0835d5f6f6e21627822b78e3bcc6ec729ba034d1"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20130918a.htm": {
+   "fetched_utc": "2026-10-31T17:59:06.324149+00:00",
+   "bytes": 87352,
+   "sha256": "10099cb81e1876546472b28d2bb0868096944b41b4d23aad09bce00af52aa53b"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20131030a.htm": {
+   "fetched_utc": "2026-10-31T17:59:09.159076+00:00",
+   "bytes": 87221,
+   "sha256": "bdde4f578db065066ba6bffcee0151054651ea65fd00f0ab4d332df59af45ede"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20131218a.htm": {
+   "fetched_utc": "2026-10-31T17:59:11.641845+00:00",
+   "bytes": 88009,
+   "sha256": "653468bd0574761c06122711a3d31494405d8423ac5334c6bf1d9f6ef1ac8fab"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20140129a.htm": {
+   "fetched_utc": "2026-10-31T17:59:12.793505+00:00",
+   "bytes": 87934,
+   "sha256": "c691d4e6ed2ce0bffaa19a76e50d3adc04fab6df7016b8a103c7153b334ff315"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20140319a.htm": {
+   "fetched_utc": "2026-10-31T17:59:14.422990+00:00",
+   "bytes": 88230,
+   "sha256": "2b97573fe0d5f433ad9278e5defc0dcb43597fa773715902f0a7c154503e43dd"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20140430a.htm": {
+   "fetched_utc": "2026-10-31T17:59:16.022569+00:00",
+   "bytes": 87718,
+   "sha256": "f2bbf1f194afcabb0cc97c2c75e285a861cad2e523352c852fa21325c1c21641"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20140618a.htm": {
+   "fetched_utc": "2026-10-31T17:59:17.154783+00:00",
+   "bytes": 87648,
+   "sha256": "78a17b402f098f3461aaff7760b609dfe8b764d824da4d5f88898057d3fd2111"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20140730a.htm": {
+   "fetched_utc": "2026-10-31T17:59:19.744707+00:00",
+   "bytes": 88567,
+   "sha256": "f62b75129c6a562b797ea17b937f0a812cbafce84ae03bd8aa3bb9cb896718d4"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20140917a.htm": {
+   "fetched_utc": "2026-10-31T17:59:21.176924+00:00",
+   "bytes": 88296,
+   "sha256": "3226bc67cf018b63ada389d0fd7055ee9ae7f368a69f9eaed696ed8dd25abf1d"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20141029a.htm": {
+   "fetched_utc": "2026-10-31T17:59:22.819806+00:00",
+   "bytes": 87679,
+   "sha256": "07c317499bd5c8d1f08984b2f03accee68515d0c279e9c96e6d3c7861417c073"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20141217a.htm": {
+   "fetched_utc": "2026-10-31T17:59:24.588796+00:00",
+   "bytes": 87033,
+   "sha256": "8c41f58d985eed2a47e8d1a055638535527567326364f35761ee2d7ffdfbe7f7"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20150128a.htm": {
+   "fetched_utc": "2026-10-31T17:59:25.888397+00:00",
+   "bytes": 86034,
+   "sha256": "49e03e8d093a11932c6694cc41abc5e15a4720adefcb03c4e96c5392918c38c3"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20150318a.htm": {
+   "fetched_utc": "2026-10-31T17:59:26.993619+00:00",
+   "bytes": 85947,
+   "sha256": "40b1aae3c7b386046188ae03137a5008e42c934709292a719f4ac38f6bb24a7b"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20150429a.htm": {
+   "fetched_utc": "2026-10-31T17:59:28.447658+00:00",
+   "bytes": 85838,
+   "sha256": "111680a3b75125d183c3772ab8b08637d5e066a01fb741f6ccff9723ec5d8c85"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20150617a.htm": {
+   "fetched_utc": "2026-10-31T17:59:29.839900+00:00",
+   "bytes": 85694,
+   "sha256": "4ade4e49a4dad6001fd561a81c992b91959fa2322dbd076ac2489a0f82136e53"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20150729a.htm": {
+   "fetched_utc": "2026-10-31T17:59:31.240915+00:00",
+   "bytes": 85663,
+   "sha256": "2a807ee6a33301aa3552482ace05f8fc80a1c9d6039a0fbc9a2ee455ce5aaece"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20150917a.htm": {
+   "fetched_utc": "2026-10-31T17:59:32.384484+00:00",
+   "bytes": 85964,
+   "sha256": "038e91cc5be3276ffff70f2c103884281a06692913ed94c1d26d14eac26dcd7f"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20151028a.htm": {
+   "fetched_utc": "2026-10-31T17:59:33.758152+00:00",
+   "bytes": 85874,
+   "sha256": "f675a6d33801431c0dcd30b0f0008678e12f97cac01597722d3185de7ccb1271"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20151216a.htm": {
+   "fetched_utc": "2026-10-31T17:59:35.423490+00:00",
+   "bytes": 85902,
+   "sha256": "01fcb737d32874257b07557fd44ca00d39a78966a9994f9ed9b6da0c395f0bd3"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20160127a.htm": {
+   "fetched_utc": "2026-10-31T17:59:37.350122+00:00",
+   "bytes": 85761,
+   "sha256": "338915135f95975532e99ed2ded8ca61832a86267c84f6b6152288468c0d784f"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20160316a.htm": {
+   "fetched_utc": "2026-10-31T17:59:38.629885+00:00",
+   "bytes": 85819,
+   "sha256": "4120735d63f11932d68f11a4bc9545cecfb653fa1745abdd86086bbac61e2498"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20160427a.htm": {
+   "fetched_utc": "2026-10-31T17:59:40.411649+00:00",
+   "bytes": 85845,
+   "sha256": "28a3da610a70fdb430fb407fd5867f8cec9f092a973f1ad94b0f75225c25c976"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20160615a.htm": {
+   "fetched_utc": "2026-10-31T17:59:41.743741+00:00",
+   "bytes": 85615,
+   "sha256": "555fe256978d07b4485a2c946b97740aaa79889897e3aa71b78fbe9cb36430de"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20160727a.htm": {
+   "fetched_utc": "2026-10-31T17:59:42.877984+00:00",
+   "bytes": 85759,
+   "sha256": "9264fcce2f3f6f90b85994c2752af957bee88b8ca76f0835a081fbb56aefd1c5"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20160921a.htm": {
+   "fetched_utc": "2026-10-31T17:59:43.972177+00:00",
+   "bytes": 85975,
+   "sha256": "139633b5732d1d7174b956315f6628aae1859e2baf96e782efa1d931902b6963"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20161102a.htm": {
+   "fetched_utc": "2026-10-31T17:59:45.921011+00:00",
+   "bytes": 85947,
+   "sha256": "9a4a90a06f6e122c6b3730dfb9bd2620c294e949fe327fdc3c8b6a21ee3b4028"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20161214a.htm": {
+   "fetched_utc": "2026-10-31T17:59:47.600390+00:00",
+   "bytes": 85606,
+   "sha256": "c427d9e326cc18afd93ccd0bf2f2d1313b2be56421444d2e26a3c8e6e9451e52"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20170201a.htm": {
+   "fetched_utc": "2026-10-31T17:59:50.278333+00:00",
+   "bytes": 86054,
+   "sha256": "f5e8ac5bd9feb025f0a9b2ea82ad5356852ac892c781f6ed15608c3bb8f00f07"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20170315a.htm": {
+   "fetched_utc": "2026-10-31T17:59:51.616661+00:00",
+   "bytes": 85789,
+   "sha256": "70094f6434667e9fc73e0d3e305d5cb539518c0d683471669d372ba8678c30d7"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20170503a.htm": {
+   "fetched_utc": "2026-10-31T17:59:53.968877+00:00",
+   "bytes": 85770,
+   "sha256": "2758c385aa60da2e7411d46557051f84be1bd3d68f3852ecea7f1e42783371ad"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20170614a.htm": {
+   "fetched_utc": "2026-10-31T17:59:55.643275+00:00",
+   "bytes": 85966,
+   "sha256": "1896747f16206fe9f74954304e0abf8ba275437726920621f335145ab217a754"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20170726a.htm": {
+   "fetched_utc": "2026-10-31T17:59:56.750330+00:00",
+   "bytes": 85654,
+   "sha256": "6608da2f2016eaf5d86ee6b1196898541ec68799df2ffcc203b8273a544e12c3"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20170920a.htm": {
+   "fetched_utc": "2026-10-31T17:59:58.232145+00:00",
+   "bytes": 85830,
+   "sha256": "7bec6b18f2cc7d2946508613c50467cba1917ba884443d3fb76945cb85fedc6a"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20171101a.htm": {
+   "fetched_utc": "2026-10-31T17:59:59.571621+00:00",
+   "bytes": 85710,
+   "sha256": "b6b49e98c531f93df8baabd4c2ba449eb25e5061250ee387454f96dd9522fa5b"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20171213a.htm": {
+   "fetched_utc": "2026-10-31T18:00:02.502333+00:00",
+   "bytes": 85489,
+   "sha256": "51f21859a2e9d1e712cc1c831f5c36577e1efbbc49adb471f43be6fe66ed945f"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20180131a.htm": {
+   "fetched_utc": "2026-10-31T18:00:03.605296+00:00",
+   "bytes": 85030,
+   "sha256": "c06a07226939c79a3193c18645bdee3360a7b2acdfeeb86a5c0ff12fc1a89995"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20180321a.htm": {
+   "fetched_utc": "2026-10-31T18:00:04.746405+00:00",
+   "bytes": 85191,
+   "sha256": "0711737f5e93b2cdb61a847db69e958139da8a4d8864b5007f870d345cb5ec31"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20180502a.htm": {
+   "fetched_utc": "2026-10-31T18:00:05.924816+00:00",
+   "bytes": 85007,
+   "sha256": "8d7b97a0e6bf008c966274e8d4da34509dd270092fb0688ebe1afa24cd6b61c1"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20180613a.htm": {
+   "fetched_utc": "2026-10-31T18:00:07.114939+00:00",
+   "bytes": 84369,
+   "sha256": "dc27b3465d1a218c2f5675c9bd29871ed83b4b8c01804840bbd4d4d2518a2356"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20180801a.htm": {
+   "fetched_utc": "2026-10-31T18:00:08.824575+00:00",
+   "bytes": 84310,
+   "sha256": "bb745fee0a1620f156e24e53eb722e9c4594684ccba6a201d3a0eb2207a807a0"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20180926a.htm": {
+   "fetched_utc": "2026-10-31T18:00:10.517520+00:00",
+   "bytes": 84189,
+   "sha256": "6c9002d168d9a2795c16378998a272b787b8d19f07e8c1044fd539f01a86b20d"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20181108a.htm": {
+   "fetched_utc": "2026-10-31T18:00:12.789559+00:00",
+   "bytes": 84263,
+   "sha256": "85966ed0905e2aebf1c411908207d7a9a94335453e50697fa574a3ea9bf99e1b"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20181219a.htm": {
+   "fetched_utc": "2026-10-31T18:00:14.175997+00:00",
+   "bytes": 84450,
+   "sha256": "87032dd9bfa19ca394694c3c88d449f78985e4dd706220e54dbd951e47b49d92"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20190130a.htm": {
+   "fetched_utc": "2026-10-31T18:00:15.356115+00:00",
+   "bytes": 84436,
+   "sha256": "a82f508017e86328940ae38c6bf7634738c98cc8486d1ee4d8512f05158b6d75"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20190320a.htm": {
+   "fetched_utc": "2026-10-31T18:00:16.489788+00:00",
+   "bytes": 84529,
+   "sha256": "d98e8d8ad07135ce31fa633356cdcf5ef91bdfee110c2ad10b18d0fb9b412a0b"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20190501a.htm": {
+   "fetched_utc": "2026-10-31T18:00:17.964083+00:00",
+   "bytes": 84359,
+   "sha256": "6fd4936248110324380e511e143eb886148892b626fbf18d77791bb812c217c8"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20190619a.htm": {
+   "fetched_utc": "2026-10-31T18:00:19.081636+00:00",
+   "bytes": 84601,
+   "sha256": "b5d13a2d644e7f1eb8fac6909e0aa75ea291e39ee6005b86101e2def9f0d3732"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20190731a.htm": {
+   "fetched_utc": "2026-10-31T18:00:20.637726+00:00",
+   "bytes": 84889,
+   "sha256": "27f8dfd0fb52f34bca9bab84a69837f44365959ea36e45d54ea63618bf00986e"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20190918a.htm": {
+   "fetched_utc": "2026-10-31T18:00:21.759134+00:00",
+   "bytes": 84785,
+   "sha256": "cfc1ef8f553cbf9e5a3e38f7d2dacf8c085bfa821226d4ea5f9125f7f6584dc4"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20191011a.htm": {
+   "fetched_utc": "2026-10-31T18:00:23.562357+00:00",
+   "bytes": 88053,
+   "sha256": "7569ec422ed2669e85bc11d88b25a29d8429c3899b16090e179767348a497f93"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20191030a.htm": {
+   "fetched_utc": "2026-10-31T18:00:25.028748+00:00",
+   "bytes": 84556,
+   "sha256": "a9f8134bd40dd23766acf5845fae6b67e4b654493f9f1b2e3eae2e547bd82103"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20191211a.htm": {
+   "fetched_utc": "2026-10-31T18:00:26.421474+00:00",
+   "bytes": 84354,
+   "sha256": "540f39b0dc57c5c6cff7e7db59cc32426d63bdaab54482892e68fac7ca571c01"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20200129a.htm": {
+   "fetched_utc": "2026-10-31T18:00:28.176378+00:00",
+   "bytes": 84360,
+   "sha256": "fec1b1f12f8e7ddb63de5c504a0d1fab8cf320adb0edda53a6f05e9afd761514"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20200303a.htm": {
+   "fetched_utc": "2026-10-31T18:00:30.802933+00:00",
+   "bytes": 83059,
+   "sha256": "2221a869f3b3a439e461651303d49acfbf6f6a00068c3952e6fc4b6f3fb542d7"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20200315a.htm": {
+   "fetched_utc": "2026-10-31T18:00:32.143802+00:00",
+   "bytes": 87435,
+   "sha256": "f3d47ec159f311014efd95f432353b8a52043306f41d8967ac58090995e03b03"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20200323a.htm": {
+   "fetched_utc": "2026-10-31T18:00:35.447584+00:00",
+   "bytes": 87308,
+   "sha256": "43810c27f4cd0e99f9f06cba043c517f7cd671bdc803f20dbe50a11ebbef5f59"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20200331a.htm": {
+   "fetched_utc": "2026-10-31T18:00:36.613206+00:00",
+   "bytes": 84850,
+   "sha256": "32d6a8df82caba64257d90d976fc4b3c1a29e755705ac706d95b963692dd830f"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20200429a.htm": {
+   "fetched_utc": "2026-10-31T18:00:38.553116+00:00",
+   "bytes": 85081,
+   "sha256": "43019ca790ec754873a70e7f6610e264c98895da69f6c95e0cb45ee16f5fca43"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20200610a.htm": {
+   "fetched_utc": "2026-10-31T18:00:40.192038+00:00",
+   "bytes": 85077,
+   "sha256": "8082b983498076b4064bbde619a6c5b6277c3aede81d57388b1af5ef77b9366a"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20200729a.htm": {
+   "fetched_utc": "2026-10-31T18:00:42.136613+00:00",
+   "bytes": 85217,
+   "sha256": "39ca15c527f9b290abb60336649bf0d986722bc9ba47858a35652c9227f6c46c"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20200827a.htm": {
+   "fetched_utc": "2026-10-31T18:00:44.238166+00:00",
+   "bytes": 88211,
+   "sha256": "c9d2609fd643281939c484c93001d656ee22b0ef8d966df4c7dd70171f97a7df"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20200916a.htm": {
+   "fetched_utc": "2026-10-31T18:00:47.966725+00:00",
+   "bytes": 85835,
+   "sha256": "273b01f65e6b0b12ad1075bafe83e8039ef7c2481fccbb23a0250bb35f8eb7b2"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20201105a.htm": {
+   "fetched_utc": "2026-10-31T18:00:49.172227+00:00",
+   "bytes": 85294,
+   "sha256": "08a868da5dc828b102acfd32cddda71b7cb02f19bb87ee4ccc7d82859299868b"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20201216a.htm": {
+   "fetched_utc": "2026-10-31T18:00:50.893662+00:00",
+   "bytes": 85405,
+   "sha256": "67f3ee2000f8944099899433d78aeb0778413f6c8cd32fd00a63c08f2d465bf3"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20210127a.htm": {
+   "fetched_utc": "2026-10-31T18:00:52.315856+00:00",
+   "bytes": 85476,
+   "sha256": "e5ddfc7be3c78caa549ce21cab2c5cdae78947e16da25d3e4a01ed37ccd27a99"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20210317a.htm": {
+   "fetched_utc": "2026-10-31T18:00:53.521973+00:00",
+   "bytes": 85438,
+   "sha256": "61c08501f61513e6fb22c26d50b0511588715768e3905bbd789de1dfc3f39b0d"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20210428a.htm": {
+   "fetched_utc": "2026-10-31T18:00:54.630923+00:00",
+   "bytes": 85426,
+   "sha256": "083f310c1d995f7c93343a7886c8064d80307e34c1b6364b607644b951c641ba"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20210616a.htm": {
+   "fetched_utc": "2026-10-31T18:00:56.000290+00:00",
+   "bytes": 85386,
+   "sha256": "9045ccb86ba2c9fa0339547a242cf766aeed08c98d46a6b7d35961029abad7fd"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20210728a.htm": {
+   "fetched_utc": "2026-10-31T18:00:58.322726+00:00",
+   "bytes": 85469,
+   "sha256": "25e7440e2de3ba3928acd00cc3252d8c737cdde4c76f4e8ef44bf695bffe7bfd"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20210922a.htm": {
+   "fetched_utc": "2026-10-31T18:00:59.730667+00:00",
+   "bytes": 85588,
+   "sha256": "1271e32d877c819fcb6468b4cc51645a53f23ae8b49717b2615cf96dbe6134b7"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20211103a.htm": {
+   "fetched_utc": "2026-10-31T18:01:00.835021+00:00",
+   "bytes": 86267,
+   "sha256": "93f7970b895438b740539e7ce28bd8ca14de467e7f44f25e225db17e8c4420b1"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20211215a.htm": {
+   "fetched_utc": "2026-10-31T18:01:02.493984+00:00",
+   "bytes": 85663,
+   "sha256": "939a3ca99331999120476731777d49faf0ea5766e135897874c8bb1fbe58affb"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20220126a.htm": {
+   "fetched_utc": "2026-10-31T18:01:04.604896+00:00",
+   "bytes": 85028,
+   "sha256": "e0d724ae472c4ea40cb269609a9dc10c8adc9fa71c121c8363c3f354d84064aa"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20220316a.htm": {
+   "fetched_utc": "2026-10-31T18:01:06.483761+00:00",
+   "bytes": 84521,
+   "sha256": "db661b8f9e514edb492db1623356c8f3d299fae7611d561dfc4c69a872d5f1fd"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20220504a.htm": {
+   "fetched_utc": "2026-10-31T18:01:07.570183+00:00",
+   "bytes": 85036,
+   "sha256": "abc3da2d0589416f616c82fe05a5a969d05c540cee564334c5fe10441e19f103"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20220615a.htm": {
+   "fetched_utc": "2026-10-31T18:01:08.945011+00:00",
+   "bytes": 84666,
+   "sha256": "75f3299a92cb5eb2461a7bec4064e00a6cdcb37889d88d9f6f3c0f8d2beea61c"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20220727a.htm": {
+   "fetched_utc": "2026-10-31T18:01:10.154265+00:00",
+   "bytes": 84327,
+   "sha256": "3fde2a2b1cd896001afe65a7a704b1ddaa02c5ceacf196381a48e5f35185f515"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20220921a.htm": {
+   "fetched_utc": "2026-10-31T18:01:13.803297+00:00",
+   "bytes": 84334,
+   "sha256": "9472e81e42ece8eadb1f89c254932242388584b5a7c9b91111e62cb29912b7d9"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20221102a.htm": {
+   "fetched_utc": "2026-10-31T18:01:15.942766+00:00",
+   "bytes": 84968,
+   "sha256": "9f4f8cd6b457e86001b9e2cce0d612f836daddbb5d67faafb09aab11876ccc3e"
+  },
+  "https://www.federalreserve.gov/newsevents/pressreleases/monetary20221214a.htm": {
+   "fetched_utc": "2026-10-31T18:01:17.702701+00:00",
+   "bytes": 84969,
+   "sha256": "094400b678eb83e257d2f75c9c2cdd30ec791c8440000950e7f9b16ce93354bb"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=0": {
+   "fetched_utc": "2026-10-31T18:17:48.802086+00:00",
+   "bytes": 48111,
+   "sha256": "36795de7a349b63f589e47f78245901524021ffb3b26815e771bc6eff9689afa"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=1": {
+   "fetched_utc": "2026-10-31T18:17:51.306229+00:00",
+   "bytes": 73971,
+   "sha256": "89dbac34cd796be23dce8af0938aa51b54d97d9fe6fee26742866872de981ffa"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=2": {
+   "fetched_utc": "2026-10-31T18:17:53.775319+00:00",
+   "bytes": 57810,
+   "sha256": "3f01e4591366c5a2bb74bd184d94f03c22a41ded5c637c85f780aa0bb49bc424"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=3": {
+   "fetched_utc": "2026-10-31T18:17:56.265019+00:00",
+   "bytes": 61667,
+   "sha256": "a7daa3cf35bca73356dea3968cbdb1fd53803a67acd9dae5b95242afb4f4a5f5"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=4": {
+   "fetched_utc": "2026-10-31T18:17:57.875297+00:00",
+   "bytes": 75191,
+   "sha256": "e419d3c5328733402bd78a5e8b408cf37eb532a9ab0703442094bbffe1e41100"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=5": {
+   "fetched_utc": "2026-10-31T18:18:00.297763+00:00",
+   "bytes": 48570,
+   "sha256": "98a5dfaf93e7d1402ca2921d2d4363612a3d391bfe8d9d253f129acee4439e5b"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=6": {
+   "fetched_utc": "2026-10-31T18:18:02.837888+00:00",
+   "bytes": 75009,
+   "sha256": "8c9a7010b66277bd79148e0432702bd2dd901dd5bf66157e992fe442010c147b"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=7": {
+   "fetched_utc": "2026-10-31T18:18:05.310620+00:00",
+   "bytes": 62260,
+   "sha256": "abb9acfa9b755508faf18fdf2dccdb5c9cefc04e6edfb223117aec1684b50883"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=8": {
+   "fetched_utc": "2026-10-31T18:18:07.789056+00:00",
+   "bytes": 62319,
+   "sha256": "573ecd4df9522cc3d2d71bc449242a53226a7d807ba5adc51ce1aa765d562074"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=9": {
+   "fetched_utc": "2026-10-31T18:18:10.347956+00:00",
+   "bytes": 78955,
+   "sha256": "5e42b80f6d90a8b59cf7dbfdd55aa62ab0af9994dc1b3ff6a52608dbeeb967f1"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=10": {
+   "fetched_utc": "2026-10-31T18:18:12.801903+00:00",
+   "bytes": 48916,
+   "sha256": "83761ad0c9c9eefa3b43b8d2edd8238d8a3c2a69d41307947236d0e4cf59bb1c"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=11": {
+   "fetched_utc": "2026-10-31T18:18:15.335047+00:00",
+   "bytes": 76252,
+   "sha256": "a3e45ea4110aa988a36ba1dd54a4ce2d983a7cd9b25889b5a453bda14d532c55"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=12": {
+   "fetched_utc": "2026-10-31T18:18:16.858281+00:00",
+   "bytes": 48938,
+   "sha256": "68a741951d6e55a0204743bf047dece81a2705a6b5d7db5abe33eae74636bf31"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=13": {
+   "fetched_utc": "2026-10-31T18:18:19.438263+00:00",
+   "bytes": 83833,
+   "sha256": "e344a3b09a86452ad79e6d1cb7c282d2e444704427ba9730a8b3c1db67005872"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=14": {
+   "fetched_utc": "2026-10-31T18:18:20.913631+00:00",
+   "bytes": 65737,
+   "sha256": "c767fb5dbb484660aea8f64e2ee9c390247cf7a4b9fd6cd8a2845d28c5d4ed9c"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=15": {
+   "fetched_utc": "2026-10-31T18:18:23.356258+00:00",
+   "bytes": 57110,
+   "sha256": "cc87e42eba538d2a948bbbe78df0b66a931fd3cacb7214d22777cea8106b35c8"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=16": {
+   "fetched_utc": "2026-10-31T18:18:25.902606+00:00",
+   "bytes": 80143,
+   "sha256": "12539c2a697014a21da75db252d1d7c95c398e2c5e75cda2fa7707a9425b822b"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=17": {
+   "fetched_utc": "2026-10-31T18:18:28.348545+00:00",
+   "bytes": 49146,
+   "sha256": "6ce5973526cb2a0a0741fd218857039a77708f1ceb5eaa6b3c89104250adca42"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=18": {
+   "fetched_utc": "2026-10-31T18:18:29.890537+00:00",
+   "bytes": 70633,
+   "sha256": "368a7eca7c4e59015677302c171bb2fb14d59eebdaade8ca385dfeb901460272"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=19": {
+   "fetched_utc": "2026-10-31T18:18:32.378380+00:00",
+   "bytes": 60921,
+   "sha256": "49952f0002bef2b17704c6ca4bd4e529480745952f71d02d0c0a2ad7a0956adf"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=20": {
+   "fetched_utc": "2026-10-31T18:18:34.864193+00:00",
+   "bytes": 65586,
+   "sha256": "5c7a99f76c9cfb38bc648c53d536810009008bf9ca0d8ef5f5815943df8c1ca6"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=21": {
+   "fetched_utc": "2026-10-31T18:18:37.611195+00:00",
+   "bytes": 56901,
+   "sha256": "3cdf4c457a72b9dc73f2b138ea0e0c9c3b61468dd7b72d90be14d35487b0019d"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=22": {
+   "fetched_utc": "2026-10-31T18:18:40.043756+00:00",
+   "bytes": 48829,
+   "sha256": "c577cd6ed16db407c9ae40197c2da8fff8f8e9abdc7f90240c4632ae1fbfe715"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=23": {
+   "fetched_utc": "2026-10-31T18:18:42.541061+00:00",
+   "bytes": 65089,
+   "sha256": "40341a861608773e36914a2afeeb2e20c62f42644acaa87a16751a0af4933526"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=24": {
+   "fetched_utc": "2026-10-31T18:18:44.988043+00:00",
+   "bytes": 51037,
+   "sha256": "2245ed13a6de4ba2211144b944551f36f1a518962c425ad17e5f7cead5cc6a7f"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=25": {
+   "fetched_utc": "2026-10-31T18:18:47.408779+00:00",
+   "bytes": 49094,
+   "sha256": "b6a40623dbb7e53a36eac857319f6e958438b43d5bbca3b625ed051920c84c02"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=26": {
+   "fetched_utc": "2026-10-31T18:18:49.832442+00:00",
+   "bytes": 49038,
+   "sha256": "e42ab73affe55a97d6c29921540d18fa3d379f4e61a070bc759ea08ee6c3a078"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=27": {
+   "fetched_utc": "2026-10-31T18:18:52.262142+00:00",
+   "bytes": 48940,
+   "sha256": "aaf71dfac2eaa4d90edef3219bdd3080b9f5cdbcf251250f6df0c3c9c341517a"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=28": {
+   "fetched_utc": "2026-10-31T18:18:54.698980+00:00",
+   "bytes": 48949,
+   "sha256": "b9340ffbe74adbe5dea668ca573507bb0e07c9b90e5e4022e6085f2e06c007bd"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=29": {
+   "fetched_utc": "2026-10-31T18:18:57.130000+00:00",
+   "bytes": 49087,
+   "sha256": "4c53af8f82f0e26993e3bd8b8bb570bcfd4aa2a5ddee3e7be8428dcb534336f5"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=30": {
+   "fetched_utc": "2026-10-31T18:18:58.630775+00:00",
+   "bytes": 48638,
+   "sha256": "788a7d748b44ee4e6f4f26bc7da08615b33dbd66c88ad9d90a4aee50de2b5697"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=31": {
+   "fetched_utc": "2026-10-31T18:19:01.048131+00:00",
+   "bytes": 48989,
+   "sha256": "03c44eaca14cc86d67c74d8139edf5a7fb93845b36a33bccf904b72d80cfc25b"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=32": {
+   "fetched_utc": "2026-10-31T18:19:02.489736+00:00",
+   "bytes": 48695,
+   "sha256": "503421b0330ac75d049d1e44e254321040cbcea598b1cd6b32a3dc161647bfdf"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=33": {
+   "fetched_utc": "2026-10-31T18:19:03.924749+00:00",
+   "bytes": 48323,
+   "sha256": "4cfedf994256db2fb75685bc36e3271f0b5227218b4d7938fc3f6b0671aa5512"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=34": {
+   "fetched_utc": "2026-10-31T18:19:06.338182+00:00",
+   "bytes": 48543,
+   "sha256": "232beba2ee3f917446549a4733b53a3da1225de4a803be4fee866ad957cbc1b4"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=35": {
+   "fetched_utc": "2026-10-31T18:19:08.733675+00:00",
+   "bytes": 48408,
+   "sha256": "9fa25921042ed0151388002448b049e667d6ca0178ab5ab4a194a33c06bf9e93"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=36": {
+   "fetched_utc": "2026-10-31T18:19:11.155121+00:00",
+   "bytes": 48613,
+   "sha256": "8021a40c4b2e1f686668e4b23623c0d836218c83ad01b2c423f4270da6c9f823"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=37": {
+   "fetched_utc": "2026-10-31T18:19:12.681591+00:00",
+   "bytes": 48863,
+   "sha256": "30494a20e09666fc142a89ce7ea4fd31069e16899667ba3e53cfaaedd02f9539"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=38": {
+   "fetched_utc": "2026-10-31T18:19:15.087149+00:00",
+   "bytes": 48804,
+   "sha256": "e1ae14f13ed477367a6960c2c0c2acf58fd01226ccc0baff62ba43b859f8d679"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=39": {
+   "fetched_utc": "2026-10-31T18:19:17.499546+00:00",
+   "bytes": 48721,
+   "sha256": "5a3a9c0e31fc720c4bf20d099926c3246bdb4f750d609ff1b63c9529caa06c12"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=40": {
+   "fetched_utc": "2026-10-31T18:19:20.224847+00:00",
+   "bytes": 48575,
+   "sha256": "f80a6c2be95f4ed3bf8413933595e127acf3262611b17aff657227dabc2b9459"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=41": {
+   "fetched_utc": "2026-10-31T18:19:23.048913+00:00",
+   "bytes": 48750,
+   "sha256": "f94093686480630e6a0d206fcb1bea244872677de9a7e00694e2dfdda7b58078"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=42": {
+   "fetched_utc": "2026-10-31T18:19:25.797279+00:00",
+   "bytes": 48426,
+   "sha256": "4291b2e45549ee7db506ea9405347ce663b842e1e48683f6f607bd20ba0f11ee"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=43": {
+   "fetched_utc": "2026-10-31T18:19:28.545938+00:00",
+   "bytes": 48629,
+   "sha256": "f9a26e8ec29c5ee1a1a411e01d61d1e2caf94c6049997c0cd1dbdd3e441a8873"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=44": {
+   "fetched_utc": "2026-10-31T18:19:31.293695+00:00",
+   "bytes": 48840,
+   "sha256": "51438797069790b5fd6a2d2086f44f619de7edc4b90ff38cbddae22fd2d911d7"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=45": {
+   "fetched_utc": "2026-10-31T18:19:34.051904+00:00",
+   "bytes": 48576,
+   "sha256": "12838b03d18d2fe5b85b23c4793fd257d1bd5fd5be2bcc16bd3954359dd709d6"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=46": {
+   "fetched_utc": "2026-10-31T18:19:36.747556+00:00",
+   "bytes": 48663,
+   "sha256": "c03c06da89acad14f9e876bdcbb3842a36c2d369dd703ba54cec2bf8429a6ad2"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=47": {
+   "fetched_utc": "2026-10-31T18:19:39.388665+00:00",
+   "bytes": 48537,
+   "sha256": "bade335e8d1bfda3fc65b065ec1a95f4e96c47aa7b2f45a23ac71cd7e4152353"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=48": {
+   "fetched_utc": "2026-10-31T18:19:41.094275+00:00",
+   "bytes": 40004,
+   "sha256": "a875e94e09cbbc3d2682c2d039c8ef4cd5a2fb087dc7970b754c067d5c4c2181"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=49": {
+   "fetched_utc": "2026-10-31T18:19:43.599463+00:00",
+   "bytes": 34351,
+   "sha256": "7bfb101141d93cf6e5e419baa44f4d45b8ff01aa2afe241baee2f07d4c64ec32"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=50": {
+   "fetched_utc": "2026-10-31T18:19:45.233783+00:00",
+   "bytes": 34351,
+   "sha256": "6de876ef920ff66a2180864e69d86e9135377e535c5d77c184a14c89cfbcf2ad"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=51": {
+   "fetched_utc": "2026-10-31T18:19:47.765303+00:00",
+   "bytes": 34351,
+   "sha256": "50c303aa784660f3cb83d41f4ff1b0aafd262baee56908ca88dd0ef738cadbe5"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=52": {
+   "fetched_utc": "2026-10-31T18:19:50.301426+00:00",
+   "bytes": 34351,
+   "sha256": "c38121cc477595fd582e4c3aa6d6dd173af826ad2e6260e6a6d19df3c6a3a09d"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=53": {
+   "fetched_utc": "2026-10-31T18:19:51.927574+00:00",
+   "bytes": 34351,
+   "sha256": "209700be95b922feedee21eb93ba78f0c12193a4c800f55b963a57311bf7cf9e"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=54": {
+   "fetched_utc": "2026-10-31T18:19:54.441482+00:00",
+   "bytes": 34351,
+   "sha256": "6b2dd91fa13ea45d8a3670c4443913f54d507453497502ac7a85a169b05b36d3"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=55": {
+   "fetched_utc": "2026-10-31T18:19:56.944644+00:00",
+   "bytes": 34351,
+   "sha256": "fea23942f65aa43360263077fa9ef5e53603213a26ed46ff1e2bbaf0c534ecf9"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=56": {
+   "fetched_utc": "2026-10-31T18:19:59.432549+00:00",
+   "bytes": 34351,
+   "sha256": "c056fad33142c7da33aaa77bce65477ccaee8c620235f0e49be6bc37eab5ec82"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=57": {
+   "fetched_utc": "2026-10-31T18:20:01.054371+00:00",
+   "bytes": 34351,
+   "sha256": "bd2052d564359ce1d6e8fbb152ad2001bc681da96b4e4d9a4961dafe78d0be81"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=58": {
+   "fetched_utc": "2026-10-31T18:20:03.558673+00:00",
+   "bytes": 34351,
+   "sha256": "b0d15d95d62c5879faf29b640d0130c5529a8a1f061368210fda26335b55903d"
+  },
+  "https://www.bea.gov/taxonomy/term/451?page=59": {
+   "fetched_utc": "2026-10-31T18:20:06.074492+00:00",
+   "bytes": 34351,
+   "sha256": "cdb07ac03302c2b265382572f8bb878c052a10e72e582e6351df926e960e347e"
+  }
+ },
+ "approved": "owner 2026-11-01 00:35 ICT",
+ "truncated_at": "2022-12-31"
+}

@@ -1,0 +1,591 @@
+{
+  "status": "PASS",
+  "row": {
+    "spec": {
+      "id": "C_prior_abnormal_day",
+      "paper_doi": "10.1007/s11408-021-00380-w",
+      "timezone": "UTC+03:00",
+      "reference_valid_days": 60,
+      "z_threshold": 2.0,
+      "minimum_daily_quotes": 1000,
+      "first_minute_max": 120,
+      "last_minute_min": 1320,
+      "expiry_minute": 360,
+      "minimum_scale": 0.5,
+      "direction": "opposite previous calendar day return",
+      "stop": "disabled",
+      "target": "disabled"
+    },
+    "results": {
+      "primary": {
+        "fixed": {
+          "metrics": {
+            "net": 23609.788949996582,
+            "closed_net": 23609.788949996582,
+            "gross_wins": 61383.89784999835,
+            "gross_losses": 37774.10890000176,
+            "profit_factor": 1.6250257024592707,
+            "trades": 74,
+            "overlap_count": 9,
+            "overlap": 0.12162162162162163,
+            "dd": 17861.290700000405,
+            "dd_pct": 14.988009358573462,
+            "lowest": 97440.0651499993,
+            "net_2014_2016": 605.833799998265,
+            "daily_t": 1.2143141797172667,
+            "market_close_crossings": 0,
+            "session_crossings": 0,
+            "late_cutoff_exits": 0,
+            "trades_spanning_data_gap": 0,
+            "open_positions": 0,
+            "combined_net": 377415.0396498891,
+            "combined_dd": 29686.869300000224,
+            "combined_dd_pct": 11.834036782673058,
+            "combined_lowest": 99261.45009999996,
+            "lot05": {
+              "net": 118048.94474998291,
+              "dd": 89306.45350000207,
+              "dd_pct": 49.623144907947676,
+              "lowest": 87200.3257499965,
+              "combined_net": 1887075.1982494455,
+              "combined_dd": 148434.34650000103,
+              "combined_dd_pct": 27.56655944648599,
+              "combined_lowest": 96307.25049999979
+            },
+            "example_net": 22110.40094999747,
+            "historical_net": 15008.063399999228,
+            "eligible": true,
+            "checks": {
+              "net_positive": true,
+              "profit_factor_above_one": true,
+              "natural_overlap": true,
+              "minimum_trades": true,
+              "recent_positive": true,
+              "example_cost_positive": true,
+              "no_close_crossings": true,
+              "no_session_crossings": true,
+              "no_terminal_position": true,
+              "positive_equity_C_and_combined": true
+            },
+            "failed": []
+          },
+          "annual": {
+            "2010": {
+              "net": 6446.355299999906,
+              "end_equity": 106446.35529999991,
+              "dd": 4126.0185999999485,
+              "trades": 11
+            },
+            "2011": {
+              "net": 13733.583599999121,
+              "end_equity": 120179.93889999902,
+              "dd": 17179.136700000112,
+              "trades": 16
+            },
+            "2012": {
+              "net": -2036.668700000293,
+              "end_equity": 118143.27019999873,
+              "dd": 4196.091350000093,
+              "trades": 7
+            },
+            "2013": {
+              "net": 4860.684949999584,
+              "end_equity": 123003.95514999832,
+              "dd": 14926.340000000018,
+              "trades": 10
+            },
+            "2014": {
+              "net": 1372.075099999267,
+              "end_equity": 124376.03024999758,
+              "dd": 3510.898050000098,
+              "trades": 11
+            },
+            "2015": {
+              "net": -1294.7418000007128,
+              "end_equity": 123081.28844999688,
+              "dd": 4936.329750000023,
+              "trades": 13
+            },
+            "2016": {
+              "net": 528.5004999997109,
+              "end_equity": 123609.78894999658,
+              "dd": 2753.6057999999975,
+              "trades": 6
+            }
+          }
+        },
+        "example": {
+          "metrics": {
+            "net": 22110.40094999747,
+            "closed_net": 22110.40094999749,
+            "gross_wins": 60536.94624999893,
+            "gross_losses": 38426.54530000143,
+            "profit_factor": 1.5753939308719662,
+            "trades": 74,
+            "overlap_count": 9,
+            "overlap": 0.12162162162162163,
+            "dd": 18104.434700000274,
+            "dd_pct": 15.071321333157211,
+            "lowest": 97034.82514999954,
+            "net_2014_2016": -2.0262000013681245,
+            "daily_t": 1.1377858023618235,
+            "market_close_crossings": 0,
+            "session_crossings": 0,
+            "late_cutoff_exits": 0,
+            "trades_spanning_data_gap": 0,
+            "open_positions": 0,
+            "combined_net": 375915.65164989,
+            "combined_dd": 29686.869300000224,
+            "combined_dd_pct": 11.839170721177663,
+            "combined_lowest": 99261.45009999996,
+            "lot05": {
+              "net": 110552.00474998736,
+              "dd": 90522.17350000137,
+              "dd_pct": 50.26979758331499,
+              "lowest": 85174.1257499977,
+              "combined_net": 1879578.25824945,
+              "combined_dd": 148434.34650000103,
+              "combined_dd_pct": 27.594433524615276,
+              "combined_lowest": 96307.25049999979
+            }
+          },
+          "annual": {
+            "2010": {
+              "net": 6223.473300000038,
+              "end_equity": 106223.47330000004,
+              "dd": 4207.066599999902,
+              "trades": 11
+            },
+            "2011": {
+              "net": 13409.391599999311,
+              "end_equity": 119632.86489999935,
+              "dd": 17219.660700000088,
+              "trades": 16
+            },
+            "2012": {
+              "net": -2178.502700000212,
+              "end_equity": 117454.36219999913,
+              "dd": 4256.877350000061,
+              "trades": 7
+            },
+            "2013": {
+              "net": 4658.064949999702,
+              "end_equity": 122112.42714999884,
+              "dd": 14926.340000000018,
+              "trades": 10
+            },
+            "2014": {
+              "net": 1149.1930999994001,
+              "end_equity": 123261.62024999823,
+              "dd": 3551.422050000074,
+              "trades": 11
+            },
+            "2015": {
+              "net": -1558.1478000005518,
+              "end_equity": 121703.47244999769,
+              "dd": 4956.5917500000105,
+              "trades": 13
+            },
+            "2016": {
+              "net": 406.9284999997835,
+              "end_equity": 122110.40094999748,
+              "dd": 2753.6057999999975,
+              "trades": 6
+            }
+          }
+        },
+        "historical": {
+          "metrics": {
+            "net": 15008.063399999228,
+            "closed_net": 15008.063399999233,
+            "gross_wins": 56370.23480000008,
+            "gross_losses": 41362.17140000084,
+            "profit_factor": 1.362845152757114,
+            "trades": 74,
+            "overlap_count": 9,
+            "overlap": 0.12162162162162163,
+            "dd": 19292.801000000123,
+            "dd_pct": 16.046724317927758,
+            "lowest": 94308.74189999967,
+            "net_2014_2016": -1680.3952000004247,
+            "daily_t": 0.7714899919839932,
+            "market_close_crossings": 0,
+            "session_crossings": 0,
+            "late_cutoff_exits": 0,
+            "trades_spanning_data_gap": 0,
+            "open_positions": 0,
+            "combined_net": 368813.31409989175,
+            "combined_dd": 29686.869300000195,
+            "combined_dd_pct": 11.893339358282708,
+            "combined_lowest": 99261.45009999996,
+            "lot05": {
+              "net": 75040.31699999614,
+              "dd": 96464.0050000006,
+              "dd_pct": 55.30098489928966,
+              "lowest": 71543.70949999835,
+              "combined_net": 1844066.5704994588,
+              "combined_dd": 148434.34650000092,
+              "combined_dd_pct": 27.822069370038577,
+              "combined_lowest": 96307.25049999979
+            }
+          },
+          "annual": {
+            "2010": {
+              "net": 4693.016900000132,
+              "end_equity": 104693.01690000013,
+              "dd": 4785.546699999863,
+              "trades": 11
+            },
+            "2011": {
+              "net": 11099.861299999662,
+              "end_equity": 115792.87819999979,
+              "dd": 17702.57170000017,
+              "trades": 16
+            },
+            "2012": {
+              "net": -2859.3059000001867,
+              "end_equity": 112933.5722999996,
+              "dd": 4458.99080000006,
+              "trades": 7
+            },
+            "2013": {
+              "net": 3754.8863000000456,
+              "end_equity": 116688.45859999965,
+              "dd": 14926.340000000018,
+              "trades": 10
+            },
+            "2014": {
+              "net": 668.6459999996187,
+              "end_equity": 117357.10459999926,
+              "dd": 3622.845600000099,
+              "trades": 11
+            },
+            "2015": {
+              "net": -2383.4865999999984,
+              "end_equity": 114973.61799999927,
+              "dd": 5022.612100000017,
+              "trades": 13
+            },
+            "2016": {
+              "net": 34.44539999995504,
+              "end_equity": 115008.06339999923,
+              "dd": 2744.8255999999765,
+              "trades": 6
+            }
+          }
+        }
+      },
+      "stop3_sensitivity": {
+        "fixed": {
+          "metrics": {
+            "net": 27674.008449996614,
+            "closed_net": 27674.00844999661,
+            "gross_wins": 61383.89784999835,
+            "gross_losses": 33709.88940000173,
+            "profit_factor": 1.8209462843860649,
+            "trades": 74,
+            "overlap_count": 9,
+            "overlap": 0.12162162162162163,
+            "dd": 17861.290700000405,
+            "dd_pct": 13.98870810167914,
+            "lowest": 99755.84289999995,
+            "net_2014_2016": 1407.5335999983508,
+            "daily_t": 1.5313384294558376,
+            "market_close_crossings": 0,
+            "session_crossings": 0,
+            "late_cutoff_exits": 0,
+            "trades_spanning_data_gap": 0,
+            "open_positions": 0,
+            "combined_net": 381479.2591498891,
+            "combined_dd": 29686.869300000224,
+            "combined_dd_pct": 11.834036782673058,
+            "combined_lowest": 99261.45009999996,
+            "lot05": {
+              "net": 138370.04224998306,
+              "dd": 89306.45350000204,
+              "dd_pct": 40.19912723666794,
+              "lowest": 98779.2144999997,
+              "combined_net": 1907396.2957494454,
+              "combined_dd": 148434.34650000103,
+              "combined_dd_pct": 27.56655944648599,
+              "combined_lowest": 96307.25049999979
+            },
+            "example_net": 26174.620449997492,
+            "historical_net": 19085.45319999918,
+            "eligible": true,
+            "checks": {
+              "net_positive": true,
+              "profit_factor_above_one": true,
+              "natural_overlap": true,
+              "minimum_trades": true,
+              "recent_positive": true,
+              "example_cost_positive": true,
+              "no_close_crossings": true,
+              "no_session_crossings": true,
+              "no_terminal_position": true,
+              "positive_equity_C_and_combined": true
+            },
+            "failed": []
+          },
+          "annual": {
+            "2010": {
+              "net": 6446.355299999906,
+              "end_equity": 106446.35529999991,
+              "dd": 4126.0185999999485,
+              "trades": 11
+            },
+            "2011": {
+              "net": 16996.103299999068,
+              "end_equity": 123442.45859999896,
+              "dd": 13916.617000000168,
+              "trades": 16
+            },
+            "2012": {
+              "net": -2036.668700000293,
+              "end_equity": 121405.78989999868,
+              "dd": 4196.091350000093,
+              "trades": 7
+            },
+            "2013": {
+              "net": 4860.684949999584,
+              "end_equity": 126266.47484999827,
+              "dd": 14926.340000000018,
+              "trades": 10
+            },
+            "2014": {
+              "net": 1372.075099999267,
+              "end_equity": 127638.54994999753,
+              "dd": 3510.898050000098,
+              "trades": 11
+            },
+            "2015": {
+              "net": -493.042000000627,
+              "end_equity": 127145.5079499969,
+              "dd": 4090.3912500000624,
+              "trades": 13
+            },
+            "2016": {
+              "net": 528.5004999997109,
+              "end_equity": 127674.00844999662,
+              "dd": 2753.6057999999975,
+              "trades": 6
+            }
+          }
+        },
+        "example": {
+          "metrics": {
+            "net": 26174.620449997492,
+            "closed_net": 26174.62044999752,
+            "gross_wins": 60536.94624999893,
+            "gross_losses": 34362.3258000014,
+            "profit_factor": 1.7617243548164152,
+            "trades": 74,
+            "overlap_count": 9,
+            "overlap": 0.12162162162162163,
+            "dd": 18104.434700000274,
+            "dd_pct": 14.23787931458137,
+            "lowest": 99735.58089999996,
+            "net_2014_2016": 799.6735999987104,
+            "daily_t": 1.4492261483460451,
+            "market_close_crossings": 0,
+            "session_crossings": 0,
+            "late_cutoff_exits": 0,
+            "trades_spanning_data_gap": 0,
+            "open_positions": 0,
+            "combined_net": 379979.87114989,
+            "combined_dd": 29686.869300000195,
+            "combined_dd_pct": 11.839170721177663,
+            "combined_lowest": 99261.45009999996,
+            "lot05": {
+              "net": 130873.10224998745,
+              "dd": 90522.17350000137,
+              "dd_pct": 40.74544006037182,
+              "lowest": 98677.90449999976,
+              "combined_net": 1899899.3557494502,
+              "combined_dd": 148434.34650000103,
+              "combined_dd_pct": 27.594433524615276,
+              "combined_lowest": 96307.25049999979
+            }
+          },
+          "annual": {
+            "2010": {
+              "net": 6223.473300000038,
+              "end_equity": 106223.47330000004,
+              "dd": 4207.066599999902,
+              "trades": 11
+            },
+            "2011": {
+              "net": 16671.911299999254,
+              "end_equity": 122895.38459999929,
+              "dd": 13957.141000000145,
+              "trades": 16
+            },
+            "2012": {
+              "net": -2178.502700000212,
+              "end_equity": 120716.88189999908,
+              "dd": 4256.877350000061,
+              "trades": 7
+            },
+            "2013": {
+              "net": 4658.064949999702,
+              "end_equity": 125374.94684999879,
+              "dd": 14926.340000000018,
+              "trades": 10
+            },
+            "2014": {
+              "net": 1149.1930999993965,
+              "end_equity": 126524.13994999818,
+              "dd": 3551.422050000074,
+              "trades": 11
+            },
+            "2015": {
+              "net": -756.448000000466,
+              "end_equity": 125767.69194999771,
+              "dd": 4130.915250000038,
+              "trades": 13
+            },
+            "2016": {
+              "net": 406.9284999997799,
+              "end_equity": 126174.62044999748,
+              "dd": 2753.6057999999975,
+              "trades": 6
+            }
+          }
+        },
+        "historical": {
+          "metrics": {
+            "net": 19085.45319999918,
+            "closed_net": 19085.453199999185,
+            "gross_wins": 56370.23480000008,
+            "gross_losses": 37284.7816000009,
+            "profit_factor": 1.5118831968697577,
+            "trades": 74,
+            "overlap_count": 9,
+            "overlap": 0.12162162162162163,
+            "dd": 19292.801000000123,
+            "dd_pct": 15.620521997970249,
+            "lowest": 97589.15969999957,
+            "net_2014_2016": -883.4232000003794,
+            "daily_t": 1.0557673545507895,
+            "market_close_crossings": 0,
+            "session_crossings": 0,
+            "late_cutoff_exits": 0,
+            "trades_spanning_data_gap": 0,
+            "open_positions": 0,
+            "combined_net": 372890.7038998917,
+            "combined_dd": 29686.869300000166,
+            "combined_dd_pct": 11.893339358282708,
+            "combined_lowest": 99261.45009999996,
+            "lot05": {
+              "net": 95427.2659999959,
+              "dd": 96464.00500000062,
+              "dd_pct": 45.05330234245789,
+              "lowest": 87945.79849999787,
+              "combined_net": 1864453.5194994584,
+              "combined_dd": 148434.34650000092,
+              "combined_dd_pct": 27.822069370038577,
+              "combined_lowest": 96307.25049999979
+            }
+          },
+          "annual": {
+            "2010": {
+              "net": 4693.016900000132,
+              "end_equity": 104693.01690000013,
+              "dd": 4785.546699999863,
+              "trades": 11
+            },
+            "2011": {
+              "net": 14380.279099999563,
+              "end_equity": 119073.2959999997,
+              "dd": 14422.153900000267,
+              "trades": 16
+            },
+            "2012": {
+              "net": -2859.3059000001867,
+              "end_equity": 116213.99009999952,
+              "dd": 4458.990800000061,
+              "trades": 7
+            },
+            "2013": {
+              "net": 3754.886300000051,
+              "end_equity": 119968.87639999956,
+              "dd": 14926.340000000018,
+              "trades": 10
+            },
+            "2014": {
+              "net": 668.6459999996187,
+              "end_equity": 120637.52239999917,
+              "dd": 3622.845600000099,
+              "trades": 11
+            },
+            "2015": {
+              "net": -1586.5145999999513,
+              "end_equity": 119051.00779999924,
+              "dd": 4225.640099999971,
+              "trades": 13
+            },
+            "2016": {
+              "net": 34.445399999953224,
+              "end_equity": 119085.45319999917,
+              "dd": 2744.8255999999747,
+              "trades": 6
+            }
+          }
+        }
+      }
+    },
+    "counts": {
+      "completed_observed_days": 1938,
+      "valid_days": 1638,
+      "invalid_quote_count": 131,
+      "invalid_start_coverage": 151,
+      "invalid_end_coverage": 159,
+      "missing_calendar_days": 618,
+      "previous_date_invalid_or_missing": 535,
+      "warmup_under_60": 56,
+      "zero_reference_sd": 0,
+      "nonabnormal_days": 1272,
+      "no_eligible_quote_before_06": 2,
+      "invalid_signal_scale": 0,
+      "signals": 74,
+      "unfinalized_last_day": 1,
+      "history_days": 0
+    },
+    "execution": {
+      "signals": 74,
+      "closed_trades": 74,
+      "signals_not_filled": 0,
+      "early_NY_daily_deadline": 24,
+      "exit_at_06_or_later": 50,
+      "late_absolute_expiry": 0,
+      "last_quote_utc": "2016-12-30 21:57:00+00:00"
+    }
+  },
+  "ab_metrics": {
+    "net": 353805.2506998925,
+    "dd": 29686.869300000195,
+    "dd_pct": 12.474871818536437,
+    "loss": 1250588.2004000414,
+    "trades": 2737,
+    "worst": -19706.82120000008,
+    "lowest": 99261.45009999996,
+    "recent": 46954.65224997187,
+    "early": 306850.59844992065,
+    "open_positions": 0,
+    "late_cutoff_exits": 3,
+    "market_close_crossings": 0,
+    "session_crossings": 0,
+    "trades_spanning_data_gap": 0,
+    "scheduled_exits": 411
+  },
+  "years_read": [
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016
+  ],
+  "finished_utc": "2026-10-31T18:12:23.415674+00:00"
+}

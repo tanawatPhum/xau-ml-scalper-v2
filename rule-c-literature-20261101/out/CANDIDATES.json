@@ -1,0 +1,26 @@
+[
+  {
+    "id": "C_Xu_midday_to_close",
+    "family": "Xu_midday_to_close",
+    "paper_doi": "10.1016/j.resourpol.2020.101830",
+    "timezone": "America/New_York",
+    "signal_minute": 929,
+    "anchor_start": 690,
+    "anchor_end": 720,
+    "hold": 30,
+    "stop": 1000000000000.0,
+    "tp": 1000000000000.0
+  },
+  {
+    "id": "C_Ma_night_reversal_momentum",
+    "family": "Ma_night_reversal_momentum",
+    "paper_doi": "10.1016/j.gfj.2025.101084",
+    "timezone": "Asia/Shanghai",
+    "signal_minute": 1320,
+    "anchor_start": 1260,
+    "anchor_end": 1290,
+    "hold": 59,
+    "stop": 1000000000000.0,
+    "tp": 1000000000000.0
+  }
+]

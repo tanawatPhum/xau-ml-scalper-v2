@@ -1,0 +1,123 @@
+{
+ "version": "v1-r2",
+ "locked_utc": "2026-10-31T16:45:16.500613+00:00",
+ "status": "SELECTED",
+ "base_version": "v1-r1",
+ "base_id": "D058",
+ "base_rules": {
+  "A": {
+   "k": 1.0,
+   "long_vol": true,
+   "min_usd": 3.0,
+   "leg": 2.5,
+   "policy": "skip_late"
+  },
+  "B": {
+   "k": 2.0,
+   "long_vol": false,
+   "min_usd": 3.0,
+   "leg": 3.5,
+   "policy": "vol_le15"
+  }
+ },
+ "stop_theta": 2.5,
+ "overrides": {
+  "A": {
+   "0": {
+    "k": 1.0,
+    "min_usd": 2.1626934441569983,
+    "leg": 2.5,
+    "on": true
+   }
+  },
+  "B": {
+   "1": {
+    "k": 2.5,
+    "min_usd": 4.0,
+    "leg": 3.5,
+    "on": true
+   },
+   "3": {
+    "k": 2.0,
+    "min_usd": 4.0,
+    "leg": 2.5,
+    "on": true
+   }
+  }
+ },
+ "sessions": {
+  "0": "Asia 18-03 NY",
+  "1": "London 03-08 NY",
+  "2": "NY morning 08-12",
+  "3": "NY afternoon 12-18"
+ },
+ "training_metrics": {
+  "net": 353805.2506998925,
+  "dd": 29686.869300000195,
+  "dd_pct": 12.474871818536437,
+  "loss": 1250588.2004000414,
+  "trades": 2737,
+  "worst": -19706.82120000008,
+  "lowest": 99261.45009999996,
+  "recent": 46954.65224997187,
+  "early": 306850.59844992065,
+  "open_positions": 0,
+  "late_cutoff_exits": 3,
+  "market_close_crossings": 0,
+  "session_crossings": 0,
+  "trades_spanning_data_gap": 0,
+  "scheduled_exits": 411
+ },
+ "base_training_metrics": {
+  "net": 298945.8856999021,
+  "dd": 30211.14855000208,
+  "dd_pct": 14.190230214791963,
+  "loss": 1165973.9195500384,
+  "trades": 2501,
+  "worst": -19706.82120000008,
+  "lowest": 99515.06279999972,
+  "recent": 37665.369499976514,
+  "early": 261280.51619992557,
+  "open_positions": 0,
+  "late_cutoff_exits": 3,
+  "market_close_crossings": 0,
+  "session_crossings": 0,
+  "trades_spanning_data_gap": 0,
+  "scheduled_exits": 409
+ },
+ "stage2_path": [
+  {
+   "step": "all picks",
+   "keys": [
+    "A0",
+    "B1",
+    "B3"
+   ],
+   "metrics": {
+    "net": 353805.2506998925,
+    "dd": 29686.869300000195,
+    "dd_pct": 12.474871818536437,
+    "loss": 1250588.2004000414,
+    "trades": 2737,
+    "worst": -19706.82120000008,
+    "lowest": 99261.45009999996,
+    "recent": 46954.65224997187,
+    "early": 306850.59844992065,
+    "open_positions": 0,
+    "late_cutoff_exits": 3,
+    "market_close_crossings": 0,
+    "session_crossings": 0,
+    "trades_spanning_data_gap": 0,
+    "scheduled_exits": 411
+   }
+  }
+ ],
+ "r1_lock_sha256": "b819a098e183f944287c120fa64628786a7fc368c437e781c76c19c01ab94432",
+ "code_sha256": "718bed8f4d7cd66f7b06bb7dd027891625638097bb7552404122c7cbec13e0b5",
+ "plan_sha256": "3b8112f83bb40f633c36ad9d177e9389ee4162a5b493519dc8f175473fcee660",
+ "training_years": [
+  2010,
+  2016
+ ],
+ "note": "design 2010-2016 only; 2017-2019 not read before this lock"
+}

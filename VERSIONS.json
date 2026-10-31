@@ -1,0 +1,33 @@
+{
+  "current_version": "v1-r2",
+  "next_version": "v1-r4",
+  "naming_pattern": "v1-r{positive_integer}",
+  "versions": [
+    {
+      "version": "v1-r1",
+      "path": "v1-r1",
+      "entrypoint": "v1_r1.py",
+      "strategy_id": "D058"
+    },
+    {
+      "version": "v1-r2",
+      "path": "v1-r2",
+      "entrypoint": "v1_r2.py",
+      "strategy_id": "D058-S1",
+      "parent": "v1-r1",
+      "change": "per-session formulas for rules A and B (A Asia theta$ 2.1627; B London k 2.5 / theta$ 4; B NY afternoon theta$ 4 / leg 2.5)",
+      "status": "PASS on reused 2017-2019 validation"
+    },
+    {
+      "version": "v1-r3",
+      "path": "v1-r3",
+      "entrypoint": "v1_r3.py",
+      "parent": "v1-r2",
+      "change": "literature-driven entry filters (46 cells incl. new GVZ, macro calendar, S&P 500 data)",
+      "status": "NOT_CONFIRMED in 2010-2016 design; v1-r2 stays current"
+    }
+  ],
+  "legacy_aliases": {
+    "v1-rx": "v1-r1"
+  }
+}

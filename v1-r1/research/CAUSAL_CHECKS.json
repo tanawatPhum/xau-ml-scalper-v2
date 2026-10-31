@@ -1,0 +1,760 @@
+{
+  "generated_utc": "2026-10-31T15:01:19.709548+00:00",
+  "status": "PASS",
+  "data_years_read": [
+    2010
+  ],
+  "read_2017_or_later": false,
+  "scope": "Signal/feature causal-prefix checks only; no tuning or outcome evaluation.",
+  "quotes": 365764,
+  "policies": [
+    "all",
+    "skip_asia",
+    "skip_ny",
+    "skip_late",
+    "vol_ge075",
+    "vol_ge1",
+    "vol_le15",
+    "long_only",
+    "short_only",
+    "utc_morning",
+    "utc_london"
+  ],
+  "rules": [
+    "A",
+    "B"
+  ],
+  "source_and_data_sha256": {
+    "snapshot_engine": {
+      "path": "D:\\xau-ml-scalper-claude\\v1-rx\\baseline_engine.py",
+      "sha256": "964127ce2827f8e157a2d013dc17e121c48a97b1305288b945f0fa843719ed88"
+    },
+    "audited_engine": {
+      "path": "D:\\xau-ml-scalper-claude\\swing-causal-execution\\engine.py",
+      "sha256": "964127ce2827f8e157a2d013dc17e121c48a97b1305288b945f0fa843719ed88"
+    },
+    "strategy": {
+      "path": "D:\\xau-ml-scalper-claude\\v1-rx\\strategy.py",
+      "sha256": "080bddb0b67d629f066e09057d869543e0c0bb5c88a5dbcd08e28da56ba8a883"
+    },
+    "study": {
+      "path": "D:\\xau-ml-scalper-claude\\v1-rx\\study.py",
+      "sha256": "b260d9af076d08e24c2cb5541c587eca88911dfe420f70da2af2e805c2aa6ca9"
+    },
+    "data_2010": {
+      "path": "D:\\xau-ml-scalper-claude\\microstructure-edge-map\\cache\\M1_2010.private.npz",
+      "sha256": "d1f2ece2d4b0b82b180bc9dd723df9acaaedeb56d54ac4fd54b39b104e96c029"
+    }
+  },
+  "engine_snapshot_byte_identical": true,
+  "source_and_data_hashes_unchanged": true,
+  "default_signals_exactly_equal_to_baseline": true,
+  "filters_preserve_all_confirmation_rows": true,
+  "total_signal_prefix_checks": 66,
+  "all_checks_nonvacuous": true,
+  "tested_cutoffs": [
+    {
+      "exclusive_utc": "2010-03-01T00:00:00Z",
+      "exclusive_utc_minute": 21123360,
+      "prefix_quotes": 56936,
+      "final_quote_utc_minute": 21123359,
+      "feature_prefix_exact": {
+        "mid": true,
+        "y": true,
+        "s60": true,
+        "sl": true,
+        "eff": true
+      }
+    },
+    {
+      "exclusive_utc": "2010-07-01T00:00:00Z",
+      "exclusive_utc_minute": 21299040,
+      "prefix_quotes": 180971,
+      "final_quote_utc_minute": 21299039,
+      "feature_prefix_exact": {
+        "mid": true,
+        "y": true,
+        "s60": true,
+        "sl": true,
+        "eff": true
+      }
+    },
+    {
+      "exclusive_utc": "2010-10-01T00:00:00Z",
+      "exclusive_utc_minute": 21431520,
+      "prefix_quotes": 273607,
+      "final_quote_utc_minute": 21431519,
+      "feature_prefix_exact": {
+        "mid": true,
+        "y": true,
+        "s60": true,
+        "sl": true,
+        "eff": true
+      }
+    }
+  ],
+  "checks": [
+    {
+      "cutoff_utc": "2010-03-01T00:00:00Z",
+      "rule": "A",
+      "policy": "all",
+      "confirmations": 536,
+      "eligible_entries": 132,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-03-01T00:00:00Z",
+      "rule": "A",
+      "policy": "skip_asia",
+      "confirmations": 536,
+      "eligible_entries": 110,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-03-01T00:00:00Z",
+      "rule": "A",
+      "policy": "skip_ny",
+      "confirmations": 536,
+      "eligible_entries": 65,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-03-01T00:00:00Z",
+      "rule": "A",
+      "policy": "skip_late",
+      "confirmations": 536,
+      "eligible_entries": 126,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-03-01T00:00:00Z",
+      "rule": "A",
+      "policy": "vol_ge075",
+      "confirmations": 536,
+      "eligible_entries": 104,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-03-01T00:00:00Z",
+      "rule": "A",
+      "policy": "vol_ge1",
+      "confirmations": 536,
+      "eligible_entries": 66,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-03-01T00:00:00Z",
+      "rule": "A",
+      "policy": "vol_le15",
+      "confirmations": 536,
+      "eligible_entries": 121,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-03-01T00:00:00Z",
+      "rule": "A",
+      "policy": "long_only",
+      "confirmations": 536,
+      "eligible_entries": 72,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-03-01T00:00:00Z",
+      "rule": "A",
+      "policy": "short_only",
+      "confirmations": 536,
+      "eligible_entries": 60,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-03-01T00:00:00Z",
+      "rule": "A",
+      "policy": "utc_morning",
+      "confirmations": 536,
+      "eligible_entries": 53,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-03-01T00:00:00Z",
+      "rule": "A",
+      "policy": "utc_london",
+      "confirmations": 536,
+      "eligible_entries": 31,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-03-01T00:00:00Z",
+      "rule": "B",
+      "policy": "all",
+      "confirmations": 412,
+      "eligible_entries": 50,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-03-01T00:00:00Z",
+      "rule": "B",
+      "policy": "skip_asia",
+      "confirmations": 412,
+      "eligible_entries": 32,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-03-01T00:00:00Z",
+      "rule": "B",
+      "policy": "skip_ny",
+      "confirmations": 412,
+      "eligible_entries": 33,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-03-01T00:00:00Z",
+      "rule": "B",
+      "policy": "skip_late",
+      "confirmations": 412,
+      "eligible_entries": 46,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-03-01T00:00:00Z",
+      "rule": "B",
+      "policy": "vol_ge075",
+      "confirmations": 412,
+      "eligible_entries": 21,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-03-01T00:00:00Z",
+      "rule": "B",
+      "policy": "vol_ge1",
+      "confirmations": 412,
+      "eligible_entries": 4,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-03-01T00:00:00Z",
+      "rule": "B",
+      "policy": "vol_le15",
+      "confirmations": 412,
+      "eligible_entries": 50,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-03-01T00:00:00Z",
+      "rule": "B",
+      "policy": "long_only",
+      "confirmations": 412,
+      "eligible_entries": 28,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-03-01T00:00:00Z",
+      "rule": "B",
+      "policy": "short_only",
+      "confirmations": 412,
+      "eligible_entries": 22,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-03-01T00:00:00Z",
+      "rule": "B",
+      "policy": "utc_morning",
+      "confirmations": 412,
+      "eligible_entries": 26,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-03-01T00:00:00Z",
+      "rule": "B",
+      "policy": "utc_london",
+      "confirmations": 412,
+      "eligible_entries": 8,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-07-01T00:00:00Z",
+      "rule": "A",
+      "policy": "all",
+      "confirmations": 1590,
+      "eligible_entries": 336,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-07-01T00:00:00Z",
+      "rule": "A",
+      "policy": "skip_asia",
+      "confirmations": 1590,
+      "eligible_entries": 293,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-07-01T00:00:00Z",
+      "rule": "A",
+      "policy": "skip_ny",
+      "confirmations": 1590,
+      "eligible_entries": 154,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-07-01T00:00:00Z",
+      "rule": "A",
+      "policy": "skip_late",
+      "confirmations": 1590,
+      "eligible_entries": 320,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-07-01T00:00:00Z",
+      "rule": "A",
+      "policy": "vol_ge075",
+      "confirmations": 1590,
+      "eligible_entries": 276,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-07-01T00:00:00Z",
+      "rule": "A",
+      "policy": "vol_ge1",
+      "confirmations": 1590,
+      "eligible_entries": 178,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-07-01T00:00:00Z",
+      "rule": "A",
+      "policy": "vol_le15",
+      "confirmations": 1590,
+      "eligible_entries": 306,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-07-01T00:00:00Z",
+      "rule": "A",
+      "policy": "long_only",
+      "confirmations": 1590,
+      "eligible_entries": 189,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-07-01T00:00:00Z",
+      "rule": "A",
+      "policy": "short_only",
+      "confirmations": 1590,
+      "eligible_entries": 147,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-07-01T00:00:00Z",
+      "rule": "A",
+      "policy": "utc_morning",
+      "confirmations": 1590,
+      "eligible_entries": 119,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-07-01T00:00:00Z",
+      "rule": "A",
+      "policy": "utc_london",
+      "confirmations": 1590,
+      "eligible_entries": 76,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-07-01T00:00:00Z",
+      "rule": "B",
+      "policy": "all",
+      "confirmations": 1223,
+      "eligible_entries": 144,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-07-01T00:00:00Z",
+      "rule": "B",
+      "policy": "skip_asia",
+      "confirmations": 1223,
+      "eligible_entries": 107,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-07-01T00:00:00Z",
+      "rule": "B",
+      "policy": "skip_ny",
+      "confirmations": 1223,
+      "eligible_entries": 77,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-07-01T00:00:00Z",
+      "rule": "B",
+      "policy": "skip_late",
+      "confirmations": 1223,
+      "eligible_entries": 134,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-07-01T00:00:00Z",
+      "rule": "B",
+      "policy": "vol_ge075",
+      "confirmations": 1223,
+      "eligible_entries": 65,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-07-01T00:00:00Z",
+      "rule": "B",
+      "policy": "vol_ge1",
+      "confirmations": 1223,
+      "eligible_entries": 19,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-07-01T00:00:00Z",
+      "rule": "B",
+      "policy": "vol_le15",
+      "confirmations": 1223,
+      "eligible_entries": 141,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-07-01T00:00:00Z",
+      "rule": "B",
+      "policy": "long_only",
+      "confirmations": 1223,
+      "eligible_entries": 86,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-07-01T00:00:00Z",
+      "rule": "B",
+      "policy": "short_only",
+      "confirmations": 1223,
+      "eligible_entries": 58,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-07-01T00:00:00Z",
+      "rule": "B",
+      "policy": "utc_morning",
+      "confirmations": 1223,
+      "eligible_entries": 58,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-07-01T00:00:00Z",
+      "rule": "B",
+      "policy": "utc_london",
+      "confirmations": 1223,
+      "eligible_entries": 21,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-10-01T00:00:00Z",
+      "rule": "A",
+      "policy": "all",
+      "confirmations": 2292,
+      "eligible_entries": 441,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-10-01T00:00:00Z",
+      "rule": "A",
+      "policy": "skip_asia",
+      "confirmations": 2292,
+      "eligible_entries": 392,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-10-01T00:00:00Z",
+      "rule": "A",
+      "policy": "skip_ny",
+      "confirmations": 2292,
+      "eligible_entries": 191,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-10-01T00:00:00Z",
+      "rule": "A",
+      "policy": "skip_late",
+      "confirmations": 2292,
+      "eligible_entries": 422,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-10-01T00:00:00Z",
+      "rule": "A",
+      "policy": "vol_ge075",
+      "confirmations": 2292,
+      "eligible_entries": 368,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-10-01T00:00:00Z",
+      "rule": "A",
+      "policy": "vol_ge1",
+      "confirmations": 2292,
+      "eligible_entries": 241,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-10-01T00:00:00Z",
+      "rule": "A",
+      "policy": "vol_le15",
+      "confirmations": 2292,
+      "eligible_entries": 401,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-10-01T00:00:00Z",
+      "rule": "A",
+      "policy": "long_only",
+      "confirmations": 2292,
+      "eligible_entries": 248,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-10-01T00:00:00Z",
+      "rule": "A",
+      "policy": "short_only",
+      "confirmations": 2292,
+      "eligible_entries": 193,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-10-01T00:00:00Z",
+      "rule": "A",
+      "policy": "utc_morning",
+      "confirmations": 2292,
+      "eligible_entries": 148,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-10-01T00:00:00Z",
+      "rule": "A",
+      "policy": "utc_london",
+      "confirmations": 2292,
+      "eligible_entries": 99,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-10-01T00:00:00Z",
+      "rule": "B",
+      "policy": "all",
+      "confirmations": 1765,
+      "eligible_entries": 204,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-10-01T00:00:00Z",
+      "rule": "B",
+      "policy": "skip_asia",
+      "confirmations": 1765,
+      "eligible_entries": 161,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-10-01T00:00:00Z",
+      "rule": "B",
+      "policy": "skip_ny",
+      "confirmations": 1765,
+      "eligible_entries": 100,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-10-01T00:00:00Z",
+      "rule": "B",
+      "policy": "skip_late",
+      "confirmations": 1765,
+      "eligible_entries": 186,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-10-01T00:00:00Z",
+      "rule": "B",
+      "policy": "vol_ge075",
+      "confirmations": 1765,
+      "eligible_entries": 88,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-10-01T00:00:00Z",
+      "rule": "B",
+      "policy": "vol_ge1",
+      "confirmations": 1765,
+      "eligible_entries": 29,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-10-01T00:00:00Z",
+      "rule": "B",
+      "policy": "vol_le15",
+      "confirmations": 1765,
+      "eligible_entries": 201,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-10-01T00:00:00Z",
+      "rule": "B",
+      "policy": "long_only",
+      "confirmations": 1765,
+      "eligible_entries": 124,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-10-01T00:00:00Z",
+      "rule": "B",
+      "policy": "short_only",
+      "confirmations": 1765,
+      "eligible_entries": 80,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-10-01T00:00:00Z",
+      "rule": "B",
+      "policy": "utc_morning",
+      "confirmations": 1765,
+      "eligible_entries": 73,
+      "exact_prefix_match": true
+    },
+    {
+      "cutoff_utc": "2010-10-01T00:00:00Z",
+      "rule": "B",
+      "policy": "utc_london",
+      "confirmations": 1765,
+      "eligible_entries": 30,
+      "exact_prefix_match": true
+    }
+  ],
+  "full_year_event_counts": [
+    {
+      "rule": "A",
+      "policy": "all",
+      "confirmations": 3083,
+      "eligible_entries": 636
+    },
+    {
+      "rule": "A",
+      "policy": "skip_asia",
+      "confirmations": 3083,
+      "eligible_entries": 556
+    },
+    {
+      "rule": "A",
+      "policy": "skip_ny",
+      "confirmations": 3083,
+      "eligible_entries": 296
+    },
+    {
+      "rule": "A",
+      "policy": "skip_late",
+      "confirmations": 3083,
+      "eligible_entries": 601
+    },
+    {
+      "rule": "A",
+      "policy": "vol_ge075",
+      "confirmations": 3083,
+      "eligible_entries": 510
+    },
+    {
+      "rule": "A",
+      "policy": "vol_ge1",
+      "confirmations": 3083,
+      "eligible_entries": 338
+    },
+    {
+      "rule": "A",
+      "policy": "vol_le15",
+      "confirmations": 3083,
+      "eligible_entries": 576
+    },
+    {
+      "rule": "A",
+      "policy": "long_only",
+      "confirmations": 3083,
+      "eligible_entries": 361
+    },
+    {
+      "rule": "A",
+      "policy": "short_only",
+      "confirmations": 3083,
+      "eligible_entries": 275
+    },
+    {
+      "rule": "A",
+      "policy": "utc_morning",
+      "confirmations": 3083,
+      "eligible_entries": 227
+    },
+    {
+      "rule": "A",
+      "policy": "utc_london",
+      "confirmations": 3083,
+      "eligible_entries": 147
+    },
+    {
+      "rule": "B",
+      "policy": "all",
+      "confirmations": 2381,
+      "eligible_entries": 296
+    },
+    {
+      "rule": "B",
+      "policy": "skip_asia",
+      "confirmations": 2381,
+      "eligible_entries": 227
+    },
+    {
+      "rule": "B",
+      "policy": "skip_ny",
+      "confirmations": 2381,
+      "eligible_entries": 158
+    },
+    {
+      "rule": "B",
+      "policy": "skip_late",
+      "confirmations": 2381,
+      "eligible_entries": 260
+    },
+    {
+      "rule": "B",
+      "policy": "vol_ge075",
+      "confirmations": 2381,
+      "eligible_entries": 115
+    },
+    {
+      "rule": "B",
+      "policy": "vol_ge1",
+      "confirmations": 2381,
+      "eligible_entries": 40
+    },
+    {
+      "rule": "B",
+      "policy": "vol_le15",
+      "confirmations": 2381,
+      "eligible_entries": 291
+    },
+    {
+      "rule": "B",
+      "policy": "long_only",
+      "confirmations": 2381,
+      "eligible_entries": 189
+    },
+    {
+      "rule": "B",
+      "policy": "short_only",
+      "confirmations": 2381,
+      "eligible_entries": 107
+    },
+    {
+      "rule": "B",
+      "policy": "utc_morning",
+      "confirmations": 2381,
+      "eligible_entries": 112
+    },
+    {
+      "rule": "B",
+      "policy": "utc_london",
+      "confirmations": 2381,
+      "eligible_entries": 43
+    }
+  ]
+}

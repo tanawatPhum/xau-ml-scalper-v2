@@ -1,0 +1,449 @@
+{
+ "S0": {
+  "summary": {
+   "trades": 9930,
+   "end_equity_thb": 613359.5516496036,
+   "net_thb": 513359.55164960364,
+   "max_equity_drawdown_thb": 68462.93410005042,
+   "max_equity_drawdown_pct": 22.995914261779145,
+   "lowest_equity_thb": 96039.79209999659
+  },
+  "yearly": {
+   "2010": {
+    "closed_trades": 922,
+    "realized_net_thb": 76529.74284996133,
+    "closed_trade_net_thb": 76529.74284996139,
+    "start_equity_thb": 100000.0,
+    "end_equity_thb": 176529.74284996133,
+    "equity_change_thb": 76529.74284996133,
+    "max_equity_drawdown_thb": 28096.97770000124
+   },
+   "2011": {
+    "closed_trades": 1052,
+    "realized_net_thb": 151250.93334995635,
+    "closed_trade_net_thb": 151250.93334995653,
+    "start_equity_thb": 176529.74284996133,
+    "end_equity_thb": 327495.99509991764,
+    "equity_change_thb": 150966.2522499563,
+    "max_equity_drawdown_thb": 51466.8308000016
+   },
+   "2012": {
+    "closed_trades": 981,
+    "realized_net_thb": 34386.97789995832,
+    "closed_trade_net_thb": 34386.977899958314,
+    "start_equity_thb": 327495.99509991764,
+    "end_equity_thb": 362116.15484987595,
+    "equity_change_thb": 34620.159749958315,
+    "max_equity_drawdown_thb": 33737.24310001009
+   },
+   "2013": {
+    "closed_trades": 876,
+    "realized_net_thb": 58381.91369996569,
+    "closed_trade_net_thb": 58381.91369996579,
+    "start_equity_thb": 362116.15484987595,
+    "end_equity_thb": 419027.5538998415,
+    "equity_change_thb": 56911.39904996555,
+    "max_equity_drawdown_thb": 29094.205800005584
+   },
+   "2014": {
+    "closed_trades": 665,
+    "realized_net_thb": 22438.476499973738,
+    "closed_trade_net_thb": 22438.476499973873,
+    "start_equity_thb": 419027.5538998415,
+    "end_equity_thb": 442988.04429981543,
+    "equity_change_thb": 23960.490399973933,
+    "max_equity_drawdown_thb": 24080.03620001016
+   },
+   "2015": {
+    "closed_trades": 626,
+    "realized_net_thb": -23774.41770002473,
+    "closed_trade_net_thb": -23774.417700025057,
+    "start_equity_thb": 442988.04429981543,
+    "end_equity_thb": 419213.6265997907,
+    "equity_change_thb": -23774.41770002473,
+    "max_equity_drawdown_thb": 36039.51285001199
+   },
+   "2016": {
+    "closed_trades": 751,
+    "realized_net_thb": -33788.06695002748,
+    "closed_trade_net_thb": -33788.06695002764,
+    "start_equity_thb": 419213.6265997907,
+    "end_equity_thb": 385802.7705497632,
+    "equity_change_thb": -33410.856050027476,
+    "max_equity_drawdown_thb": 46592.469000014185
+   },
+   "2017": {
+    "closed_trades": 421,
+    "realized_net_thb": 41188.76244998496,
+    "closed_trade_net_thb": 41188.762449984635,
+    "start_equity_thb": 385802.7705497632,
+    "end_equity_thb": 426626.1415997481,
+    "equity_change_thb": 40823.37104998488,
+    "max_equity_drawdown_thb": 10511.081350001565
+   },
+   "2018": {
+    "closed_trades": 421,
+    "realized_net_thb": -5849.470550017664,
+    "closed_trade_net_thb": -5849.470550017739,
+    "start_equity_thb": 426626.1415997481,
+    "end_equity_thb": 420764.8515497305,
+    "equity_change_thb": -5861.290050017589,
+    "max_equity_drawdown_thb": 18064.248400011274
+   },
+   "2019": {
+    "closed_trades": 590,
+    "realized_net_thb": 38444.44339997746,
+    "closed_trade_net_thb": 38444.44339997716,
+    "start_equity_thb": 420764.8515497305,
+    "end_equity_thb": 459209.294949708,
+    "equity_change_thb": 38444.44339997746,
+    "max_equity_drawdown_thb": 26861.839950006513
+   },
+   "2020": {
+    "closed_trades": 855,
+    "realized_net_thb": 85817.50594996702,
+    "closed_trade_net_thb": 85817.50594996667,
+    "start_equity_thb": 459209.294949708,
+    "end_equity_thb": 545218.276799675,
+    "equity_change_thb": 86008.98184996698,
+    "max_equity_drawdown_thb": 36449.14295000152
+   },
+   "2021": {
+    "closed_trades": 889,
+    "realized_net_thb": 34458.9079999621,
+    "closed_trade_net_thb": 34458.90799996175,
+    "start_equity_thb": 545218.276799675,
+    "end_equity_thb": 579724.2939496371,
+    "equity_change_thb": 34506.017149962136,
+    "max_equity_drawdown_thb": 33296.37575000443
+   },
+   "2022": {
+    "closed_trades": 881,
+    "realized_net_thb": 33873.84274996654,
+    "closed_trade_net_thb": 33873.84274996632,
+    "start_equity_thb": 579724.2939496371,
+    "end_equity_thb": 613359.5516496036,
+    "equity_change_thb": 33635.25769996655,
+    "max_equity_drawdown_thb": 31235.561500002397
+   }
+  },
+  "exit_reasons": {
+   "swing": 8242,
+   "data_gap": 1154,
+   "stop": 534
+  },
+  "trades_crossing_trading_day": 1462,
+  "trades_spanning_gap": 1154,
+  "by_rule": {
+   "A": {
+    "trades": 6351,
+    "net_thb": 417367.98894974834,
+    "win": 0.6405290505432215
+   },
+   "B": {
+    "trades": 3579,
+    "net_thb": 95991.56269985359,
+    "win": 0.6163732886281084
+   }
+  },
+  "net_2020_2022_closed": 154150.25669989473
+ },
+ "S1": {
+  "summary": {
+   "trades": 9803,
+   "end_equity_thb": 564084.3938496095,
+   "net_thb": 464084.39384960954,
+   "max_equity_drawdown_thb": 60651.933100049384,
+   "max_equity_drawdown_pct": 20.850576455757412,
+   "lowest_equity_thb": 94828.12449999685
+  },
+  "yearly": {
+   "2010": {
+    "closed_trades": 887,
+    "realized_net_thb": 63564.08904996351,
+    "closed_trade_net_thb": 63564.08904996353,
+    "start_equity_thb": 100000.0,
+    "end_equity_thb": 163564.0890499635,
+    "equity_change_thb": 63564.08904996351,
+    "max_equity_drawdown_thb": 29450.817000001232
+   },
+   "2011": {
+    "closed_trades": 1024,
+    "realized_net_thb": 164481.51279995812,
+    "closed_trade_net_thb": 164481.5127999582,
+    "start_equity_thb": 163564.0890499635,
+    "end_equity_thb": 328045.60184992163,
+    "equity_change_thb": 164481.51279995812,
+    "max_equity_drawdown_thb": 42965.908700001455
+   },
+   "2012": {
+    "closed_trades": 955,
+    "realized_net_thb": 4921.808649959101,
+    "closed_trade_net_thb": 4921.808649959293,
+    "start_equity_thb": 328045.60184992163,
+    "end_equity_thb": 332967.41049988073,
+    "equity_change_thb": 4921.808649959101,
+    "max_equity_drawdown_thb": 38275.25570001011
+   },
+   "2013": {
+    "closed_trades": 871,
+    "realized_net_thb": 64226.14989996678,
+    "closed_trade_net_thb": 64226.14989996673,
+    "start_equity_thb": 332967.41049988073,
+    "end_equity_thb": 397193.5603998475,
+    "equity_change_thb": 64226.14989996678,
+    "max_equity_drawdown_thb": 27218.4511500051
+   },
+   "2014": {
+    "closed_trades": 658,
+    "realized_net_thb": 18656.57419997407,
+    "closed_trade_net_thb": 18656.574199973926,
+    "start_equity_thb": 397193.5603998475,
+    "end_equity_thb": 415850.1345998216,
+    "equity_change_thb": 18656.57419997407,
+    "max_equity_drawdown_thb": 23243.38445000985
+   },
+   "2015": {
+    "closed_trades": 622,
+    "realized_net_thb": -13611.842750024807,
+    "closed_trade_net_thb": -13611.84275002515,
+    "start_equity_thb": 415850.1345998216,
+    "end_equity_thb": 402238.2918497968,
+    "equity_change_thb": -13611.842750024807,
+    "max_equity_drawdown_thb": 26574.963800011785
+   },
+   "2016": {
+    "closed_trades": 744,
+    "realized_net_thb": -34368.57325002673,
+    "closed_trade_net_thb": -34368.57325002706,
+    "start_equity_thb": 402238.2918497968,
+    "end_equity_thb": 367869.71859977004,
+    "equity_change_thb": -34368.57325002673,
+    "max_equity_drawdown_thb": 45568.56260001374
+   },
+   "2017": {
+    "closed_trades": 417,
+    "realized_net_thb": 42251.50434998487,
+    "closed_trade_net_thb": 42251.50434998484,
+    "start_equity_thb": 367869.71859977004,
+    "end_equity_thb": 410121.2229497549,
+    "equity_change_thb": 42251.50434998487,
+    "max_equity_drawdown_thb": 9917.06705000141
+   },
+   "2018": {
+    "closed_trades": 417,
+    "realized_net_thb": -7864.019900018291,
+    "closed_trade_net_thb": -7864.019900018286,
+    "start_equity_thb": 410121.2229497549,
+    "end_equity_thb": 402257.2030497366,
+    "equity_change_thb": -7864.019900018291,
+    "max_equity_drawdown_thb": 20432.031950012024
+   },
+   "2019": {
+    "closed_trades": 590,
+    "realized_net_thb": 31014.199149976834,
+    "closed_trade_net_thb": 31014.199149976746,
+    "start_equity_thb": 402257.2030497366,
+    "end_equity_thb": 433271.40219971346,
+    "equity_change_thb": 31014.199149976834,
+    "max_equity_drawdown_thb": 26093.572450006846
+   },
+   "2020": {
+    "closed_trades": 854,
+    "realized_net_thb": 72939.99184996728,
+    "closed_trade_net_thb": 72939.99184996696,
+    "start_equity_thb": 433271.40219971346,
+    "end_equity_thb": 506211.39404968073,
+    "equity_change_thb": 72939.99184996728,
+    "max_equity_drawdown_thb": 37027.45420000359
+   },
+   "2021": {
+    "closed_trades": 887,
+    "realized_net_thb": 33980.55594996229,
+    "closed_trade_net_thb": 33980.55594996204,
+    "start_equity_thb": 506211.39404968073,
+    "end_equity_thb": 540191.949999643,
+    "equity_change_thb": 33980.55594996229,
+    "max_equity_drawdown_thb": 33518.24465000455
+   },
+   "2022": {
+    "closed_trades": 877,
+    "realized_net_thb": 23892.443849966512,
+    "closed_trade_net_thb": 23892.443849966316,
+    "start_equity_thb": 540191.949999643,
+    "end_equity_thb": 564084.3938496095,
+    "equity_change_thb": 23892.443849966512,
+    "max_equity_drawdown_thb": 33061.50540000235
+   }
+  },
+  "exit_reasons": {
+   "swing": 7826,
+   "scheduled": 1467,
+   "stop": 510
+  },
+  "trades_crossing_trading_day": 14,
+  "trades_spanning_gap": 17,
+  "by_rule": {
+   "A": {
+    "trades": 6319,
+    "net_thb": 369903.0719997493,
+    "win": 0.6330115524608324
+   },
+   "B": {
+    "trades": 3484,
+    "net_thb": 94181.32184985872,
+    "win": 0.6047646383467279
+   }
+  },
+  "net_2020_2022_closed": 130812.99164989534
+ },
+ "S2": {
+  "summary": {
+   "trades": 9799,
+   "end_equity_thb": 561405.2508996096,
+   "net_thb": 461405.25089960964,
+   "max_equity_drawdown_thb": 60898.960650049325,
+   "max_equity_drawdown_pct": 20.850576455757412,
+   "lowest_equity_thb": 94828.12449999685
+  },
+  "yearly": {
+   "2010": {
+    "closed_trades": 887,
+    "realized_net_thb": 63578.94784996356,
+    "closed_trade_net_thb": 63578.94784996356,
+    "start_equity_thb": 100000.0,
+    "end_equity_thb": 163578.94784996356,
+    "equity_change_thb": 63578.94784996356,
+    "max_equity_drawdown_thb": 29450.817000001232
+   },
+   "2011": {
+    "closed_trades": 1024,
+    "realized_net_thb": 164846.56649995805,
+    "closed_trade_net_thb": 164846.56649995816,
+    "start_equity_thb": 163578.94784996356,
+    "end_equity_thb": 328425.5143499216,
+    "equity_change_thb": 164846.56649995805,
+    "max_equity_drawdown_thb": 42965.908700001455
+   },
+   "2012": {
+    "closed_trades": 955,
+    "realized_net_thb": 4846.839249959041,
+    "closed_trade_net_thb": 4846.839249959222,
+    "start_equity_thb": 328425.5143499216,
+    "end_equity_thb": 333272.35359988065,
+    "equity_change_thb": 4846.839249959041,
+    "max_equity_drawdown_thb": 38275.25570001011
+   },
+   "2013": {
+    "closed_trades": 870,
+    "realized_net_thb": 64693.69554996665,
+    "closed_trade_net_thb": 64693.69554996661,
+    "start_equity_thb": 333272.35359988065,
+    "end_equity_thb": 397966.0491498473,
+    "equity_change_thb": 64693.69554996665,
+    "max_equity_drawdown_thb": 27218.4511500051
+   },
+   "2014": {
+    "closed_trades": 658,
+    "realized_net_thb": 18698.11129997403,
+    "closed_trade_net_thb": 18698.11129997394,
+    "start_equity_thb": 397966.0491498473,
+    "end_equity_thb": 416664.1604498213,
+    "equity_change_thb": 18698.11129997403,
+    "max_equity_drawdown_thb": 23201.847350009775
+   },
+   "2015": {
+    "closed_trades": 622,
+    "realized_net_thb": -13611.842750024865,
+    "closed_trade_net_thb": -13611.84275002515,
+    "start_equity_thb": 416664.1604498213,
+    "end_equity_thb": 403052.31769979646,
+    "equity_change_thb": -13611.842750024865,
+    "max_equity_drawdown_thb": 26574.963800011785
+   },
+   "2016": {
+    "closed_trades": 744,
+    "realized_net_thb": -34615.600800026616,
+    "closed_trade_net_thb": -34615.60080002701,
+    "start_equity_thb": 403052.31769979646,
+    "end_equity_thb": 368436.71689976985,
+    "equity_change_thb": -34615.600800026616,
+    "max_equity_drawdown_thb": 45798.536300013715
+   },
+   "2017": {
+    "closed_trades": 416,
+    "realized_net_thb": 42307.90024998487,
+    "closed_trade_net_thb": 42307.900249984814,
+    "start_equity_thb": 368436.71689976985,
+    "end_equity_thb": 410744.6171497547,
+    "equity_change_thb": 42307.90024998487,
+    "max_equity_drawdown_thb": 9917.06705000141
+   },
+   "2018": {
+    "closed_trades": 417,
+    "realized_net_thb": -8745.248050018155,
+    "closed_trade_net_thb": -8745.24805001814,
+    "start_equity_thb": 410744.6171497547,
+    "end_equity_thb": 401999.36909973656,
+    "equity_change_thb": -8745.248050018155,
+    "max_equity_drawdown_thb": 21183.414450011973
+   },
+   "2019": {
+    "closed_trades": 588,
+    "realized_net_thb": 31264.941399977135,
+    "closed_trade_net_thb": 31264.94139997716,
+    "start_equity_thb": 401999.36909973656,
+    "end_equity_thb": 433264.3104997137,
+    "equity_change_thb": 31264.941399977135,
+    "max_equity_drawdown_thb": 25918.475000001083
+   },
+   "2020": {
+    "closed_trades": 854,
+    "realized_net_thb": 73540.08474996733,
+    "closed_trade_net_thb": 73540.08474996689,
+    "start_equity_thb": 433264.3104997137,
+    "end_equity_thb": 506804.395249681,
+    "equity_change_thb": 73540.08474996733,
+    "max_equity_drawdown_thb": 37027.45420000353
+   },
+   "2021": {
+    "closed_trades": 887,
+    "realized_net_thb": 30682.40889996226,
+    "closed_trade_net_thb": 30682.408899962058,
+    "start_equity_thb": 506804.395249681,
+    "end_equity_thb": 537486.8041496433,
+    "equity_change_thb": 30682.40889996226,
+    "max_equity_drawdown_thb": 33518.24465000455
+   },
+   "2022": {
+    "closed_trades": 877,
+    "realized_net_thb": 23918.44674996636,
+    "closed_trade_net_thb": 23918.44674996624,
+    "start_equity_thb": 537486.8041496433,
+    "end_equity_thb": 561405.2508996096,
+    "equity_change_thb": 23918.44674996636,
+    "max_equity_drawdown_thb": 33061.505400002585
+   }
+  },
+  "exit_reasons": {
+   "swing": 7825,
+   "scheduled": 1464,
+   "stop": 510
+  },
+  "trades_crossing_trading_day": 0,
+  "trades_spanning_gap": 0,
+  "by_rule": {
+   "A": {
+    "trades": 6318,
+    "net_thb": 368467.3404497494,
+    "win": 0.6327951883507439
+   },
+   "B": {
+    "trades": 3481,
+    "net_thb": 92937.91044985902,
+    "win": 0.6044240160873312
+   }
+  },
+  "net_2020_2022_closed": 128140.94039989522
+ }
+}

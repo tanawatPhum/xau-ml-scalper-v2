@@ -1,0 +1,20 @@
+{
+  "created_utc": "2026-10-31T18:08:56.149678+00:00",
+  "source_hashes": {
+    "D:\\xau-ml-scalper-claude\\data-ext\\macro\\FOMC_statements_2010_2022.csv": "a66bef65c3df89dc4d7848972b68c6d211560185410cefe6c9cbd0beea3e5afe",
+    "D:\\xau-ml-scalper-claude\\data-ext\\macro\\FOMC_monetary_pressreleases_2010_2022.csv": "d962e29248cd254fcd9d3b6102a733f702333e0e29af62780785a0bb36939267",
+    "D:\\xau-ml-scalper-claude\\data-ext\\download_macro.py": "fc2874998eea1d24c192ecf19ffc3d5dfb9e1cdd9c38ab7af742e57d341a104a",
+    "D:\\xau-ml-scalper-claude\\data-ext\\fix_fomc_times.py": "39eef996c87cb72486b6bca5738f05d70bfae750775e3a5fd7b98b46a8e06cbe",
+    "D:\\xau-ml-scalper-claude\\data-ext\\macro\\raw\\fomchistorical2010.htm": "faa2cf023a60a6ea8816ddad44568b65d484e640441daf3ff373b513e7562a06",
+    "D:\\xau-ml-scalper-claude\\data-ext\\macro\\raw\\fomchistorical2011.htm": "ea22e523c435a90b29b395b889da7d478a9020d51d4fc64e0852ee91a1eacf76",
+    "D:\\xau-ml-scalper-claude\\data-ext\\macro\\raw\\fomchistorical2012.htm": "4bdc48b3d5fcfda06ec91a38679df9361fd6bb73b4993c7a8ad80655bf1d79ad",
+    "D:\\xau-ml-scalper-claude\\data-ext\\macro\\raw\\fomchistorical2013.htm": "d57f5b93bcbad5c0303205017f8b5d38ef5e4837d3a3fe52cdd7618c901e556b",
+    "D:\\xau-ml-scalper-claude\\data-ext\\macro\\raw\\fomchistorical2014.htm": "a85b7101e78c0092483be7e7d7f80c496e3e0c8fa7dd522db745035ac35faa23",
+    "D:\\xau-ml-scalper-claude\\data-ext\\macro\\raw\\fomchistorical2015.htm": "25382db8ac6ae05c0686dc35a838c14ad30fbbe0df1652bcb3f19803bff8af30",
+    "D:\\xau-ml-scalper-claude\\data-ext\\macro\\raw\\fomchistorical2016.htm": "e607e317dc7acaf024c1381702d3c9362834b89641917376d8246e2b4e29c143",
+    "D:\\xau-ml-scalper-claude\\data-ext\\macro\\raw\\fomchistorical2017.htm": "dde6ed521b6c7fbd355398e9740971a58b16e3fc96fac1e1d0c54d0faaa9f5a6",
+    "D:\\xau-ml-scalper-claude\\data-ext\\macro\\raw\\fomchistorical2018.htm": "48cb45cab90e4d6bd68563c3ef8b84c1323caafef5bd6318493d942c61ddd7fc",
+    "D:\\xau-ml-scalper-claude\\data-ext\\macro\\raw\\fomchistorical2019.htm": "e54a16059e438120c3c9e9b93f745745a247eb6c0314e491929d0deed00206a7"
+  },
+  "scope": "FOMC metadata only; rows <=2019; no price data"
+}

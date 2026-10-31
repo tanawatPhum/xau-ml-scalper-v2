@@ -1,0 +1,4754 @@
+[
+ {
+  "rule": "A",
+  "session": 0,
+  "cell": {
+   "k": 0.75,
+   "min_usd": 2.1626934441569983,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 272054.6658498876,
+   "dd": 37136.70015000188,
+   "dd_pct": 18.020997480549898,
+   "loss": 1300684.813450044,
+   "trades": 2809,
+   "worst": -10107.023300000032,
+   "lowest": 98639.0689999997,
+   "recent": 25983.313399971754,
+   "early": 246071.35244991584,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 1,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "A",
+  "session": 0,
+  "cell": {
+   "k": 0.75,
+   "min_usd": 2.1626934441569983,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 296836.10494990257,
+   "dd": 37160.33915000345,
+   "dd_pct": 14.48266325262589,
+   "loss": 1090988.1411000374,
+   "trades": 2412,
+   "worst": -10107.023300000032,
+   "lowest": 98639.0689999997,
+   "recent": 27283.120699975814,
+   "early": 269552.98424992675,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "A",
+  "session": 0,
+  "cell": {
+   "k": 0.75,
+   "min_usd": 3.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 283248.0700499021,
+   "dd": 38363.73310000173,
+   "dd_pct": 17.833875072593006,
+   "loss": 1162312.2384500385,
+   "trades": 2453,
+   "worst": -10107.023300000032,
+   "lowest": 98652.23929999986,
+   "recent": 28717.332599976566,
+   "early": 254530.7374499255,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "A",
+  "session": 0,
+  "cell": {
+   "k": 0.75,
+   "min_usd": 3.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 289950.5707999088,
+   "dd": 37819.867250003444,
+   "dd_pct": 14.58664014868598,
+   "loss": 1053623.4934500353,
+   "trades": 2292,
+   "worst": -10107.023300000032,
+   "lowest": 98652.23929999986,
+   "recent": 20160.183449977718,
+   "early": 269790.38734993106,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "A",
+  "session": 0,
+  "cell": {
+   "k": 0.75,
+   "min_usd": 4.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 284607.14369990834,
+   "dd": 40200.14570000165,
+   "dd_pct": 18.95289276331717,
+   "loss": 1093862.643500036,
+   "trades": 2314,
+   "worst": -10107.023300000032,
+   "lowest": 98652.23929999986,
+   "recent": 26749.554699977918,
+   "early": 257857.58899993042,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "A",
+  "session": 0,
+  "cell": {
+   "k": 0.75,
+   "min_usd": 4.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 282619.1037999121,
+   "dd": 37819.867250003444,
+   "dd_pct": 15.681452203550533,
+   "loss": 1028774.5143500343,
+   "trades": 2230,
+   "worst": -10107.023300000032,
+   "lowest": 98652.23929999986,
+   "recent": 15925.425449978618,
+   "early": 266693.67834993347,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "A",
+  "session": 0,
+  "cell": {
+   "k": 1.0,
+   "min_usd": 2.1626934441569983,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 300583.73069989245,
+   "dd": 29837.821200004546,
+   "dd_pct": 14.679075234701628,
+   "loss": 1251432.7881000414,
+   "trades": 2734,
+   "worst": -19706.82120000008,
+   "lowest": 98836.96119999993,
+   "recent": 34440.50334997114,
+   "early": 266143.2273499213,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "A",
+  "session": 0,
+  "cell": {
+   "k": 1.0,
+   "min_usd": 2.1626934441569983,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 275359.73574990506,
+   "dd": 31184.39995000366,
+   "dd_pct": 13.735911149715205,
+   "loss": 1112421.453550037,
+   "trades": 2411,
+   "worst": -19706.82120000008,
+   "lowest": 99515.06279999972,
+   "recent": 22683.64669997641,
+   "early": 252676.08904992865,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "A",
+  "session": 0,
+  "cell": {
+   "k": 1.0,
+   "min_usd": 3.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 298945.8856999021,
+   "dd": 30211.14855000208,
+   "dd_pct": 14.190230214791963,
+   "loss": 1165973.9195500384,
+   "trades": 2501,
+   "worst": -19706.82120000008,
+   "lowest": 99515.06279999972,
+   "recent": 37665.369499976514,
+   "early": 261280.51619992557,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "A",
+  "session": 0,
+  "cell": {
+   "k": 1.0,
+   "min_usd": 3.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 276290.0992499072,
+   "dd": 34983.69380000356,
+   "dd_pct": 13.312798449427078,
+   "loss": 1086559.0367500363,
+   "trades": 2345,
+   "worst": -19706.82120000008,
+   "lowest": 99515.06279999972,
+   "recent": 21961.306399977533,
+   "early": 254328.79284992965,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "A",
+  "session": 0,
+  "cell": {
+   "k": 1.0,
+   "min_usd": 4.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 298193.3212499067,
+   "dd": 30813.09880000353,
+   "dd_pct": 13.16261089386958,
+   "loss": 1110059.7486000364,
+   "trades": 2367,
+   "worst": -19706.82120000008,
+   "lowest": 99100.36719999978,
+   "recent": 30767.846999977657,
+   "early": 267425.474249929,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "A",
+  "session": 0,
+  "cell": {
+   "k": 1.0,
+   "min_usd": 4.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 281041.5382499093,
+   "dd": 35366.81445000344,
+   "dd_pct": 13.02216142187893,
+   "loss": 1059828.5621000351,
+   "trades": 2288,
+   "worst": -19706.82120000008,
+   "lowest": 99100.36719999978,
+   "recent": 20478.296849978098,
+   "early": 260563.2413999312,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "A",
+  "session": 0,
+  "cell": {
+   "k": 1.25,
+   "min_usd": 2.1626934441569983,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 302222.75764989585,
+   "dd": 42147.83045000443,
+   "dd_pct": 12.469645749743133,
+   "loss": 1217252.6514500398,
+   "trades": 2616,
+   "worst": -19706.82120000008,
+   "lowest": 96701.00869999992,
+   "recent": 17189.436549972685,
+   "early": 285033.32109992317,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "A",
+  "session": 0,
+  "cell": {
+   "k": 1.25,
+   "min_usd": 2.1626934441569983,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 282275.1563499044,
+   "dd": 45831.79975000367,
+   "dd_pct": 12.965142171816273,
+   "loss": 1108246.9750000369,
+   "trades": 2398,
+   "worst": -19706.82120000008,
+   "lowest": 99100.36719999978,
+   "recent": 11230.044649976015,
+   "early": 271045.1116999284,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "A",
+  "session": 0,
+  "cell": {
+   "k": 1.25,
+   "min_usd": 3.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 310385.4731998998,
+   "dd": 34463.46695000387,
+   "dd_pct": 12.40679917667029,
+   "loss": 1175233.1470000385,
+   "trades": 2516,
+   "worst": -19706.82120000008,
+   "lowest": 99493.1122999997,
+   "recent": 26514.008949975658,
+   "early": 283871.4642499241,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "A",
+  "session": 0,
+  "cell": {
+   "k": 1.25,
+   "min_usd": 3.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 280100.70604990574,
+   "dd": 43483.602800003544,
+   "dd_pct": 13.086894301078816,
+   "loss": 1098671.9980500364,
+   "trades": 2370,
+   "worst": -19706.82120000008,
+   "lowest": 99100.36719999978,
+   "recent": 11039.412999977183,
+   "early": 269061.29304992856,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "A",
+  "session": 0,
+  "cell": {
+   "k": 1.25,
+   "min_usd": 4.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 305934.7560499037,
+   "dd": 36236.89850000356,
+   "dd_pct": 12.431136676061346,
+   "loss": 1136326.8988500373,
+   "trades": 2415,
+   "worst": -19706.82120000008,
+   "lowest": 99100.36719999978,
+   "recent": 21446.820449977182,
+   "early": 284487.9355999265,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "A",
+  "session": 0,
+  "cell": {
+   "k": 1.25,
+   "min_usd": 4.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 282593.1008999071,
+   "dd": 44211.85285000352,
+   "dd_pct": 13.10547168129659,
+   "loss": 1084746.0943000359,
+   "trades": 2341,
+   "worst": -19706.82120000008,
+   "lowest": 99100.36719999978,
+   "recent": 15363.830349977536,
+   "early": 267229.2705499296,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "A",
+  "session": 0,
+  "cell": {
+   "k": 1.5,
+   "min_usd": 2.1626934441569983,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 283370.65514990047,
+   "dd": 40521.8049500038,
+   "dd_pct": 12.130254635515573,
+   "loss": 1178534.6710500384,
+   "trades": 2502,
+   "worst": -19706.82120000008,
+   "lowest": 97585.44499999996,
+   "recent": 12440.867999974987,
+   "early": 270929.7871499255,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "A",
+  "session": 0,
+  "cell": {
+   "k": 1.5,
+   "min_usd": 2.1626934441569983,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 284908.0343999061,
+   "dd": 39963.75570000359,
+   "dd_pct": 12.59810655498535,
+   "loss": 1101932.4915500362,
+   "trades": 2376,
+   "worst": -19706.82120000008,
+   "lowest": 99704.5125,
+   "recent": 22444.048549976957,
+   "early": 262463.98584992916,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "A",
+  "session": 0,
+  "cell": {
+   "k": 1.5,
+   "min_usd": 3.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 282724.80389990116,
+   "dd": 39814.8300000038,
+   "dd_pct": 12.17605195130806,
+   "loss": 1167024.3354000382,
+   "trades": 2474,
+   "worst": -19706.82120000008,
+   "lowest": 99762.5969,
+   "recent": 14955.888749975362,
+   "early": 267768.9151499258,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "A",
+  "session": 0,
+  "cell": {
+   "k": 1.5,
+   "min_usd": 3.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 281741.7591999064,
+   "dd": 39793.048350003664,
+   "dd_pct": 12.658856203481623,
+   "loss": 1101761.7842000364,
+   "trades": 2370,
+   "worst": -19706.82120000008,
+   "lowest": 99100.36719999978,
+   "recent": 21313.93549997697,
+   "early": 260427.8236999294,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "A",
+  "session": 0,
+  "cell": {
+   "k": 1.5,
+   "min_usd": 4.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 288112.80739990313,
+   "dd": 37660.97940000374,
+   "dd_pct": 12.17030156334069,
+   "loss": 1147758.2127000375,
+   "trades": 2434,
+   "worst": -19706.82120000008,
+   "lowest": 99644.06419999966,
+   "recent": 17886.618199976336,
+   "early": 270226.1891999268,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "A",
+  "session": 0,
+  "cell": {
+   "k": 1.5,
+   "min_usd": 4.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 280216.53714990657,
+   "dd": 39793.048350003606,
+   "dd_pct": 12.658856203481623,
+   "loss": 1100444.2476500361,
+   "trades": 2363,
+   "worst": -19706.82120000008,
+   "lowest": 99100.36719999978,
+   "recent": 20658.459799977078,
+   "early": 259558.0773499295,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "A",
+  "session": 0,
+  "cell": {
+   "k": 1.0,
+   "min_usd": 3.0,
+   "leg": 2.5,
+   "on": false
+  },
+  "metrics": {
+   "net": 271102.35184991045,
+   "dd": 33325.924500003515,
+   "dd_pct": 13.164431628382593,
+   "loss": 1042834.9915500348,
+   "trades": 2254,
+   "worst": -19706.82120000008,
+   "lowest": 99100.36719999978,
+   "recent": 21537.492899978068,
+   "early": 249564.8589499324,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "A",
+  "session": 1,
+  "cell": {
+   "k": 0.75,
+   "min_usd": 2.1626934441569983,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 307544.74079988565,
+   "dd": 31729.785450002848,
+   "dd_pct": 15.016461860302424,
+   "loss": 1270812.8845500438,
+   "trades": 2929,
+   "worst": -15532.680350000077,
+   "lowest": 99317.17059999994,
+   "recent": 41060.09874997166,
+   "early": 266484.642049914,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "A",
+  "session": 1,
+  "cell": {
+   "k": 0.75,
+   "min_usd": 2.1626934441569983,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 272281.0936999076,
+   "dd": 28865.920600001933,
+   "dd_pct": 14.45948255889275,
+   "loss": 1030310.7116500366,
+   "trades": 2390,
+   "worst": -15532.680350000077,
+   "lowest": 99619.07439999972,
+   "recent": 40220.745399976324,
+   "early": 232060.34829993127,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "A",
+  "session": 1,
+  "cell": {
+   "k": 0.75,
+   "min_usd": 3.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 312491.708099908,
+   "dd": 32921.19105000247,
+   "dd_pct": 15.945025263292104,
+   "loss": 1057585.0521500362,
+   "trades": 2361,
+   "worst": -15532.680350000077,
+   "lowest": 99066.9348999998,
+   "recent": 44754.03019997827,
+   "early": 267737.67789992975,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "A",
+  "session": 1,
+  "cell": {
+   "k": 0.75,
+   "min_usd": 3.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 276352.5737499184,
+   "dd": 31370.64150000183,
+   "dd_pct": 15.467964823232386,
+   "loss": 937728.2304500327,
+   "trades": 2140,
+   "worst": -15532.680350000077,
+   "lowest": 99066.9348999998,
+   "recent": 37613.0259999797,
+   "early": 238739.54774993868,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "A",
+  "session": 1,
+  "cell": {
+   "k": 0.75,
+   "min_usd": 4.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 283611.60409991705,
+   "dd": 33173.28410000235,
+   "dd_pct": 16.681700702972734,
+   "loss": 982843.599650033,
+   "trades": 2152,
+   "worst": -15532.680350000077,
+   "lowest": 99066.9348999998,
+   "recent": 38047.81474997988,
+   "early": 245563.78934993717,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "A",
+  "session": 1,
+  "cell": {
+   "k": 0.75,
+   "min_usd": 4.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 252334.1677999217,
+   "dd": 32613.71520000184,
+   "dd_pct": 16.37448031476321,
+   "loss": 917813.8926000318,
+   "trades": 2050,
+   "worst": -15532.680350000077,
+   "lowest": 99066.9348999998,
+   "recent": 32363.14179998031,
+   "early": 219971.0259999414,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "A",
+  "session": 1,
+  "cell": {
+   "k": 1.0,
+   "min_usd": 2.1626934441569983,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 351645.82804988447,
+   "dd": 30211.148550002137,
+   "dd_pct": 13.840188506612108,
+   "loss": 1294565.0140500441,
+   "trades": 2955,
+   "worst": -19706.82120000008,
+   "lowest": 96950.56899999993,
+   "recent": 51040.14684996876,
+   "early": 300605.6811999157,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "A",
+  "session": 1,
+  "cell": {
+   "k": 1.0,
+   "min_usd": 2.1626934441569983,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 271011.84824990615,
+   "dd": 33352.60280000203,
+   "dd_pct": 15.538365798995448,
+   "loss": 1099714.984500036,
+   "trades": 2414,
+   "worst": -19706.82120000008,
+   "lowest": 98920.37309999981,
+   "recent": 34852.32849997579,
+   "early": 236159.51974993036,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "A",
+  "session": 1,
+  "cell": {
+   "k": 1.0,
+   "min_usd": 3.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 298945.8856999021,
+   "dd": 30211.14855000208,
+   "dd_pct": 14.190230214791963,
+   "loss": 1165973.9195500384,
+   "trades": 2501,
+   "worst": -19706.82120000008,
+   "lowest": 99515.06279999972,
+   "recent": 37665.369499976514,
+   "early": 261280.51619992557,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "A",
+  "session": 1,
+  "cell": {
+   "k": 1.0,
+   "min_usd": 3.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 244525.53069991275,
+   "dd": 33352.602800002,
+   "dd_pct": 16.135540440246285,
+   "loss": 1059528.5156500349,
+   "trades": 2256,
+   "worst": -19706.82120000008,
+   "lowest": 99066.9348999998,
+   "recent": 29547.736899978772,
+   "early": 214977.79379993398,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "A",
+  "session": 1,
+  "cell": {
+   "k": 1.0,
+   "min_usd": 4.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 283958.0842999134,
+   "dd": 34094.023150001856,
+   "dd_pct": 16.31911812602621,
+   "loss": 1054726.4216500341,
+   "trades": 2251,
+   "worst": -19706.82120000008,
+   "lowest": 99066.9348999998,
+   "recent": 38158.24264997896,
+   "early": 245799.84164993442,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "A",
+  "session": 1,
+  "cell": {
+   "k": 1.0,
+   "min_usd": 4.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 237416.2702999175,
+   "dd": 37235.47740000181,
+   "dd_pct": 18.0733432152773,
+   "loss": 1016846.1061000329,
+   "trades": 2156,
+   "worst": -19706.82120000008,
+   "lowest": 99066.9348999998,
+   "recent": 28526.36324997939,
+   "early": 208889.9070499381,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "A",
+  "session": 1,
+  "cell": {
+   "k": 1.25,
+   "min_usd": 2.1626934441569983,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 272657.460349892,
+   "dd": 39757.92755000363,
+   "dd_pct": 13.269140936195342,
+   "loss": 1286035.556300041,
+   "trades": 2757,
+   "worst": -12844.25065000007,
+   "lowest": 97282.86579999968,
+   "recent": 40847.347749969515,
+   "early": 231810.11259992246,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 1,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "A",
+  "session": 1,
+  "cell": {
+   "k": 1.25,
+   "min_usd": 2.1626934441569983,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 244426.75344990927,
+   "dd": 37918.64450000343,
+   "dd_pct": 11.556587862592085,
+   "loss": 1110016.0164500354,
+   "trades": 2355,
+   "worst": -10107.023300000032,
+   "lowest": 99246.59129999977,
+   "recent": 36362.016349975835,
+   "early": 208064.73709993344,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "A",
+  "session": 1,
+  "cell": {
+   "k": 1.25,
+   "min_usd": 3.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 253593.78879990103,
+   "dd": 39757.92755000369,
+   "dd_pct": 13.232828675447847,
+   "loss": 1225744.286800038,
+   "trades": 2545,
+   "worst": -12844.25065000007,
+   "lowest": 98833.92189999978,
+   "recent": 31166.50184997497,
+   "early": 222427.28694992606,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "A",
+  "session": 1,
+  "cell": {
+   "k": 1.25,
+   "min_usd": 3.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 226667.78584991122,
+   "dd": 38217.34015000699,
+   "dd_pct": 11.87185452124687,
+   "loss": 1104356.333300035,
+   "trades": 2301,
+   "worst": -10107.023300000032,
+   "lowest": 98833.92189999978,
+   "recent": 25573.1767499774,
+   "early": 201094.60909993382,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "A",
+  "session": 1,
+  "cell": {
+   "k": 1.25,
+   "min_usd": 4.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 222374.7745999095,
+   "dd": 39787.138600003556,
+   "dd_pct": 14.395378124923507,
+   "loss": 1164444.3074000357,
+   "trades": 2357,
+   "worst": -12844.25065000007,
+   "lowest": 98833.92189999978,
+   "recent": 29070.397949977836,
+   "early": 193304.37664993166,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "A",
+  "session": 1,
+  "cell": {
+   "k": 1.25,
+   "min_usd": 4.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 206809.6750499141,
+   "dd": 40592.38425000699,
+   "dd_pct": 13.010782786899888,
+   "loss": 1090136.7994000341,
+   "trades": 2242,
+   "worst": -10107.023300000032,
+   "lowest": 98833.92189999978,
+   "recent": 24647.878749978438,
+   "early": 182161.79629993567,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "A",
+  "session": 1,
+  "cell": {
+   "k": 1.5,
+   "min_usd": 2.1626934441569983,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 248355.3863999016,
+   "dd": 41576.10435000347,
+   "dd_pct": 12.96228499986048,
+   "loss": 1242146.3758000373,
+   "trades": 2565,
+   "worst": -10107.023300000032,
+   "lowest": 97760.71129999975,
+   "recent": 50720.513799973414,
+   "early": 197634.87259992817,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 1,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "A",
+  "session": 1,
+  "cell": {
+   "k": 1.5,
+   "min_usd": 2.1626934441569983,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 236602.58214991126,
+   "dd": 40984.79165000323,
+   "dd_pct": 12.889454273657666,
+   "loss": 1131779.599500035,
+   "trades": 2337,
+   "worst": -10107.023300000032,
+   "lowest": 99598.47469999974,
+   "recent": 39190.760399977386,
+   "early": 197411.82174993388,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "A",
+  "session": 1,
+  "cell": {
+   "k": 1.5,
+   "min_usd": 3.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 237686.43029990373,
+   "dd": 42188.69215000537,
+   "dd_pct": 13.364190766156081,
+   "loss": 1228354.0324000372,
+   "trades": 2511,
+   "worst": -10107.023300000032,
+   "lowest": 97760.71129999975,
+   "recent": 44937.738999975205,
+   "early": 192748.69129992853,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 1,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "A",
+  "session": 1,
+  "cell": {
+   "k": 1.5,
+   "min_usd": 3.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 231666.08354991133,
+   "dd": 40984.79165000329,
+   "dd_pct": 12.979059396941178,
+   "loss": 1129198.5584000344,
+   "trades": 2324,
+   "worst": -10107.023300000032,
+   "lowest": 99598.47469999974,
+   "recent": 36449.48064997763,
+   "early": 195216.6028999337,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "A",
+  "session": 1,
+  "cell": {
+   "k": 1.5,
+   "min_usd": 4.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 214463.98324990773,
+   "dd": 42188.69215000543,
+   "dd_pct": 13.511437901962811,
+   "loss": 1198057.783450036,
+   "trades": 2409,
+   "worst": -10107.023300000032,
+   "lowest": 98833.92189999978,
+   "recent": 27488.273449976987,
+   "early": 186975.70979993074,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "A",
+  "session": 1,
+  "cell": {
+   "k": 1.5,
+   "min_usd": 4.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 220150.8512499124,
+   "dd": 40984.79165000329,
+   "dd_pct": 13.059982520062169,
+   "loss": 1125074.5660000346,
+   "trades": 2302,
+   "worst": -10107.023300000032,
+   "lowest": 98833.92189999978,
+   "recent": 26890.88214997819,
+   "early": 193259.9690999342,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "A",
+  "session": 1,
+  "cell": {
+   "k": 1.0,
+   "min_usd": 3.0,
+   "leg": 2.5,
+   "on": false
+  },
+  "metrics": {
+   "net": 234134.16399992135,
+   "dd": 32051.275850006263,
+   "dd_pct": 13.64782731111517,
+   "loss": 943610.964450032,
+   "trades": 2079,
+   "worst": -10107.023300000032,
+   "lowest": 99066.9348999998,
+   "recent": 30187.847249979794,
+   "early": 203946.31674994156,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "A",
+  "session": 2,
+  "cell": {
+   "k": 0.75,
+   "min_usd": 2.1626934441569983,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 210659.96159986762,
+   "dd": 51081.85280001187,
+   "dd_pct": 16.05928691079149,
+   "loss": 1577828.7871500505,
+   "trades": 3354,
+   "worst": -19706.82120000008,
+   "lowest": 96161.70179999855,
+   "recent": 9957.92874996463,
+   "early": 200702.032849903,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 401
+  }
+ },
+ {
+  "rule": "A",
+  "session": 2,
+  "cell": {
+   "k": 0.75,
+   "min_usd": 2.1626934441569983,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 245365.7282999095,
+   "dd": 33713.60410000238,
+   "dd_pct": 16.094184216658565,
+   "loss": 1020529.2311500346,
+   "trades": 2331,
+   "worst": -19706.82120000008,
+   "lowest": 98986.22459999986,
+   "recent": 30440.61569997779,
+   "early": 214925.11259993172,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 384
+  }
+ },
+ {
+  "rule": "A",
+  "session": 2,
+  "cell": {
+   "k": 0.75,
+   "min_usd": 3.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 227099.87299990148,
+   "dd": 46533.54035000992,
+   "dd_pct": 14.295980615737324,
+   "loss": 1260635.1131000386,
+   "trades": 2536,
+   "worst": -19706.82120000008,
+   "lowest": 97330.81919999931,
+   "recent": 12899.29574997857,
+   "early": 214200.5772499229,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 384
+  }
+ },
+ {
+  "rule": "A",
+  "session": 2,
+  "cell": {
+   "k": 0.75,
+   "min_usd": 3.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 245944.20839992253,
+   "dd": 35173.65005000349,
+   "dd_pct": 14.807695145294472,
+   "loss": 906222.3401000304,
+   "trades": 2009,
+   "worst": -19706.82120000008,
+   "lowest": 98422.94099999998,
+   "recent": 32186.86239998293,
+   "early": 213757.3459999396,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 375
+  }
+ },
+ {
+  "rule": "A",
+  "session": 2,
+  "cell": {
+   "k": 0.75,
+   "min_usd": 4.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 256561.66524992068,
+   "dd": 47175.67690000322,
+   "dd_pct": 13.443141331758316,
+   "loss": 999361.6886000312,
+   "trades": 2062,
+   "worst": -19706.82120000008,
+   "lowest": 99859.17909999995,
+   "recent": 25934.51574998349,
+   "early": 230627.1494999372,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 377
+  }
+ },
+ {
+  "rule": "A",
+  "session": 2,
+  "cell": {
+   "k": 0.75,
+   "min_usd": 4.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 246392.84284992993,
+   "dd": 36589.45730000298,
+   "dd_pct": 14.673194360684425,
+   "loss": 822976.0819500274,
+   "trades": 1821,
+   "worst": -19706.82120000008,
+   "lowest": 99859.17909999995,
+   "recent": 28965.879799985094,
+   "early": 217426.96304994484,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 371
+  }
+ },
+ {
+  "rule": "A",
+  "session": 2,
+  "cell": {
+   "k": 1.0,
+   "min_usd": 2.1626934441569983,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 271883.2830998885,
+   "dd": 38009.48580000468,
+   "dd_pct": 15.588732143439978,
+   "loss": 1316084.2711500442,
+   "trades": 2864,
+   "worst": -19706.82120000008,
+   "lowest": 93334.81509999944,
+   "recent": 19284.86504996952,
+   "early": 252598.41804991895,
+   "open_positions": 0,
+   "late_cutoff_exits": 4,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 425
+  }
+ },
+ {
+  "rule": "A",
+  "session": 2,
+  "cell": {
+   "k": 1.0,
+   "min_usd": 2.1626934441569983,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 224225.53944991395,
+   "dd": 29763.6960500055,
+   "dd_pct": 15.189054252160938,
+   "loss": 1009629.6259500342,
+   "trades": 2212,
+   "worst": -19706.82120000008,
+   "lowest": 96878.97659999994,
+   "recent": 15297.472299977788,
+   "early": 208928.06714993616,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 413
+  }
+ },
+ {
+  "rule": "A",
+  "session": 2,
+  "cell": {
+   "k": 1.0,
+   "min_usd": 3.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 298945.8856999021,
+   "dd": 30211.14855000208,
+   "dd_pct": 14.190230214791963,
+   "loss": 1165973.9195500384,
+   "trades": 2501,
+   "worst": -19706.82120000008,
+   "lowest": 99515.06279999972,
+   "recent": 37665.369499976514,
+   "early": 261280.51619992557,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "A",
+  "session": 2,
+  "cell": {
+   "k": 1.0,
+   "min_usd": 3.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 225957.77159991988,
+   "dd": 30937.372400003136,
+   "dd_pct": 14.932892878709966,
+   "loss": 950261.628250032,
+   "trades": 2058,
+   "worst": -19706.82120000008,
+   "lowest": 98958.19549999999,
+   "recent": 20031.688599981077,
+   "early": 205926.0829999388,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 405
+  }
+ },
+ {
+  "rule": "A",
+  "session": 2,
+  "cell": {
+   "k": 1.0,
+   "min_usd": 4.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 288115.00244991557,
+   "dd": 31786.519050003146,
+   "dd_pct": 14.774089009238844,
+   "loss": 1011268.4840500336,
+   "trades": 2158,
+   "worst": -19706.82120000008,
+   "lowest": 98117.66019999975,
+   "recent": 40825.73494998191,
+   "early": 247289.26749993366,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 397
+  }
+ },
+ {
+  "rule": "A",
+  "session": 2,
+  "cell": {
+   "k": 1.0,
+   "min_usd": 4.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 246959.6722999247,
+   "dd": 31294.99670000287,
+   "dd_pct": 14.854427788214858,
+   "loss": 878295.9009000302,
+   "trades": 1929,
+   "worst": -19706.82120000008,
+   "lowest": 98958.19549999999,
+   "recent": 33635.93309998314,
+   "early": 213323.73919994157,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 395
+  }
+ },
+ {
+  "rule": "A",
+  "session": 2,
+  "cell": {
+   "k": 1.25,
+   "min_usd": 2.1626934441569983,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 276421.295699901,
+   "dd": 33771.18195000218,
+   "dd_pct": 17.105790662178723,
+   "loss": 1188718.5211000377,
+   "trades": 2519,
+   "worst": -19706.82120000008,
+   "lowest": 98328.38499999991,
+   "recent": 9714.784749973856,
+   "early": 266706.51094992715,
+   "open_positions": 0,
+   "late_cutoff_exits": 4,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 1,
+   "scheduled_exits": 428
+  }
+ },
+ {
+  "rule": "A",
+  "session": 2,
+  "cell": {
+   "k": 1.25,
+   "min_usd": 2.1626934441569983,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 234566.58884991822,
+   "dd": 45016.591950005735,
+   "dd_pct": 16.336397886352223,
+   "loss": 973783.4463500319,
+   "trades": 2106,
+   "worst": -19706.82120000008,
+   "lowest": 96382.89529999984,
+   "recent": 10049.95199998049,
+   "early": 224516.63684993773,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 418
+  }
+ },
+ {
+  "rule": "A",
+  "session": 2,
+  "cell": {
+   "k": 1.25,
+   "min_usd": 3.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 282625.85779990535,
+   "dd": 34574.57025000217,
+   "dd_pct": 17.524533743647446,
+   "loss": 1137651.0205500356,
+   "trades": 2391,
+   "worst": -19706.82120000008,
+   "lowest": 98959.88399999995,
+   "recent": 18918.798249977,
+   "early": 263707.05954992835,
+   "open_positions": 0,
+   "late_cutoff_exits": 4,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 1,
+   "scheduled_exits": 421
+  }
+ },
+ {
+  "rule": "A",
+  "session": 2,
+  "cell": {
+   "k": 1.25,
+   "min_usd": 3.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 233653.44804991968,
+   "dd": 45794.65275000577,
+   "dd_pct": 16.560751678109447,
+   "loss": 958474.6611000311,
+   "trades": 2056,
+   "worst": -19706.82120000008,
+   "lowest": 96382.89529999984,
+   "recent": 12938.468949981849,
+   "early": 220714.97909993783,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 416
+  }
+ },
+ {
+  "rule": "A",
+  "session": 2,
+  "cell": {
+   "k": 1.25,
+   "min_usd": 4.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 287307.22404991294,
+   "dd": 34574.57025000217,
+   "dd_pct": 17.994522137070895,
+   "loss": 1055116.6340000327,
+   "trades": 2209,
+   "worst": -19706.82120000008,
+   "lowest": 99134.47489999997,
+   "recent": 31664.27164998051,
+   "early": 255642.95239993243,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 1,
+   "scheduled_exits": 413
+  }
+ },
+ {
+  "rule": "A",
+  "session": 2,
+  "cell": {
+   "k": 1.25,
+   "min_usd": 4.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 255349.49109992263,
+   "dd": 46884.41065000568,
+   "dd_pct": 16.5031393667289,
+   "loss": 914361.75435003,
+   "trades": 1984,
+   "worst": -19706.82120000008,
+   "lowest": 99134.47489999997,
+   "recent": 31565.83209998306,
+   "early": 223783.65899993957,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 410
+  }
+ },
+ {
+  "rule": "A",
+  "session": 2,
+  "cell": {
+   "k": 1.5,
+   "min_usd": 2.1626934441569983,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 257740.40709990665,
+   "dd": 47415.27505001554,
+   "dd_pct": 16.099219561868715,
+   "loss": 1084806.2049000373,
+   "trades": 2307,
+   "worst": -19706.82120000008,
+   "lowest": 98137.92219999988,
+   "recent": 6565.5633999755955,
+   "early": 251174.84369993105,
+   "open_positions": 0,
+   "late_cutoff_exits": 4,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 430
+  }
+ },
+ {
+  "rule": "A",
+  "session": 2,
+  "cell": {
+   "k": 1.5,
+   "min_usd": 2.1626934441569983,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 258807.5390999181,
+   "dd": 46110.064550012175,
+   "dd_pct": 13.473944449475065,
+   "loss": 949110.0712500319,
+   "trades": 2061,
+   "worst": -19706.82120000008,
+   "lowest": 99859.17909999995,
+   "recent": 8063.769449980697,
+   "early": 250743.7696499374,
+   "open_positions": 0,
+   "late_cutoff_exits": 4,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 421
+  }
+ },
+ {
+  "rule": "A",
+  "session": 2,
+  "cell": {
+   "k": 1.5,
+   "min_usd": 3.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 268185.9746499084,
+   "dd": 43891.8821000146,
+   "dd_pct": 16.109078171299547,
+   "loss": 1065689.0079000364,
+   "trades": 2274,
+   "worst": -19706.82120000008,
+   "lowest": 98137.92219999988,
+   "recent": 17126.286649977264,
+   "early": 251059.68799993116,
+   "open_positions": 0,
+   "late_cutoff_exits": 4,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 426
+  }
+ },
+ {
+  "rule": "A",
+  "session": 2,
+  "cell": {
+   "k": 1.5,
+   "min_usd": 3.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 260111.39879991877,
+   "dd": 45599.12445001182,
+   "dd_pct": 13.500450555706351,
+   "loss": 944678.6030000316,
+   "trades": 2048,
+   "worst": -19706.82120000008,
+   "lowest": 99859.17909999995,
+   "recent": 9766.79054998135,
+   "early": 250344.60824993742,
+   "open_positions": 0,
+   "late_cutoff_exits": 4,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 421
+  }
+ },
+ {
+  "rule": "A",
+  "session": 2,
+  "cell": {
+   "k": 1.5,
+   "min_usd": 4.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 283237.9390499129,
+   "dd": 33000.21285001241,
+   "dd_pct": 15.701385693289167,
+   "loss": 1016013.3379000339,
+   "trades": 2174,
+   "worst": -19706.82120000008,
+   "lowest": 98137.92219999988,
+   "recent": 31360.510499980126,
+   "early": 251877.42854993278,
+   "open_positions": 0,
+   "late_cutoff_exits": 4,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 418
+  }
+ },
+ {
+  "rule": "A",
+  "session": 2,
+  "cell": {
+   "k": 1.5,
+   "min_usd": 4.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 267927.2964499201,
+   "dd": 38746.85375000298,
+   "dd_pct": 13.505305585191115,
+   "loss": 928773.9461000306,
+   "trades": 2016,
+   "worst": -19706.82120000008,
+   "lowest": 99859.17909999995,
+   "recent": 17851.159699982323,
+   "early": 250076.13674993778,
+   "open_positions": 0,
+   "late_cutoff_exits": 4,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 416
+  }
+ },
+ {
+  "rule": "A",
+  "session": 2,
+  "cell": {
+   "k": 1.0,
+   "min_usd": 3.0,
+   "leg": 2.5,
+   "on": false
+  },
+  "metrics": {
+   "net": 234294.23379993055,
+   "dd": 36868.90405000263,
+   "dd_pct": 13.40761280480022,
+   "loss": 792997.1021500274,
+   "trades": 1775,
+   "worst": -19706.82120000008,
+   "lowest": 99859.17909999995,
+   "recent": 30367.503649984603,
+   "early": 203926.73014994594,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 391
+  }
+ },
+ {
+  "rule": "A",
+  "session": 3,
+  "cell": {
+   "k": 0.75,
+   "min_usd": 2.1626934441569983,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 233708.99969987856,
+   "dd": 39533.35705000229,
+   "dd_pct": 19.613520918867106,
+   "loss": 1355364.1843500473,
+   "trades": 3046,
+   "worst": -19706.82120000008,
+   "lowest": 99265.84019999963,
+   "recent": 10498.4175999703,
+   "early": 223210.58209990826,
+   "open_positions": 0,
+   "late_cutoff_exits": 5,
+   "market_close_crossings": 2,
+   "session_crossings": 2,
+   "trades_spanning_data_gap": 2,
+   "scheduled_exits": 430
+  }
+ },
+ {
+  "rule": "A",
+  "session": 3,
+  "cell": {
+   "k": 0.75,
+   "min_usd": 2.1626934441569983,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 204919.39929989818,
+   "dd": 42490.42710000224,
+   "dd_pct": 21.893747765364026,
+   "loss": 1159861.3807000397,
+   "trades": 2521,
+   "worst": -19706.82120000008,
+   "lowest": 99265.84019999963,
+   "recent": 13995.976499973738,
+   "early": 190923.42279992445,
+   "open_positions": 0,
+   "late_cutoff_exits": 2,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 329
+  }
+ },
+ {
+  "rule": "A",
+  "session": 3,
+  "cell": {
+   "k": 0.75,
+   "min_usd": 3.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 251210.4710499015,
+   "dd": 40563.67975000231,
+   "dd_pct": 20.98641644067075,
+   "loss": 1174079.9015000374,
+   "trades": 2471,
+   "worst": -19706.82120000008,
+   "lowest": 98842.02669999974,
+   "recent": 22578.621999977157,
+   "early": 228631.84904992435,
+   "open_positions": 0,
+   "late_cutoff_exits": 2,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 318
+  }
+ },
+ {
+  "rule": "A",
+  "session": 3,
+  "cell": {
+   "k": 0.75,
+   "min_usd": 3.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 227527.90774991113,
+   "dd": 42471.85360000224,
+   "dd_pct": 22.654030513333343,
+   "loss": 1056842.787550034,
+   "trades": 2214,
+   "worst": -19706.82120000008,
+   "lowest": 98842.02669999974,
+   "recent": 24828.717099978065,
+   "early": 202699.19064993307,
+   "open_positions": 0,
+   "late_cutoff_exits": 2,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 269
+  }
+ },
+ {
+  "rule": "A",
+  "session": 3,
+  "cell": {
+   "k": 0.75,
+   "min_usd": 4.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 234324.45794991223,
+   "dd": 42324.61640000224,
+   "dd_pct": 22.287947973979374,
+   "loss": 1068017.4494000336,
+   "trades": 2187,
+   "worst": -19706.82120000008,
+   "lowest": 98837.29889999962,
+   "recent": 12355.092199979059,
+   "early": 221969.36574993317,
+   "open_positions": 0,
+   "late_cutoff_exits": 2,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 268
+  }
+ },
+ {
+  "rule": "A",
+  "session": 3,
+  "cell": {
+   "k": 0.75,
+   "min_usd": 4.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 211996.57819991658,
+   "dd": 43500.65665000252,
+   "dd_pct": 24.41368653474193,
+   "loss": 1012680.0700500326,
+   "trades": 2082,
+   "worst": -19706.82120000008,
+   "lowest": 98837.29889999962,
+   "recent": 13582.125149979547,
+   "early": 198414.45304993703,
+   "open_positions": 0,
+   "late_cutoff_exits": 2,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 250
+  }
+ },
+ {
+  "rule": "A",
+  "session": 3,
+  "cell": {
+   "k": 1.0,
+   "min_usd": 2.1626934441569983,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 300880.56899988465,
+   "dd": 34777.02140000515,
+   "dd_pct": 13.219365042816925,
+   "loss": 1278421.2655500467,
+   "trades": 2920,
+   "worst": -19706.82120000008,
+   "lowest": 98223.36029999985,
+   "recent": 23989.701449968503,
+   "early": 276890.86754991615,
+   "open_positions": 0,
+   "late_cutoff_exits": 7,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 561
+  }
+ },
+ {
+  "rule": "A",
+  "session": 3,
+  "cell": {
+   "k": 1.0,
+   "min_usd": 2.1626934441569983,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 257314.0608499039,
+   "dd": 32982.652450002,
+   "dd_pct": 16.702584607248383,
+   "loss": 1111102.566200039,
+   "trades": 2426,
+   "worst": -19706.82120000008,
+   "lowest": 99135.48799999987,
+   "recent": 27548.215199974307,
+   "early": 229765.8456499296,
+   "open_positions": 0,
+   "late_cutoff_exits": 6,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 399
+  }
+ },
+ {
+  "rule": "A",
+  "session": 3,
+  "cell": {
+   "k": 1.0,
+   "min_usd": 3.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 298945.8856999021,
+   "dd": 30211.14855000208,
+   "dd_pct": 14.190230214791963,
+   "loss": 1165973.9195500384,
+   "trades": 2501,
+   "worst": -19706.82120000008,
+   "lowest": 99515.06279999972,
+   "recent": 37665.369499976514,
+   "early": 261280.51619992557,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "A",
+  "session": 3,
+  "cell": {
+   "k": 1.0,
+   "min_usd": 3.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 261408.50449991226,
+   "dd": 32982.65245000197,
+   "dd_pct": 17.368620907499942,
+   "loss": 1056467.2651500348,
+   "trades": 2224,
+   "worst": -19706.82120000008,
+   "lowest": 99155.74999999977,
+   "recent": 37677.526699978276,
+   "early": 223730.977799934,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 326
+  }
+ },
+ {
+  "rule": "A",
+  "session": 3,
+  "cell": {
+   "k": 1.0,
+   "min_usd": 4.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 281895.75039991323,
+   "dd": 29686.869300000195,
+   "dd_pct": 14.821302956993692,
+   "loss": 1068199.6385500343,
+   "trades": 2214,
+   "worst": -19706.82120000008,
+   "lowest": 98452.32089999974,
+   "recent": 39664.04694997909,
+   "early": 242231.70344993414,
+   "open_positions": 0,
+   "late_cutoff_exits": 2,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 316
+  }
+ },
+ {
+  "rule": "A",
+  "session": 3,
+  "cell": {
+   "k": 1.0,
+   "min_usd": 4.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 250980.15964991768,
+   "dd": 31335.014150002942,
+   "dd_pct": 17.68318979525992,
+   "loss": 1002832.2315000328,
+   "trades": 2078,
+   "worst": -19706.82120000008,
+   "lowest": 98452.32089999974,
+   "recent": 36592.15889997949,
+   "early": 214388.0007499382,
+   "open_positions": 0,
+   "late_cutoff_exits": 2,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 284
+  }
+ },
+ {
+  "rule": "A",
+  "session": 3,
+  "cell": {
+   "k": 1.25,
+   "min_usd": 2.1626934441569983,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 254647.58164989168,
+   "dd": 40368.826850001584,
+   "dd_pct": 20.146206265697487,
+   "loss": 1248159.6308500445,
+   "trades": 2674,
+   "worst": -19706.82120000008,
+   "lowest": 99304.00029999987,
+   "recent": 19990.320349968388,
+   "early": 234657.2612999233,
+   "open_positions": 0,
+   "late_cutoff_exits": 9,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 645
+  }
+ },
+ {
+  "rule": "A",
+  "session": 3,
+  "cell": {
+   "k": 1.25,
+   "min_usd": 2.1626934441569983,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 227594.94119990803,
+   "dd": 41483.7434000021,
+   "dd_pct": 22.092143852610704,
+   "loss": 1107560.4309000373,
+   "trades": 2287,
+   "worst": -19706.82120000008,
+   "lowest": 98029.52049999952,
+   "recent": 28216.185799974133,
+   "early": 199378.7553999339,
+   "open_positions": 0,
+   "late_cutoff_exits": 5,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 435
+  }
+ },
+ {
+  "rule": "A",
+  "session": 3,
+  "cell": {
+   "k": 1.25,
+   "min_usd": 3.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 262298.00629989966,
+   "dd": 40368.826850001555,
+   "dd_pct": 19.823134163441523,
+   "loss": 1196724.5438500403,
+   "trades": 2472,
+   "worst": -19706.82120000008,
+   "lowest": 99762.5969,
+   "recent": 28465.40839997353,
+   "early": 233832.59789992613,
+   "open_positions": 0,
+   "late_cutoff_exits": 5,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 537
+  }
+ },
+ {
+  "rule": "A",
+  "session": 3,
+  "cell": {
+   "k": 1.25,
+   "min_usd": 3.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 240696.51924991183,
+   "dd": 41483.7434000021,
+   "dd_pct": 21.603785255106814,
+   "loss": 1079866.4981500353,
+   "trades": 2195,
+   "worst": -19706.82120000008,
+   "lowest": 98036.27449999959,
+   "recent": 38728.61794997682,
+   "early": 201967.901299935,
+   "open_positions": 0,
+   "late_cutoff_exits": 4,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 386
+  }
+ },
+ {
+  "rule": "A",
+  "session": 3,
+  "cell": {
+   "k": 1.25,
+   "min_usd": 4.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 251866.45329991094,
+   "dd": 40368.826850001584,
+   "dd_pct": 20.851124287488197,
+   "loss": 1114955.7232000353,
+   "trades": 2211,
+   "worst": -19706.82120000008,
+   "lowest": 98452.32089999974,
+   "recent": 35378.46509997797,
+   "early": 216487.98819993297,
+   "open_positions": 0,
+   "late_cutoff_exits": 2,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 398
+  }
+ },
+ {
+  "rule": "A",
+  "session": 3,
+  "cell": {
+   "k": 1.25,
+   "min_usd": 4.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 228393.09514991683,
+   "dd": 39194.98165000204,
+   "dd_pct": 21.48814074686331,
+   "loss": 1046154.5825500329,
+   "trades": 2074,
+   "worst": -19706.82120000008,
+   "lowest": 97338.24859999967,
+   "recent": 39278.56239997863,
+   "early": 189114.5327499382,
+   "open_positions": 0,
+   "late_cutoff_exits": 2,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 329
+  }
+ },
+ {
+  "rule": "A",
+  "session": 3,
+  "cell": {
+   "k": 1.5,
+   "min_usd": 2.1626934441569983,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 219448.9417999048,
+   "dd": 36893.218450009736,
+   "dd_pct": 17.691767828356763,
+   "loss": 1186073.6547000387,
+   "trades": 2397,
+   "worst": -19706.82120000008,
+   "lowest": 96759.09309999962,
+   "recent": 21822.005149973556,
+   "early": 197626.93664993125,
+   "open_positions": 0,
+   "late_cutoff_exits": 6,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 594
+  }
+ },
+ {
+  "rule": "A",
+  "session": 3,
+  "cell": {
+   "k": 1.5,
+   "min_usd": 2.1626934441569983,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 180998.08209991409,
+   "dd": 44036.75540000247,
+   "dd_pct": 23.441314999210906,
+   "loss": 1110808.091800035,
+   "trades": 2165,
+   "worst": -19706.82120000008,
+   "lowest": 94996.29909999968,
+   "recent": 23632.245999976643,
+   "early": 157365.83609993744,
+   "open_positions": 0,
+   "late_cutoff_exits": 4,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 446
+  }
+ },
+ {
+  "rule": "A",
+  "session": 3,
+  "cell": {
+   "k": 1.5,
+   "min_usd": 3.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 223932.07814990688,
+   "dd": 36893.218450009765,
+   "dd_pct": 17.789593237370223,
+   "loss": 1171306.2025500378,
+   "trades": 2343,
+   "worst": -19706.82120000008,
+   "lowest": 96759.09309999962,
+   "recent": 27244.45404997532,
+   "early": 196687.62409993156,
+   "open_positions": 0,
+   "late_cutoff_exits": 6,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 550
+  }
+ },
+ {
+  "rule": "A",
+  "session": 3,
+  "cell": {
+   "k": 1.5,
+   "min_usd": 3.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 185137.7775499152,
+   "dd": 44036.75540000244,
+   "dd_pct": 23.55394211395348,
+   "loss": 1101307.0711500342,
+   "trades": 2137,
+   "worst": -19706.82120000008,
+   "lowest": 94996.29909999968,
+   "recent": 28670.22344997764,
+   "early": 156467.55409993755,
+   "open_positions": 0,
+   "late_cutoff_exits": 4,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 424
+  }
+ },
+ {
+  "rule": "A",
+  "session": 3,
+  "cell": {
+   "k": 1.5,
+   "min_usd": 4.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 228528.5128499127,
+   "dd": 37429.99260000975,
+   "dd_pct": 17.836618062051972,
+   "loss": 1123340.1388000355,
+   "trades": 2196,
+   "worst": -19706.82120000008,
+   "lowest": 94996.29909999968,
+   "recent": 34996.86409997777,
+   "early": 193531.64874993492,
+   "open_positions": 0,
+   "late_cutoff_exits": 4,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 458
+  }
+ },
+ {
+  "rule": "A",
+  "session": 3,
+  "cell": {
+   "k": 1.5,
+   "min_usd": 4.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 193963.39819991786,
+   "dd": 44036.75540000247,
+   "dd_pct": 23.678207177734933,
+   "loss": 1077231.0873500332,
+   "trades": 2074,
+   "worst": -19706.82120000008,
+   "lowest": 94996.29909999968,
+   "recent": 38582.224999978935,
+   "early": 155381.17319993893,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 385
+  }
+ },
+ {
+  "rule": "A",
+  "session": 3,
+  "cell": {
+   "k": 1.0,
+   "min_usd": 3.0,
+   "leg": 2.5,
+   "on": false
+  },
+  "metrics": {
+   "net": 222761.7787999219,
+   "dd": 35867.9612500027,
+   "dd_pct": 20.350913562410692,
+   "loss": 960710.5728000309,
+   "trades": 1963,
+   "worst": -19706.82120000008,
+   "lowest": 98452.32089999974,
+   "recent": 33162.98424997978,
+   "early": 189598.79454994213,
+   "open_positions": 0,
+   "late_cutoff_exits": 2,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 245
+  }
+ },
+ {
+  "rule": "B",
+  "session": 0,
+  "cell": {
+   "k": 1.5,
+   "min_usd": 2.1626934441569983,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 327758.2808498875,
+   "dd": 44250.68835000368,
+   "dd_pct": 20.180875854556046,
+   "loss": 1327728.167150043,
+   "trades": 2865,
+   "worst": -19706.82120000008,
+   "lowest": 99704.5125,
+   "recent": 46990.448449972435,
+   "early": 280767.8323999151,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 408
+  }
+ },
+ {
+  "rule": "B",
+  "session": 0,
+  "cell": {
+   "k": 1.5,
+   "min_usd": 2.1626934441569983,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 304334.2268998999,
+   "dd": 39764.00615000198,
+   "dd_pct": 18.899966940014075,
+   "loss": 1188703.4934500395,
+   "trades": 2572,
+   "worst": -19706.82120000008,
+   "lowest": 99704.5125,
+   "recent": 40310.40474997595,
+   "early": 264023.82214992394,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 408
+  }
+ },
+ {
+  "rule": "B",
+  "session": 0,
+  "cell": {
+   "k": 1.5,
+   "min_usd": 3.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 305686.8842498966,
+   "dd": 41684.50605000244,
+   "dd_pct": 19.386069941896295,
+   "loss": 1249079.8633500398,
+   "trades": 2645,
+   "worst": -19706.82120000008,
+   "lowest": 99762.5969,
+   "recent": 45711.91624997585,
+   "early": 259974.96799992077,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 408
+  }
+ },
+ {
+  "rule": "B",
+  "session": 0,
+  "cell": {
+   "k": 1.5,
+   "min_usd": 3.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 304765.13209990284,
+   "dd": 37864.7813500019,
+   "dd_pct": 18.098220300360317,
+   "loss": 1157277.638000038,
+   "trades": 2500,
+   "worst": -19706.82120000008,
+   "lowest": 99515.06279999972,
+   "recent": 42961.012049977086,
+   "early": 261804.12004992575,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 408
+  }
+ },
+ {
+  "rule": "B",
+  "session": 0,
+  "cell": {
+   "k": 1.5,
+   "min_usd": 4.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 286910.59539990145,
+   "dd": 36519.2157000023,
+   "dd_pct": 17.231982835741196,
+   "loss": 1204015.4868500386,
+   "trades": 2535,
+   "worst": -19706.82120000008,
+   "lowest": 99762.5969,
+   "recent": 36980.00734997721,
+   "early": 249930.58804992423,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 408
+  }
+ },
+ {
+  "rule": "B",
+  "session": 0,
+  "cell": {
+   "k": 1.5,
+   "min_usd": 4.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 286527.47474990436,
+   "dd": 35826.424150001956,
+   "dd_pct": 17.103807665517735,
+   "loss": 1148340.914050038,
+   "trades": 2461,
+   "worst": -19706.82120000008,
+   "lowest": 99515.06279999972,
+   "recent": 35144.60784997756,
+   "early": 251382.8668999268,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 408
+  }
+ },
+ {
+  "rule": "B",
+  "session": 0,
+  "cell": {
+   "k": 2.0,
+   "min_usd": 2.1626934441569983,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 355099.31709989044,
+   "dd": 37677.86440000479,
+   "dd_pct": 15.081487569655566,
+   "loss": 1309002.1956000421,
+   "trades": 2790,
+   "worst": -19706.82120000008,
+   "lowest": 99745.71189999972,
+   "recent": 62803.08209997235,
+   "early": 292296.2349999181,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "B",
+  "session": 0,
+  "cell": {
+   "k": 2.0,
+   "min_usd": 2.1626934441569983,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 309125.85219990014,
+   "dd": 32382.897250002163,
+   "dd_pct": 14.672101449943817,
+   "loss": 1178934.5078500388,
+   "trades": 2541,
+   "worst": -19706.82120000008,
+   "lowest": 99515.06279999972,
+   "recent": 42429.13454997534,
+   "early": 266696.7176499248,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "B",
+  "session": 0,
+  "cell": {
+   "k": 2.0,
+   "min_usd": 3.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 330573.6857498969,
+   "dd": 31770.816000003833,
+   "dd_pct": 14.665510099064516,
+   "loss": 1241039.7329000402,
+   "trades": 2631,
+   "worst": -19706.82120000008,
+   "lowest": 99515.06279999972,
+   "recent": 48611.070749975275,
+   "early": 281962.61499992164,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "B",
+  "session": 0,
+  "cell": {
+   "k": 2.0,
+   "min_usd": 3.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 298945.8856999021,
+   "dd": 30211.14855000208,
+   "dd_pct": 14.190230214791963,
+   "loss": 1165973.9195500384,
+   "trades": 2501,
+   "worst": -19706.82120000008,
+   "lowest": 99515.06279999972,
+   "recent": 37665.369499976514,
+   "early": 261280.51619992557,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "B",
+  "session": 0,
+  "cell": {
+   "k": 2.0,
+   "min_usd": 4.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 320282.95364990097,
+   "dd": 35087.874250003835,
+   "dd_pct": 14.09328197439043,
+   "loss": 1193986.4722500388,
+   "trades": 2545,
+   "worst": -19706.82120000008,
+   "lowest": 99515.06279999972,
+   "recent": 41767.74909997638,
+   "early": 278515.2045499246,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "B",
+  "session": 0,
+  "cell": {
+   "k": 2.0,
+   "min_usd": 4.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 298372.97764990333,
+   "dd": 31155.52660000365,
+   "dd_pct": 13.994730645028344,
+   "loss": 1153189.2729500378,
+   "trades": 2480,
+   "worst": -19706.82120000008,
+   "lowest": 99515.06279999972,
+   "recent": 39966.11959997675,
+   "early": 258406.85804992658,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "B",
+  "session": 0,
+  "cell": {
+   "k": 2.5,
+   "min_usd": 2.1626934441569983,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 287815.63139989617,
+   "dd": 37753.17150000401,
+   "dd_pct": 13.45092621433395,
+   "loss": 1256335.8544000406,
+   "trades": 2628,
+   "worst": -19706.82120000008,
+   "lowest": 99762.5969,
+   "recent": 29844.575199974526,
+   "early": 257971.05619992164,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 410
+  }
+ },
+ {
+  "rule": "B",
+  "session": 0,
+  "cell": {
+   "k": 2.5,
+   "min_usd": 2.1626934441569983,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 293700.2227499008,
+   "dd": 36570.714950003894,
+   "dd_pct": 13.766398534997709,
+   "loss": 1183621.2773000386,
+   "trades": 2524,
+   "worst": -19706.82120000008,
+   "lowest": 99515.06279999972,
+   "recent": 32354.192749975715,
+   "early": 261346.02999992506,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 410
+  }
+ },
+ {
+  "rule": "B",
+  "session": 0,
+  "cell": {
+   "k": 2.5,
+   "min_usd": 3.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 288376.21339989826,
+   "dd": 35691.513000003935,
+   "dd_pct": 12.722659327323846,
+   "loss": 1229675.4525000397,
+   "trades": 2582,
+   "worst": -19706.82120000008,
+   "lowest": 99762.5969,
+   "recent": 29919.544599975226,
+   "early": 258456.66879992303,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 410
+  }
+ },
+ {
+  "rule": "B",
+  "session": 0,
+  "cell": {
+   "k": 2.5,
+   "min_usd": 3.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 292597.2945499014,
+   "dd": 34681.28345000383,
+   "dd_pct": 13.831982635288325,
+   "loss": 1178201.3611500384,
+   "trades": 2511,
+   "worst": -19706.82120000008,
+   "lowest": 99515.06279999972,
+   "recent": 32011.5960999761,
+   "early": 260585.6984499253,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 410
+  }
+ },
+ {
+  "rule": "B",
+  "session": 0,
+  "cell": {
+   "k": 2.5,
+   "min_usd": 4.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 305164.2934999005,
+   "dd": 35035.69960000389,
+   "dd_pct": 12.568944229470771,
+   "loss": 1190457.0007000389,
+   "trades": 2535,
+   "worst": -19706.82120000008,
+   "lowest": 99762.5969,
+   "recent": 38898.143349976046,
+   "early": 266266.15014992445,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 410
+  }
+ },
+ {
+  "rule": "B",
+  "session": 0,
+  "cell": {
+   "k": 2.5,
+   "min_usd": 4.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 299902.0832499019,
+   "dd": 34681.28345000377,
+   "dd_pct": 13.937404328771825,
+   "loss": 1166586.3385000383,
+   "trades": 2500,
+   "worst": -19706.82120000008,
+   "lowest": 99515.06279999972,
+   "recent": 35222.7853999763,
+   "early": 264679.2978499256,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 410
+  }
+ },
+ {
+  "rule": "B",
+  "session": 0,
+  "cell": {
+   "k": 2.0,
+   "min_usd": 3.0,
+   "leg": 3.5,
+   "on": false
+  },
+  "metrics": {
+   "net": 290245.21404990426,
+   "dd": 31801.040150002023,
+   "dd_pct": 15.035933854276712,
+   "loss": 1141088.6377000376,
+   "trades": 2459,
+   "worst": -19706.82120000008,
+   "lowest": 99515.06279999972,
+   "recent": 41269.810449977056,
+   "early": 248975.4035999272,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "B",
+  "session": 1,
+  "cell": {
+   "k": 1.5,
+   "min_usd": 2.1626934441569983,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 289621.65099987685,
+   "dd": 41821.61225000536,
+   "dd_pct": 15.946000563979595,
+   "loss": 1568828.575600046,
+   "trades": 3117,
+   "worst": -19706.82120000008,
+   "lowest": 98315.8900999999,
+   "recent": 23654.703049968346,
+   "early": 265966.9479499085,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 1,
+   "scheduled_exits": 400
+  }
+ },
+ {
+  "rule": "B",
+  "session": 1,
+  "cell": {
+   "k": 1.5,
+   "min_usd": 2.1626934441569983,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 309533.4560998965,
+   "dd": 31749.54090000398,
+   "dd_pct": 12.18965126772542,
+   "loss": 1243839.6036000396,
+   "trades": 2649,
+   "worst": -19706.82120000008,
+   "lowest": 99476.22729999994,
+   "recent": 43671.36399997462,
+   "early": 265862.0920999219,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 399
+  }
+ },
+ {
+  "rule": "B",
+  "session": 1,
+  "cell": {
+   "k": 1.5,
+   "min_usd": 3.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 316121.1388498897,
+   "dd": 37861.06665000401,
+   "dd_pct": 15.074918161541593,
+   "loss": 1384579.6244500414,
+   "trades": 2790,
+   "worst": -19706.82120000008,
+   "lowest": 99249.96829999969,
+   "recent": 36447.960999974224,
+   "early": 279673.17784991546,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 398
+  }
+ },
+ {
+  "rule": "B",
+  "session": 1,
+  "cell": {
+   "k": 1.5,
+   "min_usd": 3.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 305710.0166999006,
+   "dd": 34353.88330000371,
+   "dd_pct": 12.468321485216007,
+   "loss": 1184736.8692500382,
+   "trades": 2534,
+   "worst": -19706.82120000008,
+   "lowest": 99515.06279999972,
+   "recent": 39122.03844997659,
+   "early": 266587.978249924,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 398
+  }
+ },
+ {
+  "rule": "B",
+  "session": 1,
+  "cell": {
+   "k": 1.5,
+   "min_usd": 4.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 293648.3857998995,
+   "dd": 34599.053500001784,
+   "dd_pct": 13.242301881109253,
+   "loss": 1259191.7833000387,
+   "trades": 2560,
+   "worst": -19706.82120000008,
+   "lowest": 99515.06279999972,
+   "recent": 33091.89839997777,
+   "early": 260556.48739992175,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 398
+  }
+ },
+ {
+  "rule": "B",
+  "session": 1,
+  "cell": {
+   "k": 1.5,
+   "min_usd": 4.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 311919.81314990413,
+   "dd": 34592.29950000363,
+   "dd_pct": 12.294796221508344,
+   "loss": 1131513.491900037,
+   "trades": 2454,
+   "worst": -19706.82120000008,
+   "lowest": 99515.06279999972,
+   "recent": 37248.647699977795,
+   "early": 274671.16544992634,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 398
+  }
+ },
+ {
+  "rule": "B",
+  "session": 1,
+  "cell": {
+   "k": 2.0,
+   "min_usd": 2.1626934441569983,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 273519.7772998905,
+   "dd": 33786.37845000508,
+   "dd_pct": 14.78748908556512,
+   "loss": 1420463.1199000431,
+   "trades": 2798,
+   "worst": -19706.82120000008,
+   "lowest": 99641.70029999995,
+   "recent": 17729.925399972533,
+   "early": 255789.851899918,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 411
+  }
+ },
+ {
+  "rule": "B",
+  "session": 1,
+  "cell": {
+   "k": 2.0,
+   "min_usd": 2.1626934441569983,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 288260.8888499011,
+   "dd": 31167.683800003957,
+   "dd_pct": 14.52854121783845,
+   "loss": 1193527.031400039,
+   "trades": 2530,
+   "worst": -19706.82120000008,
+   "lowest": 99641.70029999995,
+   "recent": 31904.376349975762,
+   "early": 256356.51249992533,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "B",
+  "session": 1,
+  "cell": {
+   "k": 2.0,
+   "min_usd": 3.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 286828.0277498945,
+   "dd": 30780.67960000405,
+   "dd_pct": 15.221602158753686,
+   "loss": 1339039.259800041,
+   "trades": 2688,
+   "worst": -19706.82120000008,
+   "lowest": 98493.1826,
+   "recent": 24110.091499974777,
+   "early": 262717.9362499197,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 411
+  }
+ },
+ {
+  "rule": "B",
+  "session": 1,
+  "cell": {
+   "k": 2.0,
+   "min_usd": 3.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 298945.8856999021,
+   "dd": 30211.14855000208,
+   "dd_pct": 14.190230214791963,
+   "loss": 1165973.9195500384,
+   "trades": 2501,
+   "worst": -19706.82120000008,
+   "lowest": 99515.06279999972,
+   "recent": 37665.369499976514,
+   "early": 261280.51619992557,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "B",
+  "session": 1,
+  "cell": {
+   "k": 2.0,
+   "min_usd": 4.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 288711.042949899,
+   "dd": 32119.997800003563,
+   "dd_pct": 12.910833131605393,
+   "loss": 1254788.006450039,
+   "trades": 2562,
+   "worst": -19706.82120000008,
+   "lowest": 99515.06279999972,
+   "recent": 25925.39784997655,
+   "early": 262785.64509992243,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "B",
+  "session": 1,
+  "cell": {
+   "k": 2.0,
+   "min_usd": 4.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 302929.22604990395,
+   "dd": 30211.14855000208,
+   "dd_pct": 14.07187540173242,
+   "loss": 1132563.4012000374,
+   "trades": 2455,
+   "worst": -19706.82120000008,
+   "lowest": 99515.06279999972,
+   "recent": 32087.91629997728,
+   "early": 270841.3097499267,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "B",
+  "session": 1,
+  "cell": {
+   "k": 2.5,
+   "min_usd": 2.1626934441569983,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 288499.13619989814,
+   "dd": 37110.697250003956,
+   "dd_pct": 18.389501307574857,
+   "loss": 1291265.51620004,
+   "trades": 2622,
+   "worst": -19706.82120000008,
+   "lowest": 99795.35379999992,
+   "recent": 35769.01514997444,
+   "early": 252730.1210499237,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 412
+  }
+ },
+ {
+  "rule": "B",
+  "session": 1,
+  "cell": {
+   "k": 2.5,
+   "min_usd": 2.1626934441569983,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 328134.9851999023,
+   "dd": 31111.456750003854,
+   "dd_pct": 11.335639864213851,
+   "loss": 1140218.5536500383,
+   "trades": 2491,
+   "worst": -19706.82120000008,
+   "lowest": 99795.35379999992,
+   "recent": 41708.14504997613,
+   "early": 286426.8401499262,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 412
+  }
+ },
+ {
+  "rule": "B",
+  "session": 1,
+  "cell": {
+   "k": 2.5,
+   "min_usd": 3.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 284878.9921998993,
+   "dd": 33173.95950000401,
+   "dd_pct": 16.000396034991297,
+   "loss": 1272656.2200000393,
+   "trades": 2590,
+   "worst": -19706.82120000008,
+   "lowest": 99795.35379999992,
+   "recent": 26572.262199975085,
+   "early": 258306.7299999242,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 412
+  }
+ },
+ {
+  "rule": "B",
+  "session": 1,
+  "cell": {
+   "k": 2.5,
+   "min_usd": 3.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 324660.5587499025,
+   "dd": 31111.456750003912,
+   "dd_pct": 11.437953310602666,
+   "loss": 1139649.1914500382,
+   "trades": 2486,
+   "worst": -19706.82120000008,
+   "lowest": 99795.35379999992,
+   "recent": 40006.98129997612,
+   "early": 284653.5774499264,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 412
+  }
+ },
+ {
+  "rule": "B",
+  "session": 1,
+  "cell": {
+   "k": 2.5,
+   "min_usd": 4.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 297135.8136999011,
+   "dd": 32324.81285000383,
+   "dd_pct": 15.01109946857378,
+   "loss": 1222697.8951000387,
+   "trades": 2538,
+   "worst": -19706.82120000008,
+   "lowest": 99515.06279999972,
+   "recent": 24466.027299976093,
+   "early": 272669.786399925,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 412
+  }
+ },
+ {
+  "rule": "B",
+  "session": 1,
+  "cell": {
+   "k": 2.5,
+   "min_usd": 4.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 328719.54389990354,
+   "dd": 29686.869300000195,
+   "dd_pct": 11.25190815570599,
+   "loss": 1122352.3663000376,
+   "trades": 2467,
+   "worst": -19706.82120000008,
+   "lowest": 99515.06279999972,
+   "recent": 36390.21429997665,
+   "early": 292329.3295999269,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 412
+  }
+ },
+ {
+  "rule": "B",
+  "session": 1,
+  "cell": {
+   "k": 2.0,
+   "min_usd": 3.0,
+   "leg": 3.5,
+   "on": false
+  },
+  "metrics": {
+   "net": 298567.49284990516,
+   "dd": 31979.34575000353,
+   "dd_pct": 11.457392509460798,
+   "loss": 1094606.4277500375,
+   "trades": 2415,
+   "worst": -19706.82120000008,
+   "lowest": 99515.06279999972,
+   "recent": 30666.705849977618,
+   "early": 267900.78699992754,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "B",
+  "session": 2,
+  "cell": {
+   "k": 1.5,
+   "min_usd": 2.1626934441569983,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 235897.97109988338,
+   "dd": 61610.32570000505,
+   "dd_pct": 22.046810648252077,
+   "loss": 1506294.4715500467,
+   "trades": 2945,
+   "worst": -19706.82120000008,
+   "lowest": 94091.93849999973,
+   "recent": -21714.447700031742,
+   "early": 257612.41879991512,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 1,
+   "scheduled_exits": 415
+  }
+ },
+ {
+  "rule": "B",
+  "session": 2,
+  "cell": {
+   "k": 1.5,
+   "min_usd": 2.1626934441569983,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 281626.7723498985,
+   "dd": 38038.52800000401,
+   "dd_pct": 15.217971398049574,
+   "loss": 1221054.4780500396,
+   "trades": 2558,
+   "worst": -19706.82120000008,
+   "lowest": 99515.06279999972,
+   "recent": 15241.920649974607,
+   "early": 266384.8516999239,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 380
+  }
+ },
+ {
+  "rule": "B",
+  "session": 2,
+  "cell": {
+   "k": 1.5,
+   "min_usd": 3.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 233410.13519988826,
+   "dd": 57554.5487000047,
+   "dd_pct": 22.26168787448005,
+   "loss": 1446409.455150044,
+   "trades": 2824,
+   "worst": -19706.82120000008,
+   "lowest": 94091.93849999973,
+   "recent": -22084.39805002883,
+   "early": 255494.5332499171,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 1,
+   "scheduled_exits": 404
+  }
+ },
+ {
+  "rule": "B",
+  "session": 2,
+  "cell": {
+   "k": 1.5,
+   "min_usd": 3.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 267136.7407499004,
+   "dd": 41400.669200003846,
+   "dd_pct": 15.484071950967468,
+   "loss": 1205827.922750039,
+   "trades": 2511,
+   "worst": -19706.82120000008,
+   "lowest": 99515.06279999972,
+   "recent": 6914.238649975916,
+   "early": 260222.5020999245,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 375
+  }
+ },
+ {
+  "rule": "B",
+  "session": 2,
+  "cell": {
+   "k": 1.5,
+   "min_usd": 4.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 283454.74244989554,
+   "dd": 39057.706600003876,
+   "dd_pct": 21.43508778990496,
+   "loss": 1317187.8747500405,
+   "trades": 2647,
+   "worst": -19706.82120000008,
+   "lowest": 94260.78849999973,
+   "recent": 15318.071999975422,
+   "early": 268136.6704499201,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 385
+  }
+ },
+ {
+  "rule": "B",
+  "session": 2,
+  "cell": {
+   "k": 1.5,
+   "min_usd": 4.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 290624.1134499031,
+   "dd": 36282.82570000354,
+   "dd_pct": 15.508216450223397,
+   "loss": 1151215.5853000372,
+   "trades": 2438,
+   "worst": -19706.82120000008,
+   "lowest": 99515.06279999972,
+   "recent": 23741.66079997737,
+   "early": 266882.4526499257,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 365
+  }
+ },
+ {
+  "rule": "B",
+  "session": 2,
+  "cell": {
+   "k": 2.0,
+   "min_usd": 2.1626934441569983,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 278411.8683498962,
+   "dd": 31924.976050004305,
+   "dd_pct": 14.471795191992687,
+   "loss": 1285427.189750041,
+   "trades": 2647,
+   "worst": -19706.82120000008,
+   "lowest": 98497.23499999991,
+   "recent": 20893.33014997351,
+   "early": 257518.5381999227,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 429
+  }
+ },
+ {
+  "rule": "B",
+  "session": 2,
+  "cell": {
+   "k": 2.0,
+   "min_usd": 2.1626934441569983,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 298719.12014990184,
+   "dd": 30211.14855000208,
+   "dd_pct": 14.190230214791963,
+   "loss": 1167746.1691500386,
+   "trades": 2504,
+   "worst": -19706.82120000008,
+   "lowest": 99515.06279999972,
+   "recent": 37438.60394997627,
+   "early": 261280.51619992557,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "B",
+  "session": 2,
+  "cell": {
+   "k": 2.0,
+   "min_usd": 3.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 281269.48574989656,
+   "dd": 35595.43735000421,
+   "dd_pct": 14.564647487426246,
+   "loss": 1275771.5025000407,
+   "trades": 2634,
+   "worst": -19706.82120000008,
+   "lowest": 98497.23499999991,
+   "recent": 25081.82324997388,
+   "early": 256187.66249992268,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 426
+  }
+ },
+ {
+  "rule": "B",
+  "session": 2,
+  "cell": {
+   "k": 2.0,
+   "min_usd": 3.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 298945.8856999021,
+   "dd": 30211.14855000208,
+   "dd_pct": 14.190230214791963,
+   "loss": 1165973.9195500384,
+   "trades": 2501,
+   "worst": -19706.82120000008,
+   "lowest": 99515.06279999972,
+   "recent": 37665.369499976514,
+   "early": 261280.51619992557,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "B",
+  "session": 2,
+  "cell": {
+   "k": 2.0,
+   "min_usd": 4.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 270092.29114989797,
+   "dd": 35804.811350004224,
+   "dd_pct": 14.616451593466534,
+   "loss": 1267133.8119000404,
+   "trades": 2602,
+   "worst": -19706.82120000008,
+   "lowest": 98497.23499999991,
+   "recent": 14216.832299975096,
+   "early": 255875.45884992287,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 424
+  }
+ },
+ {
+  "rule": "B",
+  "session": 2,
+  "cell": {
+   "k": 2.0,
+   "min_usd": 4.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 292348.57849990233,
+   "dd": 30211.14855000208,
+   "dd_pct": 14.299533207357735,
+   "loss": 1165415.0260500384,
+   "trades": 2493,
+   "worst": -19706.82120000008,
+   "lowest": 99515.06279999972,
+   "recent": 33562.31449997664,
+   "early": 258786.2639999257,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 408
+  }
+ },
+ {
+  "rule": "B",
+  "session": 2,
+  "cell": {
+   "k": 2.5,
+   "min_usd": 2.1626934441569983,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 276275.5781499002,
+   "dd": 30615.713150001946,
+   "dd_pct": 14.37664049601377,
+   "loss": 1227611.2612500396,
+   "trades": 2552,
+   "worst": -19706.82120000008,
+   "lowest": 99515.06279999972,
+   "recent": 34174.226899975794,
+   "early": 242101.3512499244,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 423
+  }
+ },
+ {
+  "rule": "B",
+  "session": 2,
+  "cell": {
+   "k": 2.5,
+   "min_usd": 2.1626934441569983,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 279212.89274990227,
+   "dd": 30615.713150001975,
+   "dd_pct": 14.093059722327785,
+   "loss": 1188448.0234000385,
+   "trades": 2504,
+   "worst": -19706.82120000008,
+   "lowest": 99515.06279999972,
+   "recent": 33361.551849977055,
+   "early": 245851.3408999252,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 420
+  }
+ },
+ {
+  "rule": "B",
+  "session": 2,
+  "cell": {
+   "k": 2.5,
+   "min_usd": 3.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 276725.73224990023,
+   "dd": 30615.713150001946,
+   "dd_pct": 14.37664049601377,
+   "loss": 1227161.1071500396,
+   "trades": 2551,
+   "worst": -19706.82120000008,
+   "lowest": 99515.06279999972,
+   "recent": 34624.38099997584,
+   "early": 242101.3512499244,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 423
+  }
+ },
+ {
+  "rule": "B",
+  "session": 2,
+  "cell": {
+   "k": 2.5,
+   "min_usd": 3.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 279212.89274990227,
+   "dd": 30615.713150001975,
+   "dd_pct": 14.093059722327785,
+   "loss": 1188448.0234000385,
+   "trades": 2504,
+   "worst": -19706.82120000008,
+   "lowest": 99515.06279999972,
+   "recent": 33361.551849977055,
+   "early": 245851.3408999252,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 420
+  }
+ },
+ {
+  "rule": "B",
+  "session": 2,
+  "cell": {
+   "k": 2.5,
+   "min_usd": 4.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 277363.4786999002,
+   "dd": 30615.713150001946,
+   "dd_pct": 14.37664049601377,
+   "loss": 1226258.6039000396,
+   "trades": 2548,
+   "worst": -19706.82120000008,
+   "lowest": 99515.06279999972,
+   "recent": 35262.127449975815,
+   "early": 242101.3512499244,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 421
+  }
+ },
+ {
+  "rule": "B",
+  "session": 2,
+  "cell": {
+   "k": 2.5,
+   "min_usd": 4.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 279237.3759999023,
+   "dd": 30615.713150001975,
+   "dd_pct": 14.093059722327785,
+   "loss": 1188423.5401500387,
+   "trades": 2503,
+   "worst": -19706.82120000008,
+   "lowest": 99515.06279999972,
+   "recent": 33386.0350999771,
+   "early": 245851.3408999252,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 419
+  }
+ },
+ {
+  "rule": "B",
+  "session": 2,
+  "cell": {
+   "k": 2.0,
+   "min_usd": 3.0,
+   "leg": 3.5,
+   "on": false
+  },
+  "metrics": {
+   "net": 281869.5786499046,
+   "dd": 32031.013850001968,
+   "dd_pct": 15.620931196724444,
+   "loss": 1143489.8535500376,
+   "trades": 2447,
+   "worst": -19706.82120000008,
+   "lowest": 99515.06279999972,
+   "recent": 31676.766549977474,
+   "early": 250192.8120999271,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 402
+  }
+ },
+ {
+  "rule": "B",
+  "session": 3,
+  "cell": {
+   "k": 1.5,
+   "min_usd": 2.1626934441569983,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 239521.32324986352,
+   "dd": 42371.38785001059,
+   "dd_pct": 14.381432466811395,
+   "loss": 1516901.9662500557,
+   "trades": 3402,
+   "worst": -19706.82120000008,
+   "lowest": 98009.25849999985,
+   "recent": 10950.091349961702,
+   "early": 228571.23189990182,
+   "open_positions": 0,
+   "late_cutoff_exits": 7,
+   "market_close_crossings": 1,
+   "session_crossings": 1,
+   "trades_spanning_data_gap": 1,
+   "scheduled_exits": 653
+  }
+ },
+ {
+  "rule": "B",
+  "session": 3,
+  "cell": {
+   "k": 1.5,
+   "min_usd": 2.1626934441569983,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 223749.04474988836,
+   "dd": 34516.99240000927,
+   "dd_pct": 17.760407630238653,
+   "loss": 1298550.211750045,
+   "trades": 2834,
+   "worst": -19706.82120000008,
+   "lowest": 99531.94779999994,
+   "recent": 20255.414849970606,
+   "early": 203493.62989991775,
+   "open_positions": 0,
+   "late_cutoff_exits": 5,
+   "market_close_crossings": 1,
+   "session_crossings": 1,
+   "trades_spanning_data_gap": 1,
+   "scheduled_exits": 453
+  }
+ },
+ {
+  "rule": "B",
+  "session": 3,
+  "cell": {
+   "k": 1.5,
+   "min_usd": 3.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 288171.5671998816,
+   "dd": 42168.09245001024,
+   "dd_pct": 14.39326725286457,
+   "loss": 1374467.0291000465,
+   "trades": 2946,
+   "worst": -19706.82120000008,
+   "lowest": 98928.14019999994,
+   "recent": 35049.20759997115,
+   "early": 253122.35959991044,
+   "open_positions": 0,
+   "late_cutoff_exits": 5,
+   "market_close_crossings": 1,
+   "session_crossings": 1,
+   "trades_spanning_data_gap": 1,
+   "scheduled_exits": 453
+  }
+ },
+ {
+  "rule": "B",
+  "session": 3,
+  "cell": {
+   "k": 1.5,
+   "min_usd": 3.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 252415.0469498986,
+   "dd": 35658.08070000904,
+   "dd_pct": 16.10461159848053,
+   "loss": 1212816.79310004,
+   "trades": 2563,
+   "worst": -19706.82120000008,
+   "lowest": 99762.5969,
+   "recent": 37477.43944997637,
+   "early": 214937.60749992222,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 1,
+   "session_crossings": 1,
+   "trades_spanning_data_gap": 1,
+   "scheduled_exits": 339
+  }
+ },
+ {
+  "rule": "B",
+  "session": 3,
+  "cell": {
+   "k": 1.5,
+   "min_usd": 4.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 271061.8278498991,
+   "dd": 35526.2088500032,
+   "dd_pct": 16.917682493123724,
+   "loss": 1253062.359450039,
+   "trades": 2529,
+   "worst": -19706.82120000008,
+   "lowest": 97480.08259999992,
+   "recent": 40744.686949978466,
+   "early": 230317.14089992066,
+   "open_positions": 0,
+   "late_cutoff_exits": 2,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 308
+  }
+ },
+ {
+  "rule": "B",
+  "session": 3,
+  "cell": {
+   "k": 1.5,
+   "min_usd": 4.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 258819.18974990823,
+   "dd": 31631.177050002152,
+   "dd_pct": 17.245613456915372,
+   "loss": 1140371.3629000352,
+   "trades": 2334,
+   "worst": -19706.82120000008,
+   "lowest": 98102.12599999973,
+   "recent": 51962.40554997994,
+   "early": 206856.78419992828,
+   "open_positions": 0,
+   "late_cutoff_exits": 1,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 255
+  }
+ },
+ {
+  "rule": "B",
+  "session": 3,
+  "cell": {
+   "k": 2.0,
+   "min_usd": 2.1626934441569983,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 279524.420999879,
+   "dd": 35106.44775001134,
+   "dd_pct": 11.801921583909976,
+   "loss": 1365288.5119500505,
+   "trades": 3080,
+   "worst": -19706.82120000008,
+   "lowest": 98904.16349999997,
+   "recent": 10539.785849965294,
+   "early": 268984.6351499137,
+   "open_positions": 0,
+   "late_cutoff_exits": 12,
+   "market_close_crossings": 1,
+   "session_crossings": 1,
+   "trades_spanning_data_gap": 1,
+   "scheduled_exits": 774
+  }
+ },
+ {
+  "rule": "B",
+  "session": 3,
+  "cell": {
+   "k": 2.0,
+   "min_usd": 2.1626934441569983,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 290637.9591498957,
+   "dd": 30714.659250007768,
+   "dd_pct": 13.973298043544421,
+   "loss": 1201000.1635500423,
+   "trades": 2650,
+   "worst": -19706.82120000008,
+   "lowest": 99762.5969,
+   "recent": 29276.732649972546,
+   "early": 261361.22649992316,
+   "open_positions": 0,
+   "late_cutoff_exits": 7,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 522
+  }
+ },
+ {
+  "rule": "B",
+  "session": 3,
+  "cell": {
+   "k": 2.0,
+   "min_usd": 3.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 302701.1096998901,
+   "dd": 37414.120700004336,
+   "dd_pct": 11.673908701723454,
+   "loss": 1301174.478450044,
+   "trades": 2819,
+   "worst": -19706.82120000008,
+   "lowest": 99756.18059999993,
+   "recent": 25061.22354997229,
+   "early": 277639.8861499178,
+   "open_positions": 0,
+   "late_cutoff_exits": 6,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 577
+  }
+ },
+ {
+  "rule": "B",
+  "session": 3,
+  "cell": {
+   "k": 2.0,
+   "min_usd": 3.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 298945.8856999021,
+   "dd": 30211.14855000208,
+   "dd_pct": 14.190230214791963,
+   "loss": 1165973.9195500384,
+   "trades": 2501,
+   "worst": -19706.82120000008,
+   "lowest": 99515.06279999972,
+   "recent": 37665.369499976514,
+   "early": 261280.51619992557,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 409
+  }
+ },
+ {
+  "rule": "B",
+  "session": 3,
+  "cell": {
+   "k": 2.0,
+   "min_usd": 4.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 327136.4062999008,
+   "dd": 29686.869300000195,
+   "dd_pct": 12.03984264736661,
+   "loss": 1205904.4118000388,
+   "trades": 2536,
+   "worst": -19706.82120000008,
+   "lowest": 99756.18059999993,
+   "recent": 54221.11199997703,
+   "early": 272915.29429992376,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 404
+  }
+ },
+ {
+  "rule": "B",
+  "session": 3,
+  "cell": {
+   "k": 2.0,
+   "min_usd": 4.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 309320.87394990877,
+   "dd": 29686.869300000195,
+   "dd_pct": 14.384823420350806,
+   "loss": 1112562.949850035,
+   "trades": 2336,
+   "worst": -19706.82120000008,
+   "lowest": 99515.06279999972,
+   "recent": 54848.05204997922,
+   "early": 254472.82189992955,
+   "open_positions": 0,
+   "late_cutoff_exits": 1,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 311
+  }
+ },
+ {
+  "rule": "B",
+  "session": 3,
+  "cell": {
+   "k": 2.5,
+   "min_usd": 2.1626934441569983,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 272537.0702998875,
+   "dd": 33863.71175000243,
+   "dd_pct": 16.413323794379163,
+   "loss": 1234417.7736000463,
+   "trades": 2832,
+   "worst": -19706.82120000008,
+   "lowest": 98830.8825999997,
+   "recent": 34736.15969996934,
+   "early": 237800.91059991816,
+   "open_positions": 0,
+   "late_cutoff_exits": 7,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 779
+  }
+ },
+ {
+  "rule": "B",
+  "session": 3,
+  "cell": {
+   "k": 2.5,
+   "min_usd": 2.1626934441569983,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 266029.42244990106,
+   "dd": 31069.58195000369,
+   "dd_pct": 15.459639024004318,
+   "loss": 1132545.8408000395,
+   "trades": 2501,
+   "worst": -19706.82120000008,
+   "lowest": 98830.8825999997,
+   "recent": 31069.244249975425,
+   "early": 234960.17819992563,
+   "open_positions": 0,
+   "late_cutoff_exits": 6,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 527
+  }
+ },
+ {
+  "rule": "B",
+  "session": 3,
+  "cell": {
+   "k": 2.5,
+   "min_usd": 3.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 280042.1150998937,
+   "dd": 33863.71175000243,
+   "dd_pct": 16.362798664888423,
+   "loss": 1209576.561600043,
+   "trades": 2678,
+   "worst": -19706.82120000008,
+   "lowest": 98570.51589999971,
+   "recent": 42975.701999973215,
+   "early": 237066.4130999205,
+   "open_positions": 0,
+   "late_cutoff_exits": 4,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 636
+  }
+ },
+ {
+  "rule": "B",
+  "session": 3,
+  "cell": {
+   "k": 2.5,
+   "min_usd": 3.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 273195.7541499051,
+   "dd": 31632.52785000339,
+   "dd_pct": 15.388235273275654,
+   "loss": 1115464.805950037,
+   "trades": 2406,
+   "worst": -19706.82120000008,
+   "lowest": 98570.51589999971,
+   "recent": 38412.699599977524,
+   "early": 234783.0545499276,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 436
+  }
+ },
+ {
+  "rule": "B",
+  "session": 3,
+  "cell": {
+   "k": 2.5,
+   "min_usd": 4.0,
+   "leg": 2.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 274559.21789990185,
+   "dd": 38274.74915000354,
+   "dd_pct": 16.48017046047622,
+   "loss": 1168453.6506500382,
+   "trades": 2493,
+   "worst": -19706.82120000008,
+   "lowest": 98102.12599999973,
+   "recent": 39966.96384997683,
+   "early": 234592.25404992502,
+   "open_positions": 0,
+   "late_cutoff_exits": 3,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 485
+  }
+ },
+ {
+  "rule": "B",
+  "session": 3,
+  "cell": {
+   "k": 2.5,
+   "min_usd": 4.0,
+   "leg": 3.5,
+   "on": true
+  },
+  "metrics": {
+   "net": 274170.18749990937,
+   "dd": 34327.54270000319,
+   "dd_pct": 15.533737818974638,
+   "loss": 1093689.0657000344,
+   "trades": 2302,
+   "worst": -19706.82120000008,
+   "lowest": 98102.12599999973,
+   "recent": 41898.10129997932,
+   "early": 232272.08619993005,
+   "open_positions": 0,
+   "late_cutoff_exits": 2,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 346
+  }
+ },
+ {
+  "rule": "B",
+  "session": 3,
+  "cell": {
+   "k": 2.0,
+   "min_usd": 3.0,
+   "leg": 3.5,
+   "on": false
+  },
+  "metrics": {
+   "net": 259646.385899917,
+   "dd": 30091.602750002872,
+   "dd_pct": 16.631804577638206,
+   "loss": 1042478.8869000308,
+   "trades": 2115,
+   "worst": -19706.82120000008,
+   "lowest": 98102.12599999973,
+   "recent": 44788.47559998103,
+   "early": 214857.91029993596,
+   "open_positions": 0,
+   "late_cutoff_exits": 1,
+   "market_close_crossings": 0,
+   "session_crossings": 0,
+   "trades_spanning_data_gap": 0,
+   "scheduled_exits": 189
+  }
+ }
+]

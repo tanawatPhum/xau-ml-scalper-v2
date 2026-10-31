@@ -1,0 +1,286 @@
+Federal Reserve Board - Federal Reserve issues FOMC statement (https://www.federalreserve.gov/newsevents/pressreleases/monetary20170201a.htm)
+citeturn12view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.federalreserve.gov/newsevents/pressreleases/monetary20170201a.htm","lineno":null}); Total lines: 55
+L0: 【0†Skip to main content】 【1†Board of Governors of the Federal Reserve System The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.】
+L1: 
+L2: ## Press Release
+L3: 
+L4: 【2†PDF】
+L5: 
+L6: Please enable JavaScript if it is disabled in your browser or access the information through the links provided below.
+L7: 
+L8: February 01, 2017
+L9: ### Federal Reserve issues FOMC statement
+L10: 
+L11: For release at 2:00 p.m. EST
+L12: Information received since the Federal Open Market Committee met in December indicates that the labor market has continued to strengthen and that economic activity has continued to expand at a moderate pace. Job gains remained solid and the unemployment rate stayed near its recent low. Household spending has continued to rise moderately while business fixed investment has remained soft. Measures of consumer and business sentiment have improved of late.
+L13: Inflation increased in recent quarters but is still below the Committee's 2 percent longer-run objective. Market-based measures of inflation compensation remain low; most survey-based measures of longer-term inflation expectations are little changed, on balance.
+L14: Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability. The Committee expects that, with gradual adjustments in the stance of monetary policy, economic activity will expand at a moderate pace, labor market conditions will strengthen somewhat further, and inflation will rise to 2 percent over the medium term. Near-term risks to the economic outlook appear roughly balanced.
+L15: The Committee continues to closely monitor inflation indicators and global economic and financial developments.
+L16: In view of realized and expected labor market conditions and inflation, the Committee decided to maintain the target range for the federal funds rate at 1/2 to 3/4 percent. The stance of monetary policy remains accommodative, thereby supporting some further strengthening in labor market conditions and a return to 2 percent inflation.
+L17: In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its objectives of maximum employment and 2 percent inflation. This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.
+L18: In light of the current shortfall of inflation from 2 percent, the Committee will carefully monitor actual and expected progress toward its inflation goal. The Committee expects that economic conditions will evolve in a manner that will warrant only gradual increases in the federal funds rate; the federal funds rate is likely to remain, for some time, below levels that are expected to prevail in the longer run.
+L19: However, the actual path of the federal funds rate will depend on the economic outlook as informed by incoming data.
+L20: The Committee is maintaining its existing policy of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing Treasury securities at auction, and it anticipates doing so until normalization of the level of the federal funds rate is well under way. This policy, by keeping the Committee's holdings of longer-term securities at sizable levels, should help maintain accommodative financial conditions.
+L21: Voting for the FOMC monetary policy action were: Janet L. Yellen, Chair; William C. Dudley, Vice Chairman; Lael Brainard; Charles L. Evans; Stanley Fischer; Patrick Harker; Robert S. Kaplan; Neel Kashkari; Jerome H. Powell; and Daniel K. Tarullo.
+L22: 
+L23: 【3†Implementation Note issued February 1, 2017】
+L24: 
+L25: 
+L26: 
+L27: Last Update: February 01, 2017
+L28: ###### Board of Governors of the Federal Reserve System
+L29: 
+L30:   * 【4†About the Fed】
+L31:   * 【5†News & Events】
+L32:   * 【6†Monetary Policy】
+L33:   * 【7†Supervision & Regulation】
+L34:   * 【8†Financial Stability】
+L35:   * 【9†Payment Systems】
+L36:   * 【10†Economic Research】
+L37:   * 【11†Data】
+L38:   * 【12†Consumers & Communities】
+L39:   * 【13†Connect with the Board】
+--------------------------------------------------------------------------------
+Federal Reserve Board - Federal Reserve issues FOMC statement (https://www.federalreserve.gov/newsevents/pressreleases/monetary20170315a.htm)
+citeturn12view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.federalreserve.gov/newsevents/pressreleases/monetary20170315a.htm","lineno":null}); Total lines: 52
+L0: 【0†Skip to main content】 【1†Board of Governors of the Federal Reserve System The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.】
+L1: 
+L2: ## Press Release
+L3: 
+L4: 【2†PDF】
+L5: 
+L6: Please enable JavaScript if it is disabled in your browser or access the information through the links provided below.
+L7: 
+L8: March 15, 2017
+L9: ### Federal Reserve issues FOMC statement
+L10: 
+L11: For release at 2:00 p.m. EDT
+L12: Information received since the Federal Open Market Committee met in February indicates that the labor market has continued to strengthen and that economic activity has continued to expand at a moderate pace. Job gains remained solid and the unemployment rate was little changed in recent months. Household spending has continued to rise moderately while business fixed investment appears to have firmed somewhat.
+L13: Inflation has increased in recent quarters, moving close to the Committee's 2 percent longer-run objective; excluding energy and food prices, inflation was little changed and continued to run somewhat below 2 percent. Market-based measures of inflation compensation remain low; survey-based measures of longer-term inflation expectations are little changed, on balance.
+L14: Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability. The Committee expects that, with gradual adjustments in the stance of monetary policy, economic activity will expand at a moderate pace, labor market conditions will strengthen somewhat further, and inflation will stabilize around 2 percent over the medium term. Near-term risks to the economic outlook appear roughly balanced.
+L15: The Committee continues to closely monitor inflation indicators and global economic and financial developments.
+L16: In view of realized and expected labor market conditions and inflation, the Committee decided to raise the target range for the federal funds rate to 3/4 to 1 percent. The stance of monetary policy remains accommodative, thereby supporting some further strengthening in labor market conditions and a sustained return to 2 percent inflation.
+L17: In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its objectives of maximum employment and 2 percent inflation. This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.
+L18: The Committee will carefully monitor actual and expected inflation developments relative to its symmetric inflation goal. The Committee expects that economic conditions will evolve in a manner that will warrant gradual increases in the federal funds rate; the federal funds rate is likely to remain, for some time, below levels that are expected to prevail in the longer run. However, the actual path of the federal funds rate will depend on the economic outlook as informed by incoming data.
+L19: The Committee is maintaining its existing policy of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing Treasury securities at auction, and it anticipates doing so until normalization of the level of the federal funds rate is well under way. This policy, by keeping the Committee's holdings of longer-term securities at sizable levels, should help maintain accommodative financial conditions.
+L20: Voting for the FOMC monetary policy action were: Janet L. Yellen, Chair; William C. Dudley, Vice Chairman; Lael Brainard; Charles L. Evans; Stanley Fischer; Patrick Harker; Robert S. Kaplan; Jerome H. Powell; and Daniel K. Tarullo. Voting against the action was Neel Kashkari, who preferred at this meeting to maintain the existing target range for the federal funds rate.
+L21: 
+L22: 【3†Implementation Note issued March 15, 2017】
+L23: 
+L24: Last Update: March 15, 2017
+--------------------------------------------------------------------------------
+Federal Reserve Board - Federal Reserve issues FOMC statement (https://www.federalreserve.gov/newsevents/pressreleases/monetary20170503a.htm)
+citeturn12view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.federalreserve.gov/newsevents/pressreleases/monetary20170503a.htm","lineno":null}); Total lines: 52
+L0: 【0†Skip to main content】 【1†Board of Governors of the Federal Reserve System The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.】
+L1: 
+L2: ## Press Release
+L3: 
+L4: 【2†PDF】
+L5: 
+L6: Please enable JavaScript if it is disabled in your browser or access the information through the links provided below.
+L7: 
+L8: May 03, 2017
+L9: ### Federal Reserve issues FOMC statement
+L10: 
+L11: For release at 2:00 p.m. EDT
+L12: Information received since the Federal Open Market Committee met in March indicates that the labor market has continued to strengthen even as growth in economic activity slowed. Job gains were solid, on average, in recent months, and the unemployment rate declined. Household spending rose only modestly, but the fundamentals underpinning the continued growth of consumption remained solid. Business fixed investment firmed.
+L13: Inflation measured on a 12-month basis recently has been running close to the Committee's 2 percent longer-run objective. Excluding energy and food, consumer prices declined in March and inflation continued to run somewhat below 2 percent. Market-based measures of inflation compensation remain low; survey-based measures of longer-term inflation expectations are little changed, on balance.
+L14: Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability. The Committee views the slowing in growth during the first quarter as likely to be transitory and continues to expect that, with gradual adjustments in the stance of monetary policy, economic activity will expand at a moderate pace, labor market conditions will strengthen somewhat further, and inflation will stabilize around 2 percent over the medium term.
+L15: Near-term risks to the economic outlook appear roughly balanced. The Committee continues to closely monitor inflation indicators and global economic and financial developments.
+L16: In view of realized and expected labor market conditions and inflation, the Committee decided to maintain the target range for the federal funds rate at 3/4 to 1 percent. The stance of monetary policy remains accommodative, thereby supporting some further strengthening in labor market conditions and a sustained return to 2 percent inflation.
+L17: In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its objectives of maximum employment and 2 percent inflation. This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.
+L18: The Committee will carefully monitor actual and expected inflation developments relative to its symmetric inflation goal. The Committee expects that economic conditions will evolve in a manner that will warrant gradual increases in the federal funds rate; the federal funds rate is likely to remain, for some time, below levels that are expected to prevail in the longer run. However, the actual path of the federal funds rate will depend on the economic outlook as informed by incoming data.
+L19: The Committee is maintaining its existing policy of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing Treasury securities at auction, and it anticipates doing so until normalization of the level of the federal funds rate is well under way. This policy, by keeping the Committee's holdings of longer-term securities at sizable levels, should help maintain accommodative financial conditions.
+L20: Voting for the FOMC monetary policy action were: Janet L. Yellen, Chair; William C. Dudley, Vice Chairman; Lael Brainard; Charles L. Evans; Stanley Fischer; Patrick Harker; Robert S. Kaplan; Neel Kashkari; and Jerome H. Powell.
+L21: 
+L22: 【3†Implementation Note issued May 3, 2017】
+L23: 
+L24: Last Update: May 03, 2017
+L25: ###### Board of Governors of the Federal Reserve System
+L26: 
+L27:   * 【4†About the Fed】
+L28:   * 【5†News & Events】
+L29:   * 【6†Monetary Policy】
+L30:   * 【7†Supervision & Regulation】
+--------------------------------------------------------------------------------
+Federal Reserve Board - Federal Reserve issues FOMC statement (https://www.federalreserve.gov/newsevents/pressreleases/monetary20170614a.htm)
+citeturn12view3 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.federalreserve.gov/newsevents/pressreleases/monetary20170614a.htm","lineno":null}); Total lines: 53
+L0: 【0†Skip to main content】 【1†Board of Governors of the Federal Reserve System The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.】
+L1: 
+L2: ## Press Release
+L3: 
+L4: 【2†PDF】
+L5: 
+L6: Please enable JavaScript if it is disabled in your browser or access the information through the links provided below.
+L7: 
+L8: June 14, 2017
+L9: ### Federal Reserve issues FOMC statement
+L10: 
+L11: For release at 2:00 p.m. EDT
+L12: Information received since the Federal Open Market Committee met in May indicates that the labor market has continued to strengthen and that economic activity has been rising moderately so far this year. Job gains have moderated but have been solid, on average, since the beginning of the year, and the unemployment rate has declined. Household spending has picked up in recent months, and business fixed investment has continued to expand.
+L13: On a 12-month basis, inflation has declined recently and, like the measure excluding food and energy prices, is running somewhat below 2 percent. Market-based measures of inflation compensation remain low; survey-based measures of longer-term inflation expectations are little changed, on balance.
+L14: Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability. The Committee continues to expect that, with gradual adjustments in the stance of monetary policy, economic activity will expand at a moderate pace, and labor market conditions will strengthen somewhat further. Inflation on a 12-month basis is expected to remain somewhat below 2 percent in the near term but to stabilize around the Committee's 2 percent objective over the medium term.
+L15: Near-term risks to the economic outlook appear roughly balanced, but the Committee is monitoring inflation developments closely.
+L16: In view of realized and expected labor market conditions and inflation, the Committee decided to raise the target range for the federal funds rate to 1 to 1-1/4 percent. The stance of monetary policy remains accommodative, thereby supporting some further strengthening in labor market conditions and a sustained return to 2 percent inflation.
+L17: In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its objectives of maximum employment and 2 percent inflation. This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.
+L18: The Committee will carefully monitor actual and expected inflation developments relative to its symmetric inflation goal. The Committee expects that economic conditions will evolve in a manner that will warrant gradual increases in the federal funds rate; the federal funds rate is likely to remain, for some time, below levels that are expected to prevail in the longer run. However, the actual path of the federal funds rate will depend on the economic outlook as informed by incoming data.
+L19: The Committee is maintaining its existing policy of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing Treasury securities at auction. The Committee currently expects to begin implementing a balance sheet normalization program this year, provided that the economy evolves broadly as anticipated.
+L20: This program, which would gradually reduce the Federal Reserve's securities holdings by decreasing reinvestment of principal payments from those securities, is described in the accompanying addendum to the Committee's Policy Normalization Principles and Plans.
+L21: Voting for the FOMC monetary policy action were: Janet L. Yellen, Chair; William C. Dudley, Vice Chairman; Lael Brainard; Charles L. Evans; Stanley Fischer; Patrick Harker; Robert S. Kaplan; and Jerome H. Powell. Voting against the action was Neel Kashkari, who preferred at this meeting to maintain the existing target range for the federal funds rate.
+L22: 
+L23: 【3†Implementation Note issued June 14, 2017】
+L24: 
+L25: Last Update: June 14, 2017
+--------------------------------------------------------------------------------
+Federal Reserve Board - Federal Reserve issues FOMC statement (https://www.federalreserve.gov/newsevents/pressreleases/monetary20170726a.htm)
+citeturn12view4 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.federalreserve.gov/newsevents/pressreleases/monetary20170726a.htm","lineno":null}); Total lines: 53
+L0: 【0†Skip to main content】 【1†Board of Governors of the Federal Reserve System The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.】
+L1: 
+L2: ## Press Release
+L3: 
+L4: 【2†PDF】
+L5: 
+L6: Please enable JavaScript if it is disabled in your browser or access the information through the links provided below.
+L7: 
+L8: July 26, 2017
+L9: ### Federal Reserve issues FOMC statement
+L10: 
+L11: For release at 2:00 p.m. EDT
+L12: Information received since the Federal Open Market Committee met in June indicates that the labor market has continued to strengthen and that economic activity has been rising moderately so far this year. Job gains have been solid, on average, since the beginning of the year, and the unemployment rate has declined. Household spending and business fixed investment have continued to expand.
+L13: On a 12-month basis, overall inflation and the measure excluding food and energy prices have declined and are running below 2 percent. Market-based measures of inflation compensation remain low; survey-based measures of longer-term inflation expectations are little changed, on balance.
+L14: Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability. The Committee continues to expect that, with gradual adjustments in the stance of monetary policy, economic activity will expand at a moderate pace, and labor market conditions will strengthen somewhat further. Inflation on a 12-month basis is expected to remain somewhat below 2 percent in the near term but to stabilize around the Committee's 2 percent objective over the medium term.
+L15: Near-term risks to the economic outlook appear roughly balanced, but the Committee is monitoring inflation developments closely.
+L16: In view of realized and expected labor market conditions and inflation, the Committee decided to maintain the target range for the federal funds rate at 1 to 1-1/4 percent. The stance of monetary policy remains accommodative, thereby supporting some further strengthening in labor market conditions and a sustained return to 2 percent inflation.
+L17: In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its objectives of maximum employment and 2 percent inflation. This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.
+L18: The Committee will carefully monitor actual and expected inflation developments relative to its symmetric inflation goal. The Committee expects that economic conditions will evolve in a manner that will warrant gradual increases in the federal funds rate; the federal funds rate is likely to remain, for some time, below levels that are expected to prevail in the longer run. However, the actual path of the federal funds rate will depend on the economic outlook as informed by incoming data.
+L19: For the time being, the Committee is maintaining its existing policy of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing Treasury securities at auction.
+L20: The Committee expects to begin implementing its balance sheet normalization program relatively soon, provided that the economy evolves broadly as anticipated; this program is described in the June 2017 Addendum to the Committee's Policy Normalization Principles and Plans.
+L21: Voting for the FOMC monetary policy action were: Janet L. Yellen, Chair; William C. Dudley, Vice Chairman; Lael Brainard; Charles L. Evans; Stanley Fischer; Patrick Harker; Robert S. Kaplan; Neel Kashkari; and Jerome H. Powell.
+L22: 
+L23: 【3†Implementation Note issued July 26, 2017】
+L24: 
+L25: Last Update: July 26, 2017
+L26: ###### Board of Governors of the Federal Reserve System
+L27: 
+L28:   * 【4†About the Fed】
+L29:   * 【5†News & Events】
+L30:   * 【6†Monetary Policy】
+L31:   * 【7†Supervision & Regulation】
+L32:   * 【8†Financial Stability】
+L33:   * 【9†Payment Systems】
+L34:   * 【10†Economic Research】
+L35:   * 【11†Data】
+L36:   * 【12†Consumers & Communities】
+L37:   * 【13†Connect with the Board】
+--------------------------------------------------------------------------------
+Federal Reserve Board - Federal Reserve issues FOMC statement (https://www.federalreserve.gov/newsevents/pressreleases/monetary20170920a.htm)
+citeturn12view5 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.federalreserve.gov/newsevents/pressreleases/monetary20170920a.htm","lineno":null}); Total lines: 54
+L0: 【0†Skip to main content】 【1†Board of Governors of the Federal Reserve System The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.】
+L1: 
+L2: ## Press Release
+L3: 
+L4: 【2†PDF】
+L5: 
+L6: Please enable JavaScript if it is disabled in your browser or access the information through the links provided below.
+L7: 
+L8: September 20, 2017
+L9: ### Federal Reserve issues FOMC statement
+L10: 
+L11: For release at 2:00 p.m. EDT
+L12: Information received since the Federal Open Market Committee met in July indicates that the labor market has continued to strengthen and that economic activity has been rising moderately so far this year. Job gains have remained solid in recent months, and the unemployment rate has stayed low. Household spending has been expanding at a moderate rate, and growth in business fixed investment has picked up in recent quarters.
+L13: On a 12-month basis, overall inflation and the measure excluding food and energy prices have declined this year and are running below 2 percent. Market-based measures of inflation compensation remain low; survey-based measures of longer-term inflation expectations are little changed, on balance.
+L14: Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability. Hurricanes Harvey, Irma, and Maria have devastated many communities, inflicting severe hardship. Storm-related disruptions and rebuilding will affect economic activity in the near term, but past experience suggests that the storms are unlikely to materially alter the course of the national economy over the medium term.
+L15: Consequently, the Committee continues to expect that, with gradual adjustments in the stance of monetary policy, economic activity will expand at a moderate pace, and labor market conditions will strengthen somewhat further.
+L16: Higher prices for gasoline and some other items in the aftermath of the hurricanes will likely boost inflation temporarily; apart from that effect, inflation on a 12-month basis is expected to remain somewhat below 2 percent in the near term but to stabilize around the Committee's 2 percent objective over the medium term. Near-term risks to the economic outlook appear roughly balanced, but the Committee is monitoring inflation developments closely.
+L17: In view of realized and expected labor market conditions and inflation, the Committee decided to maintain the target range for the federal funds rate at 1 to 1-1/4 percent. The stance of monetary policy remains accommodative, thereby supporting some further strengthening in labor market conditions and a sustained return to 2 percent inflation.
+L18: In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its objectives of maximum employment and 2 percent inflation. This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.
+L19: The Committee will carefully monitor actual and expected inflation developments relative to its symmetric inflation goal. The Committee expects that economic conditions will evolve in a manner that will warrant gradual increases in the federal funds rate; the federal funds rate is likely to remain, for some time, below levels that are expected to prevail in the longer run. However, the actual path of the federal funds rate will depend on the economic outlook as informed by incoming data.
+L20: In October, the Committee will initiate the balance sheet normalization program described in the June 2017 Addendum to the Committee's Policy Normalization Principles and Plans.
+L21: 
+L22: Voting for the FOMC monetary policy action were: Janet L. Yellen, Chair; William C. Dudley, Vice Chairman; Lael Brainard; Charles L. Evans; Stanley Fischer; Patrick Harker; Robert S. Kaplan; Neel Kashkari; and Jerome H. Powell.
+L23: 
+L24: 【3†Implementation Note issued September 20, 2017】
+L25: 
+L26: Last Update: September 20, 2017
+--------------------------------------------------------------------------------
+Federal Reserve Board - Federal Reserve issues FOMC statement (https://www.federalreserve.gov/newsevents/pressreleases/monetary20171101a.htm)
+citeturn12view6 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.federalreserve.gov/newsevents/pressreleases/monetary20171101a.htm","lineno":null}); Total lines: 54
+L0: 【0†Skip to main content】 【1†Board of Governors of the Federal Reserve System The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.】
+L1: 
+L2: ## Press Release
+L3: 
+L4: 【2†PDF】
+L5: 
+L6: Please enable JavaScript if it is disabled in your browser or access the information through the links provided below.
+L7: 
+L8: November 01, 2017
+L9: ### Federal Reserve issues FOMC statement
+L10: 
+L11: For release at 2:00 p.m. EDT
+L12: Information received since the Federal Open Market Committee met in September indicates that the labor market has continued to strengthen and that economic activity has been rising at a solid rate despite hurricane-related disruptions. Although the hurricanes caused a drop in payroll employment in September, the unemployment rate declined further. Household spending has been expanding at a moderate rate, and growth in business fixed investment has picked up in recent quarters.
+L13: Gasoline prices rose in the aftermath of the hurricanes, boosting overall inflation in September; however, inflation for items other than food and energy remained soft. On a 12-month basis, both inflation measures have declined this year and are running below 2 percent. Market-based measures of inflation compensation remain low; survey-based measures of longer-term inflation expectations are little changed, on balance.
+L14: Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability. Hurricane-related disruptions and rebuilding will continue to affect economic activity, employment, and inflation in the near term, but past experience suggests that the storms are unlikely to materially alter the course of the national economy over the medium term.
+L15: Consequently, the Committee continues to expect that, with gradual adjustments in the stance of monetary policy, economic activity will expand at a moderate pace, and labor market conditions will strengthen somewhat further. Inflation on a 12-month basis is expected to remain somewhat below 2 percent in the near term but to stabilize around the Committee's 2 percent objective over the medium term.
+L16: Near-term risks to the economic outlook appear roughly balanced, but the Committee is monitoring inflation developments closely.
+L17: In view of realized and expected labor market conditions and inflation, the Committee decided to maintain the target range for the federal funds rate at 1 to 1-1/4 percent. The stance of monetary policy remains accommodative, thereby supporting some further strengthening in labor market conditions and a sustained return to 2 percent inflation.
+L18: In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its objectives of maximum employment and 2 percent inflation. This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.
+L19: The Committee will carefully monitor actual and expected inflation developments relative to its symmetric inflation goal. The Committee expects that economic conditions will evolve in a manner that will warrant gradual increases in the federal funds rate; the federal funds rate is likely to remain, for some time, below levels that are expected to prevail in the longer run. However, the actual path of the federal funds rate will depend on the economic outlook as informed by incoming data.
+L20: The balance sheet normalization program initiated in October 2017 is proceeding.
+L21: 
+L22: Voting for the FOMC monetary policy action were: Janet L. Yellen, Chair; William C. Dudley, Vice Chairman; Lael Brainard; Charles L. Evans; Patrick Harker; Robert S. Kaplan; Neel Kashkari; Jerome H. Powell; and Randal K. Quarles.
+L23: 
+L24: 【3†Implementation Note issued November 1, 2017】
+L25: 
+L26: Last Update: November 01, 2017
+L27: ###### Board of Governors of the Federal Reserve System
+L28: 
+L29:   * 【4†About the Fed】
+L30:   * 【5†News & Events】
+L31:   * 【6†Monetary Policy】
+L32:   * 【7†Supervision & Regulation】
+L33:   * 【8†Financial Stability】
+L34:   * 【9†Payment Systems】
+L35:   * 【10†Economic Research】
+L36:   * 【11†Data】
+L37:   * 【12†Consumers & Communities】
+L38:   * 【13†Connect with the Board】
+--------------------------------------------------------------------------------
+Federal Reserve Board - Federal Reserve issues FOMC statement (https://www.federalreserve.gov/newsevents/pressreleases/monetary20171213a.htm)
+citeturn12view7 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.federalreserve.gov/newsevents/pressreleases/monetary20171213a.htm","lineno":null}); Total lines: 51
+L0: 【0†Skip to main content】 【1†Board of Governors of the Federal Reserve System The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.】
+L1: 
+L2: ## Press Release
+L3: 
+L4: 【2†PDF】
+L5: 
+L6: Please enable JavaScript if it is disabled in your browser or access the information through the links provided below.
+L7: 
+L8: December 13, 2017
+L9: ### Federal Reserve issues FOMC statement
+L10: 
+L11: For release at 2:00 p.m. EST
+L12: Information received since the Federal Open Market Committee met in November indicates that the labor market has continued to strengthen and that economic activity has been rising at a solid rate. Averaging through hurricane-related fluctuations, job gains have been solid, and the unemployment rate declined further. Household spending has been expanding at a moderate rate, and growth in business fixed investment has picked up in recent quarters.
+L13: On a 12-month basis, both overall inflation and inflation for items other than food and energy have declined this year and are running below 2 percent. Market-based measures of inflation compensation remain low; survey-based measures of longer-term inflation expectations are little changed, on balance.
+L14: Consistent with its statutory mandate, the Committee seeks to foster maximum employment and price stability. Hurricane-related disruptions and rebuilding have affected economic activity, employment, and inflation in recent months but have not materially altered the outlook for the national economy. Consequently, the Committee continues to expect that, with gradual adjustments in the stance of monetary policy, economic activity will expand at a moderate pace and labor market conditions will remain strong.
+L15: Inflation on a 12‑month basis is expected to remain somewhat below 2 percent in the near term but to stabilize around the Committee's 2 percent objective over the medium term. Near-term risks to the economic outlook appear roughly balanced, but the Committee is monitoring inflation developments closely.
+L16: In view of realized and expected labor market conditions and inflation, the Committee decided to raise the target range for the federal funds rate to 1-1/4 to 1‑1/2 percent. The stance of monetary policy remains accommodative, thereby supporting strong labor market conditions and a sustained return to 2 percent inflation.
+L17: In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its objectives of maximum employment and 2 percent inflation. This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.
+L18: The Committee will carefully monitor actual and expected inflation developments relative to its symmetric inflation goal. The Committee expects that economic conditions will evolve in a manner that will warrant gradual increases in the federal funds rate; the federal funds rate is likely to remain, for some time, below levels that are expected to prevail in the longer run. However, the actual path of the federal funds rate will depend on the economic outlook as informed by incoming data.
+L19: Voting for the FOMC monetary policy action were Janet L. Yellen, Chair; William C. Dudley, Vice Chairman; Lael Brainard; Patrick Harker; Robert S. Kaplan; Jerome H. Powell; and Randal K. Quarles. Voting against the action were Charles L. Evans and Neel Kashkari, who preferred at this meeting to maintain the existing target range for the federal funds rate.
+L20: 
+L21: 【3†Implementation Note issued December 13, 2017】
+L22: 
+L23: Last Update: December 13, 2017
+L24: ###### Board of Governors of the Federal Reserve System
+L25: 
+L26:   * 【4†About the Fed】
+L27:   * 【5†News & Events】
+L28:   * 【6†Monetary Policy】
+L29:   * 【7†Supervision & Regulation】
+L30:   * 【8†Financial Stability】
+L31:   * 【9†Payment Systems】
+L32:   * 【10†Economic Research】
+L33:   * 【11†Data】
+L34:   * 【12†Consumers & Communities】
+L35:   * 【13†Connect with the Board】
+

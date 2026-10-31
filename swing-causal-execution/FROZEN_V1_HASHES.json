@@ -1,0 +1,62 @@
+[
+  {
+    "Algorithm": "SHA256",
+    "Hash": "73B4A904CCB8235ABFD6553CA10538A993E49BBD2A4A8B59FAA93B376E02AE2E",
+    "Path": "D:\\xau-ml-scalper-claude\\swing-v1\\EXAM_PLAN.md"
+  },
+  {
+    "Algorithm": "SHA256",
+    "Hash": "E0B856726E86B87D4862E15034391CBD0D09603FFB8A7EDED2214F16AF0B93A4",
+    "Path": "D:\\xau-ml-scalper-claude\\swing-v1\\SPEC.md"
+  },
+  {
+    "Algorithm": "SHA256",
+    "Hash": "D9F6EC158BF4AF4FEFC998ABBD02BA95B0B14376E8C9362DA632A09561FF4C39",
+    "Path": "D:\\xau-ml-scalper-claude\\swing-v1\\code\\exam_2020_22.py"
+  },
+  {
+    "Algorithm": "SHA256",
+    "Hash": "C14AB43A4CE158F8BF158AD6DC81A320EE37A776C1F422781D9D765A445E51A5",
+    "Path": "D:\\xau-ml-scalper-claude\\swing-v1\\code\\report_2010_2022.py"
+  },
+  {
+    "Algorithm": "SHA256",
+    "Hash": "F27724EE3F128A404696D346EEE8E3DEDC2E56086448E84454D4D25A64B5461A",
+    "Path": "D:\\xau-ml-scalper-claude\\swing-v1\\code\\swing_v1.py"
+  },
+  {
+    "Algorithm": "SHA256",
+    "Hash": "A2D7BFCF718CC38BACA951D9055999927715682E36C7F8EFD75D026461A57BB6",
+    "Path": "D:\\xau-ml-scalper-claude\\swing-v1\\out\\backtest_log.txt"
+  },
+  {
+    "Algorithm": "SHA256",
+    "Hash": "960268E2BE25B314503700AEC594BB1E772768396EC5FA2BDEF3501484177F63",
+    "Path": "D:\\xau-ml-scalper-claude\\swing-v1\\out\\exam_log.txt"
+  },
+  {
+    "Algorithm": "SHA256",
+    "Hash": "C9FF3F3D7A96D449D00B365AFA40877F579D8757A03E6F19318DBB7B02569FAC",
+    "Path": "D:\\xau-ml-scalper-claude\\swing-v1\\out\\V1_BACKTEST_2010_2019.json"
+  },
+  {
+    "Algorithm": "SHA256",
+    "Hash": "CB2279B2CB09043D7E0BF6273F3587E58D075FA8CD04BA09C0F06BA50A25DC3B",
+    "Path": "D:\\xau-ml-scalper-claude\\swing-v1\\out\\V1_EXAM_2020_2022.json"
+  },
+  {
+    "Algorithm": "SHA256",
+    "Hash": "3EB992DE19F8B371855E797DD7CA53A8BE4FD02027C36DABCDAFCD1A86C4BED9",
+    "Path": "D:\\xau-ml-scalper-claude\\swing-v1\\out\\V1_TRADES_2010_2019.private.pkl"
+  },
+  {
+    "Algorithm": "SHA256",
+    "Hash": "31F0F84224461FC9A150B5C657587E110C30027BFC7C4374DB0725E8B8F51011",
+    "Path": "D:\\xau-ml-scalper-claude\\swing-v1\\out\\V1_TRADES_2020_2022.private.pkl"
+  },
+  {
+    "Algorithm": "SHA256",
+    "Hash": "73E4B669F635CC647BDDC7BC9589FDCC2DA233ABA18CD35E586891F642B176BD",
+    "Path": "D:\\xau-ml-scalper-claude\\swing-v1\\out\\V1_YEARLY_2010_2022.csv"
+  }
+]

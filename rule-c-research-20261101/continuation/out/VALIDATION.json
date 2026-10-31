@@ -1,0 +1,86 @@
+{
+  "status": "NOT_CONFIRMED",
+  "results": [
+    {
+      "spec": {
+        "id": "opposite_C_mean_w60_k2.5_h90",
+        "family": "mean_deviation_reversal",
+        "params": {
+          "window": 60,
+          "threshold": 2.5
+        },
+        "hold": 90,
+        "stop": 1.5,
+        "tp": 1.5
+      },
+      "metrics": {
+        "net": -711.7027500045532,
+        "gross_wins": 54128.91989999733,
+        "gross_losses": 54840.62265000189,
+        "profit_factor": 0.9870223437369281,
+        "trades": 103,
+        "overlap": 0.019417475728155338,
+        "dd": 18284.935350000873,
+        "dd_pct": 16.920081846238,
+        "lowest": 89781.53569999784,
+        "daily_t": -0.04598761491461736,
+        "net_2014_on": -711.7027500045532,
+        "worst": -5263.561050000039,
+        "market_close_crossings": 0,
+        "session_crossings": 0,
+        "open_positions": 0,
+        "combined_net": 35308.56119998336,
+        "combined_dd": 26108.768950003374,
+        "combined_dd_pct": 20.28034359157082,
+        "overlap_exposure_fraction": 0.0908865775136206,
+        "example_net": -2798.6887500033035,
+        "historical_net": -4204.027299999863,
+        "eligible": false
+      },
+      "yearly": {
+        "2017": {
+          "net": -6696.591000001819,
+          "end_equity": 93303.40899999818,
+          "dd": 15042.846500000564
+        },
+        "2018": {
+          "net": 4450.041749999161,
+          "end_equity": 97753.45074999734,
+          "dd": 5985.394800000054
+        },
+        "2019": {
+          "net": 1534.8464999981052,
+          "end_equity": 99288.29724999545,
+          "dd": 15501.443100000544
+        }
+      }
+    }
+  ],
+  "ab_metrics": {
+    "net": 36020.263949987915,
+    "dd": 21735.55395000121,
+    "dd_pct": 17.523709076916425,
+    "loss": 105864.89760000433,
+    "trades": 314,
+    "worst": -6915.420600000023,
+    "lowest": 99180.73979999994,
+    "recent": 36020.263949987915,
+    "early": 0.0,
+    "open_positions": 0,
+    "late_cutoff_exits": 0,
+    "market_close_crossings": 0,
+    "session_crossings": 0,
+    "trades_spanning_data_gap": 0,
+    "scheduled_exits": 47
+  },
+  "years_read": [
+    2017,
+    2018,
+    2019
+  ],
+  "data_hashes": {
+    "D:\\xau-ml-scalper-claude\\microstructure-edge-map\\cache\\M1_2017.private.npz": "38f3741edc1541a3f098444a9315fdfc1e5a519278331d0a4e6f90c05fa98206",
+    "D:\\xau-ml-scalper-claude\\microstructure-edge-map\\cache\\M1_2018.private.npz": "76da72a5b725c528a86a5864324629edfd3e457d66ac8fa2285e6605986da3a8",
+    "D:\\xau-ml-scalper-claude\\microstructure-edge-map\\cache\\M1_2019.private.npz": "9b3e172c83209c696e777e2cccd37beee943a2de0c031a6011002ddfd4a6155e"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "rows": 82,
+  "full_metadata_counts": {
+    "FOMC_statements_2010_2022.csv": 109,
+    "FOMC_monetary_pressreleases_2010_2022.csv": 110
+  },
+  "missing_times": 48,
+  "explicit_times": 34,
+  "by_year": {
+    "2010": 9,
+    "2011": 8,
+    "2012": 8,
+    "2013": 8,
+    "2014": 8,
+    "2015": 8,
+    "2016": 8,
+    "2017": 8,
+    "2018": 8,
+    "2019": 9
+  },
+  "types": {
+    "regular_meeting_policy_statement": 80,
+    "conference_call_liquidity_swap_statement": 1,
+    "notation_vote_implementation_statement": 1
+  },
+  "explicit_by_period": {
+    "design": 9,
+    "validation": 25
+  },
+  "regular_explicit_by_period": {
+    "design": 8,
+    "validation": 24
+  },
+  "duplicate_dates": 0,
+  "duplicate_urls": 0,
+  "identical_source_slices": true,
+  "input_hashes_unchanged": true
+}

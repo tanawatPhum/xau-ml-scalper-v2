@@ -1,0 +1,81 @@
+{
+  "rows": [
+    {
+      "id": "C_Ma_night_reversal_momentum",
+      "scope": "2013-07-05 to2016-12-31 descriptive only",
+      "metrics": {
+        "net": -24248.041950008366,
+        "closed_net": -24248.041950008366,
+        "gross_wins": 97393.69309999475,
+        "gross_losses": 121641.73505000309,
+        "profit_factor": 0.8006601768707037,
+        "trades": 224,
+        "overlap_count": 21,
+        "overlap": 0.09375,
+        "dd": 40447.004400005055,
+        "dd_pct": 35.14588038923075,
+        "lowest": 74636.1972499916,
+        "net_2014_2016": -30242.216950007678,
+        "daily_t": -1.1861669377124973,
+        "market_close_crossings": 0,
+        "session_crossings": 0,
+        "late_cutoff_exits": 0,
+        "trades_spanning_data_gap": 0,
+        "open_positions": 0,
+        "combined_net": 35403.96144995268,
+        "combined_dd": 40933.123550005665,
+        "combined_dd_pct": 23.644988929851497,
+        "combined_lowest": 90416.07399999973,
+        "lot05": {
+          "net": -121240.20975004183,
+          "dd": 202235.02200002526,
+          "dd_pct": 115.28880631682287,
+          "lowest": -26819.013750041995,
+          "combined_net": 177019.8072497634,
+          "combined_dd": 204665.61775002826,
+          "combined_dd_pct": 47.91963000000135,
+          "combined_lowest": 52080.36999999866
+        },
+        "example_net": -28786.729950008365,
+        "historical_net": -33560.28829999851
+      },
+      "stop3_sensitivity": {
+        "net": -23538.19655000833,
+        "closed_net": -23538.19655000834,
+        "gross_wins": 97393.69309999475,
+        "gross_losses": 120931.88965000307,
+        "profit_factor": 0.8053598879655998,
+        "trades": 224,
+        "overlap_count": 21,
+        "overlap": 0.09375,
+        "dd": 39591.77915000504,
+        "dd_pct": 34.446258446500494,
+        "lowest": 75346.04264999164,
+        "net_2014_2016": -29532.371550007643,
+        "daily_t": -1.1572301739860305,
+        "market_close_crossings": 0,
+        "session_crossings": 0,
+        "late_cutoff_exits": 0,
+        "trades_spanning_data_gap": 0,
+        "open_positions": 0,
+        "combined_net": 36113.806849952714,
+        "combined_dd": 40933.123550005635,
+        "combined_dd_pct": 23.548430550318,
+        "combined_lowest": 90416.07399999973,
+        "lot05": {
+          "net": -117690.98275004166,
+          "dd": 197958.8957500252,
+          "dd_pct": 113.32068546416596,
+          "lowest": -23269.78675004182,
+          "combined_net": 180569.0342497636,
+          "combined_dd": 204665.61775002826,
+          "combined_dd_pct": 47.91963000000135,
+          "combined_lowest": 52080.36999999866
+        },
+        "example_net": -28076.884550008337,
+        "historical_net": -32880.49819999847
+      }
+    }
+  ],
+  "selection_unchanged": true
+}

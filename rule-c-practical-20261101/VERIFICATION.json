@@ -1,0 +1,26 @@
+[
+  {
+    "round": "รอบแรก",
+    "cells": 24,
+    "prefix_checks": 24,
+    "sources_and_data_hashes_match": true,
+    "baseline_metrics_match": true,
+    "annual_net_reconciles": true,
+    "positive_net": 0,
+    "selected": 0,
+    "validation_years_read": [],
+    "cells_with_close_crossings": 16
+  },
+  {
+    "round": "เพิ่มเวลาถือ/เป้ากำไร",
+    "cells": 24,
+    "prefix_checks": 24,
+    "sources_and_data_hashes_match": true,
+    "baseline_metrics_match": true,
+    "annual_net_reconciles": true,
+    "positive_net": 0,
+    "selected": 0,
+    "validation_years_read": [],
+    "cells_with_close_crossings": 16
+  }
+]

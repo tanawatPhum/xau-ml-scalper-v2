@@ -1,0 +1,1154 @@
+[
+  {
+    "id": "P00",
+    "rules": {
+      "A": {
+        "k": 1.25,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 5.0,
+        "policy": "skip_asia"
+      },
+      "B": {
+        "k": 2.0,
+        "long_vol": false,
+        "min_usd": 1.5,
+        "leg": 5.0,
+        "policy": "long_only"
+      }
+    },
+    "metrics": {
+      "net": 137621.36134997968,
+      "dd": 12927.831400001887,
+      "dd_pct": 6.402271897490398,
+      "loss": 128625.53990000783,
+      "trades": 482,
+      "worst": -4807.497200000035,
+      "lowest": 99641.70029999995,
+      "recent": 14134.602349994326,
+      "early": 123486.75899998535,
+      "open_positions": 0
+    },
+    "complexity": 8
+  },
+  {
+    "id": "P01",
+    "rules": {
+      "A": {
+        "k": 1.25,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 5.0,
+        "policy": "skip_asia"
+      },
+      "B": {
+        "k": 2.0,
+        "long_vol": false,
+        "min_usd": 1.5,
+        "leg": 5.0,
+        "policy": "vol_ge1"
+      }
+    },
+    "metrics": {
+      "net": 105071.47144998953,
+      "dd": 9101.015000001411,
+      "dd_pct": 6.121374435590201,
+      "loss": 73272.28865000418,
+      "trades": 249,
+      "worst": -4807.497200000035,
+      "lowest": 98907.54049999996,
+      "recent": 4063.375249996636,
+      "early": 101008.0961999929,
+      "open_positions": 0
+    },
+    "complexity": 8
+  },
+  {
+    "id": "P02",
+    "rules": {
+      "A": {
+        "k": 1.25,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 5.0,
+        "policy": "skip_asia"
+      },
+      "B": {
+        "k": 2.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 3.5,
+        "policy": "vol_le15"
+      }
+    },
+    "metrics": {
+      "net": 191485.3555999637,
+      "dd": 27321.44965001312,
+      "dd_pct": 10.093784239311635,
+      "loss": 379082.0957000152,
+      "trades": 932,
+      "worst": -13197.315999999977,
+      "lowest": 98493.1826,
+      "recent": 3933.0230499894824,
+      "early": 187552.3325499742,
+      "open_positions": 0
+    },
+    "complexity": 7
+  },
+  {
+    "id": "P03",
+    "rules": {
+      "A": {
+        "k": 1.25,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 5.0,
+        "policy": "skip_asia"
+      },
+      "B": {
+        "k": 2.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 3.5,
+        "policy": "all"
+      }
+    },
+    "metrics": {
+      "net": 189020.65214996366,
+      "dd": 29786.15310001315,
+      "dd_pct": 10.093784239311635,
+      "loss": 381546.7991500152,
+      "trades": 933,
+      "worst": -13197.315999999977,
+      "lowest": 98493.1826,
+      "recent": 1468.3195999894524,
+      "early": 187552.3325499742,
+      "open_positions": 0
+    },
+    "complexity": 6
+  },
+  {
+    "id": "P04",
+    "rules": {
+      "A": {
+        "k": 1.25,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 5.0,
+        "policy": "skip_asia"
+      },
+      "B": {
+        "k": 2.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 3.5,
+        "policy": "skip_late"
+      }
+    },
+    "metrics": {
+      "net": 175269.3392999668,
+      "dd": 29121.559500012925,
+      "dd_pct": 10.4095453125988,
+      "loss": 343314.76905001374,
+      "trades": 859,
+      "worst": -13197.315999999977,
+      "lowest": 98493.1826,
+      "recent": 3102.787599989795,
+      "early": 172166.55169997702,
+      "open_positions": 0
+    },
+    "complexity": 7
+  },
+  {
+    "id": "P05",
+    "rules": {
+      "A": {
+        "k": 1.25,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 5.0,
+        "policy": "skip_asia"
+      },
+      "B": {
+        "k": 1.5,
+        "long_vol": false,
+        "min_usd": 0.0,
+        "leg": 3.5,
+        "policy": "all"
+      }
+    },
+    "metrics": {
+      "net": 124103.73689990785,
+      "dd": 39601.23475001207,
+      "dd_pct": 26.378399311476365,
+      "loss": 809240.9787000355,
+      "trades": 2256,
+      "worst": -10389.002800000044,
+      "lowest": 99704.5125,
+      "recent": -1986.3514000340074,
+      "early": 126090.08829994185,
+      "open_positions": 1
+    },
+    "complexity": 4
+  },
+  {
+    "id": "P06",
+    "rules": {
+      "A": {
+        "k": 1.25,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 5.0,
+        "policy": "vol_le15"
+      },
+      "B": {
+        "k": 2.0,
+        "long_vol": false,
+        "min_usd": 1.5,
+        "leg": 5.0,
+        "policy": "long_only"
+      }
+    },
+    "metrics": {
+      "net": 137103.66724997966,
+      "dd": 14843.772350001935,
+      "dd_pct": 6.663737543078444,
+      "loss": 127479.72380000782,
+      "trades": 481,
+      "worst": -4807.497200000035,
+      "lowest": 99641.70029999995,
+      "recent": 13505.804949994694,
+      "early": 123597.86229998496,
+      "open_positions": 0
+    },
+    "complexity": 8
+  },
+  {
+    "id": "P07",
+    "rules": {
+      "A": {
+        "k": 1.25,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 5.0,
+        "policy": "vol_le15"
+      },
+      "B": {
+        "k": 2.0,
+        "long_vol": false,
+        "min_usd": 1.5,
+        "leg": 5.0,
+        "policy": "vol_ge1"
+      }
+    },
+    "metrics": {
+      "net": 104553.77734998951,
+      "dd": 10622.015800001536,
+      "dd_pct": 5.199091473186114,
+      "loss": 72126.47255000417,
+      "trades": 248,
+      "worst": -4807.497200000035,
+      "lowest": 99469.47329999995,
+      "recent": 3434.5778499969747,
+      "early": 101119.19949999254,
+      "open_positions": 0
+    },
+    "complexity": 8
+  },
+  {
+    "id": "P08",
+    "rules": {
+      "A": {
+        "k": 1.25,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 5.0,
+        "policy": "vol_le15"
+      },
+      "B": {
+        "k": 2.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 3.5,
+        "policy": "vol_le15"
+      }
+    },
+    "metrics": {
+      "net": 190967.6614999636,
+      "dd": 27260.157100012468,
+      "dd_pct": 10.690655407794617,
+      "loss": 377936.27960001514,
+      "trades": 931,
+      "worst": -13197.315999999977,
+      "lowest": 98493.1826,
+      "recent": 3304.225649989792,
+      "early": 187663.43584997382,
+      "open_positions": 0
+    },
+    "complexity": 7
+  },
+  {
+    "id": "P09",
+    "rules": {
+      "A": {
+        "k": 1.25,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 5.0,
+        "policy": "vol_le15"
+      },
+      "B": {
+        "k": 2.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 3.5,
+        "policy": "all"
+      }
+    },
+    "metrics": {
+      "net": 188502.95804996358,
+      "dd": 29724.860550012498,
+      "dd_pct": 10.690655407794617,
+      "loss": 380400.9830500152,
+      "trades": 932,
+      "worst": -13197.315999999977,
+      "lowest": 98493.1826,
+      "recent": 839.5221999897622,
+      "early": 187663.43584997382,
+      "open_positions": 0
+    },
+    "complexity": 6
+  },
+  {
+    "id": "P10",
+    "rules": {
+      "A": {
+        "k": 1.25,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 5.0,
+        "policy": "vol_le15"
+      },
+      "B": {
+        "k": 2.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 3.5,
+        "policy": "skip_late"
+      }
+    },
+    "metrics": {
+      "net": 174751.64519996673,
+      "dd": 29060.2669500123,
+      "dd_pct": 11.00085316156527,
+      "loss": 342168.95295001374,
+      "trades": 858,
+      "worst": -13197.315999999977,
+      "lowest": 98493.1826,
+      "recent": 2473.990199990105,
+      "early": 172277.65499997663,
+      "open_positions": 0
+    },
+    "complexity": 7
+  },
+  {
+    "id": "P11",
+    "rules": {
+      "A": {
+        "k": 1.25,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 5.0,
+        "policy": "vol_le15"
+      },
+      "B": {
+        "k": 1.5,
+        "long_vol": false,
+        "min_usd": 0.0,
+        "leg": 3.5,
+        "policy": "all"
+      }
+    },
+    "metrics": {
+      "net": 123586.04279990782,
+      "dd": 36630.487850009,
+      "dd_pct": 24.202005631475433,
+      "loss": 808095.1626000354,
+      "trades": 2255,
+      "worst": -10389.002800000044,
+      "lowest": 99704.5125,
+      "recent": -2615.1488000336685,
+      "early": 126201.19159994149,
+      "open_positions": 1
+    },
+    "complexity": 4
+  },
+  {
+    "id": "P12",
+    "rules": {
+      "A": {
+        "k": 1.25,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 5.0,
+        "policy": "all"
+      },
+      "B": {
+        "k": 2.0,
+        "long_vol": false,
+        "min_usd": 1.5,
+        "leg": 5.0,
+        "policy": "long_only"
+      }
+    },
+    "metrics": {
+      "net": 136573.1405499791,
+      "dd": 14843.772350001935,
+      "dd_pct": 6.478360176182816,
+      "loss": 140740.18970000808,
+      "trades": 497,
+      "worst": -7533.4115999999985,
+      "lowest": 99641.70029999995,
+      "recent": 6601.190749994363,
+      "early": 129971.94979998475,
+      "open_positions": 0
+    },
+    "complexity": 7
+  },
+  {
+    "id": "P13",
+    "rules": {
+      "A": {
+        "k": 1.25,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 5.0,
+        "policy": "all"
+      },
+      "B": {
+        "k": 2.0,
+        "long_vol": false,
+        "min_usd": 1.5,
+        "leg": 5.0,
+        "policy": "vol_ge1"
+      }
+    },
+    "metrics": {
+      "net": 104023.25064998897,
+      "dd": 11374.411400000012,
+      "dd_pct": 5.967359383537959,
+      "loss": 85386.93845000441,
+      "trades": 264,
+      "worst": -7533.4115999999985,
+      "lowest": 99469.47329999995,
+      "recent": -3470.0363500033563,
+      "early": 107493.28699999233,
+      "open_positions": 0
+    },
+    "complexity": 7
+  },
+  {
+    "id": "P14",
+    "rules": {
+      "A": {
+        "k": 1.25,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 5.0,
+        "policy": "all"
+      },
+      "B": {
+        "k": 2.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 3.5,
+        "policy": "vol_le15"
+      }
+    },
+    "metrics": {
+      "net": 190437.1347999631,
+      "dd": 27659.993900013214,
+      "dd_pct": 10.726155547620706,
+      "loss": 391196.74550001544,
+      "trades": 947,
+      "worst": -13197.315999999977,
+      "lowest": 98493.1826,
+      "recent": -3600.38855001051,
+      "early": 194037.5233499736,
+      "open_positions": 0
+    },
+    "complexity": 6
+  },
+  {
+    "id": "P15",
+    "rules": {
+      "A": {
+        "k": 1.25,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 5.0,
+        "policy": "all"
+      },
+      "B": {
+        "k": 2.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 3.5,
+        "policy": "all"
+      }
+    },
+    "metrics": {
+      "net": 187972.43134996307,
+      "dd": 30124.697350013244,
+      "dd_pct": 10.726155547620706,
+      "loss": 393661.4489500155,
+      "trades": 948,
+      "worst": -13197.315999999977,
+      "lowest": 98493.1826,
+      "recent": -6065.09200001054,
+      "early": 194037.5233499736,
+      "open_positions": 0
+    },
+    "complexity": 5
+  },
+  {
+    "id": "P16",
+    "rules": {
+      "A": {
+        "k": 1.25,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 5.0,
+        "policy": "all"
+      },
+      "B": {
+        "k": 2.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 3.5,
+        "policy": "skip_late"
+      }
+    },
+    "metrics": {
+      "net": 174221.11849996622,
+      "dd": 29460.103750013048,
+      "dd_pct": 11.037114850648852,
+      "loss": 355429.418850014,
+      "trades": 874,
+      "worst": -13197.315999999977,
+      "lowest": 98493.1826,
+      "recent": -4430.624000010197,
+      "early": 178651.74249997642,
+      "open_positions": 0
+    },
+    "complexity": 6
+  },
+  {
+    "id": "P17",
+    "rules": {
+      "A": {
+        "k": 1.25,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 5.0,
+        "policy": "all"
+      },
+      "B": {
+        "k": 1.5,
+        "long_vol": false,
+        "min_usd": 0.0,
+        "leg": 3.5,
+        "policy": "all"
+      }
+    },
+    "metrics": {
+      "net": 123055.51609990728,
+      "dd": 37159.3260500122,
+      "dd_pct": 24.610455290934667,
+      "loss": 821355.6285000357,
+      "trades": 2271,
+      "worst": -10389.002800000044,
+      "lowest": 99704.5125,
+      "recent": -9519.763000034,
+      "early": 132575.27909994128,
+      "open_positions": 1
+    },
+    "complexity": 3
+  },
+  {
+    "id": "P18",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "long_only"
+      },
+      "B": {
+        "k": 2.0,
+        "long_vol": false,
+        "min_usd": 1.5,
+        "leg": 5.0,
+        "policy": "long_only"
+      }
+    },
+    "metrics": {
+      "net": 275570.9670999101,
+      "dd": 31671.363350005355,
+      "dd_pct": 10.782106277462212,
+      "loss": 840481.774550033,
+      "trades": 2255,
+      "worst": -10252.740850000002,
+      "lowest": 96178.58679999883,
+      "recent": -935.9355500261881,
+      "early": 276506.90264993627,
+      "open_positions": 0
+    },
+    "complexity": 5
+  },
+  {
+    "id": "P19",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "long_only"
+      },
+      "B": {
+        "k": 2.0,
+        "long_vol": false,
+        "min_usd": 1.5,
+        "leg": 5.0,
+        "policy": "vol_ge1"
+      }
+    },
+    "metrics": {
+      "net": 243021.07719991996,
+      "dd": 29911.94635001634,
+      "dd_pct": 11.137644321507855,
+      "loss": 785128.5233000295,
+      "trades": 2022,
+      "worst": -10252.740850000002,
+      "lowest": 94190.54689999885,
+      "recent": -11007.16265002382,
+      "early": 254028.23984994378,
+      "open_positions": 0
+    },
+    "complexity": 5
+  },
+  {
+    "id": "P20",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "long_only"
+      },
+      "B": {
+        "k": 2.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 3.5,
+        "policy": "vol_le15"
+      }
+    },
+    "metrics": {
+      "net": 329434.96134989406,
+      "dd": 34155.4845500199,
+      "dd_pct": 12.464022384920659,
+      "loss": 1090938.3303500405,
+      "trades": 2705,
+      "worst": -13197.315999999977,
+      "lowest": 96641.57349999956,
+      "recent": -11137.51485003106,
+      "early": 340572.4761999251,
+      "open_positions": 0
+    },
+    "complexity": 4
+  },
+  {
+    "id": "P21",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "long_only"
+      },
+      "B": {
+        "k": 2.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 3.5,
+        "policy": "all"
+      }
+    },
+    "metrics": {
+      "net": 326970.25789989403,
+      "dd": 36620.18800001993,
+      "dd_pct": 12.464022384920659,
+      "loss": 1093403.0338000404,
+      "trades": 2706,
+      "worst": -13197.315999999977,
+      "lowest": 96641.57349999956,
+      "recent": -13602.21830003109,
+      "early": 340572.4761999251,
+      "open_positions": 0
+    },
+    "complexity": 3
+  },
+  {
+    "id": "P22",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "long_only"
+      },
+      "B": {
+        "k": 2.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 3.5,
+        "policy": "skip_late"
+      }
+    },
+    "metrics": {
+      "net": 313218.9450498972,
+      "dd": 35395.012400019856,
+      "dd_pct": 13.14549039268829,
+      "loss": 1055171.003700039,
+      "trades": 2632,
+      "worst": -13197.315999999977,
+      "lowest": 96641.57349999956,
+      "recent": -11967.750300030748,
+      "early": 325186.69534992793,
+      "open_positions": 0
+    },
+    "complexity": 4
+  },
+  {
+    "id": "P23",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "long_only"
+      },
+      "B": {
+        "k": 1.5,
+        "long_vol": false,
+        "min_usd": 0.0,
+        "leg": 3.5,
+        "policy": "all"
+      }
+    },
+    "metrics": {
+      "net": 262053.34264983825,
+      "dd": 41989.61800000121,
+      "dd_pct": 19.25555260682096,
+      "loss": 1521097.2133500609,
+      "trades": 4029,
+      "worst": -10389.002800000044,
+      "lowest": 98193.98039999793,
+      "recent": -17056.88930005452,
+      "early": 279110.23194989277,
+      "open_positions": 1
+    },
+    "complexity": 1
+  },
+  {
+    "id": "P24",
+    "rules": {
+      "A": {
+        "k": 1.25,
+        "long_vol": true,
+        "min_usd": 1.5,
+        "leg": 5.0,
+        "policy": "skip_asia"
+      },
+      "B": {
+        "k": 2.0,
+        "long_vol": false,
+        "min_usd": 1.5,
+        "leg": 5.0,
+        "policy": "long_only"
+      }
+    },
+    "metrics": {
+      "net": 138281.73369997597,
+      "dd": 15132.843550002057,
+      "dd_pct": 6.705584818677861,
+      "loss": 157608.81125000943,
+      "trades": 588,
+      "worst": -4807.497200000035,
+      "lowest": 99197.28709999986,
+      "recent": 13629.571999991691,
+      "early": 124652.16169998428,
+      "open_positions": 0
+    },
+    "complexity": 8
+  },
+  {
+    "id": "P25",
+    "rules": {
+      "A": {
+        "k": 1.25,
+        "long_vol": true,
+        "min_usd": 1.5,
+        "leg": 5.0,
+        "policy": "skip_asia"
+      },
+      "B": {
+        "k": 2.0,
+        "long_vol": false,
+        "min_usd": 1.5,
+        "leg": 5.0,
+        "policy": "vol_ge1"
+      }
+    },
+    "metrics": {
+      "net": 105731.84379998583,
+      "dd": 13206.26505000281,
+      "dd_pct": 6.631616236963192,
+      "loss": 102255.56000000576,
+      "trades": 355,
+      "worst": -4807.497200000035,
+      "lowest": 99555.58679999992,
+      "recent": 3558.344899994001,
+      "early": 102173.49889999183,
+      "open_positions": 0
+    },
+    "complexity": 8
+  },
+  {
+    "id": "P26",
+    "rules": {
+      "A": {
+        "k": 1.25,
+        "long_vol": true,
+        "min_usd": 1.5,
+        "leg": 5.0,
+        "policy": "skip_asia"
+      },
+      "B": {
+        "k": 2.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 3.5,
+        "policy": "vol_le15"
+      }
+    },
+    "metrics": {
+      "net": 192145.72794995992,
+      "dd": 34477.312650015054,
+      "dd_pct": 11.439328628927175,
+      "loss": 408065.36705001676,
+      "trades": 1038,
+      "worst": -13197.315999999977,
+      "lowest": 99240.85039999991,
+      "recent": 3427.9926999867894,
+      "early": 188717.73524997314,
+      "open_positions": 0
+    },
+    "complexity": 7
+  },
+  {
+    "id": "P27",
+    "rules": {
+      "A": {
+        "k": 1.25,
+        "long_vol": true,
+        "min_usd": 1.5,
+        "leg": 5.0,
+        "policy": "skip_asia"
+      },
+      "B": {
+        "k": 2.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 3.5,
+        "policy": "all"
+      }
+    },
+    "metrics": {
+      "net": 189681.0244999599,
+      "dd": 36942.016100015084,
+      "dd_pct": 12.257099811490287,
+      "loss": 410530.0705000168,
+      "trades": 1039,
+      "worst": -13197.315999999977,
+      "lowest": 99240.85039999991,
+      "recent": 963.2892499867594,
+      "early": 188717.73524997314,
+      "open_positions": 0
+    },
+    "complexity": 6
+  },
+  {
+    "id": "P28",
+    "rules": {
+      "A": {
+        "k": 1.25,
+        "long_vol": true,
+        "min_usd": 1.5,
+        "leg": 5.0,
+        "policy": "skip_asia"
+      },
+      "B": {
+        "k": 2.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 3.5,
+        "policy": "skip_late"
+      }
+    },
+    "metrics": {
+      "net": 175929.71164996305,
+      "dd": 36277.42250001486,
+      "dd_pct": 12.700222580936273,
+      "loss": 372298.0404000153,
+      "trades": 965,
+      "worst": -13197.315999999977,
+      "lowest": 99240.85039999991,
+      "recent": 2597.757249987102,
+      "early": 173331.95439997595,
+      "open_positions": 0
+    },
+    "complexity": 7
+  },
+  {
+    "id": "P29",
+    "rules": {
+      "A": {
+        "k": 1.25,
+        "long_vol": true,
+        "min_usd": 1.5,
+        "leg": 5.0,
+        "policy": "skip_asia"
+      },
+      "B": {
+        "k": 1.5,
+        "long_vol": false,
+        "min_usd": 0.0,
+        "leg": 3.5,
+        "policy": "all"
+      }
+    },
+    "metrics": {
+      "net": 124764.10924990414,
+      "dd": 42037.74025001773,
+      "dd_pct": 26.620638364200644,
+      "loss": 838224.250050037,
+      "trades": 2362,
+      "worst": -10389.002800000044,
+      "lowest": 99704.5125,
+      "recent": -2491.381750036642,
+      "early": 127255.49099994078,
+      "open_positions": 1
+    },
+    "complexity": 4
+  },
+  {
+    "id": "P30",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "all"
+      },
+      "B": {
+        "k": 2.0,
+        "long_vol": false,
+        "min_usd": 1.5,
+        "leg": 5.0,
+        "policy": "long_only"
+      }
+    },
+    "metrics": {
+      "net": 299320.394999835,
+      "dd": 56363.98735002783,
+      "dd_pct": 14.624032269208595,
+      "loss": 1706257.4479500619,
+      "trades": 4099,
+      "worst": -13570.981050000086,
+      "lowest": 93042.36689999852,
+      "recent": -17103.829600049998,
+      "early": 316424.224599885,
+      "open_positions": 0
+    },
+    "complexity": 4
+  },
+  {
+    "id": "P31",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "all"
+      },
+      "B": {
+        "k": 2.0,
+        "long_vol": false,
+        "min_usd": 1.5,
+        "leg": 5.0,
+        "policy": "vol_ge1"
+      }
+    },
+    "metrics": {
+      "net": 266770.5050998449,
+      "dd": 56397.75735001924,
+      "dd_pct": 15.102753898710352,
+      "loss": 1650904.1967000582,
+      "trades": 3866,
+      "worst": -13570.981050000086,
+      "lowest": 91054.32699999854,
+      "recent": -27175.056700047688,
+      "early": 293945.5617998926,
+      "open_positions": 0
+    },
+    "complexity": 4
+  },
+  {
+    "id": "P32",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "all"
+      },
+      "B": {
+        "k": 2.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 3.5,
+        "policy": "vol_le15"
+      }
+    },
+    "metrics": {
+      "net": 353184.389249819,
+      "dd": 62245.87710003136,
+      "dd_pct": 19.1625483287855,
+      "loss": 1956714.003750069,
+      "trades": 4549,
+      "worst": -13570.981050000086,
+      "lowest": 93933.89489999849,
+      "recent": -27305.40890005487,
+      "early": 380489.79814987385,
+      "open_positions": 0
+    },
+    "complexity": 3
+  },
+  {
+    "id": "P33",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "all"
+      },
+      "B": {
+        "k": 2.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 3.5,
+        "policy": "all"
+      }
+    },
+    "metrics": {
+      "net": 350719.68579981895,
+      "dd": 64710.58055003139,
+      "dd_pct": 19.1625483287855,
+      "loss": 1959178.707200069,
+      "trades": 4550,
+      "worst": -13570.981050000086,
+      "lowest": 93933.89489999849,
+      "recent": -29770.1123500549,
+      "early": 380489.79814987385,
+      "open_positions": 0
+    },
+    "complexity": 2
+  },
+  {
+    "id": "P34",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "all"
+      },
+      "B": {
+        "k": 2.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 3.5,
+        "policy": "skip_late"
+      }
+    },
+    "metrics": {
+      "net": 336968.3729498221,
+      "dd": 63533.696050031285,
+      "dd_pct": 18.961529928514366,
+      "loss": 1920946.677100068,
+      "trades": 4476,
+      "worst": -13570.981050000086,
+      "lowest": 93933.89489999849,
+      "recent": -28135.644350054616,
+      "early": 365104.0172998767,
+      "open_positions": 0
+    },
+    "complexity": 3
+  },
+  {
+    "id": "P35",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 2.1626934441569983,
+        "leg": 2.5,
+        "policy": "all"
+      },
+      "B": {
+        "k": 1.5,
+        "long_vol": false,
+        "min_usd": 0.0,
+        "leg": 3.5,
+        "policy": "all"
+      }
+    },
+    "metrics": {
+      "net": 285802.7705497632,
+      "dd": 68220.12780004635,
+      "dd_pct": 22.995914261779145,
+      "loss": 2386872.88675009,
+      "trades": 5873,
+      "worst": -13570.981050000086,
+      "lowest": 96039.79209999659,
+      "recent": -33224.78335007827,
+      "early": 319027.5538998415,
+      "open_positions": 1
+    },
+    "complexity": 0
+  }
+]

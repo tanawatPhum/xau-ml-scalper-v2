@@ -1,0 +1,134 @@
+{
+ "summary": {
+  "sessions": 4393,
+  "trading_days_with_sessions": 1536,
+  "arrivals": 17919,
+  "arrivals_per_session": 4.078989301160938,
+  "outcome_share": {
+   "continue": 0.501,
+   "reverse": 0.421,
+   "none": 0.078
+  },
+  "pattern": 3384,
+  "pattern_per_session": 0.7703164124743911,
+  "pattern_per_day": 2.203125,
+  "bounce_usd": {
+   "count": 3384.0,
+   "mean": 1.15,
+   "std": 0.76,
+   "min": 0.2,
+   "10%": 0.54,
+   "50%": 1.05,
+   "90%": 1.75,
+   "max": 22.24
+  },
+  "tp_profit_usd": {
+   "count": 3384.0,
+   "mean": 1.74,
+   "std": 0.5,
+   "min": 0.61,
+   "10%": 1.3,
+   "50%": 1.68,
+   "90%": 2.16,
+   "max": 12.76
+  },
+  "max_profit_usd": {
+   "count": 3384.0,
+   "mean": 3.85,
+   "std": 2.88,
+   "min": 0.0,
+   "10%": 1.75,
+   "50%": 2.94,
+   "90%": 7.05,
+   "max": 30.16
+  },
+  "wait_min": {
+   "count": 3384.0,
+   "mean": 11.6,
+   "std": 14.9,
+   "min": 1.0,
+   "10%": 1.0,
+   "50%": 6.0,
+   "90%": 28.7,
+   "max": 156.0
+  }
+ },
+ "yearly": {
+  "2011": {
+   "sessions": 619,
+   "arrivals": 3051,
+   "cont": 1685,
+   "rev": 1199,
+   "pattern": 589,
+   "thb_tp": 327074.38139672665,
+   "thb_max": 841017.5356000001
+  },
+  "2012": {
+   "sessions": 721,
+   "arrivals": 3381,
+   "cont": 1681,
+   "rev": 1466,
+   "pattern": 581,
+   "thb_tp": 312920.01744717045,
+   "thb_max": 713587.1159999997
+  },
+  "2013": {
+   "sessions": 696,
+   "arrivals": 3428,
+   "cont": 1748,
+   "rev": 1486,
+   "pattern": 601,
+   "thb_tp": 330372.45093809534,
+   "thb_max": 829508.719599999
+  },
+  "2014": {
+   "sessions": 707,
+   "arrivals": 2582,
+   "cont": 1243,
+   "rev": 1057,
+   "pattern": 495,
+   "thb_tp": 250253.22622761293,
+   "thb_max": 561206.0696000004
+  },
+  "2015": {
+   "sessions": 702,
+   "arrivals": 2593,
+   "cont": 1177,
+   "rev": 1141,
+   "pattern": 492,
+   "thb_tp": 247826.19806453097,
+   "thb_max": 544565.9021000009
+  },
+  "2016": {
+   "sessions": 717,
+   "arrivals": 2884,
+   "cont": 1436,
+   "rev": 1199,
+   "pattern": 626,
+   "thb_tp": 324694.4547676693,
+   "thb_max": 722839.7582999995
+  }
+ },
+ "by_session": {
+  "arrivals": {
+   "asia": 5471,
+   "london": 6557,
+   "new_york": 5891
+  },
+  "cont": {
+   "asia": 0.479,
+   "london": 0.513,
+   "new_york": 0.507
+  },
+  "rev": {
+   "asia": 0.426,
+   "london": 0.424,
+   "new_york": 0.415
+  },
+  "pattern": {
+   "asia": 1070,
+   "london": 1272,
+   "new_york": 1042
+  }
+ }
+}

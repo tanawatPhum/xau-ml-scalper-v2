@@ -1,0 +1,16 @@
+{
+  "version": "v1-r2",
+  "revision": 2,
+  "series": "v1",
+  "parent": "v1-r1",
+  "strategy_id": "D058-S1",
+  "strategy_note": "D058 (v1-r1) plus per-session override set S1",
+  "change": "per-session formulas: A Asia theta$ floor 2.1627; B London k 2.5 / theta$ 4; B NY afternoon theta$ 4 / leg 2.5",
+  "entrypoint": "v1_r2.py",
+  "parameter_lock": "out/LOCK.json",
+  "parameter_lock_sha256": "9523319b9f2ae27b3b3daf683ec28fec8535005ba364d3623aa825da04bcdfe0",
+  "parent_lock_sha256": "b819a098e183f944287c120fa64628786a7fc368c437e781c76c19c01ab94432",
+  "status": "PASS on reused 2017-2019 validation (net > v1-r1, DD <= v1-r1, 0 crossings)",
+  "created_date_ict": "2026-10-31",
+  "version_policy": "../VERSIONING.md"
+}

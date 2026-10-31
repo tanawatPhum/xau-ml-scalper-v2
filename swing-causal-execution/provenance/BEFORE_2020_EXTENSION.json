@@ -1,0 +1,12 @@
+[
+  {
+    "Algorithm": "SHA256",
+    "Hash": "964127CE2827F8E157A2D013DC17E121C48A97B1305288B945F0FA843719ED88",
+    "Path": "D:\\xau-ml-scalper-claude\\swing-causal-execution\\engine.py"
+  },
+  {
+    "Algorithm": "SHA256",
+    "Hash": "55216DF7DE9F27362255D19015F428A18A5AC3672B8DCDFB1F0A4B08A4850B47",
+    "Path": "D:\\xau-ml-scalper-claude\\swing-causal-execution\\run.py"
+  }
+]

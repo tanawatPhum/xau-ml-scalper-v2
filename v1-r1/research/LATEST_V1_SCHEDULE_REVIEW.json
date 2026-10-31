@@ -1,0 +1,51 @@
+{
+  "scope": "Read-only review of latest baseline; extracted schedule function only, no market cache reads or full module import.",
+  "source": "D:\\xau-ml-scalper-claude\\swing-v1-flat-daily\\flat_daily.py",
+  "source_sha256": "84f31a6f07ecc3f9b7a98860f751bdb096887d23ff190fecc363d9e50caf944f",
+  "common_observed_quotes": "2010-01-04 15:00 through15:09 UTC (10:00 through10:09 NewYork)",
+  "future_A": "continuous next quote15:10 UTC",
+  "future_B": "next quote16:00 UTC",
+  "checks": {
+    "S0": {
+      "past_blocked_changes_if_future_gap_added": [],
+      "past_blocked_changes_if_data_truncated": []
+    },
+    "S1": {
+      "past_blocked_changes_if_future_gap_added": [],
+      "past_blocked_changes_if_data_truncated": []
+    },
+    "S2": {
+      "past_blocked_changes_if_future_gap_added": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "past_blocked_changes_if_data_truncated": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    "EX": {
+      "past_blocked_changes_if_future_gap_added": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "past_blocked_changes_if_data_truncated": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    }
+  },
+  "conclusion": "EX and S2 use future quote gaps and end-of-data to change earlier eligibility; a known-in-advance calendar is not actually supplied."
+}

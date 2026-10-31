@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "frozen_hashes_match": true,
+  "source_inputs_unchanged": true,
+  "five_trade_timing_costs_checked": true,
+  "example_cost_arithmetic_checked": true,
+  "only_failed_gate": "minimum_trades",
+  "validation_price_years_read": [],
+  "results_sha256": "367cee2e4e3994557d97e792e728b16a1c543dd1e72d7f1f6ba6caf2a986e862"
+}

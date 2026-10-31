@@ -1,0 +1,206 @@
+{
+ "2010-2016": {
+  "days": 1211,
+  "r1_net": 298946,
+  "r2_net": 353805,
+  "diff_net": 54859,
+  "t_r1": 3.95,
+  "t_r2": 4.55,
+  "t_diff": 1.51,
+  "days_changed": 617,
+  "cells": {
+   "A Asia": {
+    "r1_trades": 247,
+    "r1_net": 27844,
+    "r2_trades": 480,
+    "r2_net": 29481,
+    "diff": 1638
+   },
+   "A London": {
+    "r1_trades": 422,
+    "r1_net": 64812,
+    "r2_trades": 422,
+    "r2_net": 64812,
+    "diff": 0
+   },
+   "A NY morning": {
+    "r1_trades": 726,
+    "r1_net": 64652,
+    "r2_trades": 726,
+    "r2_net": 64652,
+    "diff": 0
+   },
+   "A NY afternoon": {
+    "r1_trades": 538,
+    "r1_net": 76184,
+    "r2_trades": 538,
+    "r2_net": 76184,
+    "diff": 0
+   },
+   "B Asia": {
+    "r1_trades": 42,
+    "r1_net": 8701,
+    "r2_trades": 42,
+    "r2_net": 7335,
+    "diff": -1366
+   },
+   "B London": {
+    "r1_trades": 86,
+    "r1_net": 378,
+    "r2_trades": 26,
+    "r2_net": 18829,
+    "diff": 18450
+   },
+   "B NY morning": {
+    "r1_trades": 54,
+    "r1_net": 17076,
+    "r2_trades": 74,
+    "r2_net": 26919,
+    "diff": 9842
+   },
+   "B NY afternoon": {
+    "r1_trades": 386,
+    "r1_net": 39299,
+    "r2_trades": 429,
+    "r2_net": 65594,
+    "diff": 26295
+   }
+  }
+ },
+ "2017-2019": {
+  "days": 210,
+  "r1_net": 21785,
+  "r2_net": 36020,
+  "diff_net": 14235,
+  "t_r1": 0.98,
+  "t_r2": 1.69,
+  "t_diff": 1.8,
+  "days_changed": 123,
+  "cells": {
+   "A Asia": {
+    "r1_trades": 24,
+    "r1_net": -4303,
+    "r2_trades": 67,
+    "r2_net": 1186,
+    "diff": 5490
+   },
+   "A London": {
+    "r1_trades": 22,
+    "r1_net": -4875,
+    "r2_trades": 22,
+    "r2_net": -4875,
+    "diff": 0
+   },
+   "A NY morning": {
+    "r1_trades": 102,
+    "r1_net": 16927,
+    "r2_trades": 102,
+    "r2_net": 16927,
+    "diff": 0
+   },
+   "A NY afternoon": {
+    "r1_trades": 51,
+    "r1_net": 10111,
+    "r2_trades": 51,
+    "r2_net": 10111,
+    "diff": 0
+   },
+   "B Asia": {
+    "r1_trades": 5,
+    "r1_net": -1761,
+    "r2_trades": 5,
+    "r2_net": -2511,
+    "diff": -749
+   },
+   "B London": {
+    "r1_trades": 9,
+    "r1_net": 6389,
+    "r2_trades": 1,
+    "r2_net": -1794,
+    "diff": -8183
+   },
+   "B NY morning": {
+    "r1_trades": 11,
+    "r1_net": -3920,
+    "r2_trades": 17,
+    "r2_net": -1690,
+    "diff": 2231
+   },
+   "B NY afternoon": {
+    "r1_trades": 77,
+    "r1_net": 3217,
+    "r2_trades": 49,
+    "r2_net": 18665,
+    "diff": 15447
+   }
+  }
+ },
+ "2020-2022": {
+  "days": 672,
+  "r1_net": 87968,
+  "r2_net": 136640,
+  "diff_net": 48672,
+  "t_r1": 1.22,
+  "t_r2": 1.83,
+  "t_diff": 1.67,
+  "days_changed": 301,
+  "cells": {
+   "A Asia": {
+    "r1_trades": 219,
+    "r1_net": 14623,
+    "r2_trades": 311,
+    "r2_net": 17681,
+    "diff": 3058
+   },
+   "A London": {
+    "r1_trades": 378,
+    "r1_net": 10687,
+    "r2_trades": 378,
+    "r2_net": 10687,
+    "diff": 0
+   },
+   "A NY morning": {
+    "r1_trades": 453,
+    "r1_net": 5361,
+    "r2_trades": 453,
+    "r2_net": 5361,
+    "diff": 0
+   },
+   "A NY afternoon": {
+    "r1_trades": 317,
+    "r1_net": 42639,
+    "r2_trades": 317,
+    "r2_net": 42639,
+    "diff": 0
+   },
+   "B Asia": {
+    "r1_trades": 26,
+    "r1_net": 5433,
+    "r2_trades": 26,
+    "r2_net": 9872,
+    "diff": 4439
+   },
+   "B London": {
+    "r1_trades": 37,
+    "r1_net": -22503,
+    "r2_trades": 11,
+    "r2_net": -4700,
+    "diff": 17803
+   },
+   "B NY morning": {
+    "r1_trades": 11,
+    "r1_net": 5818,
+    "r2_trades": 20,
+    "r2_net": 16967,
+    "diff": 11149
+   },
+   "B NY afternoon": {
+    "r1_trades": 239,
+    "r1_net": 25910,
+    "r2_trades": 320,
+    "r2_net": 38133,
+    "diff": 12224
+   }
+  }
+ }
+}

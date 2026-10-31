@@ -1,0 +1,953 @@
+{
+  "status": "NOT_CONFIRMED",
+  "row": {
+    "spec": {
+      "id": "C_prior_abnormal_day",
+      "paper_doi": "10.1007/s11408-021-00380-w",
+      "timezone": "UTC+03:00",
+      "reference_valid_days": 60,
+      "z_threshold": 2.0,
+      "minimum_daily_quotes": 1000,
+      "first_minute_max": 120,
+      "last_minute_min": 1320,
+      "expiry_minute": 360,
+      "minimum_scale": 0.5,
+      "direction": "opposite previous calendar day return",
+      "stop": "disabled",
+      "target": "disabled"
+    },
+    "results": {
+      "primary": {
+        "fixed": {
+          "metrics": {
+            "net": -4419.479900001379,
+            "closed_net": -4419.479900001379,
+            "gross_wins": 15213.047299999153,
+            "gross_losses": 19632.527200000528,
+            "profit_factor": 0.774889913306665,
+            "trades": 37,
+            "overlap_count": 1,
+            "overlap": 0.02702702702702703,
+            "dd": 13909.187600000878,
+            "dd_pct": 13.491751800891706,
+            "lowest": 89184.81979999875,
+            "net_2014_2016": -4419.479900001379,
+            "daily_t": -0.5852140084834248,
+            "market_close_crossings": 0,
+            "session_crossings": 0,
+            "late_cutoff_exits": 0,
+            "trades_spanning_data_gap": 0,
+            "open_positions": 0,
+            "combined_net": 31600.784049986534,
+            "combined_dd": 29179.30620000152,
+            "combined_dd_pct": 23.37974484750312,
+            "combined_lowest": 95626.61614999273,
+            "lot05": {
+              "net": -22097.399500006897,
+              "dd": 69545.93800000439,
+              "dd_pct": 60.22855782059333,
+              "lowest": 45924.09899999374,
+              "combined_net": 158003.92024993268,
+              "combined_dd": 145896.5310000076,
+              "combined_dd_pct": 65.12377085348689,
+              "combined_lowest": 78133.08074996364
+            },
+            "example_net": -5169.173900000924,
+            "historical_net": -6292.364099999706,
+            "eligible": false,
+            "checks": {
+              "net_positive": false,
+              "profit_factor_above_one": false,
+              "natural_overlap": true,
+              "minimum_trades": true,
+              "recent_positive": true,
+              "example_cost_positive": false,
+              "no_close_crossings": true,
+              "no_session_crossings": true,
+              "no_terminal_position": true,
+              "positive_equity_C_and_combined": true
+            },
+            "failed": [
+              "net_positive",
+              "profit_factor_above_one",
+              "example_cost_positive"
+            ]
+          },
+          "annual": {
+            "2017": {
+              "net": -1688.837700000069,
+              "end_equity": 98311.16229999994,
+              "dd": 4241.005449999956,
+              "trades": 10
+            },
+            "2018": {
+              "net": 3114.2693999993794,
+              "end_equity": 101425.43169999932,
+              "dd": 5267.106900000071,
+              "trades": 14
+            },
+            "2019": {
+              "net": -5844.91160000069,
+              "end_equity": 95580.52009999863,
+              "dd": 12829.560700000226,
+              "trades": 13
+            }
+          }
+        },
+        "example": {
+          "metrics": {
+            "net": -5169.173900000924,
+            "closed_net": -5169.173900000926,
+            "gross_wins": 14778.427399999555,
+            "gross_losses": 19947.60130000048,
+            "profit_factor": 0.7408623812828663,
+            "trades": 37,
+            "overlap_count": 1,
+            "overlap": 0.02702702702702703,
+            "dd": 14192.855600000708,
+            "dd_pct": 13.821234745876135,
+            "lowest": 88495.91179999917,
+            "net_2014_2016": -5169.173900000924,
+            "daily_t": -0.6837675697932047,
+            "market_close_crossings": 0,
+            "session_crossings": 0,
+            "late_cutoff_exits": 0,
+            "trades_spanning_data_gap": 0,
+            "open_positions": 0,
+            "combined_net": 30851.09004998699,
+            "combined_dd": 29323.335250003234,
+            "combined_dd_pct": 23.590479077099786,
+            "combined_lowest": 94978.23214999313,
+            "lot05": {
+              "net": -25845.86950000462,
+              "dd": 70964.27800000354,
+              "dd_pct": 62.554546704907324,
+              "lowest": 42479.55899999583,
+              "combined_net": 154255.45024993495,
+              "combined_dd": 146616.67625001614,
+              "combined_dd_pct": 66.19028845016811,
+              "combined_lowest": 74891.16074996562
+            }
+          },
+          "annual": {
+            "2017": {
+              "net": -1891.4576999999458,
+              "end_equity": 98108.54230000006,
+              "dd": 4342.315449999895,
+              "trades": 10
+            },
+            "2018": {
+              "net": 2830.6013999995525,
+              "end_equity": 100939.14369999961,
+              "dd": 5267.106900000071,
+              "trades": 14
+            },
+            "2019": {
+              "net": -6108.317600000531,
+              "end_equity": 94830.82609999907,
+              "dd": 12890.346700000191,
+              "trades": 13
+            }
+          }
+        },
+        "historical": {
+          "metrics": {
+            "net": -6292.364099999706,
+            "closed_net": -6292.364099999706,
+            "gross_wins": 14241.146700000174,
+            "gross_losses": 20533.510799999876,
+            "profit_factor": 0.6935563449773168,
+            "trades": 37,
+            "overlap_count": 1,
+            "overlap": 0.02702702702702703,
+            "dd": 14703.120300000388,
+            "dd_pct": 14.37980384136401,
+            "lowest": 87545.28630000027,
+            "net_2014_2016": -6292.364099999706,
+            "daily_t": -0.8306238558727584,
+            "market_close_crossings": 0,
+            "session_crossings": 0,
+            "late_cutoff_exits": 0,
+            "trades_spanning_data_gap": 0,
+            "open_positions": 0,
+            "combined_net": 29727.899849988207,
+            "combined_dd": 29734.48500000291,
+            "combined_dd_pct": 24.005802792682783,
+            "combined_lowest": 94129.25434999412,
+            "lot05": {
+              "net": -31461.820499998532,
+              "dd": 73515.60150000191,
+              "dd_pct": 66.08617221154141,
+              "lowest": 37726.43150000138,
+              "combined_net": 148639.49924994103,
+              "combined_dd": 148672.42500001454,
+              "combined_dd_pct": 67.78830405393816,
+              "combined_lowest": 70646.27174997062
+            }
+          },
+          "annual": {
+            "2017": {
+              "net": -2180.528899999345,
+              "end_equity": 97819.47110000065,
+              "dd": 4552.871399999607,
+              "trades": 10
+            },
+            "2018": {
+              "net": 2573.949399999871,
+              "end_equity": 100393.42050000053,
+              "dd": 5272.510100000097,
+              "trades": 14
+            },
+            "2019": {
+              "net": -6685.784600000232,
+              "end_equity": 93707.6359000003,
+              "dd": 13124.710500000312,
+              "trades": 13
+            }
+          }
+        }
+      },
+      "stop3_sensitivity": {
+        "fixed": {
+          "metrics": {
+            "net": -7316.270500001294,
+            "closed_net": -7316.270500001294,
+            "gross_wins": 15213.047299999153,
+            "gross_losses": 22529.317800000445,
+            "profit_factor": 0.6752555685462812,
+            "trades": 37,
+            "overlap_count": 1,
+            "overlap": 0.02702702702702703,
+            "dd": 14433.973400001152,
+            "dd_pct": 14.330506768539127,
+            "lowest": 86288.02919999883,
+            "net_2014_2016": -7316.270500001294,
+            "daily_t": -1.031939895399252,
+            "market_close_crossings": 0,
+            "session_crossings": 0,
+            "late_cutoff_exits": 0,
+            "trades_spanning_data_gap": 0,
+            "open_positions": 0,
+            "combined_net": 28703.99344998662,
+            "combined_dd": 29036.121400003292,
+            "combined_dd_pct": 23.84584699359924,
+            "combined_lowest": 92729.82554999282,
+            "lot05": {
+              "net": -36581.35250000647,
+              "dd": 72169.8670000057,
+              "dd_pct": 69.65530155855284,
+              "lowest": 31440.145999994158,
+              "combined_net": 143519.9672499331,
+              "combined_dd": 145180.6070000165,
+              "combined_dd_pct": 69.52104171076624,
+              "combined_lowest": 63649.127749964086
+            },
+            "example_net": -8065.964500000844,
+            "historical_net": -9171.59429999942,
+            "eligible": false,
+            "checks": {
+              "net_positive": false,
+              "profit_factor_above_one": false,
+              "natural_overlap": true,
+              "minimum_trades": true,
+              "recent_positive": true,
+              "example_cost_positive": false,
+              "no_close_crossings": true,
+              "no_session_crossings": true,
+              "no_terminal_position": true,
+              "positive_equity_C_and_combined": true
+            },
+            "failed": [
+              "net_positive",
+              "profit_factor_above_one",
+              "example_cost_positive"
+            ]
+          },
+          "annual": {
+            "2017": {
+              "net": -4589.174150000092,
+              "end_equity": 95410.8258499999,
+              "dd": 6292.364100000014,
+              "trades": 10
+            },
+            "2018": {
+              "net": 1961.1927499994263,
+              "end_equity": 97372.01859999934,
+              "dd": 3934.2050000000313,
+              "trades": 14
+            },
+            "2019": {
+              "net": -4688.289100000628,
+              "end_equity": 92683.7294999987,
+              "dd": 11672.938200000166,
+              "trades": 13
+            }
+          }
+        },
+        "example": {
+          "metrics": {
+            "net": -8065.964500000844,
+            "closed_net": -8065.964500000842,
+            "gross_wins": 14778.427399999555,
+            "gross_losses": 22844.391900000395,
+            "profit_factor": 0.6469170842756948,
+            "trades": 37,
+            "overlap_count": 1,
+            "overlap": 0.02702702702702703,
+            "dd": 15082.35740000075,
+            "dd_pct": 14.980270065283635,
+            "lowest": 85599.12119999925,
+            "net_2014_2016": -8065.964500000844,
+            "daily_t": -1.1357393380855407,
+            "market_close_crossings": 0,
+            "session_crossings": 0,
+            "late_cutoff_exits": 0,
+            "trades_spanning_data_gap": 0,
+            "open_positions": 0,
+            "combined_net": 27954.29944998707,
+            "combined_dd": 29319.789400003123,
+            "combined_dd_pct": 24.151146714549856,
+            "combined_lowest": 92081.44154999321,
+            "lot05": {
+              "net": -40329.82250000422,
+              "dd": 75411.78700000374,
+              "dd_pct": 72.92688154318304,
+              "lowest": 27995.605999996245,
+              "combined_net": 139771.49724993535,
+              "combined_dd": 146598.9470000156,
+              "combined_dd_pct": 70.81864168583549,
+              "combined_lowest": 60407.20774996604
+            }
+          },
+          "annual": {
+            "2017": {
+              "net": -4791.79414999997,
+              "end_equity": 95208.20585000003,
+              "dd": 6413.93609999994,
+              "trades": 10
+            },
+            "2018": {
+              "net": 1677.5247499995971,
+              "end_equity": 96885.73059999963,
+              "dd": 3954.4670000000187,
+              "trades": 14
+            },
+            "2019": {
+              "net": -4951.695100000472,
+              "end_equity": 91934.03549999915,
+              "dd": 11733.72420000013,
+              "trades": 13
+            }
+          }
+        },
+        "historical": {
+          "metrics": {
+            "net": -9171.59429999942,
+            "closed_net": -9171.59429999942,
+            "gross_wins": 14241.146700000174,
+            "gross_losses": 23412.740999999594,
+            "profit_factor": 0.6082648204240768,
+            "trades": 37,
+            "overlap_count": 1,
+            "overlap": 0.02702702702702703,
+            "dd": 15950.921799999604,
+            "dd_pct": 15.853111604934794,
+            "lowest": 84666.05610000055,
+            "net_2014_2016": -9171.59429999942,
+            "daily_t": -1.2889661718025252,
+            "market_close_crossings": 0,
+            "session_crossings": 0,
+            "late_cutoff_exits": 0,
+            "trades_spanning_data_gap": 0,
+            "open_positions": 0,
+            "combined_net": 26848.669649988493,
+            "combined_dd": 29699.36420000266,
+            "combined_dd_pct": 24.555199993289904,
+            "combined_lowest": 91250.02414999441,
+            "lot05": {
+              "net": -45857.971499997104,
+              "dd": 79754.60899999796,
+              "dd_pct": 77.36789493284306,
+              "lowest": 23330.280500002802,
+              "combined_net": 134243.34824994247,
+              "combined_dd": 148496.82100001333,
+              "combined_dd_pct": 72.52700320249053,
+              "combined_lowest": 56250.12074997203
+            }
+          },
+          "annual": {
+            "2017": {
+              "net": -5094.879899999305,
+              "end_equity": 94905.1201000007,
+              "dd": 6621.621599999598,
+              "trades": 10
+            },
+            "2018": {
+              "net": 1419.3530999999907,
+              "end_equity": 96324.47320000069,
+              "dd": 3966.6241999999556,
+              "trades": 14
+            },
+            "2019": {
+              "net": -5496.0675000001065,
+              "end_equity": 90828.40570000059,
+              "dd": 11934.993400000189,
+              "trades": 13
+            }
+          }
+        }
+      }
+    },
+    "counts": {
+      "completed_observed_days": 825,
+      "valid_days": 694,
+      "invalid_quote_count": 52,
+      "invalid_start_coverage": 67,
+      "invalid_end_coverage": 73,
+      "missing_calendar_days": 268,
+      "previous_date_invalid_or_missing": 234,
+      "warmup_under_60": 0,
+      "zero_reference_sd": 0,
+      "nonabnormal_days": 553,
+      "no_eligible_quote_before_06": 2,
+      "invalid_signal_scale": 0,
+      "signals": 37,
+      "unfinalized_last_day": 1,
+      "history_days": 61
+    },
+    "execution": {
+      "signals": 37,
+      "closed_trades": 37,
+      "signals_not_filled": 0,
+      "early_NY_daily_deadline": 13,
+      "exit_at_06_or_later": 24,
+      "late_absolute_expiry": 0,
+      "last_quote_utc": "2019-12-31 21:57:00+00:00"
+    }
+  },
+  "ab_metrics": {
+    "net": 36020.263949987915,
+    "dd": 21735.55395000121,
+    "dd_pct": 17.523709076916425,
+    "loss": 105864.89760000433,
+    "trades": 314,
+    "worst": -6915.420600000023,
+    "lowest": 99180.73979999994,
+    "recent": 36020.263949987915,
+    "early": 0.0,
+    "open_positions": 0,
+    "late_cutoff_exits": 0,
+    "market_close_crossings": 0,
+    "session_crossings": 0,
+    "trades_spanning_data_gap": 0,
+    "scheduled_exits": 47
+  },
+  "verification": {
+    "primary_fixed": {
+      "status": "PASS",
+      "closed_trades": 37,
+      "minute_equity_checked": true,
+      "independent_overlap_count": 1
+    },
+    "primary_example": {
+      "status": "PASS",
+      "closed_trades": 37,
+      "minute_equity_checked": true,
+      "independent_overlap_count": 1
+    },
+    "primary_historical": {
+      "status": "PASS",
+      "closed_trades": 37,
+      "minute_equity_checked": true,
+      "independent_overlap_count": 1
+    },
+    "stop3_sensitivity_fixed": {
+      "status": "PASS",
+      "closed_trades": 37,
+      "minute_equity_checked": true,
+      "independent_overlap_count": 1
+    },
+    "stop3_sensitivity_example": {
+      "status": "PASS",
+      "closed_trades": 37,
+      "minute_equity_checked": true,
+      "independent_overlap_count": 1
+    },
+    "stop3_sensitivity_historical": {
+      "status": "PASS",
+      "closed_trades": 37,
+      "minute_equity_checked": true,
+      "independent_overlap_count": 1
+    },
+    "prefix": {
+      "status": "PASS",
+      "cuts": [
+        {
+          "quotes": 4073,
+          "last_minute": 24727499,
+          "open_at_cut": 0
+        },
+        {
+          "quotes": 4074,
+          "last_minute": 24727500,
+          "open_at_cut": 0
+        },
+        {
+          "quotes": 4075,
+          "last_minute": 24727501,
+          "open_at_cut": 1
+        },
+        {
+          "quotes": 4085,
+          "last_minute": 24727511,
+          "open_at_cut": 1
+        }
+      ]
+    }
+  },
+  "years_read": [
+    2017,
+    2018,
+    2019
+  ],
+  "feature_history_years": [
+    2016
+  ],
+  "feature_history": [
+    {
+      "day": 17066,
+      "r": 0.002162724662259504,
+      "quotes": 1377,
+      "first_minute": 61,
+      "last_minute": 1437
+    },
+    {
+      "day": 17067,
+      "r": -4.0370149419828305e-05,
+      "quotes": 1376,
+      "first_minute": 61,
+      "last_minute": 1437
+    },
+    {
+      "day": 17070,
+      "r": 0.0005727565447831477,
+      "quotes": 1373,
+      "first_minute": 65,
+      "last_minute": 1437
+    },
+    {
+      "day": 17071,
+      "r": -0.008609795512329212,
+      "quotes": 1377,
+      "first_minute": 61,
+      "last_minute": 1437
+    },
+    {
+      "day": 17072,
+      "r": -0.0038006846352286417,
+      "quotes": 1377,
+      "first_minute": 61,
+      "last_minute": 1437
+    },
+    {
+      "day": 17073,
+      "r": -0.0011195279705288445,
+      "quotes": 1377,
+      "first_minute": 61,
+      "last_minute": 1437
+    },
+    {
+      "day": 17074,
+      "r": -0.003961838272138138,
+      "quotes": 1377,
+      "first_minute": 61,
+      "last_minute": 1437
+    },
+    {
+      "day": 17077,
+      "r": -0.0033231723283597444,
+      "quotes": 1373,
+      "first_minute": 65,
+      "last_minute": 1437
+    },
+    {
+      "day": 17078,
+      "r": -0.03367424084401162,
+      "quotes": 1377,
+      "first_minute": 61,
+      "last_minute": 1437
+    },
+    {
+      "day": 17079,
+      "r": -0.0014182385617064809,
+      "quotes": 1377,
+      "first_minute": 61,
+      "last_minute": 1437
+    },
+    {
+      "day": 17080,
+      "r": -0.010085451872616061,
+      "quotes": 1377,
+      "first_minute": 61,
+      "last_minute": 1437
+    },
+    {
+      "day": 17081,
+      "r": 0.0014650792290206872,
+      "quotes": 1377,
+      "first_minute": 61,
+      "last_minute": 1437
+    },
+    {
+      "day": 17084,
+      "r": 0.0016207137069774258,
+      "quotes": 1372,
+      "first_minute": 65,
+      "last_minute": 1437
+    },
+    {
+      "day": 17085,
+      "r": -0.005134453539586618,
+      "quotes": 1377,
+      "first_minute": 61,
+      "last_minute": 1437
+    },
+    {
+      "day": 17086,
+      "r": 0.0020217108496908,
+      "quotes": 1377,
+      "first_minute": 61,
+      "last_minute": 1437
+    },
+    {
+      "day": 17087,
+      "r": 0.001956440984642259,
+      "quotes": 1377,
+      "first_minute": 61,
+      "last_minute": 1437
+    },
+    {
+      "day": 17088,
+      "r": -0.006077005963839304,
+      "quotes": 1377,
+      "first_minute": 61,
+      "last_minute": 1437
+    },
+    {
+      "day": 17091,
+      "r": 0.003174130313410701,
+      "quotes": 1373,
+      "first_minute": 65,
+      "last_minute": 1437
+    },
+    {
+      "day": 17092,
+      "r": 0.005936576196803216,
+      "quotes": 1377,
+      "first_minute": 61,
+      "last_minute": 1437
+    },
+    {
+      "day": 17093,
+      "r": 0.005130222295071135,
+      "quotes": 1377,
+      "first_minute": 61,
+      "last_minute": 1437
+    },
+    {
+      "day": 17094,
+      "r": -0.0025954471991521933,
+      "quotes": 1377,
+      "first_minute": 61,
+      "last_minute": 1437
+    },
+    {
+      "day": 17095,
+      "r": 0.0004935395770851247,
+      "quotes": 1377,
+      "first_minute": 61,
+      "last_minute": 1437
+    },
+    {
+      "day": 17098,
+      "r": -0.0015798315972338683,
+      "quotes": 1373,
+      "first_minute": 65,
+      "last_minute": 1437
+    },
+    {
+      "day": 17099,
+      "r": 0.006715199792152032,
+      "quotes": 1377,
+      "first_minute": 61,
+      "last_minute": 1437
+    },
+    {
+      "day": 17100,
+      "r": -0.005616892242501312,
+      "quotes": 1377,
+      "first_minute": 61,
+      "last_minute": 1437
+    },
+    {
+      "day": 17101,
+      "r": 0.0013772140336768398,
+      "quotes": 1377,
+      "first_minute": 61,
+      "last_minute": 1437
+    },
+    {
+      "day": 17102,
+      "r": 0.006402455502629053,
+      "quotes": 1376,
+      "first_minute": 61,
+      "last_minute": 1437
+    },
+    {
+      "day": 17105,
+      "r": -0.0008764756850007265,
+      "quotes": 1370,
+      "first_minute": 65,
+      "last_minute": 1437
+    },
+    {
+      "day": 17106,
+      "r": 0.008734003436379482,
+      "quotes": 1377,
+      "first_minute": 61,
+      "last_minute": 1437
+    },
+    {
+      "day": 17107,
+      "r": 0.006231923568651082,
+      "quotes": 1377,
+      "first_minute": 61,
+      "last_minute": 1437
+    },
+    {
+      "day": 17108,
+      "r": 0.0040425852945097495,
+      "quotes": 1377,
+      "first_minute": 61,
+      "last_minute": 1437
+    },
+    {
+      "day": 17109,
+      "r": 0.001956122133409823,
+      "quotes": 1377,
+      "first_minute": 61,
+      "last_minute": 1437
+    },
+    {
+      "day": 17113,
+      "r": -0.004673434714785514,
+      "quotes": 1377,
+      "first_minute": 0,
+      "last_minute": 1439
+    },
+    {
+      "day": 17114,
+      "r": -0.0006312970619082908,
+      "quotes": 1377,
+      "first_minute": 0,
+      "last_minute": 1439
+    },
+    {
+      "day": 17115,
+      "r": -0.014657097262394494,
+      "quotes": 1377,
+      "first_minute": 0,
+      "last_minute": 1439
+    },
+    {
+      "day": 17116,
+      "r": -0.023699283000547758,
+      "quotes": 1377,
+      "first_minute": 0,
+      "last_minute": 1439
+    },
+    {
+      "day": 17120,
+      "r": 0.007523935891534954,
+      "quotes": 1377,
+      "first_minute": 0,
+      "last_minute": 1439
+    },
+    {
+      "day": 17121,
+      "r": -0.0022216841344146984,
+      "quotes": 1377,
+      "first_minute": 0,
+      "last_minute": 1439
+    },
+    {
+      "day": 17122,
+      "r": -0.005402144523984738,
+      "quotes": 1377,
+      "first_minute": 0,
+      "last_minute": 1439
+    },
+    {
+      "day": 17123,
+      "r": -0.007799078254875612,
+      "quotes": 1377,
+      "first_minute": 0,
+      "last_minute": 1439
+    },
+    {
+      "day": 17127,
+      "r": -0.0002969537516356471,
+      "quotes": 1375,
+      "first_minute": 0,
+      "last_minute": 1439
+    },
+    {
+      "day": 17128,
+      "r": -0.020313979651115175,
+      "quotes": 1358,
+      "first_minute": 0,
+      "last_minute": 1439
+    },
+    {
+      "day": 17134,
+      "r": -0.004181190760401046,
+      "quotes": 1377,
+      "first_minute": 0,
+      "last_minute": 1439
+    },
+    {
+      "day": 17135,
+      "r": -0.012799239575278005,
+      "quotes": 1377,
+      "first_minute": 0,
+      "last_minute": 1439
+    },
+    {
+      "day": 17136,
+      "r": -0.0021250728089409745,
+      "quotes": 1377,
+      "first_minute": 0,
+      "last_minute": 1439
+    },
+    {
+      "day": 17137,
+      "r": 0.004184231319993369,
+      "quotes": 1377,
+      "first_minute": 0,
+      "last_minute": 1439
+    },
+    {
+      "day": 17141,
+      "r": -0.0009103906973951233,
+      "quotes": 1377,
+      "first_minute": 0,
+      "last_minute": 1439
+    },
+    {
+      "day": 17142,
+      "r": 0.0030093054999187265,
+      "quotes": 1377,
+      "first_minute": 0,
+      "last_minute": 1439
+    },
+    {
+      "day": 17143,
+      "r": -0.002047712397721107,
+      "quotes": 1377,
+      "first_minute": 0,
+      "last_minute": 1439
+    },
+    {
+      "day": 17144,
+      "r": -0.010786831723123346,
+      "quotes": 1377,
+      "first_minute": 0,
+      "last_minute": 1439
+    },
+    {
+      "day": 17148,
+      "r": -0.0033257257207408566,
+      "quotes": 1377,
+      "first_minute": 0,
+      "last_minute": 1439
+    },
+    {
+      "day": 17149,
+      "r": -0.014198748304165789,
+      "quotes": 1377,
+      "first_minute": 0,
+      "last_minute": 1439
+    },
+    {
+      "day": 17150,
+      "r": -0.014152512738406337,
+      "quotes": 1377,
+      "first_minute": 0,
+      "last_minute": 1439
+    },
+    {
+      "day": 17151,
+      "r": 0.005084749223974362,
+      "quotes": 1377,
+      "first_minute": 0,
+      "last_minute": 1439
+    },
+    {
+      "day": 17155,
+      "r": -0.006939824238034522,
+      "quotes": 1377,
+      "first_minute": 0,
+      "last_minute": 1439
+    },
+    {
+      "day": 17156,
+      "r": 0.0002209368615627372,
+      "quotes": 1377,
+      "first_minute": 0,
+      "last_minute": 1439
+    },
+    {
+      "day": 17157,
+      "r": -0.0024196860022554644,
+      "quotes": 1377,
+      "first_minute": 0,
+      "last_minute": 1439
+    },
+    {
+      "day": 17158,
+      "r": 0.002942106609177113,
+      "quotes": 1375,
+      "first_minute": 0,
+      "last_minute": 1439
+    },
+    {
+      "day": 17163,
+      "r": 0.0025691176546414336,
+      "quotes": 1375,
+      "first_minute": 0,
+      "last_minute": 1439
+    },
+    {
+      "day": 17164,
+      "r": 0.013054169540481234,
+      "quotes": 1377,
+      "first_minute": 0,
+      "last_minute": 1439
+    },
+    {
+      "day": 17165,
+      "r": -0.00613149273473804,
+      "quotes": 1376,
+      "first_minute": 0,
+      "last_minute": 1439
+    }
+  ],
+  "ab_start_fresh": true,
+  "C_eff_start_fresh": true,
+  "data_hashes": {
+    "D:\\xau-ml-scalper-claude\\microstructure-edge-map\\cache\\M1_2017.private.npz": "38f3741edc1541a3f098444a9315fdfc1e5a519278331d0a4e6f90c05fa98206",
+    "D:\\xau-ml-scalper-claude\\microstructure-edge-map\\cache\\M1_2018.private.npz": "76da72a5b725c528a86a5864324629edfd3e457d66ac8fa2285e6605986da3a8",
+    "D:\\xau-ml-scalper-claude\\microstructure-edge-map\\cache\\M1_2019.private.npz": "9b3e172c83209c696e777e2cccd37beee943a2de0c031a6011002ddfd4a6155e"
+  },
+  "prices_2020_plus_read": false
+}

@@ -1,0 +1,43 @@
+{
+  "verified_utc": "2026-10-31T17:45:25.986901+00:00",
+  "source_hashes_unchanged": true,
+  "training_data_hashes_unchanged": true,
+  "baseline_reproduced_exactly": true,
+  "synthetic_tests": {
+    "count": 8,
+    "status": "PASS",
+    "entry_point": "test_synthetic.py"
+  },
+  "actual_prefix_checks": [
+    {
+      "status": "PASS",
+      "quotes": 1877,
+      "open_at_cut": 1
+    },
+    {
+      "status": "PASS",
+      "quotes": 16444,
+      "open_at_cut": 1
+    }
+  ],
+  "independent_accounting_checks": [
+    {
+      "id": "C_Xu_midday_to_close",
+      "trade_cost_arithmetic": true,
+      "entry_and_timed_exit_exact": true,
+      "overlap_count_reconstructed_from_ab_intervals": 375,
+      "annual_and_closed_net_reconcile": true
+    },
+    {
+      "id": "C_Ma_night_reversal_momentum",
+      "trade_cost_arithmetic": true,
+      "entry_and_timed_exit_exact": true,
+      "overlap_count_reconstructed_from_ab_intervals": 53,
+      "annual_and_closed_net_reconcile": true
+    }
+  ],
+  "validation_years_read": [],
+  "post2019_price_files_read": [],
+  "locked_selection": [],
+  "new_version_promoted": false
+}

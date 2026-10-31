@@ -1,0 +1,3698 @@
+{
+  "research_date": "2026-11-01",
+  "scope": "Primary intraday gold evidence for rule C; no local market prices read.",
+  "primary_sources": [
+    {
+      "doi": "10.1016/j.resourpol.2020.101830",
+      "authors": [
+        "Yahua Xu",
+        "Elie I. Bouri",
+        "Tareq Saeed",
+        "Zhuzhu Wen"
+      ],
+      "year_apa": 2020,
+      "role": "primary trial rationale",
+      "read_access": "fulltext",
+      "instrument": "GLD ETF, not XAUUSD; USO/SLV and implied-volatility indices also analysed",
+      "sampling": "1-minute input; half-hour output",
+      "sample": "GLD 2004-11-08 to 2019-05-30",
+      "paper_fact": "Fifth half-hour GLD return predicts final half-hour; beta .0436, t 3.03, R2 .49%; expanding-window second-half OOS R2 .26%.",
+      "economic_limit": "Table 8 GLD mean .81 in displayed units, t 1.23, success .53; unit scaling unresolved. No explicit cost deductions established.",
+      "exact_quote": "the fifth half-hour returns exhibit significant and positive predictive power",
+      "trial_inference": "XAUUSD 11:30–12:00 New York log-return sign used at 15:29 to enter next-minute 15:30; flatten 16:00; exact execution conventions coordinator/local branch.",
+      "confidence": "Moderate that GLD statistical relation was reported; low for after-cost XAUUSD transfer.",
+      "url": "https://doi.org/10.1016/j.resourpol.2020.101830",
+      "scite_metadata": {
+        "doi": "10.1016/j.resourpol.2020.101830",
+        "title": "Intraday return predictability: Evidence from commodity ETFs and their related volatility indices",
+        "authors": [
+          {
+            "authorName": "Yahua Xu"
+          },
+          {
+            "authorName": "Elie I. Bouri"
+          },
+          {
+            "authorName": "Tareq Saeed"
+          }
+        ],
+        "journal": "resources policy",
+        "publisher": "Elsevier BV",
+        "abstract": "Using high-frequency data of crude oil, gold, and silver exchange-traded funds (ETFs) and their related volatility indices, we analyse patterns of intraday return predictability, also called intraday momentum, in each market. We find that intraday return predictability exists in all the markets, but...",
+        "year": 2020,
+        "date": "2020-12-01",
+        "volume": "69",
+        "page": "101830",
+        "tally": {
+          "total": 8,
+          "supporting": 0,
+          "contrasting": 0,
+          "mentioning": 8,
+          "citingPublications": 25
+        },
+        "citations": [
+          {
+            "sourceDoi": "10.1016/j.resourpol.2020.101830",
+            "targetDoi": "10.1016/j.econmod.2018.08.009",
+            "snippet": "The pioneering work of  Gao et al (2018)  considers the US stock market and finds evidence that the first and penultimate half-hour returns exhibit positive forecasting ability for the last half-hour return. This type of analysis of intraday momentum has been extended to several other markets, including the Chinese equity market (e.g.,  Zhang et al, 2019  ), foreign exchange market (e.g.,  Elaut et al, 2018  ), Chinese commodity futures market (e.g.,  Jin et al, 2020  ), and US crude oil exchange-traded fund (ETF) market (e.g.,  Wen et al, 2020  ). 1 In this paper, we extend this embryonic line of research to the patterns of intraday return predictability for several commodity ETFs and their related volatility indices, focusing on the crude oil, gold, and silver markets.",
+            "section": "introduction",
+            "type": "mentioning"
+          },
+          {
+            "sourceDoi": "10.1016/j.resourpol.2020.101830",
+            "targetDoi": "10.1016/j.econmod.2018.08.009",
+            "snippet": "In this section, we investigate the patterns of intraday return predictability in various markets. Most previous research into intraday momentum is confined to the role of the first half-hour returns (e.g.,  Gao et al, 2018  ;  Zhang et al, 2019  ). We extend this to comprehensively investigate the predictability of all half-hour returns across the trading day.",
+            "section": "empirical analysis",
+            "type": "mentioning"
+          },
+          {
+            "sourceDoi": "10.1016/j.resourpol.2020.101830",
+            "targetDoi": "10.1016/j.econmod.2018.08.009",
+            "snippet": "Both the IS and OOS analyses confirm the existence of intraday momentum in all the commodity ETFs and their relative volatility indices, even though the predictors are different half-hour returns earlier in the trading day. In this section, we provide a brief discussion about the economic mechanism driving the intraday predictability by referring to previous literature such as  Gao et al (2018)  and  Zhang et al (2019)  . The first theoretical explanation relates to the infrequent portfolio rebalancing model of  Bogousslavsky (2016)  , which demonstrates theoretically that some traders tend to delay their portfolio rebalancing till the market close instead of trading instantaneously when the profitable signal is released, which results in the positive correlation.",
+            "section": "empirical analysis",
+            "type": "mentioning"
+          }
+        ],
+        "isOa": true,
+        "fulltextExcerpts": [
+          "In addition, we explore the impacts of jump variation, the discontinuous component of the realized volatility, on the pattern of intraday momentum. We find that the intraday return predictability rises with the magnitude of jumps in the first half-hour interval. In summary, the intraday momentum is stronger on days of higher volatility and larger jumps in the first half-hour interval.",
+          "Table 6 shows the results associated with jump impacts on intraday return predictability. In general, the predictability increases with the jump size, demonstrated by the significance level.",
+          "Notes: This table shows the results of the impacts of the jump in the first half-hour interval on the intraday predictability. The jump in the first half-hour interval is calculated using the 1-min return including the overnight return. For each ETF, the whole sample is split into two quintiles based on the first half-hour jump, and then the last half-hour return is run on the half-hour return concerned using each sub-sample."
+        ],
+        "contentDenied": false,
+        "access": {
+          "url": "https://ct.prod.getft.io/c2NpdGUsZWxzZXZpZXIsTVRBdU1UQXhOaTlxTG5KbGMyOTFjbkJ2YkM0eU1ESXdMakV3TVRnek1BLE5XTTFZVGt3TTJNdE16QTRNeTAwTW1JM0xXSmpNall0WTJJM09EQTNOelZrTXpBeSxodHRwczovL3d3dy5zY2llbmNlZGlyZWN0LmNvbS9zY2llbmNlL2FydGljbGUvcGlpL1MwMzAxNDIwNzIwMzA4NjJYP3Blcz12b3I.RHVnn64qWooZWsJCC86Yodn2OIcQxvx_1S6DbrVO6NQ",
+          "source": "get_ftr",
+          "accessType": "publisher",
+          "contentType": "pdf",
+          "description": "View PDF"
+        },
+        "url": "https://ct.prod.getft.io/c2NpdGUsZWxzZXZpZXIsTVRBdU1UQXhOaTlxTG5KbGMyOTFjbkJ2YkM0eU1ESXdMakV3TVRnek1BLE5XTTFZVGt3TTJNdE16QTRNeTAwTW1JM0xXSmpNall0WTJJM09EQTNOelZrTXpBeSxodHRwczovL3d3dy5zY2llbmNlZGlyZWN0LmNvbS9zY2llbmNlL2FydGljbGUvcGlpL1MwMzAxNDIwNzIwMzA4NjJYP3Blcz12b3I.RHVnn64qWooZWsJCC86Yodn2OIcQxvx_1S6DbrVO6NQ"
+      },
+      "editorial_notice_check": "No editorialNotices field returned in paper metadata. Four DOI-filtered searches with has_retraction/has_correction/has_erratum/has_concern=true returned zero matching hits; absence in Scite is not a definitive publisher clearance."
+    },
+    {
+      "doi": "10.1016/j.gfj.2025.101084",
+      "authors": [
+        "Gaoping Ma",
+        "Elie I. Bouri",
+        "Yahua Xu",
+        "Z. Ivy Zhou"
+      ],
+      "year_apa": 2025,
+      "role": "primary trial rationale",
+      "read_access": "Scite metadata only; publisher abstract/introduction/section preview",
+      "instrument": "SHFE gold and silver futures",
+      "sampling": "1-minute input, half-hour returns",
+      "sample": "Not recovered; paper compares periods before and after 2013 night-session introduction",
+      "paper_fact": "First half-hour NIGHT returns become predictive after night trading; reversals followed by momentum; liquidity oversupply interpretation.",
+      "economic_limit": "Market timing outperforms always-long/buy-and-hold in publisher abstract. Full methods, exact forecast half-hours, costs and OOS split unavailable.",
+      "exact_quote": "intraday momentum following intraday reversals",
+      "trial_inference": "Shanghai21:00–21:30 impulse;21:30–22:00 opposite partial pullback;22:01 original-sign entry;23:00 exit. All these clock/entry conditions ours, NOT paper replication.",
+      "confidence": "Moderate on publisher's stated finding; low on exact strategy transfer.",
+      "url": "https://doi.org/10.1016/j.gfj.2025.101084",
+      "scite_metadata": {
+        "doi": "10.1016/j.gfj.2025.101084",
+        "title": "The “night effect” of intraday trading: Evidence from Chinese gold and silver futures markets",
+        "authors": [
+          {
+            "authorName": "Gaoping Ma"
+          },
+          {
+            "authorName": "Elie I. Bouri"
+          },
+          {
+            "authorName": "Yahua Xu"
+          }
+        ],
+        "journal": "global finance journal",
+        "publisher": "Elsevier BV",
+        "year": 2025,
+        "date": "2025-03-01",
+        "volume": "64",
+        "page": "101084",
+        "tally": {
+          "total": 0,
+          "supporting": 0,
+          "contrasting": 0,
+          "mentioning": 0,
+          "citingPublications": 1
+        },
+        "isOa": false,
+        "contentDenied": true,
+        "access": {
+          "url": "https://doi.org/10.1016/j.gfj.2025.101084",
+          "source": "publisher_version_of_record",
+          "accessType": "publisher",
+          "contentType": "redirect",
+          "description": "Get access via publisher"
+        },
+        "url": "https://doi.org/10.1016/j.gfj.2025.101084"
+      },
+      "editorial_notice_check": "No editorialNotices field returned in paper metadata. Four DOI-filtered searches with has_retraction/has_correction/has_erratum/has_concern=true returned zero matching hits; absence in Scite is not a definitive publisher clearance."
+    },
+    {
+      "doi": "10.1007/s11408-021-00380-w",
+      "authors": [
+        "Guglielmo Maria Caporale",
+        "Alex Plastun"
+      ],
+      "year_apa": 2021,
+      "role": "future falsification candidate and counterevidence",
+      "read_access": "fulltext entire readable body",
+      "instrument": "MetaQuotes gold and oil price series; not identified as executable broker bid/ask",
+      "sampling": "Daily and hourly",
+      "sample": "Methods 2009-01-01 to 2020-03-31 GMT+3; introduction gives different end dates",
+      "paper_fact": "Same abnormal-day continuation; gold next-day reversal; prior positive extreme reversal most pronounced by06:00 GMT+3.",
+      "economic_limit": "Costs explicitly excluded; next-day gold results NOT statistically different from random; ex-post day grouping/timing and whole-sample expected returns.",
+      "exact_quote": "Our analysis does not incorporate transaction costs",
+      "trial_inference": "Known previous complete-day return standardized against prior-only rolling history; opposite-sign position on next calendar day and fixed6h horizon; untested future hypothesis, not selected present local pilot.",
+      "confidence": "Low; useful as falsification rather than claimed edge.",
+      "url": "https://doi.org/10.1007/s11408-021-00380-w",
+      "scite_metadata": {
+        "doi": "10.1007/s11408-021-00380-w",
+        "title": "Gold and oil prices: abnormal returns, momentum and contrarian effects",
+        "authors": [
+          {
+            "authorName": "Guglielmo Maria Caporale"
+          },
+          {
+            "authorName": "Alex Plastun"
+          }
+        ],
+        "journal": "financial markets and portfolio management",
+        "publisher": "Springer Science and Business Media LLC",
+        "abstract": "AbstractThis paper explores price (momentum and contrarian) effects and their timing parameters on the days characterised by abnormal returns and the following ones in two commodity markets. Specifically, using daily gold and oil price data over the period 01.01.2009–31.03.2020 the following hypothe...",
+        "year": 2021,
+        "date": "2021-04-05",
+        "volume": "35",
+        "issue": "3",
+        "page": "353-368",
+        "tally": {
+          "total": 4,
+          "supporting": 1,
+          "contrasting": 0,
+          "mentioning": 3,
+          "citingPublications": 9
+        },
+        "citations": [
+          {
+            "sourceDoi": "10.1007/s11408-021-00380-w",
+            "targetDoi": "10.1007/s10614-017-9651-2",
+            "snippet": "As for 1-day abnormal returns and the price patterns they generate, Caporale et al (2018) reported that a strategy based on counter movements after 1-day abnormal returns does not generate profits in the Forex and the commodity markets, but it is profitable in the case of the US stock market. Parikakis and Syriopoulos (2008) investigated patterns following excess 1-day fluctuations for various currencies and found that a contrarian strategy is profitable in the Forex.",
+            "section": "literature review",
+            "type": "mentioning"
+          },
+          {
+            "sourceDoi": "10.1007/s11408-021-00380-w",
+            "targetDoi": "10.1016/0304-405x(83)90025-9",
+            "snippet": "The existence of anomalies has been confirmed by many researchers. For instance, Keim (1983) found a \"January effect\" (higher returns compared to the other months) and a \"size effect\" (large firms earn larger risk-adjusted returns than small firms). Ariel (1987) detected a \"monthly effect\" (the mean return for stocks is positive only for days immediately before and during the first half of calendar months).",
+            "section": "literature review",
+            "type": "mentioning"
+          },
+          {
+            "sourceDoi": "10.1007/s11408-021-00380-w",
+            "targetDoi": "10.1016/j.econmod.2009.07.015",
+            "snippet": "For instance, Gao et al (2018) found higher predictability in the US stock market on days with higher volatility and transaction volumes, as well as on days when important macroeconomic news are released. There is also extensive evidence of momentum and contrarian effects in various financial markets (Caporale and Plastun 2019;Wan and Kao 2009;Cox and Peterson 1994;Govindaraj et al 2014) and of possible profitable trading strategies exploiting them.",
+            "section": "introduction",
+            "type": "mentioning"
+          }
+        ],
+        "isOa": true,
+        "fulltextExcerpts": [
+          "A momentum effect is detected for both oil and gold prices on the days with abnormal returns-before the end of the day. On the days with abnormal returns prices tend to move in the direction of abnormal returns till the end of the day when these occur. Price effects are also found on the following day, specifically a momentum effect in the case of oil prices and a contrarian effect in the case of gold prices.",
+          "Batten et al. (2017) analyzed statistical patterns in intra-day returns for the case of gold finding strong intraday periodicity linked to the opening and closing of major markets around the world. Caporin et al. (2015) reported similar results. Cai et al. (2001) found that periodicity can also be related to macroeconomic announcements.",
+          "Baur and Kuck (2020) analysed the reaction of gold prices to shocks to the US stock market and detected a momentum effect in gold prices resulting from negative abnormal returns in the US stock market. Elder et al. (2012) found a swift and significant response of gold prices to economic news surprises. Rosa (2014) showed that both gold prices and transaction volumes are also affected by monetary policy surprises."
+        ],
+        "contentDenied": false,
+        "access": {
+          "url": "https://ct.prod.getft.io/c2NpdGUsc3ByaW5nZXIsTVRBdU1UQXdOeTl6TVRFME1EZ3RNREl4TFRBd016Z3dMWGMsTW1KbU1XVXhaV1l0Tm1NeU1pMDBOREUxTFRoallqTXROVFU1TlRBNE1ESTROV00yLGh0dHA6Ly9saW5rLnNwcmluZ2VyLmNvbS8xMC4xMDA3L3MxMTQwOC0wMjEtMDAzODAtdz91dG1fc291cmNlPWdldGZ0ciZ1dG1fbWVkaXVtPWdldGZ0ciZ1dG1fY2FtcGFpZ249Z2V0ZnRyX3BpbG90.OsYVWooyft2y7SqlQflxr9bSdL7HOajTn1pmpKEHsdA",
+          "source": "get_ftr",
+          "accessType": "publisher",
+          "contentType": "pdf",
+          "description": "View PDF"
+        },
+        "url": "https://ct.prod.getft.io/c2NpdGUsc3ByaW5nZXIsTVRBdU1UQXdOeTl6TVRFME1EZ3RNREl4TFRBd016Z3dMWGMsTW1KbU1XVXhaV1l0Tm1NeU1pMDBOREUxTFRoallqTXROVFU1TlRBNE1ESTROV00yLGh0dHA6Ly9saW5rLnNwcmluZ2VyLmNvbS8xMC4xMDA3L3MxMTQwOC0wMjEtMDAzODAtdz91dG1fc291cmNlPWdldGZ0ciZ1dG1fbWVkaXVtPWdldGZ0ciZ1dG1fY2FtcGFpZ249Z2V0ZnRyX3BpbG90.OsYVWooyft2y7SqlQflxr9bSdL7HOajTn1pmpKEHsdA"
+      },
+      "editorial_notice_check": "No editorialNotices field returned in paper metadata. Four DOI-filtered searches with has_retraction/has_correction/has_erratum/has_concern=true returned zero matching hits; absence in Scite is not a definitive publisher clearance."
+    },
+    {
+      "doi": "10.1002/fut.21636",
+      "authors": [
+        "Andrew Caminschi",
+        "Richard Heaney"
+      ],
+      "year_apa": 2014,
+      "scite_year": 2013,
+      "role": "fixing evidence, restrictions, no further local clock-fade test",
+      "read_access": "fulltext first16000chars plus metadata and primary publisher/UWA citation verification",
+      "instrument": "GC futures/GLD; XAU= spot baseline",
+      "sampling": "1-minute OHLC and volume",
+      "sample": "2007-01-01 to2012-12-31; fixing end-time subset2011-08-18 to2012-12-31",
+      "paper_fact": "Activity increases at15:00London fixing start; informed directional return advantage approx10bp in first4min; no significant returns after fixing end.",
+      "economic_limit": "Informed sign uses eventual fix relative to pre-fix XAU; unavailable causally at entry. Old opaque auction regime.",
+      "exact_quote": "However, we find no significant returns following the end of the fixing.",
+      "trial_inference": "No direct outsider entry rule supported; post-fix fade/continuation not authorized as fresh trial.",
+      "confidence": "High for old-regime event description, very low for current executable C.",
+      "url": "https://doi.org/10.1002/fut.21636",
+      "scite_metadata": {
+        "doi": "10.1002/fut.21636",
+        "title": "Fixing a Leaky Fixing: Short‐Term Market Reactions to the London PM Gold Price Fixing",
+        "authors": [
+          {
+            "authorName": "Andrew Caminschi"
+          },
+          {
+            "authorName": "Richard Heaney"
+          }
+        ],
+        "journal": "journal of futures markets",
+        "publisher": "Wiley",
+        "abstract": "This article investigates the impact of the London PM gold price fixing on two exchange‐traded gold instruments: the GC gold futures contract and the GLD exchange‐traded fund. We find significantly elevated levels of trade volume and price volatility immediately following the fixing's start, well be...",
+        "year": 2013,
+        "date": "2013-09-02",
+        "volume": "34",
+        "issue": "11",
+        "page": "1003-1039",
+        "tally": {
+          "total": 30,
+          "supporting": 1,
+          "contrasting": 0,
+          "mentioning": 29,
+          "citingPublications": 34
+        },
+        "citations": [
+          {
+            "sourceDoi": "10.1002/fut.21636",
+            "targetDoi": "10.1016/s0927-5398(97)00003-0",
+            "snippet": "At first glance, this suggests that the GLD may react faster than the GC, which contradicts the findings of (Theissen, ) and (Pavabutr &amp; Chaihetphon, ). However, the proximity of the start of the gold price fixing period to the opening of the GLD market may explain this discrepancy (Goodhart &amp; O'Hara, ; Lockwood &amp; Linn, ; Wood et al, ). Essentially, there are two superimposed effects at work: an increase in volatility associated with the beginning of the gold price fixing negotiations, and an expected decrease in volume and volatility following the market opening.",
+            "section": "empirical results and analysis",
+            "type": "mentioning"
+          },
+          {
+            "sourceDoi": "10.1002/fut.21636",
+            "targetDoi": "10.1016/0301-4207(93)90007-a",
+            "snippet": "The gold price determinants literature is generally based on analysis using monthly data (Abken, 1980;Aggarwal &amp; Lucey, 2007;Blose, 2009;Dwyer et al, 2011;Levin et al, 2006;Tschoegl, 1980), though intraday data has been used in the analysis of reactions to macroeconomic announcements (Christie-David, Chaudhry, &amp; Koch, 2000). More finely sampled data has also been used in tests of market efficiency with both support for, and rejection of, market efficiency (Basu &amp; Clouse, 1993;Chng, 2009;Narayan, Narayan, &amp; Zheng, 2010). Similar variation is also evident in other derivative markets, including the futures options markets, particularly with respect to put-call parity (Beckers, 1984;Followill &amp; Helms, 1990) and exchange-traded fund markets (Charupat &amp; Miu, 2011).",
+            "section": "introduction",
+            "type": "mentioning"
+          },
+          {
+            "sourceDoi": "10.1002/fut.21636",
+            "targetDoi": "10.1016/0378-4266(80)90015-1",
+            "snippet": "Previous literature has focused on the determinants of gold price, market efficiency, and linkages that exist between various related markets. The gold price determinants literature is generally based on analysis using monthly data (Abken, 1980;Aggarwal &amp; Lucey, 2007;Blose, 2009;Dwyer et al, 2011;Levin et al, 2006;Tschoegl, 1980), though intraday data has been used in the analysis of reactions to macroeconomic announcements (Christie-David, Chaudhry, &amp; Koch, 2000). More finely sampled data has also been used in tests of market efficiency with both support for, and rejection of, market efficiency (Basu &amp; Clouse, 1993;Chng, 2009;Narayan, Narayan, &amp; Zheng, 2010).",
+            "section": "introduction",
+            "type": "mentioning"
+          }
+        ],
+        "isOa": true,
+        "fulltextExcerpts": [
+          "This is also found in the study by Pavabutr and Chaihetphon (), which focuses on the Indian spot and futures gold prices.\n\nWhile there have been a number of studies that use London gold fixing prices and gold futures, and, to a lesser extent, gold exchange‐traded funds, there has been no study on intraday market data that focuses on the short‐run impact of the London gold price fixing on US‐based exchange‐traded gold instruments available to gold traders.",
+          "Bloomberg is the source of the gold fixing prices used in this study (the London PM gold fixing, “GOLDLNPM”), and prices are for one troy ounce of London good delivery gold, PMd, for each given day, d. The fixing price direction, FIXDIRd, is the sign of the difference between the published fixing price (PMd) and the spot gold price observed immediately before the fixing start (XAU0,d). The price fixing direction is used to compute returns available to informed traders.",
+          "The gold price immediately preceding the start of the gold fixing (XAU0,d) and the eventual published fixing price (PMd) are used in defining this variable as follows:\n\nThe adjusted return (ARi,d) is then used to calculate the average adjusted return and cumulative adjusted returns (CARi) as follows:\n\nWith unadjusted returns defined as the return of an uninformed “long” trader, and the adjusted returns defined as the return of an informed trader with directional foresight, it is possible to quantify"
+        ],
+        "contentDenied": false,
+        "access": {
+          "url": "https://admin.research-repository.uwa.edu.au/en/publications/5f4032ca-2f91-406b-bf14-6538ffc33ea3",
+          "source": "oa_url",
+          "accessType": "open",
+          "contentType": "pdf",
+          "description": "View PDF"
+        },
+        "url": "https://admin.research-repository.uwa.edu.au/en/publications/5f4032ca-2f91-406b-bf14-6538ffc33ea3"
+      },
+      "editorial_notice_check": "No editorialNotices field returned in paper metadata. Four DOI-filtered searches with has_retraction/has_correction/has_erratum/has_concern=true returned zero matching hits; absence in Scite is not a definitive publisher clearance."
+    },
+    {
+      "doi": "10.1002/fut.22120",
+      "authors": [
+        "Angelo Aspris",
+        "Sean Foley",
+        "Peter O'Neill"
+      ],
+      "year_apa": 2020,
+      "role": "benchmark-regime crosscheck",
+      "read_access": "fulltext first24000chars and inbound Smart Citation",
+      "instrument": "Gold/silver/platinum/palladium futures, GLD/SLV",
+      "sampling": "5-second price/volume/quotes",
+      "sample": "2012-02-14 to2015-06-30",
+      "paper_fact": "Transparent auction reform reduced quoted/effective spreads and improved depth; gold regime begins2015-03-20; no significant change in how information impounded across regimes.",
+      "economic_limit": "Market-quality/reform study, not retail price-only after-cost strategy test.",
+      "exact_quote": "observe no significant change in terms of how information is impounded into prices",
+      "confidence": "High on method/regime distinction; not trading-edge evidence.",
+      "url": "https://doi.org/10.1002/fut.22120",
+      "scite_metadata": {
+        "doi": "10.1002/fut.22120",
+        "title": "Benchmarks in the spotlight: The impact on exchange traded markets",
+        "authors": [
+          {
+            "authorName": "Angelo Aspris"
+          },
+          {
+            "authorName": "Sean Foley"
+          },
+          {
+            "authorName": "Peter O’Neill"
+          }
+        ],
+        "journal": "journal of futures markets",
+        "publisher": "Wiley",
+        "abstract": "The Fix for precious metals is a global pricing benchmark that provides pricing and liquidity provision for market participants. We exploit the gradual change in the century old auction process to quantify the efficiencies related to more transparent pricing. Our focus is in the market impact of thi...",
+        "year": 2020,
+        "date": "2020-05-07",
+        "volume": "40",
+        "issue": "11",
+        "page": "1691-1710",
+        "tally": {
+          "total": 7,
+          "supporting": 0,
+          "contrasting": 0,
+          "mentioning": 7,
+          "citingPublications": 14
+        },
+        "citations": [
+          {
+            "sourceDoi": "10.1002/fut.22120",
+            "targetDoi": "10.1016/0304-405x(86)90065-6",
+            "snippet": "Interestingly, quoted spreads around the beginning of the Fix no longer exhibit a pronounced increase, as was the case under the old regime. This is likely explained by the reduction in information asymmetry under the new regime, which lowers the expected returns to investors who now face lower adverse selection risk (Amihud &amp; Mendelson, 1986). Finally, the panels on the right of Figure 2 document the change in quoted spreads from the start of the Fix period until the end.",
+            "section": "results",
+            "type": "mentioning"
+          },
+          {
+            "sourceDoi": "10.1002/fut.22120",
+            "targetDoi": "10.1016/j.finmar.2019.100524",
+            "snippet": "ETFs and futures contracts moreover differ with respect to leverage, liquidity, transaction costs, and tax treatment. An insider that would be looking to profit from the advanced knowledge of the Fix price would preference their decision to trade in the futures because of the larger market depth, lower transaction costs, as well as the ability to access greater leverage on their capital (see, e.g., Patel et al, 2020). Although ETF's can provide an alternative to a derivative position, they are more commonly associated with buy and hold strategies to foster strategic or tactical positions.",
+            "section": "results",
+            "type": "mentioning"
+          },
+          {
+            "sourceDoi": "10.1002/fut.22120",
+            "targetDoi": "10.1016/j.jcorpfin.2015.07.011",
+            "snippet": "Despite evidence of a nonrandom clustering of submitted quotes, the authors show that a predicted benchmark derived from highly correlated indicators is insignificantly different from the reported LIBOR. Atanasov, Davies, and Merrick (2015) focus on the settlement pricing procedures of Platinum and Palladium futures contracts and show that the pricing mechanism, which was based on the average of the exchange floor and electronic limit order book trades, was being artificially manipulated, allowing floor counterparties to extract significant economic rents. Duffie et al (2014) models the introduction of a benchmark in a market characterized by search frictions, showing that benchmarks improve market transparency and promote efficiency by reducing information asymmetries.",
+            "section": "institutional detail",
+            "type": "mentioning"
+          }
+        ],
+        "isOa": true,
+        "contentDenied": false,
+        "access": {
+          "url": "https://doi.org/10.2139/ssrn.3562073",
+          "source": "oa_url",
+          "accessType": "open",
+          "contentType": "pdf",
+          "description": "View PDF"
+        },
+        "url": "https://doi.org/10.2139/ssrn.3562073"
+      },
+      "editorial_notice_check": "No editorialNotices field returned in paper metadata. Four DOI-filtered searches with has_retraction/has_correction/has_erratum/has_concern=true returned zero matching hits; absence in Scite is not a definitive publisher clearance."
+    },
+    {
+      "doi": "10.1371/journal.pone.0174232",
+      "authors": [
+        "Jonathan A. Batten",
+        "Brian M. Lucey",
+        "Frank McGroarty",
+        "Maurice Peat",
+        "Andrew Urquhart"
+      ],
+      "year_apa": 2017,
+      "role": "session and bid/ask context",
+      "read_access": "fulltext first24000chars",
+      "instrument": "Wholesale spot quotes gold/silver/platinum/palladium",
+      "sampling": "5-minute",
+      "sample": "2000-05-01 to2015-04-30; three equal five-year subsamples",
+      "paper_fact": "Intraday periodicity in returns/volatility/activity/spreads; gold spread usually steady with increase around22:00GMT reopening; behaviour changes across subsamples.",
+      "economic_limit": "No executable trading-strategy net-profit validation.",
+      "exact_quote": "the behaviour of precious metals has changed substantially over time",
+      "confidence": "High on descriptive seasonality; no directional edge implication.",
+      "url": "https://doi.org/10.1371/journal.pone.0174232",
+      "scite_metadata": {
+        "doi": "10.1371/journal.pone.0174232",
+        "title": "Stylized facts of intraday precious metals",
+        "authors": [
+          {
+            "authorName": "Jonathan A. Batten"
+          },
+          {
+            "authorName": "Brian M. Lucey"
+          },
+          {
+            "authorName": "Frank McGroarty"
+          }
+        ],
+        "journal": "plos one",
+        "publisher": "Public Library of Science (PLoS)",
+        "abstract": "This paper examines the stylized facts, correlation and interaction between volatility and returns at the 5-minute frequency for gold, silver, platinum and palladium from May 2000 to April 2015. We study the full sample period, as well as three subsamples to determine how high-frequency data of prec...",
+        "year": 2017,
+        "date": "2017-04-27",
+        "volume": "12",
+        "issue": "4",
+        "page": "e0174232",
+        "tally": {
+          "total": 6,
+          "supporting": 0,
+          "contrasting": 0,
+          "mentioning": 6,
+          "citingPublications": 22
+        },
+        "citations": [
+          {
+            "sourceDoi": "10.1371/journal.pone.0174232",
+            "targetDoi": "10.1016/j.intfin.2014.03.001",
+            "snippet": "With high-frequency data the problem of periodicity becomes more complex since the entire form of the daily activity has to be taken into account. There is widespread empirical evidence that trading patterns vary systematically over the trading day and these patterns are highly correlated with intraday variations in returns, volatility, volume and bid-ask spreads in stock markets (for example see [  4  ], [  5  ], [  6  ], [  7  ], [  8  ]), Foreign Exchange (FX) markets (see for example [  9  ], [  10  ], [  11  ]) and Exchange Traded Funds (ETFs) (see for example [  12  ]).",
+            "section": "introduction",
+            "type": "mentioning"
+          },
+          {
+            "sourceDoi": "10.1371/journal.pone.0174232",
+            "targetDoi": "10.1016/0378-4266(90)90058-a",
+            "snippet": "Also, [  5  ] document a reverse J-shaped pattern of NYSE quotations and [ 18 ] support this pattern with London Stock Exchange (LSE) intraday spreads. Elevated opening and closing returns have been reflected in the volatility patterns, where a U-shape is found by [  13  ], [  19  ], [  20  ] and [  21  ].",
+            "section": "introduction",
+            "type": "mentioning"
+          },
+          {
+            "sourceDoi": "10.1371/journal.pone.0174232",
+            "targetDoi": "10.1016/0165-1889(92)90045-g",
+            "snippet": "The finance literature has also shown that most intraday trading activity exhibits a U-shaped pattern, (for example [  13  ] for Toronto stock exchange; [  14  ] for the New York Stock Exchange (NYSE); [  15  ] for the Tokyo stock exchange), while UK markets experience a M-shape where the volume is higher around the opening of US markets, see [ 16 ] and [  17  ]. Also, [  5  ] document a reverse J-shaped pattern of NYSE quotations and [ 18 ] support this pattern with London Stock Exchange (LSE) intraday spreads.",
+            "section": "introduction",
+            "type": "mentioning"
+          }
+        ],
+        "isOa": true,
+        "fulltextExcerpts": [
+          "As well as being important in its own right in explaining high-frequency precious metal dynamics and trading behaviour, intraday periodicity, correlation and volatility interaction have important implications for investors trading precious metals intraday.\n\nGold is one of the most intensively traded assets, a feature not often understood by market participants.",
+          "There is widespread empirical evidence that trading patterns vary systematically over the trading day and these patterns are highly correlated with intraday variations in returns, volatility, volume and bid-ask spreads in stock markets (for example see [ 4 ], [ 5 ], [ 6 ], [ 7 ], [ 8 ]), Foreign Exchange (FX) markets (see for example [ 9 ], [ 10 ], [ 11 ]) and Exchange Traded Funds (ETFs) (see for example [ 12 ]).",
+          "Also, [ 5 ] document a reverse J-shaped pattern of NYSE quotations and [ 18 ] support this pattern with London Stock Exchange (LSE) intraday spreads. Elevated opening and closing returns have been reflected in the volatility patterns, where a U-shape is found by [ 13 ], [ 19 ], [ 20 ] and [ 21 ].\n\nThis paper fills three lacunae in the literature."
+        ],
+        "contentDenied": false,
+        "access": {
+          "url": "https://ct.prod.getft.io/c2NpdGUsdW5kZWZpbmVkLE1UQXVNVE0zTVM5cWIzVnlibUZzTG5CdmJtVXVNREUzTkRJek1nLFpHWTFZek5sTWpjdFpHRXhPUzAwWXpFMExUa3pZelV0TlRjeE9XRmhORE0xTmpReCxodHRwOi8vZHguZG9pLm9yZy8xMC4xMzcxL2pvdXJuYWwucG9uZS4wMTc0MjMy.tRq0bpWJ8rc4hYyW017T3s_kCIq8M8lt82mz9rjafbI",
+          "source": "get_ftr",
+          "accessType": "publisher",
+          "contentType": "pdf",
+          "description": "View PDF"
+        },
+        "url": "https://ct.prod.getft.io/c2NpdGUsdW5kZWZpbmVkLE1UQXVNVE0zTVM5cWIzVnlibUZzTG5CdmJtVXVNREUzTkRJek1nLFpHWTFZek5sTWpjdFpHRXhPUzAwWXpFMExUa3pZelV0TlRjeE9XRmhORE0xTmpReCxodHRwOi8vZHguZG9pLm9yZy8xMC4xMzcxL2pvdXJuYWwucG9uZS4wMTc0MjMy.tRq0bpWJ8rc4hYyW017T3s_kCIq8M8lt82mz9rjafbI"
+      },
+      "editorial_notice_check": "No editorialNotices field returned in paper metadata. Four DOI-filtered searches with has_retraction/has_correction/has_erratum/has_concern=true returned zero matching hits; absence in Scite is not a definitive publisher clearance."
+    },
+    {
+      "doi": "10.1111/jfir.12223",
+      "authors": [
+        "Yuewen Xiao",
+        "Xiangkang Yin",
+        "Jing Zhao"
+      ],
+      "year_apa": 2020,
+      "role": "jump classification counterevidence; cross-asset transfer only",
+      "read_access": "fulltext first8000chars",
+      "instrument": "205 US broad equity-index ETFs, not gold",
+      "sampling": "15-minute jump/event intervals from intraday data",
+      "sample": "2002 to2016",
+      "paper_fact": "No-news jumps reverse for >=60min; news jumps initially continue15min; scheduled and unscheduled news have different subsequent dynamics.",
+      "economic_limit": "News database required to label no-news. Price-only XAUUSD data cannot replicate class distinctions.",
+      "exact_quote": "subsequent returns after no‐news jumps reverse strongly",
+      "confidence": "High for stated equity-ETF result; low for gold price-only transfer.",
+      "url": "https://doi.org/10.1111/jfir.12223",
+      "scite_metadata": {
+        "doi": "10.1111/jfir.12223",
+        "title": "JUMPS, NEWS, AND SUBSEQUENT RETURN DYNAMICS: AN INTRADAY STUDY",
+        "authors": [
+          {
+            "authorName": "Yuewen Xiao"
+          },
+          {
+            "authorName": "Xiangkang Yin"
+          },
+          {
+            "authorName": "Jing Zhao"
+          }
+        ],
+        "journal": "the journal of financial research",
+        "publisher": "Wiley",
+        "abstract": "We detect jumps in a high‐frequency price series of exchange‐traded funds (ETFs) that track the broad indexes of U.S. equity markets. Although many jumps (43%) are related to macroeconomic news, more jumps (57%) are not. No‐news jumps are followed by significant return reversals for at least 60 minu...",
+        "year": 2020,
+        "date": "2020-08-01",
+        "volume": "43",
+        "issue": "3",
+        "page": "705-731",
+        "tally": {
+          "total": 2,
+          "supporting": 0,
+          "contrasting": 0,
+          "mentioning": 2,
+          "citingPublications": 9
+        },
+        "citations": [
+          {
+            "sourceDoi": "10.1111/jfir.12223",
+            "targetDoi": "10.1016/j.jbankfin.2011.02.018",
+            "snippet": "However, assuming a one-to-one correspondence between news events and jumps is questionable because not all information shocks trigger extreme price movements and vice versa. For example, Evans (2011) shows that approximately one-third of intraday jumps in the S&amp;P 500 E-Mini, 10-year U.S. Treasury bond, and euro-dollar foreign exchange futures can be linked to macroeconomic news announcements. Piccotti (2018) finds that only a small portion of jumps in spot foreign exchange markets are motivated by prescheduled macroeconomic news releases.",
+            "type": "mentioning"
+          },
+          {
+            "sourceDoi": "10.1111/jfir.12223",
+            "targetDoi": "10.1016/j.jbankfin.2011.02.018",
+            "snippet": "Although there is no significant difference in jump size between the two groups, the return variance of news jumps is significantly greater. Evans (2011) argues that the insignificant difference in the mean is due to the offset effect between positive jumps and negative jumps. To mitigate this effect, we test the difference in the absolute returns.",
+            "section": "price jumps and news releases",
+            "type": "mentioning"
+          },
+          {
+            "sourceDoi": "10.1111/jfir.12223",
+            "targetDoi": "10.1016/j.jbankfin.2017.09.007",
+            "snippet": "Illiquidity around Jumps Jiang, Lo, and Verdelhan (2011) show that preannouncement liquidity shocks have significant explanatory power for upcoming jumps in the Treasury bond market and that such power is not subsumed by unexpected information shocks. In the foreign exchange market, Piccotti (2018) finds that Amihud (2002) illiquidity is higher preceding jumps and cojumps but lower following jump and cojumps. Thus, we examine illiquidity surrounding jump events in the context of ETF prices.",
+            "section": "further analysis",
+            "type": "mentioning"
+          }
+        ],
+        "isOa": true,
+        "fulltextExcerpts": [
+          "To avoid biases in the periodic adjustment due to news announcements, we estimate the average and periodic volatility components with intraday returns that do not coincide with news.",
+          "Price Jumps and News Releases\n\nApplying the LM modified jump detection method, Panel A of Table 1 reports the cross‐sectional averages of jump ratios and jump frequency, where the jump ratio is the number of jumps occurring during a specific intraday interval to the number of all jump tests for the corresponding intraday interval, and the jump frequency is the ratio of the number of jumps occurring in a specific intraday interval to the number of all jumps.",
+          "All jump ratio and frequency figures are in percentage terms. Panel B reports the descriptive statistics of jump returns (), positive jump returns (), and negative jump returns () for the overall sample period and the 2002–2009 and 2010–2016 subperiods."
+        ],
+        "contentDenied": false,
+        "access": {
+          "url": "https://figshare.com/articles/journal_contribution/Jumps_news_and_subsequent_return_dynamics_an_intraday_study/20691082",
+          "source": "oa_url",
+          "accessType": "open",
+          "contentType": "pdf",
+          "description": "View PDF"
+        },
+        "url": "https://figshare.com/articles/journal_contribution/Jumps_news_and_subsequent_return_dynamics_an_intraday_study/20691082"
+      },
+      "editorial_notice_check": "No editorialNotices field returned in paper metadata. Four DOI-filtered searches with has_retraction/has_correction/has_erratum/has_concern=true returned zero matching hits; absence in Scite is not a definitive publisher clearance."
+    },
+    {
+      "doi": "10.1007/s12197-017-9403-0",
+      "authors": [
+        "Laurence E. Blose",
+        "Vijay Gondhalekar",
+        "Alan Kort"
+      ],
+      "year_apa": 2018,
+      "scite_year": 2017,
+      "role": "overnight/day boundary context",
+      "read_access": "Scite no text; primary publisher abstract and notes",
+      "instrument": "COMEX front future, London Fix spot, gold stocks/closed-end funds/ETFs",
+      "sampling": "Overnight vs day returns",
+      "sample": "Not recovered; publisher notes refer to30-year analyses, exact common span unknown",
+      "paper_fact": "Publisher abstract reports positive overnight and negative daytime returns, both up/down gold markets, economically important after transaction costs.",
+      "economic_limit": "Cost assumptions and exact executable session definitions not inspected. Main long overnight leg conflicts with same-day-flat requirement; not a causal M1 predictor.",
+      "exact_quote": "The results are economically important even with transaction costs.",
+      "confidence": "Moderate on abstract; inadequate exact-rule evidence.",
+      "url": "https://doi.org/10.1007/s12197-017-9403-0",
+      "scite_metadata": {
+        "doi": "10.1007/s12197-017-9403-0",
+        "title": "Overnight versus day returns in gold and gold related assets",
+        "authors": [
+          {
+            "authorName": "Laurence E. Blose"
+          },
+          {
+            "authorName": "Vijay B. Gondhalekar"
+          },
+          {
+            "authorName": "Alan Kort"
+          }
+        ],
+        "journal": "journal of economics and finance",
+        "publisher": "Springer Science and Business Media LLC",
+        "year": 2017,
+        "date": "2017-07-11",
+        "volume": "42",
+        "issue": "3",
+        "page": "526-549",
+        "tally": {
+          "total": 0,
+          "supporting": 0,
+          "contrasting": 0,
+          "mentioning": 0,
+          "citingPublications": 1
+        },
+        "isOa": false,
+        "contentDenied": true,
+        "access": {
+          "url": "https://doi.org/10.1007/s12197-017-9403-0",
+          "source": "publisher_version_of_record",
+          "accessType": "publisher",
+          "contentType": "redirect",
+          "description": "Get access via publisher"
+        },
+        "url": "https://doi.org/10.1007/s12197-017-9403-0"
+      },
+      "editorial_notice_check": "No editorialNotices field returned in paper metadata. Four DOI-filtered searches with has_retraction/has_correction/has_erratum/has_concern=true returned zero matching hits; absence in Scite is not a definitive publisher clearance."
+    },
+    {
+      "doi": "10.1002/fut.21775",
+      "authors": [
+        "Martin Hauptfleisch",
+        "Tālis J. Putniņš",
+        "Brian M. Lucey"
+      ],
+      "year_apa": 2016,
+      "role": "price-discovery interpretation, not candidate rule",
+      "read_access": "metadata/fulltext excerpts and inbound citation context",
+      "instrument": "LondonOTC spot and NewYork futures",
+      "sampling": "Intraday",
+      "sample": "1997–2014, described17years",
+      "paper_fact": "NewYork futures greater average price discovery despite London larger turnover; gold fix timing affects location.",
+      "economic_limit": "Cross-venue relation cannot be implemented using only one local XAUUSD series; price discovery not standalone directional PnL.",
+      "exact_quote": null,
+      "confidence": "Moderate; not edge evidence.",
+      "url": "https://doi.org/10.1002/fut.21775",
+      "scite_metadata": {
+        "doi": "10.1002/fut.21775",
+        "title": "Who Sets the Price of Gold? London or New York",
+        "authors": [
+          {
+            "authorName": "Martin Hauptfleisch"
+          },
+          {
+            "authorName": "Tālis J. Putniņš"
+          },
+          {
+            "authorName": "Brian M. Lucey"
+          }
+        ],
+        "journal": "journal of futures markets",
+        "publisher": "Wiley",
+        "abstract": "We investigate which of the two main centers of gold trading—the London spot market and the New York futures market—plays a more important role in setting the price of gold. Using intraday data during a 17‐year period, we find that although both markets contribute to price discovery, the New York fu...",
+        "year": 2016,
+        "date": "2016-02-22",
+        "volume": "36",
+        "issue": "6",
+        "page": "564-586",
+        "tally": {
+          "total": 26,
+          "supporting": 1,
+          "contrasting": 1,
+          "mentioning": 24,
+          "citingPublications": 84
+        },
+        "citations": [
+          {
+            "sourceDoi": "10.1002/fut.21775",
+            "targetDoi": "10.1016/j.jbankfin.2011.03.004",
+            "snippet": "We hypothesize that some of the variation in daily and intraday price discovery shares is related to specific news events that affect the value of gold. The importance of gold to central banks and governments suggests that macroeconomic announcements and central bank announcements may affect the price of gold and the location of price discovery (Batten, Ciner, &amp; Lucey, ; Elder, Miao, &amp; Ramchander, ; Hautsch, Hess, &amp; Veredas, ). The information contained in specific announcements may have a tendency to be incorporated into specific markets, generating variation in price discovery shares.",
+            "section": "introduction",
+            "type": "mentioning"
+          },
+          {
+            "sourceDoi": "10.1002/fut.21775",
+            "targetDoi": "10.1016/j.finmar.2010.11.001",
+            "snippet": "As a consequence of this, the influences on the gold price are many, as are the sources of market moving information. Given the geographic dispersion in new information about the value of gold, no trading venue will have a clear locational advantage, which is an important consideration in equity price discovery (Anand, Gatchev, Madureira, Pirinsky, &amp; Underwood, 2011). Furthermore, the large distances between the different trading locations for gold give rise to relatively high latency in information transmission and limit highfrequency trading (Frino, Mollica, &amp; Webb, 2014).We use intraday data on gold prices in the LOTC and the US futures market during the period 1997-2014.",
+            "type": "mentioning"
+          },
+          {
+            "sourceDoi": "10.1002/fut.21775",
+            "targetDoi": "10.1016/j.jempfin.2013.05.004",
+            "snippet": "Recent studies of price discovery measures show that IS and CS both are sensitive to the relative level of noise between two markets—they measure a combination of leadership in impounding new information (what price discovery metrics aim to measure), and the relative level of noise in the price series (Yan &amp; Zivot, ; Putniņš, ). Consequently, IS and CS tend to overstate the price discovery contribution of the less noisy market.",
+            "section": "methods",
+            "type": "mentioning"
+          }
+        ],
+        "isOa": true,
+        "fulltextExcerpts": [
+          "INTRODUCTION\n\nGold is one of the most traded assets worldwide. For example, in 2011, the estimated daily turnover in the London gold market was 5,000 metric tons, equivalent to over $240 billion (Murray, ) when the price of gold averaged $1,386 per ounce. This is approximately the same as the daily dollar volume of trade on all of the world's stock exchanges combined. The turnover in the gold market exceeds turnover in all but four currency pairs.",
+          "Gold trade internationally is largely decentralized, with physical gold traded in OTC markets and financial securities linked to gold (including futures, options, and other derivatives) traded on organized exchanges and trading platforms worldwide. Understanding the price formation process and where/how information about the value of gold is impounded into its price is paramount to investors and regulators due to the economic significance of gold.",
+          "The gold spot market is large, with most trades occurring in LOTC market. Due to the nature of OTC markets, trade volumes are not reported making it difficult to measure the size of the gold spot market. Table illustrates the trade in gold in each of the six major gold trading countries. These estimates are sourced from Lucey et al. () (who use Murray () and GFMS Ltd. () data) and reflect trading in all gold‐related instruments (including spot and gold derivatives).\n\nNote."
+        ],
+        "contentDenied": false,
+        "access": {
+          "url": "https://doi.org/10.2139/ssrn.2606587",
+          "source": "oa_url",
+          "accessType": "open",
+          "contentType": "pdf",
+          "description": "View PDF"
+        },
+        "url": "https://doi.org/10.2139/ssrn.2606587"
+      },
+      "editorial_notice_check": "No editorialNotices field returned in paper metadata. Four DOI-filtered searches with has_retraction/has_correction/has_erratum/has_concern=true returned zero matching hits; absence in Scite is not a definitive publisher clearance."
+    },
+    {
+      "doi": "10.1111/1468-0262.00152",
+      "authors": [
+        "Halbert White"
+      ],
+      "year_apa": 2000,
+      "role": "multiple-testing method",
+      "read_access": "abstract only",
+      "paper_fact": "Reality Check tests whether best encountered model outperforms benchmark accounting for specification search.",
+      "exact_quote": "the best model encountered in a specification search",
+      "confidence": "High for abstract-level method scope.",
+      "url": "https://doi.org/10.1111/1468-0262.00152",
+      "scite_metadata": {
+        "doi": "10.1111/1468-0262.00152",
+        "title": "A Reality Check for Data Snooping",
+        "authors": [
+          {
+            "authorName": "Halbert White"
+          }
+        ],
+        "journal": "econometrica",
+        "publisher": "The Econometric Society",
+        "abstract": "Data snooping occurs when a given set of data is used more than once for purposes of inference or model selection. When such data reuse occurs, there is always the possibility that any satisfactory results obtained may simply be due to chance rather than to any merit inherent in the method yielding ...",
+        "year": 2000,
+        "date": "2000-09-01",
+        "volume": "68",
+        "issue": "5",
+        "page": "1097-1126",
+        "tally": {
+          "total": 1487,
+          "supporting": 15,
+          "contrasting": 1,
+          "mentioning": 1432,
+          "citingPublications": 1839
+        },
+        "citations": [
+          {
+            "sourceDoi": "10.1111/1468-0262.00152",
+            "targetDoi": "10.1017/s0266466600004382",
+            "section": "introduction",
+            "type": "mentioning"
+          },
+          {
+            "sourceDoi": "10.1111/1468-0262.00152",
+            "targetDoi": "10.1093/biomet/75.4.800",
+            "section": "introduction",
+            "type": "mentioning"
+          },
+          {
+            "sourceDoi": "10.1111/1468-0262.00152",
+            "targetDoi": "10.1093/biomet/82.3.561",
+            "section": "implementing the bootstrap reality check",
+            "type": "mentioning"
+          }
+        ],
+        "isOa": false,
+        "contentDenied": true,
+        "access": {
+          "url": "https://doi.org/10.1111/1468-0262.00152",
+          "source": "publisher_version_of_record",
+          "accessType": "publisher",
+          "contentType": "redirect",
+          "description": "Get access via publisher"
+        },
+        "url": "https://doi.org/10.1111/1468-0262.00152"
+      },
+      "editorial_notice_check": "No editorialNotices field returned in paper metadata. Four DOI-filtered searches with has_retraction/has_correction/has_erratum/has_concern=true returned zero matching hits; absence in Scite is not a definitive publisher clearance."
+    },
+    {
+      "doi": "10.1198/073500105000000063",
+      "authors": [
+        "Peter Reinhard Hansen"
+      ],
+      "year_apa": 2005,
+      "role": "multiple-testing method",
+      "read_access": "abstract only",
+      "paper_fact": "SPA studentization and sample-dependent null improve power and sensitivity to poor/irrelevant alternatives versus RC.",
+      "exact_quote": "more powerful and less sensitive to poor and irrelevant alternatives",
+      "confidence": "High for abstract-level method scope.",
+      "url": "https://doi.org/10.1198/073500105000000063",
+      "scite_metadata": {
+        "doi": "10.1198/073500105000000063",
+        "title": "A Test for Superior Predictive Ability",
+        "authors": [
+          {
+            "authorName": "Peter Reinhard Hansen"
+          }
+        ],
+        "journal": "journal of business and economic statistics",
+        "publisher": "Informa UK Limited",
+        "abstract": "AbstractWe propose a new test for superior predictive ability. The new test compares favorable to the reality check for data snooping (RC), because the former is more powerful and less sensitive to poor and irrelevant alternatives. The improvements are achieved by two modifications of the RC. We emp...",
+        "year": 2005,
+        "date": "2005-10-01",
+        "volume": "23",
+        "issue": "4",
+        "page": "365-380",
+        "tally": {
+          "total": 284,
+          "supporting": 4,
+          "contrasting": 0,
+          "mentioning": 277,
+          "citingPublications": 1199
+        },
+        "citations": [
+          {
+            "sourceDoi": "10.1198/073500105000000063",
+            "targetDoi": "10.1080/01621459.1994.10476870",
+            "snippet": "The stationary bootstrap of Politis and Romano (1994) is based on pseudo time-series of the original data. The pseudo time-series, {d *",
+            "section": "bootstrap implementation of the test for spa",
+            "type": "mentioning"
+          },
+          {
+            "sourceDoi": "10.1198/073500105000000063",
+            "targetDoi": "10.1007/978-1-4613-8122-8",
+            "snippet": "However, such exceptions are unlikely to be of much empirical relevance, as we discuss below. So we are comfortable recommending the use of T SPA n in practice and it is worth to point out that a studentization of the individual statistics is the conventional approach to multiple comparisons, see Miller (1981) and Savin (1984). This studentization is also embedded in the related approach where the individual statistics are converted into m \" p-values\", and the maximum p-value is used as the test statistic, see Tippett (1931), Folks (1984), Marden (1985), Westfall and Young (1993), and Dufour and Khalaf (2002).",
+            "section": "choice of test statistic",
+            "type": "mentioning"
+          },
+          {
+            "sourceDoi": "10.1198/073500105000000063",
+            "targetDoi": "10.1080/07350015.1995.10524599",
+            "snippet": "Tests for equal predictive ability (EPA), in a general setting, were proposed by Diebold and Mariano (1995) and West (1996), where the framework of the latter can accommodate the situation where forecasts involve estimated parameters. Harvey, Leybourne, and Newbold (1997) suggested a modification of the Diebold-Mariano test that leads to better small sample properties.",
+            "section": "introduction",
+            "type": "mentioning"
+          }
+        ],
+        "isOa": true,
+        "contentDenied": false,
+        "access": {
+          "url": "https://doi.org/10.17615/wehz-da64",
+          "source": "oa_url",
+          "accessType": "open",
+          "contentType": "pdf",
+          "description": "View PDF"
+        },
+        "url": "https://doi.org/10.17615/wehz-da64"
+      },
+      "editorial_notice_check": "No editorialNotices field returned in paper metadata. Four DOI-filtered searches with has_retraction/has_correction/has_erratum/has_concern=true returned zero matching hits; absence in Scite is not a definitive publisher clearance."
+    },
+    {
+      "doi": "10.1111/0022-1082.00163",
+      "authors": [
+        "Ryan Sullivan",
+        "Allan Timmermann",
+        "Halbert White"
+      ],
+      "year_apa": 1999,
+      "role": "full strategy-universe correction",
+      "read_access": "Scite metadata/abstract; primary Wiley full-page abstract and verified author list",
+      "paper_fact": "Data-snooping correction should evaluate entire tested trading-rule universe, not only best current survivor.",
+      "exact_quote": "the full universe from which the trading rules were drawn",
+      "confidence": "High for method, not a gold result.",
+      "metadata_warning": "Scite bibliography omits first author Ryan Sullivan; corrected using Wiley primary page.",
+      "url": "https://doi.org/10.1111/0022-1082.00163",
+      "scite_metadata": {
+        "doi": "10.1111/0022-1082.00163",
+        "title": "Data‐Snooping, Technical Trading Rule Performance, and the Bootstrap",
+        "authors": [
+          {
+            "authorName": "Allan Timmermann"
+          },
+          {
+            "authorName": "Halbert White"
+          }
+        ],
+        "journal": "the journal of finance",
+        "publisher": "Wiley",
+        "abstract": "In this paper we utilize White's Reality Check bootstrap methodology~White~1999!! to evaluate simple technical trading rules while quantifying the data-snooping bias and fully adjusting for its effect in the context of the full universe from which the trading rules were drawn. Hence, for the first t...",
+        "year": 1999,
+        "date": "1999-10-01",
+        "volume": "54",
+        "issue": "5",
+        "page": "1647-1691",
+        "tally": {
+          "total": 699,
+          "supporting": 18,
+          "contrasting": 3,
+          "mentioning": 673,
+          "citingPublications": 998
+        },
+        "citations": [
+          {
+            "sourceDoi": "10.1111/0022-1082.00163",
+            "targetDoi": "10.1111/1468-0262.00152",
+            "type": "mentioning"
+          },
+          {
+            "sourceDoi": "10.1111/0022-1082.00163",
+            "targetDoi": "10.1111/j.1540-6261.1970.tb00671.x",
+            "type": "mentioning"
+          },
+          {
+            "sourceDoi": "10.1111/0022-1082.00163",
+            "targetDoi": "10.3386/w3001",
+            "section": "the bootstrap snooper",
+            "type": "mentioning"
+          }
+        ],
+        "isOa": true,
+        "contentDenied": true,
+        "access": {
+          "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/0022-1082.00163",
+          "source": "oa_url",
+          "accessType": "open",
+          "contentType": "pdf",
+          "description": "View PDF"
+        },
+        "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/0022-1082.00163"
+      },
+      "editorial_notice_check": "No editorialNotices field returned in paper metadata. Four DOI-filtered searches with has_retraction/has_correction/has_erratum/has_concern=true returned zero matching hits; absence in Scite is not a definitive publisher clearance."
+    }
+  ],
+  "excluded": [
+    {
+      "doi": "10.2139/ssrn.2606587",
+      "title": "Who Sets the Price of Gold? London or New York?",
+      "decision": "excluded",
+      "reason": "Duplicate preprint; use published DOI"
+    },
+    {
+      "doi": "10.1108/rbf-05-2020-0099",
+      "title": "Psychological barriers in the electric market: study applied to the Nord Pool market",
+      "decision": "excluded",
+      "reason": "Off topic or cross-asset background; not used for candidate evidence"
+    },
+    {
+      "doi": "10.3390/commodities5030016",
+      "title": "Predicting Commodity ETF Returns with Deep Learning: Overnight Versus Daytime Predictability Across Forecast Horizons",
+      "decision": "excluded",
+      "reason": "Off topic or cross-asset background; not used for candidate evidence"
+    },
+    {
+      "doi": "10.65091/icicset.v3i1.101",
+      "title": "Comparative Evaluation of Hybrid Deep Reinforcement Learning Models with Fixed Risk-Reward Ratios for Intraday Gold Trading",
+      "decision": "excluded",
+      "reason": "Insufficient directly accessible methods or out of scope for causal M1 same-day price-only rule"
+    },
+    {
+      "doi": "10.2139/ssrn.2897034",
+      "title": "The Contribution of Intraday Jumps to Forecasting the Density of Returns",
+      "decision": "excluded",
+      "reason": "Off topic or cross-asset background; not used for candidate evidence"
+    },
+    {
+      "doi": "10.2139/ssrn.1929359",
+      "title": "Explaining Stock Returns with Intraday Jumps",
+      "decision": "excluded",
+      "reason": "Off topic or cross-asset background; not used for candidate evidence"
+    },
+    {
+      "doi": "10.3390/jrfm13060118",
+      "title": "Intraday Jumps, Liquidity, and U.S. Macroeconomic News: Evidence from Exchange Traded Funds",
+      "decision": "excluded",
+      "reason": "Off topic or cross-asset background; not used for candidate evidence"
+    },
+    {
+      "doi": "10.2139/ssrn.3724814",
+      "title": "Information Arrival, News Sentiment, Volatilities and Jumps of Intraday Returns",
+      "decision": "excluded",
+      "reason": "Off topic or cross-asset background; not used for candidate evidence"
+    },
+    {
+      "doi": "10.3389/fenrg.2021.807881",
+      "title": "Overnight-Intraday Mispricing of Chinese Energy Stocks: A View from Financial Anomalies",
+      "decision": "excluded",
+      "reason": "Off topic or cross-asset background; not used for candidate evidence"
+    },
+    {
+      "doi": "10.21203/rs.3.rs-11503547/v1",
+      "title": "Overnight cryptocurrency downside and opening versus intraday equity returns in Southeast Asia",
+      "decision": "excluded",
+      "reason": "Off topic or cross-asset background; not used for candidate evidence"
+    },
+    {
+      "doi": "10.1002/fut.22448",
+      "title": "Option pricing with overnight and intraday volatility",
+      "decision": "excluded",
+      "reason": "Off topic or cross-asset background; not used for candidate evidence"
+    },
+    {
+      "doi": "10.48550/arxiv.2010.01727",
+      "title": "Strikingly Suspicious Overnight and Intraday Returns",
+      "decision": "excluded",
+      "reason": "Off topic or cross-asset background; not used for candidate evidence"
+    },
+    {
+      "doi": "10.3389/fenvs.2022.927420",
+      "title": "The Pricing of ESG: Evidence From Overnight Return and Intraday Return",
+      "decision": "excluded",
+      "reason": "Off topic or cross-asset background; not used for candidate evidence"
+    },
+    {
+      "doi": "10.1002/fut.21558",
+      "title": "The Intraday and Overnight Behavior of SPY Options and Adjusted Delta Hedging",
+      "decision": "excluded",
+      "reason": "Off topic or cross-asset background; not used for candidate evidence"
+    },
+    {
+      "doi": "10.2139/ssrn.3662052",
+      "title": "Gold and Oil Prices: Abnormal Returns, Momentum and Contrarian Effects",
+      "decision": "excluded",
+      "reason": "Duplicate preprint; use published DOI"
+    },
+    {
+      "doi": "10.1016/j.jcomm.2018.05.001",
+      "title": "Intraday seasonality in efficiency, liquidity, volatility and volume: Platinum and gold futures in Tokyo and New York",
+      "decision": "excluded",
+      "reason": "Insufficient directly accessible methods or out of scope for causal M1 same-day price-only rule"
+    },
+    {
+      "doi": "10.21203/rs.3.rs-9763992/v1",
+      "title": "Emergent fat tails and volatility clustering in gold returns via a statistical-mechanics-grounded agent-based model",
+      "decision": "excluded",
+      "reason": "Insufficient directly accessible methods or out of scope for causal M1 same-day price-only rule"
+    },
+    {
+      "doi": "10.58886/jfi.v10i1.2317",
+      "title": "Volatility Transmission of Gold around the World",
+      "decision": "excluded",
+      "reason": "Insufficient directly accessible methods or out of scope for causal M1 same-day price-only rule"
+    },
+    {
+      "doi": "10.1016/j.rfe.2006.04.001",
+      "title": "Psychological barriers in gold prices?",
+      "decision": "excluded",
+      "reason": "Insufficient directly accessible methods or out of scope for causal M1 same-day price-only rule"
+    },
+    {
+      "doi": "10.1016/j.frl.2020.101614",
+      "title": "A note on investor happiness and the predictability of realized volatility of gold",
+      "decision": "excluded",
+      "reason": "Insufficient directly accessible methods or out of scope for causal M1 same-day price-only rule"
+    },
+    {
+      "doi": "10.1016/j.eneco.2020.104799",
+      "title": "Moments-based spillovers across gold and oil markets",
+      "decision": "excluded",
+      "reason": "Insufficient directly accessible methods or out of scope for causal M1 same-day price-only rule"
+    },
+    {
+      "doi": "10.1016/j.irfa.2025.104380",
+      "title": "What triggers intraday price jumps and co-jumps in gold?",
+      "decision": "excluded",
+      "reason": "Insufficient directly accessible methods or out of scope for causal M1 same-day price-only rule"
+    },
+    {
+      "doi": "10.1016/j.najef.2019.101048",
+      "title": "Time-varying risk aversion and realized gold volatility",
+      "decision": "excluded",
+      "reason": "Insufficient directly accessible methods or out of scope for causal M1 same-day price-only rule"
+    },
+    {
+      "doi": "10.1002/for.2748",
+      "title": "Can night trading sessions improve forecasting performance of gold futures' volatility in China?",
+      "decision": "excluded",
+      "reason": "Insufficient directly accessible methods or out of scope for causal M1 same-day price-only rule"
+    },
+    {
+      "doi": "10.1057/9781137286437.0009",
+      "title": "The Strange Intraday Behaviour of Gold",
+      "decision": "excluded",
+      "reason": "Insufficient directly accessible methods or out of scope for causal M1 same-day price-only rule"
+    },
+    {
+      "doi": "10.1057/9781137286437_4",
+      "title": "The Strange Intraday Behaviour of Gold",
+      "decision": "excluded",
+      "reason": "Insufficient directly accessible methods or out of scope for causal M1 same-day price-only rule"
+    },
+    {
+      "doi": "10.1016/j.frl.2019.08.028",
+      "title": "Forecasting realized gold volatility: Is there a role of geopolitical risks?",
+      "decision": "excluded",
+      "reason": "Insufficient directly accessible methods or out of scope for causal M1 same-day price-only rule"
+    },
+    {
+      "doi": "10.1016/j.qref.2020.08.004",
+      "title": "Spillovers in Higher-Order Moments of Crude Oil, Gold, and Bitcoin",
+      "decision": "excluded",
+      "reason": "Insufficient directly accessible methods or out of scope for causal M1 same-day price-only rule"
+    },
+    {
+      "doi": "10.1163/157006998x00195",
+      "title": "The dust-jacket: cloth of gold in the auction room1",
+      "decision": "excluded",
+      "reason": "Insufficient directly accessible methods or out of scope for causal M1 same-day price-only rule"
+    },
+    {
+      "doi": "10.4324/9780203097588-39",
+      "title": "The Economics of Gold Price Movements",
+      "decision": "excluded",
+      "reason": "Insufficient directly accessible methods or out of scope for causal M1 same-day price-only rule"
+    },
+    {
+      "doi": "10.1177/ijim.241281557",
+      "title": "An Empirical Analysis of Motivating Factors Behind Purchase of Gold Investment",
+      "decision": "excluded",
+      "reason": "Insufficient directly accessible methods or out of scope for causal M1 same-day price-only rule"
+    },
+    {
+      "doi": "10.2139/ssrn.2686265",
+      "title": "Identifying Uncertainty Shocks Using the Price of Gold",
+      "decision": "excluded",
+      "reason": "Insufficient directly accessible methods or out of scope for causal M1 same-day price-only rule"
+    },
+    {
+      "doi": "10.58066/11gt-eq78",
+      "title": "Advertisement and receipt for Johnny Cash gold record at Kilshaw's Auctioneers",
+      "decision": "excluded",
+      "reason": "Insufficient directly accessible methods or out of scope for causal M1 same-day price-only rule"
+    },
+    {
+      "doi": "10.1080/13504851.2014.922661",
+      "title": "Overnight gold returns",
+      "decision": "excluded",
+      "reason": "Insufficient directly accessible methods or out of scope for causal M1 same-day price-only rule"
+    },
+    {
+      "doi": "10.1177/1942602x261434189",
+      "title": "All That Glitters Is Gold for the Endowment at NASN2026",
+      "decision": "excluded",
+      "reason": "Insufficient directly accessible methods or out of scope for causal M1 same-day price-only rule"
+    },
+    {
+      "doi": "10.1086/260702",
+      "title": "Market Anticipations of Government Policies and the Price of Gold",
+      "decision": "excluded",
+      "reason": "Insufficient directly accessible methods or out of scope for causal M1 same-day price-only rule"
+    },
+    {
+      "doi": "10.2139/ssrn.2737262",
+      "title": "Identifying Uncertainty Shocks Using the Price of Gold",
+      "decision": "excluded",
+      "reason": "Insufficient directly accessible methods or out of scope for causal M1 same-day price-only rule"
+    },
+    {
+      "doi": "10.1017/s0940739117000169",
+      "title": "A Silver Service and a Gold Coin",
+      "decision": "excluded",
+      "reason": "Insufficient directly accessible methods or out of scope for causal M1 same-day price-only rule"
+    },
+    {
+      "doi": "10.1111/j.1475-6803.1993.tb00148.x",
+      "title": "INTRADAY TRADING PATTERNS IN THE EQUITY OPTIONS MARKETS",
+      "decision": "excluded",
+      "reason": "Off topic or cross-asset background; not used for candidate evidence"
+    },
+    {
+      "doi": "10.1111/j.2041-6156.2009.00004.x",
+      "title": "Intraday Volatility Patterns in the Taiwan Stock Market and the Impact on Volatility Forecasting",
+      "decision": "excluded",
+      "reason": "Off topic or cross-asset background; not used for candidate evidence"
+    },
+    {
+      "doi": "10.1111/j.1540-6261.2010.01573.x",
+      "title": "Intraday Patterns in the Cross‐section of Stock Returns",
+      "decision": "excluded",
+      "reason": "Off topic or cross-asset background; not used for candidate evidence"
+    },
+    {
+      "doi": "10.1007/s11129-008-9041-0",
+      "title": "When auction meets fixed price: a theoretical and empirical examination of buy-it-now auctions",
+      "decision": "excluded",
+      "reason": "Off topic or cross-asset background; not used for candidate evidence"
+    },
+    {
+      "doi": "10.1111/j.1475-6803.1993.tb00125.x",
+      "title": "DUTCH AUCTION VERSUS FIXED‐PRICE SELF‐TENDER OFFERS: DO FIRMS OVERPAY IN FIXED‐PRICE OFFERS?",
+      "decision": "excluded",
+      "reason": "Off topic or cross-asset background; not used for candidate evidence"
+    },
+    {
+      "doi": "10.1111/j.1540-6261.1994.tb02458.x",
+      "title": "Signaling and Takeover Deterrence with Stock Repurchases: Dutch Auctions versus Fixed Price Tender Offers",
+      "decision": "excluded",
+      "reason": "Off topic or cross-asset background; not used for candidate evidence"
+    },
+    {
+      "doi": "10.1016/j.econlet.2012.01.023",
+      "title": "An empirical investigation of efficiency and price uniformity in competing auctions",
+      "decision": "excluded",
+      "reason": "Off topic or cross-asset background; not used for candidate evidence"
+    },
+    {
+      "doi": "10.48550/arxiv.2011.05072",
+      "title": "Efficient Algorithms for Stochastic Repeated Second-price Auctions",
+      "decision": "excluded",
+      "reason": "Off topic or cross-asset background; not used for candidate evidence"
+    },
+    {
+      "doi": "10.1177/00222437221113235",
+      "title": "Selling Mechanism Design for Peer-to-Peer Lending and Related Markets: The Multi-Unit Uniform-Price Open Auction Versus Fixed Price",
+      "decision": "excluded",
+      "reason": "Off topic or cross-asset background; not used for candidate evidence"
+    },
+    {
+      "doi": "10.1093/jjfinec/nbi026",
+      "title": "Reexamining the Profitability of Technical Analysis with Data Snooping Checks",
+      "decision": "excluded",
+      "reason": "Off topic or cross-asset background; not used for candidate evidence"
+    },
+    {
+      "doi": "10.1002/fut.20435",
+      "title": "A reality check on technical trading rule profits in the U.S. futures markets",
+      "decision": "excluded",
+      "reason": "Off topic or cross-asset background; not used for candidate evidence"
+    },
+    {
+      "doi": "10.1016/j.physa.2015.07.032",
+      "title": "Profitability of simple technical trading rules of Chinese stock exchange indexes",
+      "decision": "excluded",
+      "reason": "Off topic or cross-asset background; not used for candidate evidence"
+    },
+    {
+      "doi": "10.2139/ssrn.1998036",
+      "title": "Technical Trading Rules in Emerging Stock Markets",
+      "decision": "excluded",
+      "reason": "Off topic or cross-asset background; not used for candidate evidence"
+    },
+    {
+      "doi": "10.33423/jaf.v23i4.6453",
+      "title": "Profitability and Data-Snooping Tests of Four Technical Trade Strategies for Cryptocurrency Pair BTC/USDT and ETH/USDT in Cryptocurrency Markets During 2022–2023",
+      "decision": "excluded",
+      "reason": "Off topic or cross-asset background; not used for candidate evidence"
+    },
+    {
+      "doi": "10.1177/0972652716686207",
+      "title": "Intraday Periodicity and Volatility Forecasting: Evidence from Indian Crude Oil Futures Market",
+      "decision": "excluded",
+      "reason": "Off topic or cross-asset background; not used for candidate evidence"
+    },
+    {
+      "doi": "10.1002/1096-9934(200103)21:3<257::aid-fut4>3.0.co;2-w",
+      "title": "What moves the gold market?",
+      "decision": "excluded",
+      "reason": "Insufficient directly accessible methods or out of scope for causal M1 same-day price-only rule"
+    },
+    {
+      "doi": "10.1142/s0217590817500096",
+      "title": "LONG RANGE DEPENDENCE AND STRUCTURAL BREAKS IN THE GOLD MARKETS",
+      "decision": "excluded",
+      "reason": "Insufficient directly accessible methods or out of scope for causal M1 same-day price-only rule"
+    },
+    {
+      "doi": "10.1002/fut.21592",
+      "title": "The Return‐Implied Volatility Relation for Commodity ETFs",
+      "decision": "excluded",
+      "reason": "Off topic or cross-asset background; not used for candidate evidence"
+    },
+    {
+      "doi": "10.14710/jmasif.17.1.78091",
+      "title": "Multivariate LSTM-Based Intraday Gold Price Prediction with Rolling Time Series Validation",
+      "decision": "excluded",
+      "reason": "Insufficient directly accessible methods or out of scope for causal M1 same-day price-only rule"
+    },
+    {
+      "doi": "10.1002/fut.22208",
+      "title": "Who leads in intraday gold price discovery and volatility connectedness: Spot, futures, or exchange‐traded fund?",
+      "decision": "excluded",
+      "reason": "Insufficient directly accessible methods or out of scope for causal M1 same-day price-only rule"
+    },
+    {
+      "doi": "10.22610/jebs.v10i6a.2666",
+      "title": "Investor Sentiment and Crash Risk in Safe Havens",
+      "decision": "excluded",
+      "reason": "Off topic or cross-asset background; not used for candidate evidence"
+    },
+    {
+      "doi": "10.1002/for.2461",
+      "title": "The informational content of unconventional monetary policy on precious metal markets",
+      "decision": "excluded",
+      "reason": "Off topic or cross-asset background; not used for candidate evidence"
+    },
+    {
+      "doi": "10.2139/ssrn.3116554",
+      "title": "Investor Sentiment and Crash Risk in Safe Havens",
+      "decision": "excluded",
+      "reason": "Off topic or cross-asset background; not used for candidate evidence"
+    },
+    {
+      "doi": "10.1007/s10479-021-04288-6",
+      "title": "Is gold a hedge or safe haven against oil and currency market movements? A revisit using multifractal approach",
+      "decision": "excluded",
+      "reason": "Insufficient directly accessible methods or out of scope for causal M1 same-day price-only rule"
+    },
+    {
+      "doi": "10.1007/s10614-017-9651-2",
+      "title": "Short-Term Price Overreactions: Identification, Testing, Exploitation",
+      "decision": "excluded",
+      "reason": "Off topic or cross-asset background; not used for candidate evidence"
+    }
+  ],
+  "editorial_audit": {
+    "filters": [
+      "has_retraction",
+      "has_correction",
+      "has_erratum",
+      "has_concern"
+    ],
+    "zero_results": true,
+    "warning": "No-matches responses emit misleading generic 'not present in index' message despite all seed metadata retrieved. Interpret only as no filtered hits."
+  },
+  "citation_graphs": [
+    {
+      "seeds": [
+        "10.1002/fut.21636",
+        "10.1016/j.resourpol.2020.101830",
+        "10.1007/s11408-021-00380-w"
+      ],
+      "direction": "in",
+      "depth": 1,
+      "edge_count": 72,
+      "node_count": 75,
+      "truncated": false,
+      "seed_coverage": {
+        "10.1002/fut.21636": 34,
+        "10.1016/j.resourpol.2020.101830": 27,
+        "10.1007/s11408-021-00380-w": 11
+      },
+      "low_coverage_seeds": [],
+      "edges": [
+        {
+          "s": "10.1002/fut.21775",
+          "t": "10.1002/fut.21636",
+          "d": 1,
+          "type": [
+            "mentioning"
+          ],
+          "section": [
+            "introduction",
+            "results"
+          ],
+          "snippets": [
+            "Our choice of variables is driven by the prior literature as well as our reasoning about factors that could influence the location of price discovery. The London Gold Fixing is an important determinant of the gold price (Caminschi &amp; Heaney, ). The AM and PM fixings occur daily at 10:30 am and 3:00 pm UK time, respectively .",
+            "The information contained in specific announcements may have a tendency to be incorporated into specific markets, generating variation in price discovery shares. Furthermore, there is evidence that there may be information leakage from the UK gold price fix, in that the market reacts to the fix although the fix is being undertaken (see Caminschi &amp; Heaney, ). However, to what extent the market reaction represents the particular structure of the fix at the time and to what extent it reflects actual price sensitive information leakage is less clear."
+          ]
+        },
+        {
+          "s": "10.1002/fut.22120",
+          "t": "10.1002/fut.21636",
+          "d": 1,
+          "type": [
+            "mentioning",
+            "supporting"
+          ],
+          "section": [
+            "institutional detail",
+            "introduction",
+            "results"
+          ],
+          "snippets": [
+            "This suggests that participants in the prior regime inferred the direction of the Fix on the basis of trades in the opening minutes. This explanation corresponds to the findings presented by Caminschi and Heaney ( 2014 ) which show that trades at the start of the Fix are highly correlated with the eventual direction of the Fix determination.",
+            "It additionally provides a way for valuing holdings at central banks, ETF investment funds, and trade inventories. Benchmarks additionally contribute to the role of price discovery in financially linked contracts (Caminschi &amp; Heaney, 2014 ; Frino, Ibikunle, Mollica, &amp; Steffen, 2018 ; Hauptfleisch, Putniņš, &amp; Lucey, 2016 ). This is not unexpected, since benchmarks are typically written into contracts, administrative regulations, and statutes (Verstein, 2016 ).",
+            "Caminschi and Heaney ( 2014 ) provide evidence of information leakage from the fixing to the Futures market before the publication of the fixed price. We examine the pattern of price discovery around the Fix window for the two regimes and observe no significant change in terms of how information is impounded into prices."
+          ]
+        },
+        {
+          "s": "10.1002/fut.22208",
+          "t": "10.1002/fut.21636",
+          "d": 1,
+          "type": [
+            "mentioning"
+          ],
+          "section": [
+            "empirical results and discussion",
+            "introduction"
+          ],
+          "snippets": [
+            "Last, using intraday (hourly) regression analysis in Table C3 in Supporting Information Appendix C, we find an interesting observation that price discovery leadership of New York futures falls during London p.m. fix (Caminschi &amp; Heaney, 2014 ; Hauptfleisch et al, 2016 ). The leadership of SHFE futures falls during both Shanghai a.m. and p.m. fixes.",
+            "Moreover, a.m./p.m. gold fix by London and Shanghai significantly affects hourly price discovery, supporting Caminschi and Heaney ( 2014 )."
+          ]
+        },
+        {
+          "s": "10.1002/ijfe.1926",
+          "t": "10.1002/fut.21636",
+          "d": 1,
+          "type": [
+            "mentioning"
+          ],
+          "section": [
+            "empirical analyses results and discussion"
+          ],
+          "snippets": [
+            "However, we also note that such increases may relate to the unwinding of untenable positions that arise as a result of extreme swings in instruments' valuations during a flash crash. In order to examine the veracity of our argument regarding the profitability of aggressive orders, we follow the approach proposed by Ederington and Lee ( 1995 ) to compute hypothetical returns attributable to an informed trader active during the flash crash and its surrounding periods (see also Caminschi and Heaney 2014 ; Frino et al 2018 )."
+          ]
+        },
+        {
+          "s": "10.1016/j.finmar.2022.100734",
+          "t": "10.1002/fut.21636",
+          "d": 1,
+          "type": [
+            "mentioning"
+          ],
+          "section": [
+            "introduction"
+          ],
+          "snippets": [
+            "Recent examinations of commodities markets have also indicated patterns of exploitation of benchmark processes. Caminschi and Heaney (2014) deduce that information leaks from the physical London PM Gold price fixing into the gold derivatives market ahead of the official price publication. Frino et al (2017) report similar evidence of a consistent price trend in the Brent futures in the direction of the benchmark outcome during the Platts Dated Brent assessment."
+          ]
+        },
+        {
+          "s": "10.1016/j.frl.2015.03.004",
+          "t": "10.1002/fut.21636",
+          "d": 1,
+          "type": [
+            "mentioning"
+          ],
+          "section": [
+            "review of the literature"
+          ],
+          "snippets": [
+            "Aggarwal et al (2015) offer a detailed analysis of the world metal markets and discuss in particular the behavior of gold prices. The efficiency of gold markets is presented in Canarella and Pollard (1986) and recently in Caminschi and Heaney (2013) . Cheung and Lai (1983) investigate the long cycles of gold returns."
+          ]
+        },
+        {
+          "s": "10.1016/j.irfa.2015.01.017",
+          "t": "10.1002/fut.21636",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.irfa.2015.03.013",
+          "t": "10.1002/fut.21636",
+          "d": 1,
+          "type": [
+            "mentioning"
+          ],
+          "section": [
+            "introduction",
+            "prior empirical literature on the efficiency of gold markets"
+          ],
+          "snippets": [
+            "Although generally closely related, and as previously summarised, a closer examination of this literature, however, reveals distinctive strands, namely those analysing: (i) factors influencing gold prices (e.g., Apergis, 2014; Batchelor &amp; Gulley, 1995; Blose &amp; Shieh, 1995; Rockerbie, 1999; Selvanathan &amp; Selvanathan, 1999) ; (ii) interdependencies amongst and between global gold markets and other security markets (e.g., Caminschi &amp; Heaney, 2014; Ewing &amp; Malik, 2013; Lucey et al, 2013 Lucey et al, , 2014 ; (iii) investment and risk reduction properties of gold (e.g., Baur &amp; McDermott, 2010; Baur &amp; Lucey, 2010; Wang, Wei, et al, 2011; Bialkowski et al, in press); (iv) causality and co-integration relationship between gold returns/markets and macroeconomic variables (e.g., Blose, 2010a, b;Kutan &amp; Aksoy, 2004; Pukthuanthong &amp; Roll, 2011; Sjaastad, 2008; Tully &amp; Lucey, 2007; Zhang &amp; Wei, 2010) ; and (v) efficiency of gold price returns series (e.g., Tschoegl, 1978 Tschoegl, , 1980 Smith, 2002; Wang, Wei, et al, 2011; Yu &amp; Shih, 2011; Baur, 2013) .",
+            "One strand of the literature has examined the determinants of gold prices with specific focus on the interplay of gold demand and supply forces (Apergis, 2014; Feldstein, 1980; Govett &amp; Govett, 1982; Kaufmann &amp; Winters, 1989;Rockerbie, 1999; Selvanathan &amp; Selvanathan, 1999) , whilst another strand has investigated the capacity of gold to act as a 'safe haven', 'store of value', hedging and derivative instrument, and risk and portfolio diversification security (Blose, 1996; Davidson et al, 2003; Capie et al, 2005; Conover, Jensen, Johnson, &amp; Mercer, 2009; Baur &amp; McDermott, 2010; Baur &amp; Lucey, 2010; Wang, Wei, et al, 2011; Bialkowski et al, in press). A third strand of the literature has assessed the interdependencies, linkages, spillovers, information flow and efficiency amongst gold markets (e.g., Japan, UK, and US), and also between gold and other markets (e.g., stock, bond, and other precious metal markets) (Caminschi &amp; Heaney, 2014; Chang et al, 2013; Ewing &amp; Malik, 2013; Laulajainen, 1990; Lucey et al, 2013 Lucey et al, , 2014 Xu &amp; Fung, 2005) , whilst a fourth strand of the literature has sought to ascertain whether there exists a causality and/or co-integration relationship between gold prices/ markets and macroeconomic variables often by employing different versions of autoregressive conditional heteroscedasticity (ARCH) models (Blose, 2010a,b;Kutan &amp; Aksoy, 2004; Mahdavi &amp; Zhou, 1997; Pukthuanthong &amp; Roll, 2011; Sjaastad, 2008; Sjaastad &amp; Scacciavillani, 1996; Tully &amp; Lucey, 2007; Zhang &amp; Wei, 2010) . Of direct relevance to our study, the final strand of the literature has focused on examining the predictability of gold price returns (Tschoegl, 1980;"
+          ]
+        },
+        {
+          "s": "10.1016/j.irfa.2015.05.001",
+          "t": "10.1002/fut.21636",
+          "d": 1,
+          "type": [
+            "mentioning"
+          ],
+          "section": [
+            "data and markets"
+          ],
+          "snippets": [
+            "For example, the link between gold and crude oil is studied by Reboredo (2013a) and the dependence between gold and exchange rates has been documented by Pukthuanthong and Roll (2011) and Reboredo (2013b) . The period also covers the afternoon London gold fixing which produces an important global benchmark price (Caminschi &amp; Heaney, 2014) . We expect that the London/New York market has greater information flow than London trading before New York opens and New York trading after London closes."
+          ]
+        },
+        {
+          "s": "10.1016/j.irfa.2015.07.005",
+          "t": "10.1002/fut.21636",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.irfa.2024.103486",
+          "t": "10.1002/fut.21636",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.jbankfin.2017.08.017",
+          "t": "10.1002/fut.21636",
+          "d": 1,
+          "type": [
+            "mentioning"
+          ],
+          "section": [
+            "directional returns",
+            "insert figure 1 about here",
+            "introduction",
+            "related literature"
+          ],
+          "snippets": [
+            "BST begins at 01:00 GMT on the last Sunday of March and ends at 01:00 GMT on the last Sunday of October. transformation normalizes the data, mitigates the skewness effect caused by the zero bound on volume, and improves the robustness of the subsequent t-tests (Caminschi and Heaney, 2014) .",
+            "Secondly, our analysis of informationrelated interactions between two market structures is unique in that the benchmark assessment window by Platts provides a natural experiment to examine the dynamics between the oil spot and derivatives markets. This differs from other fixing events such as in the precious metals market, where the benchmark fixing period length is indeterminate (see Caminschi and Heaney, 2014) , or in the case of information events that do not have a precise release timestamp (see Vega, 2006; Tetlock, 2010; Bernile et al, 2016) .",
+            "In order to measure returns attributable to an informed trader who trades in the direction of the benchmark assessment outcome in advance of its release, we compute directional returns. We follow Ederington and Lee (1995) and Caminschi and Heaney (2014) and sign simple returns using a spot fixing direction parameter. The direction factor takes the value of +1 (-1) if the published Platts Dated Brent price (t0) on day d is higher (lower) than the price of the BFO crude oil spot on d immediately prior to the start of the Platts Window (t-31), assuming that the informed trader takes a long (short) position (see Figure 1)."
+          ]
+        },
+        {
+          "s": "10.1016/j.jbankfin.2026.107641",
+          "t": "10.1002/fut.21636",
+          "d": 1
+        },
+        {
+          "s": "10.1017/s0022109018000625",
+          "t": "10.1002/fut.21636",
+          "d": 1,
+          "type": [
+            "mentioning"
+          ],
+          "section": [
+            "introduction"
+          ],
+          "snippets": [
+            "For example, Andersson, Overby, and Sebestyén (2009) analyze news wires and present evidence that the German employment report is regularly known to investors prior to its official release. Information leakage has also occurred in other settings, for example, in the London PM gold price fixing (Caminschi &amp; Heaney, 2013) .",
+            "For example, Andersson, Overby, and Sebestyén (2009) analyze news wires and present evidence that the German employment report is regularly known to investors before its official release. Information leakage has also occurred in other settings, for example, in the London afternoon gold price fixing (Caminschi and Heaney (2013) ). In corporate finance, some papers (e.g., Sinha and Gadarowski (2010) , Agapova and Madura (2011) ) regard price drift before public guidance issued by company management as de facto evidence of information leakage while others remain agnostic about the source of informed trading around company earnings announcements in trading by institutional investors (e.g., Campbell, Ramadorai, and Schwartz (2009) ) and individual investors (e.g., Kaniel, Liu, Saar, and Titman (2012))."
+          ]
+        },
+        {
+          "s": "10.1080/00036846.2015.1133903",
+          "t": "10.1002/fut.21636",
+          "d": 1
+        },
+        {
+          "s": "10.1111/1467-9698.5296",
+          "t": "10.1002/fut.21636",
+          "d": 1
+        },
+        {
+          "s": "10.1111/ajfs.12122",
+          "t": "10.1002/fut.21636",
+          "d": 1,
+          "type": [
+            "mentioning"
+          ],
+          "section": [
+            "financial market events and academic research"
+          ],
+          "snippets": [
+            "Academic research may have important implications for policy makers and practitioners alike as the Caminschi and Heaney ( ) article discussed above illustrates. Another example is the 2013 Everbright Securities’ fat finger trade episode in China."
+          ]
+        },
+        {
+          "s": "10.17580/gzh.2016.09.04",
+          "t": "10.1002/fut.21636",
+          "d": 1
+        },
+        {
+          "s": "10.2139/ssrn.2183597",
+          "t": "10.1002/fut.21636",
+          "d": 1
+        },
+        {
+          "s": "10.2139/ssrn.2326606",
+          "t": "10.1002/fut.21636",
+          "d": 1
+        },
+        {
+          "s": "10.2139/ssrn.2588151",
+          "t": "10.1002/fut.21636",
+          "d": 1
+        },
+        {
+          "s": "10.2139/ssrn.2606587",
+          "t": "10.1002/fut.21636",
+          "d": 1,
+          "type": [
+            "mentioning"
+          ],
+          "section": [
+            "determinants of price discovery",
+            "introduction"
+          ],
+          "snippets": [
+            "The information contained in specific announcements may have a tendency to be incorporated into specific markets, generating variation in price discovery shares. Furthermore, there is evidence that there may be information leakage from the UK gold price fix, in that the market reacts to the fix while the fix is being undertaken (see Caminschi &amp; Heaney, 2014) . However, to what extent the market reaction represents the particular structure of the fix at the time and to what extent it reflects actual price sensitive information leakage is less clear.",
+            "The London Gold Fixing is an important determinant of the gold price (Caminschi &amp; Heaney, 2014 To formally test the effects of the market structure changes in COMEX at the end of 2006, we include a dummy variable, POST, which is equal to one after the introduction of the GLOBEX trading platform. To account for the intraday trends reported in the previous section, we include three dummy variables, ASIA, USA and UK, which equal to one when the Hong Kong Stock Exchange, New York Stock Exchange, and London Stock Exchange are trading, respectively."
+          ]
+        },
+        {
+          "s": "10.2139/ssrn.2628018",
+          "t": "10.1002/fut.21636",
+          "d": 1
+        },
+        {
+          "s": "10.2139/ssrn.2637528",
+          "t": "10.1002/fut.21636",
+          "d": 1,
+          "type": [
+            "mentioning"
+          ],
+          "snippets": [
+            "For example, Andersson, Overby, and Sebestyén (2009) analyze news wires and present evidence that the German employment report is regularly known to investors prior to its official release. Information leakage has also occurred in other settings, for example, in the London PM gold price fixing (Caminschi &amp; Heaney, 2013) . In corporate finance, some papers (for example, Sinha and Gadarowski (2010) and Agapova and Madura (2011) ) regard price drift before public guidance issued by company management as de facto evidence of information leakage while others remain agnostic about the source of informed trading around company earnings announcements (for example, J. Y."
+          ]
+        },
+        {
+          "s": "10.2139/ssrn.2657767",
+          "t": "10.1002/fut.21636",
+          "d": 1
+        },
+        {
+          "s": "10.2139/ssrn.2993096",
+          "t": "10.1002/fut.21636",
+          "d": 1
+        },
+        {
+          "s": "10.2139/ssrn.3023230",
+          "t": "10.1002/fut.21636",
+          "d": 1,
+          "type": [
+            "mentioning"
+          ],
+          "section": [
+            "directional returns during the flash crash"
+          ],
+          "snippets": [
+            "However, we also note that such increases may relate to the unwinding of untenable positions that arise as a result of extreme swings in instruments' valuations during a flash crash. In order to examine the veracity of our argument regarding the profitability of aggressive orders, we follow the approach proposed by Ederington and Lee (1995) to compute hypothetical returns attributable to an informed trader active during the flash crash and its surrounding periods (see also Caminschi and Heaney 2014; Frino et al 2018) ."
+          ]
+        },
+        {
+          "s": "10.2139/ssrn.3117398",
+          "t": "10.1002/fut.21636",
+          "d": 1
+        },
+        {
+          "s": "10.2139/ssrn.3874249",
+          "t": "10.1002/fut.21636",
+          "d": 1
+        },
+        {
+          "s": "10.2139/ssrn.4781675",
+          "t": "10.1002/fut.21636",
+          "d": 1
+        },
+        {
+          "s": "10.30537/sijmb.v5i1.189",
+          "t": "10.1002/fut.21636",
+          "d": 1,
+          "type": [
+            "mentioning"
+          ],
+          "section": [
+            "introduction"
+          ],
+          "snippets": [
+            "First strand of literature has determined the cointegration and/or causality relationship between macroeconomic variables and gold prices/markets by using different ARCH models (Sjaastad and Scacciavillani, 1996; Tully and Lucey, 2007; Zhang and Wei, 2010) . Second strand of literature has examined the spillovers, linkages, interdependencies and efficiencies amongst the gold markets (such as US, UK and Japan) and between gold and other markets (such as other precious metals, bonds and stocks) (Caminschi and Heaney, 2014; Chang et al, 2013; Ewing and Malik, 2013; Xu and Fung, 2005) . Third strand of literature has examined the role of gold as security for risk and portfolio diversification, derivative and hedging instrument, store of value and safe haven (Baur and Lucey, 2010; Baur and McDermott, 2010; Davidson et al, 2003; Wang et al, 2011) ."
+          ]
+        },
+        {
+          "s": "10.35940/ijmh.j1001.0641020",
+          "t": "10.1002/fut.21636",
+          "d": 1,
+          "type": [
+            "mentioning"
+          ],
+          "section": [
+            "iiianalysis and results"
+          ],
+          "snippets": [
+            "It determines the gold prices there and any other factor would be a less important than the LBMA (Harvey, 2013). For example, Caminschi and Heaney (2014) investigate the connection between gold futures in COMEX and LBMA. They found that the prices of gold futures in COMEX responds to the London Fixing process, although that process is done privately between the LBMA members which are bullion banks."
+          ]
+        },
+        {
+          "s": "10.35944/jofrp.2020.9.1.013",
+          "t": "10.1002/fut.21636",
+          "d": 1
+        },
+        {
+          "s": "10.7765/9781526119452.00021",
+          "t": "10.1002/fut.21636",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.eneco.2024.107903",
+          "t": "10.1007/s11408-021-00380-w",
+          "d": 1
+        },
+        {
+          "s": "10.1080/13571516.2025.2500942",
+          "t": "10.1007/s11408-021-00380-w",
+          "d": 1
+        },
+        {
+          "s": "10.1080/23322039.2023.2182016",
+          "t": "10.1007/s11408-021-00380-w",
+          "d": 1
+        },
+        {
+          "s": "10.17261/pressacademia.2023.1733",
+          "t": "10.1007/s11408-021-00380-w",
+          "d": 1
+        },
+        {
+          "s": "10.21314/jois.2022.001",
+          "t": "10.1007/s11408-021-00380-w",
+          "d": 1
+        },
+        {
+          "s": "10.2139/ssrn.3754674",
+          "t": "10.1007/s11408-021-00380-w",
+          "d": 1,
+          "type": [
+            "mentioning"
+          ],
+          "section": [
+            "introduction"
+          ],
+          "snippets": [
+            "The present paper aims to address these issues by using daily and hourly data for some developed (US, UK, Japan) and emerging (China, India) stock markets over the period 01.01.2010-01.01.2020. It complements related papers focusing on cryptocurrencies (Caporale and Plastun, 2020a), the Forex (Caporale and Plastun, 2020b) and commodity markets (Caporale and Plastun, 2020c) . The approach taken is the same (namely a number of hypotheses of interest are tested using average analysis, t-tests, cumulative abnormal returns (CAR) and trading simulation methods), but it is applied to various stock markets for which new empirical evidence is obtained."
+          ]
+        },
+        {
+          "s": "10.21511/imfi.18(4).2021.13",
+          "t": "10.1007/s11408-021-00380-w",
+          "d": 1,
+          "type": [
+            "mentioning"
+          ],
+          "section": [
+            "introduction"
+          ],
+          "snippets": [
+            "The momentum effect is observed in the emerging stock markets, oil prices, and most cryptocurrency markets. Contrarian effect is typical for the FOREX (Caporale &amp; Plastun, 2020a) , developed stock markets, gold prices (Caporale &amp; Plastun, 2021) and Bitcoin (Caporale &amp; Plastun, 2020b) . Thus, the less efficient the market, the more time it needs to incorporate new information (markets underreact)."
+          ]
+        },
+        {
+          "s": "10.21511/imfi.22(3).2025.30",
+          "t": "10.1007/s11408-021-00380-w",
+          "d": 1
+        },
+        {
+          "s": "10.47328/ufvbbt.2024.373",
+          "t": "10.1007/s11408-021-00380-w",
+          "d": 1,
+          "type": [
+            "mentioning"
+          ],
+          "section": [
+            "the selection criteria: the second step"
+          ],
+          "snippets": [
+            "In short intervals, the information may not be fully captured, while in long intervals, some noise may be introduced (Drienko and Sault, 2013; Caporale and Plastun, 2021) . Indeed, consensus on the optimal estimation window remains unclear."
+          ]
+        },
+        {
+          "s": "10.48550/arxiv.2603.20716",
+          "t": "10.1007/s11408-021-00380-w",
+          "d": 1,
+          "type": [
+            "supporting"
+          ],
+          "section": [
+            "a analysis of ovx and xau dataset"
+          ],
+          "snippets": [
+            "Over time, profit-taking in the gold market has reduced the likelihood of having extremely high XAU returns. This phenomenon is consistent with the findings of Caporale and Plastun [6] )."
+          ]
+        },
+        {
+          "s": "10.59091/2460-9196.2227",
+          "t": "10.1007/s11408-021-00380-w",
+          "d": 1
+        },
+        {
+          "s": "10.1002/fut.22509",
+          "t": "10.1016/j.resourpol.2020.101830",
+          "d": 1,
+          "type": [
+            "mentioning"
+          ],
+          "section": [
+            "literature review"
+          ],
+          "snippets": [
+            "In this regard, the use of commodity ETFs in financial literature has been on the rise, along with their growing popularity as investment instruments among both individual and institutional investors (Balli et al, 2019 ; Indriawan et al, 2020 ; Sushko &amp; Turner, 2018). However, recent studies have primarily focused on volatility transmission between stock and commodity ETFs (Indriawan et al, 2020 ; Xu et al, 2020 ), or quantified the risk assessment of commodity ETFs (Arunanondchai et al, 2020 ; Del Brio et al, 2020 ), while neglecting the analysis of their risk‐adjusted performance. Considering that fund inflows can impact returns through information revelation and price pressure (Staer, 2017 ; Warther, 1995 ), or investor sentiment (Baker &amp; Wurgler, 2006 ; Chau et al, 2011 ; Moskowitz et al, 2012 ), there is a potential effect on the risk‐adjusted returns of commodity ETFs."
+          ]
+        },
+        {
+          "s": "10.1016/b978-0-443-33335-4.00005-x",
+          "t": "10.1016/j.resourpol.2020.101830",
+          "d": 1
+        },
+        {
+          "s": "10.1016/b978-0-443-33335-4.00006-1",
+          "t": "10.1016/j.resourpol.2020.101830",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.bir.2023.01.002",
+          "t": "10.1016/j.resourpol.2020.101830",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.eswa.2022.117604",
+          "t": "10.1016/j.resourpol.2020.101830",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.frl.2024.106372",
+          "t": "10.1016/j.resourpol.2020.101830",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.gfj.2025.101084",
+          "t": "10.1016/j.resourpol.2020.101830",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.ijforecast.2025.04.001",
+          "t": "10.1016/j.resourpol.2020.101830",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.knosys.2023.110443",
+          "t": "10.1016/j.resourpol.2020.101830",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.physa.2022.127508",
+          "t": "10.1016/j.resourpol.2020.101830",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.physa.2024.130159",
+          "t": "10.1016/j.resourpol.2020.101830",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.resourpol.2020.101966",
+          "t": "10.1016/j.resourpol.2020.101830",
+          "d": 1,
+          "type": [
+            "mentioning"
+          ],
+          "section": [
+            "review of the literature"
+          ],
+          "snippets": [
+            "According to Ouyang and Zhang (2020) , speculation is also an important driving factor of commodity prices. Based on high-frequency data, Xu et al (2020) show the presence of intraday return predictability for commodity ETFs. This result is also confirmed by the study of Zhang et al (2020b) who demonstrate that intraday momentum exists in Chinese commodity futures markets."
+          ]
+        },
+        {
+          "s": "10.1016/j.resourpol.2022.103048",
+          "t": "10.1016/j.resourpol.2020.101830",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.resourpol.2024.105287",
+          "t": "10.1016/j.resourpol.2020.101830",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.ribaf.2024.102329",
+          "t": "10.1016/j.resourpol.2020.101830",
+          "d": 1
+        },
+        {
+          "s": "10.1080/00036846.2023.2177598",
+          "t": "10.1016/j.resourpol.2020.101830",
+          "d": 1
+        },
+        {
+          "s": "10.1080/14697688.2025.2535479",
+          "t": "10.1016/j.resourpol.2020.101830",
+          "d": 1
+        },
+        {
+          "s": "10.1108/jm2-05-2024-0155",
+          "t": "10.1016/j.resourpol.2020.101830",
+          "d": 1
+        },
+        {
+          "s": "10.1109/icatmri51801.2020.9398438",
+          "t": "10.1016/j.resourpol.2020.101830",
+          "d": 1
+        },
+        {
+          "s": "10.1109/icses60034.2023.10465501",
+          "t": "10.1016/j.resourpol.2020.101830",
+          "d": 1
+        },
+        {
+          "s": "10.1109/ijcnn60899.2024.10651321",
+          "t": "10.1016/j.resourpol.2020.101830",
+          "d": 1
+        },
+        {
+          "s": "10.1111/joes.12541",
+          "t": "10.1016/j.resourpol.2020.101830",
+          "d": 1,
+          "type": [
+            "mentioning"
+          ],
+          "section": [
+            "introduction",
+            "studies on the connectedness of commodities in cross-commodi..."
+          ],
+          "snippets": [
+            "They imply that the Prebisch-Singer (PS) hypothesis, which contends that (log) relative commodity prices are steadily dropping over time, is the only explanation for the long-run increase in commodity prices. Bouri et al (2021) and Xu et al (2020) investigate the high-frequency connectedness of commodity markets and identify factors that explain it. Xu et al (2020) postulate that there are two theoretical explanations for the interconnectivity of the commodity market.",
+            "Bouri et al (2021) and Xu et al (2020) investigate the high-frequency connectedness of commodity markets and identify factors that explain it. Xu et al (2020) postulate that there are two theoretical explanations for the interconnectivity of the commodity market. The first relates portfolio rebalancing model of Bogousslavsky (2016) , which indicates theoretically that certain traders choose to delay portfolio rebalancing until the market closure instead of trading immediately when a successful signal is delivered, resulting in a positive correlation.",
+            "However, the main source of volatility transmission to the prices of commodities appears to be industrial input prices. Xu et al (2020) analyze the patterns of intraday return predictability (i.e., intraday momentum) based on the high-frequency series of gold, oil, and silver exchange-traded funds and their associated volatility indices. The results show the existence of intraday return predictability in all the markets considered and further show that the pattern of predictability differs across the markets."
+          ]
+        },
+        {
+          "s": "10.1155/2021/2226944",
+          "t": "10.1016/j.resourpol.2020.101830",
+          "d": 1,
+          "type": [
+            "mentioning"
+          ],
+          "section": [
+            "introduction"
+          ],
+          "snippets": [
+            "By examining the impact of a certain commodity on the entire system when it is in trouble, in other words, extreme price shocks, we can concretize the systemic risk caused by joint fluctuations with CoVaR, and Co represents joint functions [10] . Xu et al have upgraded the intraday data commonly used in the empirical field [16] to a volatility calculated based on 5-minute prices [11] . e extensive use of high-frequency data has allowed systemic risk in the frequency domain to gain much attention, and the trend toward diversified risk has been applied in different investment periods, just like long term and short term."
+          ]
+        },
+        {
+          "s": "10.1155/ddns/1496575",
+          "t": "10.1016/j.resourpol.2020.101830",
+          "d": 1
+        },
+        {
+          "s": "10.1177/09721509251328555",
+          "t": "10.1016/j.resourpol.2020.101830",
+          "d": 1
+        },
+        {
+          "s": "10.15240/tul/001/2021-4-008",
+          "t": "10.1016/j.resourpol.2020.101830",
+          "d": 1
+        },
+        {
+          "s": "10.3390/jrfm15050192",
+          "t": "10.1016/j.resourpol.2020.101830",
+          "d": 1,
+          "type": [
+            "mentioning"
+          ],
+          "section": [
+            "notes"
+          ],
+          "snippets": [
+            "4 In a related paper, Xu et al ( 2020 ) found predictability in the volatility indices of commodity exchange-traded funds, especially on days with higher volatility and larger jumps. It is important to note that volatility indices cannot be traded directly, but by constructing a portfolio of options that replicates the volatility index."
+          ]
+        }
+      ],
+      "papers": {
+        "10.1002/fut.21636": {
+          "title": "Fixing a Leaky Fixing: Short‐Term Market Reactions to the London PM Gold Price Fixing",
+          "year": 2013
+        },
+        "10.1002/fut.21775": {
+          "title": "Who Sets the Price of Gold? London or New York",
+          "year": 2016
+        },
+        "10.1002/fut.22120": {
+          "title": "Benchmarks in the spotlight: The impact on exchange traded markets",
+          "year": 2020
+        },
+        "10.1002/fut.22208": {
+          "title": "Who leads in intraday gold price discovery and volatility connectedness: Spot, futures, or exchange‐traded fund?",
+          "year": 2021
+        },
+        "10.1002/fut.22509": {
+          "title": "Trading commodity ETFs: Price behavior, investment insights, and performance analysis",
+          "year": 2024
+        },
+        "10.1002/ijfe.1926": {
+          "title": "Order aggressiveness and flash crashes",
+          "year": 2020
+        },
+        "10.1007/s11408-021-00380-w": {
+          "title": "Gold and oil prices: abnormal returns, momentum and contrarian effects",
+          "year": 2021
+        },
+        "10.1016/b978-0-443-33335-4.00005-x": {
+          "title": "Markets for exchange-traded commodities: empirical study",
+          "year": 2026
+        },
+        "10.1016/b978-0-443-33335-4.00006-1": {
+          "title": "Exchange-traded commodities: main features and comparisons to the competing commodities investing financial products",
+          "year": 2026
+        },
+        "10.1016/j.bir.2023.01.002": {
+          "title": "Cross-sectional reversal of intraday returns and investor heterogeneity in an emerging market",
+          "year": 2023
+        },
+        "10.1016/j.eneco.2024.107903": {
+          "title": "Short-term contrarian in the carbon emission market",
+          "year": 2024
+        },
+        "10.1016/j.eswa.2022.117604": {
+          "title": "Prediction of stock market index based on ISSA-BP neural network",
+          "year": 2022
+        },
+        "10.1016/j.finmar.2022.100734": {
+          "title": "The visible hand: benchmarks, regulation, and liquidity",
+          "year": 2022
+        },
+        "10.1016/j.frl.2015.03.004": {
+          "title": "What drives gold returns? A decision tree analysis",
+          "year": 2015
+        },
+        "10.1016/j.frl.2024.106372": {
+          "title": "Risk spillovers and optimal hedging in commodity ETFs: A TVP-VAR Approach",
+          "year": 2024
+        },
+        "10.1016/j.gfj.2025.101084": {
+          "title": "The “night effect” of intraday trading: Evidence from Chinese gold and silver futures markets",
+          "year": 2025
+        },
+        "10.1016/j.ijforecast.2025.04.001": {
+          "title": "A functional mixture prediction model for dynamically forecasting cumulative intraday returns of crude oil futures",
+          "year": 2026
+        },
+        "10.1016/j.irfa.2015.01.017": {
+          "title": "The importance of belief dispersion in the response of gold futures to macroeconomic announcements",
+          "year": 2015
+        },
+        "10.1016/j.irfa.2015.03.013": {
+          "title": "On the efficiency of the global gold markets",
+          "year": 2015
+        },
+        "10.1016/j.irfa.2015.05.001": {
+          "title": "Global information distribution in the gold OTC markets",
+          "year": 2015
+        },
+        "10.1016/j.irfa.2015.07.005": {
+          "title": "The financial economics of gold — A survey",
+          "year": 2015
+        },
+        "10.1016/j.irfa.2024.103486": {
+          "title": "How do the gold intra-day returns and volatility react to monetary policy shocks?",
+          "year": 2024
+        },
+        "10.1016/j.jbankfin.2017.08.017": {
+          "title": "The impact of commodity benchmarks on derivatives markets: The case of the dated Brent assessment and Brent futures",
+          "year": 2018
+        },
+        "10.1016/j.jbankfin.2026.107641": {
+          "title": "Dealer misconduct and price dynamics at the fix",
+          "year": 2026
+        },
+        "10.1016/j.knosys.2023.110443": {
+          "title": "Asset-return momentum prediction through pattern recognition",
+          "year": 2023
+        },
+        "10.1016/j.physa.2022.127508": {
+          "title": "Delta-hedging demand and intraday momentum: Evidence from China",
+          "year": 2022
+        },
+        "10.1016/j.physa.2024.130159": {
+          "title": "Comparative analysis of profits from Bitcoin and its derivatives using artificial intelligence for hedge",
+          "year": 2024
+        },
+        "10.1016/j.resourpol.2020.101830": {
+          "title": "Intraday return predictability: Evidence from commodity ETFs and their related volatility indices",
+          "year": 2020
+        },
+        "10.1016/j.resourpol.2020.101966": {
+          "title": "Price overreactions in the commodity futures market: An intraday analysis of the Covid-19 pandemic impact",
+          "year": 2021
+        },
+        "10.1016/j.resourpol.2022.103048": {
+          "title": "Examining the asymmetries between equity and commodity ETFs during COVID-19",
+          "year": 2022
+        },
+        "10.1016/j.resourpol.2024.105287": {
+          "title": "How does the mineral resource exploitation sector interact with Islamic and traditional ventures? Insights amidst the impact of green reforms and state-of-the-art technological advancements",
+          "year": 2024
+        },
+        "10.1016/j.ribaf.2024.102329": {
+          "title": "Return connectedness of green bonds and financial investment channels in China: Implications for hedging and regulation",
+          "year": 2024
+        },
+        "10.1017/s0022109018000625": {
+          "title": "Price Drift Before U.S. Macroeconomic News: Private Information about Public Announcements?",
+          "year": 2018
+        },
+        "10.1080/00036846.2015.1133903": {
+          "title": "How does economic policy uncertainty drive gold–stock correlations? Evidence from the UK",
+          "year": 2016
+        },
+        "10.1080/00036846.2023.2177598": {
+          "title": "The Distribution of Commodity Futures: A Test of the Generalized Hyperbolic Process",
+          "year": 2023
+        },
+        "10.1080/13571516.2025.2500942": {
+          "title": "Price Anomalies in Non-Fungible Token Coins",
+          "year": 2025
+        },
+        "10.1080/14697688.2025.2535479": {
+          "title": "Intra-day seasonality and abnormal returns in the Brent crude oil futures market",
+          "year": 2025
+        },
+        "10.1080/23322039.2023.2182016": {
+          "title": "Witching days and abnormal profits in the us stock market",
+          "year": 2023
+        },
+        "10.1108/jm2-05-2024-0155": {
+          "title": "Mapping the landscape of exchange-traded funds: a bibliometric analysis",
+          "year": 2025
+        },
+        "10.1109/icatmri51801.2020.9398438": {
+          "title": "On the Impact of Multi-Authorship Scholarly Publications",
+          "year": 2020
+        },
+        "10.1109/icses60034.2023.10465501": {
+          "title": "Mapping the Research Landscape of Exchange Traded Funds using Machine Learning: A Topic Modelling Approach",
+          "year": 2023
+        },
+        "10.1109/ijcnn60899.2024.10651321": {
+          "title": "Financial Market Volatility Forecasting Based on Domain Adaptation",
+          "year": 2024
+        },
+        "10.1111/1467-9698.5296": {
+          "title": "E: Policy, Law and Regulation",
+          "year": 2015
+        },
+        "10.1111/ajfs.12122": {
+          "title": "Recent Advances in the Literature: Asia-Pacific Derivative Markets",
+          "year": 2016
+        },
+        "10.1111/joes.12541": {
+          "title": "On the connectedness of commodity markets: A critical and selective survey of empirical studies and bibliometric analysis",
+          "year": 2022
+        },
+        "10.1155/2021/2226944": {
+          "title": "The Impact of Geopolitical Risk on Systemic Risk Spillover in Commodity Market: An EMD‐Based Network Topology Approach",
+          "year": 2021
+        },
+        "10.1155/ddns/1496575": {
+          "title": "Risk Spillovers Between the US Dollar and Chinese Stock Market: A Higher‐Moment Approach",
+          "year": 2026
+        },
+        "10.1177/09721509251328555": {
+          "title": "Optimizing Commodity Futures Trading in the Financial Market: Fine-tuning Bollinger Bands Strategy",
+          "year": 2025
+        },
+        "10.15240/tul/001/2021-4-008": {
+          "title": "THE IMPACT OF INTRADAY MOMENTUM ON STOCK RETURNS: EVIDENCE FROM S&amp;P500 AND CSI300",
+          "year": 2021
+        },
+        "10.17261/pressacademia.2023.1733": {
+          "title": "The impact of the US employment report on the gold spot rate",
+          "year": 2023
+        },
+        "10.17580/gzh.2016.09.04": {
+          "title": "Mining industry in the economy of the Republic of Sakha (Yakutia): State-of-the-art, problems and challenges",
+          "year": 2016
+        },
+        "10.21314/jois.2022.001": {
+          "title": "Abnormal returns and stock price movements: some evidence from developed and emerging markets",
+          "year": 2021
+        },
+        "10.2139/ssrn.2183597": {
+          "title": "Do Bubbles Occur in the Gold Price? An Investigation of Gold Lease Rates and Markov Switching Models",
+          "year": 2012
+        },
+        "10.2139/ssrn.2326606": {
+          "title": "Central Banks and Gold",
+          "year": 2013
+        },
+        "10.2139/ssrn.2588151": {
+          "title": "What Drives Gold Returns?  A Decision Tree Analysis",
+          "year": 2015
+        },
+        "10.2139/ssrn.2606587": {
+          "title": "Who Sets the Price of Gold? London or New York?",
+          "year": 2015
+        },
+        "10.2139/ssrn.2628018": {
+          "title": "The Financial Economics of Gold – A Survey",
+          "year": 2015
+        },
+        "10.2139/ssrn.2637528": {
+          "title": "Price Drift before U.S. Macroeconomic News: Private Information about Public Announcements?",
+          "year": 2015
+        },
+        "10.2139/ssrn.2657767": {
+          "title": "Did the New Fix, Fix the Fix?",
+          "year": 2015
+        },
+        "10.2139/ssrn.2993096": {
+          "title": "Collusive Benchmark Rates Fixing",
+          "year": 2017
+        },
+        "10.2139/ssrn.3023230": {
+          "title": "Order Aggressiveness and Flash Crashes",
+          "year": 2017
+        },
+        "10.2139/ssrn.3117398": {
+          "title": "Collusive Benchmark Rates Fixing",
+          "year": 2018
+        },
+        "10.2139/ssrn.3754674": {
+          "title": "Abnormal Returns and Stock Price Movements: Some Evidence from Developed and Emerging Markets",
+          "year": 2020
+        },
+        "10.2139/ssrn.3874249": {
+          "title": "Did the Reform Work? Evidence from VIX Settlement Anomalies",
+          "year": 2026
+        },
+        "10.2139/ssrn.4781675": {
+          "title": "Dealer Trading at the Fix",
+          "year": 2024
+        },
+        "10.21511/imfi.18(4).2021.13": {
+          "title": "Daily abnormal returns and price effects in the “passion investments” market",
+          "year": 2021
+        },
+        "10.21511/imfi.22(3).2025.30": {
+          "title": "High-frequency momentum and contrarian strategies in U.S. blue chips",
+          "year": 2025
+        },
+        "10.30537/sijmb.v5i1.189": {
+          "title": "Are gold markets weak form efficient? Evidence from China, India and Russia",
+          "year": 2018
+        },
+        "10.3390/jrfm15050192": {
+          "title": "The Profitability of Technical Analysis during the COVID-19 Market Meltdown",
+          "year": 2022
+        },
+        "10.35940/ijmh.j1001.0641020": {
+          "title": "The Gold Cliché",
+          "year": 2020
+        },
+        "10.35944/jofrp.2020.9.1.013": {
+          "title": "Fixing the Fix for Silver and Gold",
+          "year": 2020
+        },
+        "10.47328/ufvbbt.2024.373": {
+          "title": "The role of public information in the Brazilian live cattle market",
+          "year": null
+        },
+        "10.48550/arxiv.2603.20716": {
+          "title": "Testing for cross-quantilogram change",
+          "year": 2026
+        },
+        "10.59091/2460-9196.2227": {
+          "title": "Whether The Crypto Market Is Efficient? Evidence From Testing The Validity Of The Efficient Market Hypothesis",
+          "year": 2024
+        },
+        "10.7765/9781526119452.00021": {
+          "title": "Select bibliography",
+          "year": 2019
+        }
+      }
+    },
+    {
+      "seeds": [
+        "10.1002/fut.21775",
+        "10.1371/journal.pone.0174232",
+        "10.1002/fut.22120",
+        "10.1111/jfir.12223",
+        "10.1007/s12197-017-9403-0"
+      ],
+      "direction": "in",
+      "depth": 1,
+      "edge_count": 130,
+      "node_count": 131,
+      "truncated": true,
+      "seed_coverage": {
+        "10.1002/fut.21775": 87,
+        "10.1371/journal.pone.0174232": 20,
+        "10.1002/fut.22120": 15,
+        "10.1111/jfir.12223": 9,
+        "10.1007/s12197-017-9403-0": 1
+      },
+      "low_coverage_seeds": [
+        "10.1007/s12197-017-9403-0"
+      ],
+      "edges": [
+        {
+          "s": "10.1002/fut.21935",
+          "t": "10.1002/fut.21775",
+          "d": 1,
+          "type": [
+            "mentioning"
+          ],
+          "section": [
+            "methods"
+          ],
+          "snippets": [
+            "We calculate the mid‐quote for both swap and futures as the average of the best bid and ask quotes at each 1‐min interval after removing weekends and holidays. Mid‐quotes reduce the effect of bid‐ask bounce, as explained in Hauptfleisch, Putni, and Lucey ( )."
+          ]
+        },
+        {
+          "s": "10.1002/fut.21938",
+          "t": "10.1002/fut.21775",
+          "d": 1,
+          "type": [
+            "mentioning",
+            "supporting"
+          ],
+          "section": [
+            "introduction",
+            "research findings"
+          ],
+          "snippets": [
+            "We cautiously accept this explanation because higher trading activity does not necessarily explain the price discovery dominance. Hauptfleisch et al ( ) find that the New York gold futures market plays a larger role in price discovery despite the London spot market account a much higher total gold turnover.",
+            "All results indicate that more price discovery occurs in the futures market. The results are consistent with the findings of Hauptfleisch et al ( ) who state that the New York gold futures market plays a greater role on average in the price discovery process in comparison to the London spot market. Yan and Zivot ( ) compare and contrast IS, CS, and ILS.",
+            "He suggests a new measure, ILS, by combining IS and CS measures with the new measure capturing only permanent shocks on asset prices. Hauptfleisch, Putniņš, and Lucey ( ) use Putnins ( ) ILS to confirm that New York leads the other financial centers in terms of gold price discovery. This finding exhibits the contrasting inferences drawn from using the unmodified Gonzalo and Granger ( ) and Hasbrouck ( ) that led Lucey et al ( ) to conclude that London was in fact the dominant center in terms of gold price discovery."
+          ]
+        },
+        {
+          "s": "10.1002/fut.21969",
+          "t": "10.1002/fut.21775",
+          "d": 1,
+          "type": [
+            "mentioning"
+          ],
+          "section": [
+            "introduction",
+            "literature review",
+            "the effect of gold market opening on price discovery"
+          ],
+          "snippets": [
+            "The third contribution is that we add to the literature on gold price discovery by investigating whether opening the market to foreign investors improves the price discovery share of that market. There have been many studies that have examined which gold markets play a major role in gold price discovery, such as Xu and Fung ( ), Lin, Chiang, and Chen ( ), Lucey, Larkin, and O’Connor ( ), Fuangkasem, Chunhachinda, and Nathaphan () and Hauptfleisch et al ( ). Our paper documents that the SGE contributes more to the price discovery process due to the market opening, after controlling for other factors that may affect price discovery, such as liquidity, volatility, trading volumes and numbers of small, medium, and large trades.",
+            "Since the SGE in Shanghai and COMEX in New York are separated by a large time difference, we estimate the price discovery between them for three trading sessions for each day, namely, the morning, afternoon and night session on the SGE. This allows for intraday variation in price discovery similarly to in Hauptfleisch et al ( ). Using the midpoint of the bid and ask quotes with a 5‐s frequency for each day, we obtain the ILS for the morning, afternoon and night sessions on a daily basis",
+            "The benefits for investors of hedging and diversification through trading in different gold markets are limited compared to those obtained by trading stocks across countries. Moreover, in contrast to individual stocks, information that affects the value of gold results from vastly different sources, for example, gold mines, jewelry and investment demand, central bank actions, and macroeconomic conditions (Hauptfleisch, Putniņš, &amp; Lucey, ). Therefore, previous evidence of the effect of market openness on stock markets may not be applicable to the case of gold market openness."
+          ]
+        },
+        {
+          "s": "10.1002/fut.22004",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.1002/fut.22021",
+          "t": "10.1002/fut.21775",
+          "d": 1,
+          "type": [
+            "mentioning"
+          ],
+          "section": [
+            "bohmann et al",
+            "introduction",
+            "methods"
+          ],
+          "snippets": [
+            "| 1111 use 200 lags in the VECM to allow sufficient time for each market to reflect new information from the other market (e.g., Hauptfleisch, Putniņš, &amp; Lucey, 2016; Muravyev et al, 2013; Patel et al, 2018) . The normalized orthogonal to the VECM coefficients allows for the computation of CS:",
+            "Each day, for each put‐call pair, and using prices sampled in event‐time sampling frequency we estimate IS and CS from the parameter estimates and reduced form errors of a vector error correction model (VECM) with 200 lags: Δ p 1 , t = α 1 true( p 1 , t − 1 − p 2 , t − 1 true) + ∑ i = 1 200 γ i Δ p 1 , t − i + ∑ j = 1 200 δ i Δ p 2 , t − j + ε 1 , t , Δ p 2 , t = α 2 true( p 1 , t − 1 − p 2 , t − 1 true) + ∑ k = 1 200 φ i Δ p 1 , t − k + ∑ m = 1 200 ϕ i Δ p 2 , t − m + ε 2 , t , where italicΔ p i , t is the change in the log midquote price of asset i at time t . Consistent with the price discovery literature, we use 200 lags in the VECM to allow sufficient time for each market to reflect new information from the other market (e.g., Hauptfleisch, Putniņš, &amp; Lucey, ; Muravyev et al, ; Patel et al, ). The normalized orthogonal to the VECM coefficients allows for the computation of CS : C S 1 = γ 1 = α 2 α 2 − α 1",
+            "Garbade and Silber ( ) report that wheat, corn, and orange juice futures lead spot markets. Hauptfleish et al ( ) reach a similar conclusion in gold futures markets. In contrast, Dimpfl, Flad, and Jung ( ) find that a majority of price discovery occur in the underlying corn, wheat, soybeans, and cattle markets ."
+          ]
+        },
+        {
+          "s": "10.1002/fut.22050",
+          "t": "10.1002/fut.21775",
+          "d": 1,
+          "type": [
+            "contradicting"
+          ],
+          "section": [
+            "introduction"
+          ],
+          "snippets": [
+            "However, using the accumulated price data from both futures exchanges, Corbet, Lucey, Peat, and Vigne ( ) and Baur and Dimpfl ( ) independently report that the futures markets neither exercise a price leadership nor serve as an effective hedge against spot market, possibly due to low trading volume in futures contracts compared with the spot. Yet, this is contrary to general findings in mature futures markets of other asset classes, where futures markets play a dominant role in price discovery (Bohl, Salm, &amp; Schuppli, ; Cabrera, Wang, &amp; Yang, ; Hauptfleisch, Putniņš, &amp; Lucey, ; Rosenberg &amp; Traub, ). Moreover, using much higher frequency data and a longer time span than previous studies, a recent paper by Alexander and Heck () has demonstrated a relatively high role of both CBOE and CME futures."
+          ]
+        },
+        {
+          "s": "10.1002/fut.22101",
+          "t": "10.1002/fut.21775",
+          "d": 1,
+          "type": [
+            "mentioning"
+          ],
+          "section": [
+            "data",
+            "introduction"
+          ],
+          "snippets": [
+            "8 The analysis of the daily behavior of price discovery requires a continuous futures time series. We follow Fricke and Menkhoff (2011) and Hauptfleisch et al (2016) and use the most actively traded futures contract on each day in our sample. An alternative procedure in empirical studies is to use the nearest-to-maturity futures contract (e.g., Booth et al, 1999; Cabrera, Wang, &amp; Yang, 2009 ).",
+            "The time variation in price discovery we observe in our first‐stage is in line with the findings in the DAX ETF and DAX futures market (see Schlusche, 2009 ), in the VIX short‐term futures ETN and inverse VIX short‐term ETN (see Fernandez‐Perez, Frijns, Gafiatullina, &amp; Tourani‐Rad, 2018 ), and in the Indian stock and futures markets (see Karmakar &amp; Inani, 2019 ). However, studies on price discovery between spot and futures markets usually find the futures market to lead (see, e.g., Hauptfleisch, Putniņš, &amp; Lucey, 2016 , for gold spot and futures markets; Theissen, 2012 , for the DAX spot and DAX futures; Dimpfl et al, 2017 , for spot and futures of eight agricultural commodities).",
+            "Similar to Grammig, Melvin, and Schlag ( 2005 ), we consider overlapping trading hours between spot and futures only. We further follow the procedure of Hauptfleisch et al ( 2016 ) and delete all entries before 0 a.m. and after 8 p.m. Greenwich Mean Time. This avoids the need to deal with market closures on CME and time zone adjustments, thus simplifying our two‐stage analysis."
+          ]
+        },
+        {
+          "s": "10.1002/fut.22104",
+          "t": "10.1002/fut.21775",
+          "d": 1,
+          "type": [
+            "mentioning"
+          ],
+          "section": [
+            "methods"
+          ],
+          "snippets": [
+            "This database includes indicative quotes provided by approved dealers and contributors. For both swaps and futures contracts, we calculate the mid‐quote as the average of the best bid and ask quotes which reduces the effect of bid–ask bounce (Hauptfleisch, Putniņš, &amp; Lucey, 2016 ). Data for interest rate swap and futures contracts are collected for the daytime trading session from 8:28 a.m. AEST to 4:30 p.m. AEST."
+          ]
+        },
+        {
+          "s": "10.1002/fut.22120",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.1002/fut.22123",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.1002/fut.22147",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.1002/fut.22208",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.1002/fut.22415",
+          "t": "10.1002/fut.21775",
+          "d": 1,
+          "type": [
+            "mentioning"
+          ],
+          "section": [
+            "price discovery"
+          ],
+          "snippets": [
+            "Geoffrey Booth and Ciner (1997) identified that US Corn futures market is dominant in price discovery compared to Japan. Hauptfleisch et al (2016) identified leading role of New York Gold futures market compared to London. Fung et al (2010) studied price discovery for Aluminum and Copper futures in United States and China."
+          ]
+        },
+        {
+          "s": "10.1007/978-3-030-19037-8_4",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.1007/978-3-031-53915-2_2",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.1007/978-3-031-53915-2_4",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.1007/s10436-020-00371-3",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.1007/s11156-017-0672-7",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.econlet.2018.07.031",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.econlet.2023.111152",
+          "t": "10.1002/fut.21775",
+          "d": 1,
+          "type": [
+            "mentioning"
+          ],
+          "section": [
+            "j o u r n a l p r e -p r o o f"
+          ],
+          "snippets": [
+            "Hauptfleisch et al (2016) and Corbet et al (2018) , we write the VECM representation for the two venues as J o u r n a l P r e -p r o o f",
+            "Journal Pre-proof Siriopoulos, 2019), commodities (Kuiper et al, 2002; Peri et al, 2013; Dolatabadi et al, 2015; Hauptfleisch et al, 2016; Dimpfl et al, 2017) , and foreign exchange (Chen and Gau, 2010) ."
+          ]
+        },
+        {
+          "s": "10.1016/j.econmod.2016.03.005",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.econmod.2016.10.008",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.finmar.2020.100584",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.frl.2016.06.012",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.frl.2019.07.007",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.frl.2023.104809",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.intfin.2018.12.003",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.iref.2016.08.004",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.iref.2023.10.032",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.irfa.2015.07.005",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.irfa.2016.12.005",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.irfa.2019.101404",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.irfa.2020.101468",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.irfa.2020.101569",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.irfa.2021.101893",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.irfa.2025.104380",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.jbankfin.2023.106808",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.jbankfin.2025.107527",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.jcomm.2018.05.001",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.jcomm.2021.100226",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.jcorpfin.2020.101759",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.jempfin.2021.03.001",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.jfs.2020.100776",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.jimonfin.2025.103415",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.physa.2017.08.045",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.resourpol.2019.101416",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.resourpol.2022.102927",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.ribaf.2019.101116",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.techfore.2020.120191",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.1080/13504851.2016.1164813",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.1080/14697688.2020.1814006",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.1080/1540496x.2019.1677225",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.1109/cbfd52659.2021.00111",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.1111/acfi.70251",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.1111/agec.12594",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.1111/infi.70015",
+          "t": "10.1002/fut.21775",
+          "d": 1,
+          "type": [
+            "mentioning"
+          ],
+          "section": [
+            "introduction"
+          ],
+          "snippets": [
+            "In the field of commodities, Hauptfleisch et al ( 2016 ) investigate which of the two main gold trade centres London spot market or New York futures lead the price formation by using a dataset of 17‐year intra‐day trading activity. The data frequency is restricted to 1 s, for the examined time period from 1 January 1997 to 30 November 2014."
+          ]
+        },
+        {
+          "s": "10.1111/woba.5397",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.12660/rbfin.v18n2.2020.79162",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.1371/journal.pone.0174232",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.17218/hititsbd.1863280",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.17580/gzh.2016.09.04",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.2139/ssrn.2628018",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.2139/ssrn.2720324",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.2139/ssrn.2721250",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.2139/ssrn.2776581",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.2139/ssrn.2981717",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.2139/ssrn.3021533",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.2139/ssrn.3171464",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.2139/ssrn.3197634",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.2139/ssrn.3222111",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.2139/ssrn.3294567",
+          "t": "10.1002/fut.21775",
+          "d": 1,
+          "type": [
+            "mentioning"
+          ],
+          "section": [
+            "the financial economics of precious metals: a very short review"
+          ],
+          "snippets": [
+            "A large body of literature has also grown up in more recent times on the microstructure of the precious metals markets, sparked by the spread of both databases and products. Studies such as Adrangi et al [2000] , Batten et al [2013] and Hauptfleisch et al [2016] examine the highh frequency dynamics of price diffusion and discovery. Papers such as Batten et al [2018] and Batten et al [2017] uncover the high frequency stylized facts of gold and silver."
+          ]
+        },
+        {
+          "s": "10.2139/ssrn.3326300",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.2139/ssrn.3353583",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.2139/ssrn.3383147",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.2139/ssrn.3437845",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.2139/ssrn.3442706",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.2139/ssrn.3583843",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.2139/ssrn.4022550",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.2139/ssrn.4459924",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.2139/ssrn.4983566",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.2139/ssrn.7370002",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.21511/imfi.19(3).2022.13",
+          "t": "10.1002/fut.21775",
+          "d": 1,
+          "type": [
+            "mentioning"
+          ],
+          "section": [
+            "literature review"
+          ],
+          "snippets": [
+            "Their evidence reveals that about 75% of new information is incorporated first into the Dominant market prices. Hauptfleisch et al (2016) show that the New York Futures play a dominant role in price discovery."
+          ]
+        },
+        {
+          "s": "10.25335/e5dp-tj15",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.3390/jrfm15070273",
+          "t": "10.1002/fut.21775",
+          "d": 1,
+          "type": [
+            "mentioning"
+          ],
+          "section": [
+            "review of literature"
+          ],
+          "snippets": [
+            "They have not only explained the price-setting mechanism but also described the drawbacks Aasif (2018), BullionStar (2017a). Hauptfleisch et al ( 2016 ) used intraday data from the London spot market and New York futures market to find out who set the gold price. They concluded that the New York futures play a larger role than the London spot market."
+          ]
+        },
+        {
+          "s": "10.4038/cbj.v15i1.165",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.4467/23539496ib.16.029.5610",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.52736/ubeyad.1783124",
+          "t": "10.1002/fut.21775",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.bar.2024.101510",
+          "t": "10.1002/fut.22120",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.finmar.2025.101031",
+          "t": "10.1002/fut.22120",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.frl.2020.101556",
+          "t": "10.1002/fut.22120",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.frl.2020.101674",
+          "t": "10.1002/fut.22120",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.jedc.2023.104786",
+          "t": "10.1002/fut.22120",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.pacfin.2024.102311",
+          "t": "10.1002/fut.22120",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.pacfin.2024.102652",
+          "t": "10.1002/fut.22120",
+          "d": 1
+        },
+        {
+          "s": "10.1080/14697688.2020.1849782",
+          "t": "10.1002/fut.22120",
+          "d": 1
+        },
+        {
+          "s": "10.1146/annurev-financial-110921-015054",
+          "t": "10.1002/fut.22120",
+          "d": 1,
+          "type": [
+            "mentioning"
+          ],
+          "section": [
+            "literature on the role of benchmarks"
+          ],
+          "snippets": [
+            "Ysusi, Pirrone &amp; Suntheim (2018) document similar improvements. Aspris, Foley &amp; O'Neill (2020) study the changes in 2014 to the precious-metal fixings of the London Bullion Market Association (LBMA), from closed auctions among a limited number of dealers to open and transparent electronic auctions. They find that the change decreased market spreads and improved market depth."
+          ]
+        },
+        {
+          "s": "10.1287/mnsc.2023.00884",
+          "t": "10.1002/fut.22120",
+          "d": 1
+        },
+        {
+          "s": "10.2139/ssrn.3600230",
+          "t": "10.1002/fut.22120",
+          "d": 1
+        },
+        {
+          "s": "10.2139/ssrn.3826039",
+          "t": "10.1002/fut.22120",
+          "d": 1
+        },
+        {
+          "s": "10.2139/ssrn.4351722",
+          "t": "10.1002/fut.22120",
+          "d": 1
+        },
+        {
+          "s": "10.2139/ssrn.4718425",
+          "t": "10.1002/fut.22120",
+          "d": 1,
+          "type": [
+            "mentioning"
+          ],
+          "section": [
+            "benenchia et al",
+            "tools"
+          ],
+          "snippets": [
+            "Although the focus of this paper is on the ''raw'' bid-ask spread, the empirical literature also refers to the percentage spread in cents calculated as rbas 𝑖𝑡 = ( 𝑎 𝑖𝑡 − 𝑏 𝑖𝑡 ) ∕𝑚 𝑖𝑡 , where 𝑚 𝑖𝑡 is the prevailing midpoint between the best ask and best bid prices, 𝑚 𝑖𝑡 = ( 𝑎 𝑖𝑡 + 𝑏 𝑖𝑡 ) ∕2. Following both Evans et al (2018) and Aspris et al (2020) , we compute the cost of a round trip transaction in basis points for the liquidity demander as measured by two times the difference between the transaction price and the prevailing quote midpoint:",
+            "To address the third research question, instead, we employ an event study methodology similar to Aspris et al (2020) , thus examining the time directly surrounding each daily 4 pm Fix. We compute different liquidity measures following the mainstream 4 Although we share a similar aim with the study of Evans et al (2018) , we are unable to fully replicate their analysis given the absence of trader-level information and the lack of an effective window length change that they use to execute an event study.",
+            "approach in the market microstructure literature. Consistent with Aspris et al (2020) , we measure liquidity in basis points first as the raw bid-ask spread:"
+          ]
+        },
+        {
+          "s": "10.1007/978-3-030-43078-8_1",
+          "t": "10.1007/s12197-017-9403-0",
+          "d": 1
+        },
+        {
+          "s": "10.1007/s11156-025-01461-x",
+          "t": "10.1111/jfir.12223",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.gfj.2025.101084",
+          "t": "10.1111/jfir.12223",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.jebo.2022.03.016",
+          "t": "10.1111/jfir.12223",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.najef.2026.102707",
+          "t": "10.1111/jfir.12223",
+          "d": 1
+        },
+        {
+          "s": "10.1108/ijoem-10-2023-1594",
+          "t": "10.1111/jfir.12223",
+          "d": 1
+        },
+        {
+          "s": "10.1111/fire.12425",
+          "t": "10.1111/jfir.12223",
+          "d": 1,
+          "type": [
+            "mentioning"
+          ],
+          "section": [
+            "analyzing large salient jumps"
+          ],
+          "snippets": [
+            "Our full sample features a relatively high jump frequency compared to the US stock market (see Jiang &amp; Zhu, 2017; Xiao et al, 2020) , which is reasonable given the high return volatility in China. However, it is crucial to understand whether the asymmetric market responses remain stable with more salient informational shocks-relatively large jumps.",
+            "Savor (2012) finds that non-information-based shocks experience reversals, whereas information-based shocks exhibit momentum. Piccotti (2018) and Xiao et al (2020) find that price shocks related to public news have a more persistent influence. We follow the procedure of Jiang and Zhu (2017) by filtering out jumps less than twice the tick size to ensure that the identified jumps are not spurious due to bid-ask bounces."
+          ]
+        },
+        {
+          "s": "10.2139/ssrn.4897887",
+          "t": "10.1111/jfir.12223",
+          "d": 1
+        },
+        {
+          "s": "10.2139/ssrn.5223127",
+          "t": "10.1111/jfir.12223",
+          "d": 1
+        },
+        {
+          "s": "10.2139/ssrn.5807282",
+          "t": "10.1111/jfir.12223",
+          "d": 1
+        },
+        {
+          "s": "10.1007/s11408-021-00380-w",
+          "t": "10.1371/journal.pone.0174232",
+          "d": 1,
+          "type": [
+            "mentioning"
+          ],
+          "section": [
+            "literature review"
+          ],
+          "snippets": [
+            "Only a few studies have focused on the commodity markets. Batten et al (2017) analyzed statistical patterns in intra-day returns for the case of gold finding strong intraday periodicity linked to the opening and closing of major markets around the world. Caporin et al (2015) reported similar results."
+          ]
+        },
+        {
+          "s": "10.1016/j.econmod.2025.107077",
+          "t": "10.1371/journal.pone.0174232",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.frl.2019.05.005",
+          "t": "10.1371/journal.pone.0174232",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.intfin.2018.07.008",
+          "t": "10.1371/journal.pone.0174232",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.irfa.2020.101551",
+          "t": "10.1371/journal.pone.0174232",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.jphotobiol.2021.112238",
+          "t": "10.1371/journal.pone.0174232",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.physa.2018.09.042",
+          "t": "10.1371/journal.pone.0174232",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.physa.2024.130103",
+          "t": "10.1371/journal.pone.0174232",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.renene.2025.124110",
+          "t": "10.1371/journal.pone.0174232",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.resourpol.2019.101416",
+          "t": "10.1371/journal.pone.0174232",
+          "d": 1,
+          "type": [
+            "mentioning"
+          ],
+          "section": [
+            "the financial economics of precious metals: a very short review"
+          ],
+          "snippets": [
+            "Studies such as Adrangi et al [2000] , Batten et al [2013] and Hauptfleisch et al [2016] examine the highh frequency dynamics of price diffusion and discovery. Papers such as Batten et al [2018] and Batten et al [2017] uncover the high frequency stylized facts of gold and silver. The way in which news announcements affects these markets has been examined in Christie-David et al [2000] and more recently in Mei-Se et al [2018] ."
+          ]
+        },
+        {
+          "s": "10.1016/j.resourpol.2020.101772",
+          "t": "10.1371/journal.pone.0174232",
+          "d": 1
+        },
+        {
+          "s": "10.1016/j.resourpol.2020.101966",
+          "t": "10.1371/journal.pone.0174232",
+          "d": 1,
+          "type": [
+            "mentioning"
+          ],
+          "section": [
+            "empirical findings"
+          ],
+          "snippets": [
+            "In sum, our pre-pandemic results provide evidence that price overreactions are particularly prevalent for precious metals while showing mixed results for the other commodities. Since in particular precious metal markets respond significantly to external price shocks ( Batten et al, 2017 ), we assume that their higher volatility leads to overreacting behavior also under supposedly normal market conditions. During the Covid-19 pandemic, the p-value results improve for nearly all indices in all price directions and frequencies (see Fig."
+          ]
+        },
+        {
+          "s": "10.1016/j.ribaf.2019.01.008",
+          "t": "10.1371/journal.pone.0174232",
+          "d": 1
+        },
+        {
+          "s": "10.1108/ijoem-07-2018-0404",
+          "t": "10.1371/journal.pone.0174232",
+          "d": 1,
+          "type": [
+            "mentioning"
+          ],
+          "section": [
+            "literature"
+          ],
+          "snippets": [
+            "A data set of 5 minutes frequency for silver, palladium, platinum and gold is examined by ( Batten et al , 2017 ) over the period of 2000–2015. They investigate the interaction, correlation and stylized facts between volatility and returns."
+          ]
+        },
+        {
+          "s": "10.17218/hititsosbil.441151",
+          "t": "10.1371/journal.pone.0174232",
+          "d": 1
+        },
+        {
+          "s": "10.2139/ssrn.3243111",
+          "t": "10.1371/journal.pone.0174232",
+          "d": 1
+        },
+        {
+          "s": "10.2139/ssrn.3294567",
+          "t": "10.1371/journal.pone.0174232",
+          "d": 1,
+          "type": [
+            "mentioning"
+          ],
+          "section": [
+            "the financial economics of precious metals: a very short review"
+          ],
+          "snippets": [
+            "Studies such as Adrangi et al [2000] , Batten et al [2013] and Hauptfleisch et al [2016] examine the highh frequency dynamics of price diffusion and discovery. Papers such as Batten et al [2018] and Batten et al [2017] uncover the high frequency stylized facts of gold and silver. The way in which news announcements affects these markets has been examined in Christie-David et al [2000] and more recently in Mei-Se et al [2018] ."
+          ]
+        },
+        {
+          "s": "10.2139/ssrn.4959727",
+          "t": "10.1371/journal.pone.0174232",
+          "d": 1
+        },
+        {
+          "s": "10.29023/alanyaakademik.1032905",
+          "t": "10.1371/journal.pone.0174232",
+          "d": 1
+        }
+      ],
+      "papers": {
+        "10.1002/fut.21775": {
+          "title": "Who Sets the Price of Gold? London or New York",
+          "year": 2016
+        },
+        "10.1002/fut.21935": {
+          "title": "Price discovery in short‐term interest rate markets: Futures versus swaps",
+          "year": 2018
+        },
+        "10.1002/fut.21938": {
+          "title": "Price discovery in the Chinese gold market",
+          "year": 2018
+        },
+        "10.1002/fut.21969": {
+          "title": "Market openness and market quality in gold markets",
+          "year": 2018
+        },
+        "10.1002/fut.22004": {
+          "title": "Price discovery in bitcoin spot or futures?",
+          "year": 2019
+        },
+        "10.1002/fut.22021": {
+          "title": "Price discovery in commodity derivatives: Speculation or hedging?",
+          "year": 2019
+        },
+        "10.1002/fut.22050": {
+          "title": "BitMEX bitcoin derivatives: Price discovery, informational efficiency, and hedging effectiveness",
+          "year": 2019
+        },
+        "10.1002/fut.22101": {
+          "title": "The determinants of price discovery on bitcoin markets",
+          "year": 2020
+        },
+        "10.1002/fut.22104": {
+          "title": "Impact of algorithmic trading on speed of adjustment to new information: Evidence from interest rate derivatives",
+          "year": 2020
+        },
+        "10.1002/fut.22120": {
+          "title": "Benchmarks in the spotlight: The impact on exchange traded markets",
+          "year": 2020
+        },
+        "10.1002/fut.22123": {
+          "title": "Trading protocols and price discovery: Implicit transaction costs in Indian single stock futures",
+          "year": 2020
+        },
+        "10.1002/fut.22147": {
+          "title": "Night trading and market quality: Evidence from Chinese and US precious metal futures markets",
+          "year": 2020
+        },
+        "10.1002/fut.22208": {
+          "title": "Who leads in intraday gold price discovery and volatility connectedness: Spot, futures, or exchange‐traded fund?",
+          "year": 2021
+        },
+        "10.1002/fut.22415": {
+          "title": "The impact of Sino–US trade war on price discovery of soybean: A double‐edged sword?",
+          "year": 2023
+        },
+        "10.1007/978-3-030-19037-8_4": {
+          "title": "What Sort of Asset? Bitcoin Analysed",
+          "year": 2019
+        },
+        "10.1007/978-3-030-43078-8_1": {
+          "title": "The Rhythm of the Night: Some Anomalies in Open and Close Prices of Polish and German Blue-Chip Stocks",
+          "year": 2020
+        },
+        "10.1007/978-3-031-53915-2_2": {
+          "title": "Market Finance",
+          "year": 2024
+        },
+        "10.1007/978-3-031-53915-2_4": {
+          "title": "The Economics of Financial Infrastructure",
+          "year": 2024
+        },
+        "10.1007/s10436-020-00371-3": {
+          "title": "The price leadership share: a new measure of price discovery in financial markets",
+          "year": 2020
+        },
+        "10.1007/s11156-017-0672-7": {
+          "title": "Is gold a hedge against inflation? A wavelet time-scale perspective",
+          "year": 2017
+        },
+        "10.1007/s11156-025-01461-x": {
+          "title": "Modeling intraday jumps and cojumps in oil and currency markets: the role of U.S. macroeconomic news",
+          "year": 2025
+        },
+        "10.1007/s11408-021-00380-w": {
+          "title": "Gold and oil prices: abnormal returns, momentum and contrarian effects",
+          "year": 2021
+        },
+        "10.1007/s12197-017-9403-0": {
+          "title": "Overnight versus day returns in gold and gold related assets",
+          "year": 2017
+        },
+        "10.1016/j.bar.2024.101510": {
+          "title": "Should underwriters be trusted? Reducing agency costs through primary market supervision",
+          "year": 2025
+        },
+        "10.1016/j.econlet.2018.07.031": {
+          "title": "Bitcoin Futures—What use are they?",
+          "year": 2018
+        },
+        "10.1016/j.econlet.2023.111152": {
+          "title": "Price discovery between Bitcoin spot markets and exchange traded products",
+          "year": 2023
+        },
+        "10.1016/j.econmod.2016.03.005": {
+          "title": "Gold and silver manipulation: What can be empirically verified?",
+          "year": 2016
+        },
+        "10.1016/j.econmod.2016.10.008": {
+          "title": "Gold and inflation(s) – A time-varying relationship",
+          "year": 2017
+        },
+        "10.1016/j.econmod.2025.107077": {
+          "title": "Explaining the causality between trading volume and stock returns: What drives its cross-quantile patterns?",
+          "year": 2025
+        },
+        "10.1016/j.finmar.2020.100584": {
+          "title": "Nothing but noise? Price discovery across cryptocurrency exchanges",
+          "year": 2021
+        },
+        "10.1016/j.finmar.2025.101031": {
+          "title": "Identifying and characterizing opening auction manipulation",
+          "year": 2026
+        },
+        "10.1016/j.frl.2016.06.012": {
+          "title": "The information content of implied volatility and jumps in forecasting volatility: Evidence from the Shanghai gold futures market",
+          "year": 2016
+        },
+        "10.1016/j.frl.2019.05.005": {
+          "title": "The timing of the flight to gold: An intra-day analysis of gold and the S&amp;P500",
+          "year": 2020
+        },
+        "10.1016/j.frl.2019.07.007": {
+          "title": "The development of Bitcoin futures: Exploring the interactions between cryptocurrency derivatives",
+          "year": 2020
+        },
+        "10.1016/j.frl.2020.101556": {
+          "title": "Quote-Based manipulation of illiquid securities",
+          "year": 2021
+        },
+        "10.1016/j.frl.2020.101674": {
+          "title": "Optimal closing benchmarks",
+          "year": 2021
+        },
+        "10.1016/j.frl.2023.104809": {
+          "title": "Price discovery of the Chinese crude oil options and futures markets",
+          "year": 2024
+        },
+        "10.1016/j.gfj.2025.101084": {
+          "title": "The “night effect” of intraday trading: Evidence from Chinese gold and silver futures markets",
+          "year": 2025
+        },
+        "10.1016/j.intfin.2018.07.008": {
+          "title": "Volatility connectedness in the Chinese banking system: Do state-owned commercial banks contribute more?",
+          "year": 2018
+        },
+        "10.1016/j.intfin.2018.12.003": {
+          "title": "The influence of investor sentiment on the monetary policy announcement liquidity response in precious metal markets",
+          "year": 2019
+        },
+        "10.1016/j.iref.2016.08.004": {
+          "title": "Extreme risk spillover effects in world gold markets and the global financial crisis",
+          "year": 2016
+        },
+        "10.1016/j.iref.2023.10.032": {
+          "title": "Arbitrage opportunities and feedback trading in regulated bitcoin futures market: An intraday analysis",
+          "year": 2024
+        },
+        "10.1016/j.irfa.2015.07.005": {
+          "title": "The financial economics of gold — A survey",
+          "year": 2015
+        },
+        "10.1016/j.irfa.2016.12.005": {
+          "title": "The price of shelter - Downside risk reduction with precious metals",
+          "year": 2017
+        },
+        "10.1016/j.irfa.2019.101404": {
+          "title": "Who influences the fundamental value of commodity futures in Japan?",
+          "year": 2020
+        },
+        "10.1016/j.irfa.2020.101468": {
+          "title": "The financial market effects of international aviation disasters",
+          "year": 2020
+        },
+        "10.1016/j.irfa.2020.101551": {
+          "title": "Does Bitcoin still own the dominant power? An intraday analysis",
+          "year": 2020
+        },
+        "10.1016/j.irfa.2020.101569": {
+          "title": "What role do futures markets play in Bitcoin pricing? Causality, cointegration and price discovery from a time-varying perspective?",
+          "year": 2020
+        },
+        "10.1016/j.irfa.2021.101893": {
+          "title": "How do macroeconomic news surprises affect round-the-clock price discovery of gold?",
+          "year": 2021
+        },
+        "10.1016/j.irfa.2025.104380": {
+          "title": "What triggers intraday price jumps and co-jumps in gold?",
+          "year": 2025
+        },
+        "10.1016/j.jbankfin.2023.106808": {
+          "title": "Price discovery in equity markets: A state-dependent analysis of spot and futures markets",
+          "year": 2023
+        },
+        "10.1016/j.jbankfin.2025.107527": {
+          "title": "A new leadership share measure for price discovery",
+          "year": 2025
+        },
+        "10.1016/j.jcomm.2018.05.001": {
+          "title": "Intraday seasonality in efficiency, liquidity, volatility and volume: Platinum and gold futures in Tokyo and New York",
+          "year": 2018
+        },
+        "10.1016/j.jcomm.2021.100226": {
+          "title": "Can gold hedge against oil price movements: Evidence from GARCH-EVT wavelet modeling",
+          "year": 2022
+        },
+        "10.1016/j.jcorpfin.2020.101759": {
+          "title": "The impact of blockchain related name changes on corporate performance",
+          "year": 2020
+        },
+        "10.1016/j.jebo.2022.03.016": {
+          "title": "Positive information shocks, investor behavior and stock price crash risk",
+          "year": 2022
+        },
+        "10.1016/j.jedc.2023.104786": {
+          "title": "Sharks in the dark: Quantifying HFT dark pool latency arbitrage",
+          "year": 2024
+        },
+        "10.1016/j.jempfin.2021.03.001": {
+          "title": "Trading activity and price discovery in Bitcoin futures markets",
+          "year": 2021
+        },
+        "10.1016/j.jfs.2020.100776": {
+          "title": "Price discovery in Bitcoin: The impact of unregulated markets",
+          "year": 2020
+        },
+        "10.1016/j.jimonfin.2025.103415": {
+          "title": "Price discovery in bitcoin spot and futures markets",
+          "year": 2025
+        },
+        "10.1016/j.jphotobiol.2021.112238": {
+          "title": "Restoring NAD+ by NAMPT is essential for the SIRT1/p53-mediated survival of UVA- and UVB-irradiated epidermal keratinocytes",
+          "year": 2021
+        },
+        "10.1016/j.najef.2026.102707": {
+          "title": "Does overnight return predict the first half-hour return for U.S. market indices?",
+          "year": 2026
+        },
+        "10.1016/j.pacfin.2024.102311": {
+          "title": "To fix or not to fix: The representativeness of the WM/R methodology that underpins the FX benchmark rates. A pre-registered report",
+          "year": 2024
+        },
+        "10.1016/j.pacfin.2024.102652": {
+          "title": "To fix or not to fix, the Fix: Reassessing the effectiveness of the 4 pm Fix. A pre-registered study",
+          "year": 2025
+        },
+        "10.1016/j.physa.2017.08.045": {
+          "title": "Cross-correlations and influence in world gold markets",
+          "year": 2018
+        },
+        "10.1016/j.physa.2018.09.042": {
+          "title": "Stylised facts for high frequency cryptocurrency data",
+          "year": 2019
+        },
+        "10.1016/j.physa.2024.130103": {
+          "title": "Stylized facts of metaverse non-fungible tokens",
+          "year": 2024
+        },
+        "10.1016/j.renene.2025.124110": {
+          "title": "How do return and volatility spillovers shape futures markets? Insights from index, commodity, and carbon emission futures",
+          "year": 2026
+        },
+        "10.1016/j.resourpol.2019.101416": {
+          "title": "An analysis of the intellectual structure of research on the financial economics of precious metals",
+          "year": 2019
+        },
+        "10.1016/j.resourpol.2020.101772": {
+          "title": "Dynamics and correlation of platinum-group metals spot prices",
+          "year": 2020
+        },
+        "10.1016/j.resourpol.2020.101966": {
+          "title": "Price overreactions in the commodity futures market: An intraday analysis of the Covid-19 pandemic impact",
+          "year": 2021
+        },
+        "10.1016/j.resourpol.2022.102927": {
+          "title": "Volatility in metallic resources prices in COVID-19 and financial Crises-2008: Evidence from global market",
+          "year": 2022
+        },
+        "10.1016/j.ribaf.2019.01.008": {
+          "title": "The intraday dynamics of bitcoin",
+          "year": 2019
+        },
+        "10.1016/j.ribaf.2019.101116": {
+          "title": "Price discovery in bitcoin futures",
+          "year": 2020
+        },
+        "10.1016/j.techfore.2020.120191": {
+          "title": "Riding the Wave of Crypto-Exuberance: The Potential Misusage of Corporate Blockchain Announcements",
+          "year": 2020
+        },
+        "10.1080/13504851.2016.1164813": {
+          "title": "Are gold bugs coherent?",
+          "year": 2016
+        },
+        "10.1080/14697688.2020.1814006": {
+          "title": "The impact of US macroeconomic news announcements on Chinese commodity futures",
+          "year": 2020
+        },
+        "10.1080/14697688.2020.1849782": {
+          "title": "Call auction, continuous trading and closing price formation",
+          "year": 2021
+        },
+        "10.1080/1540496x.2019.1677225": {
+          "title": "Does Gold Serve as a Hedge for the Stock Market in China? Evidence from a Time-Frequency Analysis",
+          "year": 2019
+        },
+        "10.1108/ijoem-07-2018-0404": {
+          "title": "Predictability of precious metals and adaptive market hypothesis",
+          "year": 2019
+        },
+        "10.1108/ijoem-10-2023-1594": {
+          "title": "Macroeconomic news and price jumps: evidence from ETFs and LOFs in China",
+          "year": 2024
+        },
+        "10.1109/cbfd52659.2021.00111": {
+          "title": "Does gold future interact with West Texas Intermediate (Crude Oil) by using impulse response?",
+          "year": 2021
+        },
+        "10.1111/acfi.70251": {
+          "title": "Who Moves First? Price Discovery by Institutional and Retail Investors",
+          "year": 2026
+        },
+        "10.1111/agec.12594": {
+          "title": "Measuring price discovery between nearby and deferred contracts in storable and nonstorable commodity futures markets",
+          "year": 2020
+        },
+        "10.1111/fire.12425": {
+          "title": "Attention allocation: An empirical analysis of the asymmetric market responses to information shocks in China",
+          "year": 2025
+        },
+        "10.1111/infi.70015": {
+          "title": "How Important Is the Home Market for Cross‐Listed Biotech Companies?",
+          "year": 2025
+        },
+        "10.1111/jfir.12223": {
+          "title": "JUMPS, NEWS, AND SUBSEQUENT RETURN DYNAMICS: AN INTRADAY STUDY",
+          "year": 2020
+        },
+        "10.1111/woba.5397": {
+          "title": "F: International and National Economies",
+          "year": 2016
+        },
+        "10.1146/annurev-financial-110921-015054": {
+          "title": "Short-Term Rate Benchmarks: The Post-LIBOR Regime",
+          "year": 2023
+        },
+        "10.12660/rbfin.v18n2.2020.79162": {
+          "title": "Cointegração e previsibilidade de abordagens VECM para o Ibovespa",
+          "year": 2020
+        },
+        "10.1287/mnsc.2023.00884": {
+          "title": "Vestigial Tails? Floor Brokers at the Close in Modern Electronic Markets",
+          "year": 2026
+        },
+        "10.1371/journal.pone.0174232": {
+          "title": "Stylized facts of intraday precious metals",
+          "year": 2017
+        },
+        "10.17218/hititsbd.1863280": {
+          "title": "Nonlinear information transmission in gold markets: evidence from cross-recurrence quantification analysis (CRQA)",
+          "year": 2026
+        },
+        "10.17218/hititsosbil.441151": {
+          "title": "KIYMETLİ METALLER PİYASASININ FRAKTAL ANALİZİ",
+          "year": 2018
+        },
+        "10.17580/gzh.2016.09.04": {
+          "title": "Mining industry in the economy of the Republic of Sakha (Yakutia): State-of-the-art, problems and challenges",
+          "year": 2016
+        },
+        "10.2139/ssrn.2628018": {
+          "title": "The Financial Economics of Gold – A Survey",
+          "year": 2015
+        },
+        "10.2139/ssrn.2720324": {
+          "title": "Are Gold Bugs Coherent?",
+          "year": 2016
+        },
+        "10.2139/ssrn.2721250": {
+          "title": "Gold and Silver Manipulation: What Can Be Empirically Verified?",
+          "year": 2016
+        },
+        "10.2139/ssrn.2776581": {
+          "title": "Price Discovery in the Chinese Gold Market",
+          "year": 2016
+        },
+        "10.2139/ssrn.2981717": {
+          "title": "Ultra-High-Frequency Pairs Trading in Gold ETFs",
+          "year": 2017
+        },
+        "10.2139/ssrn.3021533": {
+          "title": "Intraday Seasonality in Efficiency, Liquidity, Volatility and Volume: Platinum and Gold Futures in Tokyo and New York",
+          "year": 2017
+        },
+        "10.2139/ssrn.3171464": {
+          "title": "Price Discovery in Bitcoin Spot or Futures?",
+          "year": 2018
+        },
+        "10.2139/ssrn.3197634": {
+          "title": "Bitcoin Futures - What Use are They?",
+          "year": 2018
+        },
+        "10.2139/ssrn.3222111": {
+          "title": "Who Influences the Fundamental Value of Commodity Futures in Japan?",
+          "year": 2018
+        },
+        "10.2139/ssrn.3243111": {
+          "title": "The Timing of the Flight to Gold: An Intra-Day Analysis of Gold and the S&amp;amp;P500",
+          "year": 2018
+        },
+        "10.2139/ssrn.3294567": {
+          "title": "An Analysis of the Intellectual Structure of Research on the Financial Economics of Precious Metals",
+          "year": 2018
+        },
+        "10.2139/ssrn.3326300": {
+          "title": "The Impact of HFT on the Speed of Adjustment to New Information: Evidence from Interest Rate Derivatives",
+          "year": 2018
+        },
+        "10.2139/ssrn.3353583": {
+          "title": "Price Discovery in Bitcoin Futures: Evidence From BitMEX",
+          "year": 2019
+        },
+        "10.2139/ssrn.3383147": {
+          "title": "Price Discovery and Efficiency in Bitcoin Markets",
+          "year": 2019
+        },
+        "10.2139/ssrn.3437845": {
+          "title": "Trading Protocols and Price Discovery: Implicit Transaction Costs in Indian Single Stock Futures",
+          "year": 2019
+        },
+        "10.2139/ssrn.3442706": {
+          "title": "What Role Do Futures Markets Play in Bitcoin Pricing? Causality, Cointegration and Price Discovery From a Time-Varying Perspective",
+          "year": 2019
+        },
+        "10.2139/ssrn.3583843": {
+          "title": "Price Discovery in Bitcoin: The Impact of Unregulated Markets",
+          "year": 2020
+        },
+        "10.2139/ssrn.3600230": {
+          "title": "Vestigial Tails: Floor Brokers at the Close in Modern Electronic Markets",
+          "year": 2020
+        },
+        "10.2139/ssrn.3826039": {
+          "title": "Who Watches the Book Build? Supervising Primary Bondmarkets to Reduce Agency Costs",
+          "year": 2020
+        },
+        "10.2139/ssrn.4022550": {
+          "title": "Price Discovery for Competing Currency Numeraires",
+          "year": 2022
+        },
+        "10.2139/ssrn.4351722": {
+          "title": "Short-Term Rate Benchmarks: The Post-LIBOR Regime",
+          "year": 2023
+        },
+        "10.2139/ssrn.4459924": {
+          "title": "A better market design?&amp;nbsp;Applying Automated Market Makers to trading real-world assets",
+          "year": 2023
+        },
+        "10.2139/ssrn.4718425": {
+          "title": "To Fix or Not to Fix: The Representativeness of the Wm/R Methodology that Underpins the FX Benchmark Rates. A Pre-Registered Report",
+          "year": 2024
+        },
+        "10.2139/ssrn.4897887": {
+          "title": "So Many Jumps, So Few News",
+          "year": 2024
+        },
+        "10.2139/ssrn.4959727": {
+          "title": "Stylized Facts of Metaverse Non-Fungible Tokens",
+          "year": 2024
+        },
+        "10.2139/ssrn.4983566": {
+          "title": "Where is the Price of Bitcoin Determined? Price Discovery in a Fragmented Market",
+          "year": 2024
+        },
+        "10.2139/ssrn.5223127": {
+          "title": "Intraday Jumps and 0DTE Options: Pricing and Hedging Implications",
+          "year": 2025
+        },
+        "10.2139/ssrn.5807282": {
+          "title": "&lt;p&gt;Intraday Time Series Reversal&lt;/p&gt;",
+          "year": 2025
+        },
+        "10.2139/ssrn.7370002": {
+          "title": "Within-exchange price discovery in multi-quote cryptocurrency markets",
+          "year": 2026
+        },
+        "10.21511/imfi.19(3).2022.13": {
+          "title": "Time-varying price discovery in Bahar-e-Azadi Gold Coin spot and futures contracts",
+          "year": 2022
+        },
+        "10.25335/e5dp-tj15": {
+          "title": "Essays in high-frequency trading",
+          "year": 2015
+        },
+        "10.29023/alanyaakademik.1032905": {
+          "title": "Kıymetli Madenlerin Range-Based Realized Volatilite Serileri Arasındaki Asimetrik İlişkiler",
+          "year": 2022
+        },
+        "10.3390/jrfm15070273": {
+          "title": "Does Volume of Gold Consumption Influence the World Gold Price?",
+          "year": 2022
+        },
+        "10.4038/cbj.v15i1.165": {
+          "title": "Futures Leads the Spot but Why not so When Market in Shocks? A Time-Varying Price Discovery of Indian Precious Metals",
+          "year": 2024
+        },
+        "10.52736/ubeyad.1783124": {
+          "title": "Borsa İstanbul Kıymetli Madenler Piyasası Bağlamında Altın Fiyatları İçin Zayıf Etkinlik Sınaması",
+          "year": 2025
+        }
+      }
+    }
+  ],
+  "provenance": {
+    "scite_bibliography": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\n  \"format\": \"bibtex\",\n  \"found\": 6,\n  \"notFound\": [],\n  \"content\": \"@journal-article{Caminschi.2013,\\n    author = \\\"Caminschi, Andrew and Heaney, Richard Arthur\\\",\\n    doi = \\\"10.1002/fut.21636\\\",\\n    title = \\\"Fixing a Leaky Fixing: Short‐Term Market Reactions to the London PM Gold Price Fixing\\\",\\n    journal = \\\"Journal of Futures Markets\\\",\\n    year = \\\"2013\\\"\\n}\\n\\n@journal-article{Xu.2020,\\n    author = \\\"Xu, Yahua and Bouri, Elie I. and Saeed, Tareq and Wen, Zhuzhu\\\",\\n    doi = \\\"10.1016/j.resourpol.2020.101830\\\",\\n    title = \\\"Intraday Return Predictability: Evidence From Commodity ETFs and Their Related Volatility Indices\\\",\\n    journal = \\\"Resources Policy\\\",\\n    year = \\\"2020\\\"\\n}\\n\\n@journal-article{Caporale.2021,\\n    author = \\\"Caporale, Guglielmo Maria and Plastun, Alex\\\",\\n    doi = \\\"10.1007/s11408-021-00380-w\\\",\\n    title = \\\"Gold and Oil Prices: Abnormal Returns, Momentum and Contrarian Effects\\\",\\n    journal = \\\"Financial Markets and Portfolio Management\\\",\\n    year = \\\"2021\\\"\\n}\\n\\n@journal-article{Aspris.2020,\\n    author = \\\"Aspris, Angelo and Foley, Sean and O’Neill, Peter\\\",\\n    doi = \\\"10.1002/fut.22120\\\",\\n    title = \\\"Benchmarks in the Spotlight: The Impact on Exchange Traded Markets\\\",\\n    journal = \\\"Journal of Futures Markets\\\",\\n    year = \\\"2020\\\"\\n}\\n\\n@journal-article{Batten.2017,\\n    author = \\\"Batten, Jonathan A. and Lucey, Brian M. and McGroarty, Frank and Peat, Maurice and Urquhart, Andrew\\\",\\n    doi = \\\"10.1371/journal.pone.0174232\\\",\\n    title = \\\"Stylized Facts of Intraday Precious Metals\\\",\\n    journal = \\\"Plos One\\\",\\n    year = \\\"2017\\\"\\n}\\n\\n@journal-article{Ma.2025,\\n    author = \\\"Ma, Gaoping and Bouri, Elie I. and Xu, Yahua and Zhou, Z. Ivy\\\",\\n    doi = \\\"10.1016/j.gfj.2025.101084\\\",\\n    title = \\\"The “Night Effect” of Intraday Trading: Evidence From Chinese Gold and Silver Futures Markets\\\",\\n    journal = \\\"Global Finance Journal\\\",\\n    year = \\\"2025\\\"\\n}\\n\"\n}"
+        }
+      ],
+      "structuredContent": null,
+      "isError": false
+    },
+    "scite_bibliography_B": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\n  \"format\": \"bibtex\",\n  \"found\": 6,\n  \"notFound\": [],\n  \"content\": \"@journal-article{Timmermann.1999,\\n    author = \\\"Timmermann, Allan and White, Halbert\\\",\\n    doi = \\\"10.1111/0022-1082.00163\\\",\\n    title = \\\"Data‐Snooping, Technical Trading Rule Performance, and the Bootstrap\\\",\\n    journal = \\\"The Journal of Finance\\\",\\n    year = \\\"1999\\\"\\n}\\n\\n@journal-article{White.2000,\\n    author = \\\"White, Halbert\\\",\\n    doi = \\\"10.1111/1468-0262.00152\\\",\\n    title = \\\"A Reality Check for Data Snooping\\\",\\n    journal = \\\"Econometrica\\\",\\n    year = \\\"2000\\\"\\n}\\n\\n@journal-article{Hansen.2005,\\n    author = \\\"Hansen, Peter Reinhard\\\",\\n    doi = \\\"10.1198/073500105000000063\\\",\\n    title = \\\"A Test for Superior Predictive Ability\\\",\\n    journal = \\\"Journal of Business and Economic Statistics\\\",\\n    year = \\\"2005\\\"\\n}\\n\\n@journal-article{Xiao.2020,\\n    author = \\\"Xiao, Yuewen and Yin, Xiangkang and Zhao, Jing\\\",\\n    doi = \\\"10.1111/jfir.12223\\\",\\n    title = \\\"Jumps, News, and Subsequent Return Dynamics: An Intraday Study\\\",\\n    journal = \\\"The Journal of Financial Research\\\",\\n    year = \\\"2020\\\"\\n}\\n\\n@journal-article{Blose.2017,\\n    author = \\\"Blose, Laurence E. and Gondhalekar, Vijay B. and Kort, Alan\\\",\\n    doi = \\\"10.1007/s12197-017-9403-0\\\",\\n    title = \\\"Overnight Versus Day Returns in Gold and Gold Related Assets\\\",\\n    journal = \\\"Journal of Economics and Finance\\\",\\n    year = \\\"2017\\\"\\n}\\n\\n@journal-article{Hauptfleisch.2016,\\n    author = \\\"Hauptfleisch, Martin and Putniņš, Tālis J. and Lucey, Brian M.\\\",\\n    doi = \\\"10.1002/fut.21775\\\",\\n    title = \\\"Who Sets the Price of Gold? London or New York\\\",\\n    journal = \\\"Journal of Futures Markets\\\",\\n    year = \\\"2016\\\"\\n}\\n\"\n}"
+        }
+      ],
+      "structuredContent": null,
+      "isError": false
+    },
+    "raw_file": "rawdata/scite_raw.json"
+  },
+  "limitations": [
+    "No local 2020+ prices or project code read/changed.",
+    "No claim of an after-cost C edge or overlap pass.",
+    "Paper facts separated from coordinator-chosen causal transfers; prior tested families not rebranded.",
+    "Scite citation counts are coverage/classifier-dependent and not replication counts."
+  ]
+}

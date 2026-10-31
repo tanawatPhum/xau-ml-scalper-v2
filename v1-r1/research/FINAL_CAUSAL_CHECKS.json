@@ -1,0 +1,208 @@
+{
+  "generated_utc": "2026-10-31T15:09:32.629107+00:00",
+  "status": "PASS",
+  "selected_id": "P20",
+  "data_years_read": [
+    2010
+  ],
+  "read_2020_or_later": false,
+  "evaluation_reports_read": [],
+  "scope": "Locked P20 actual-data feature, signal, and execution-prefix verification; no tuning changes.",
+  "locked_rules": {
+    "A": {
+      "k": 1.0,
+      "long_vol": true,
+      "min_usd": 2.1626934441569983,
+      "leg": 2.5,
+      "policy": "long_only"
+    },
+    "B": {
+      "k": 2.0,
+      "long_vol": false,
+      "min_usd": 3.0,
+      "leg": 3.5,
+      "policy": "vol_le15"
+    }
+  },
+  "config": {
+    "start": 100000.0,
+    "oz": 10.0,
+    "fx": 33.77,
+    "cost_mode": "fixed",
+    "spread": 0.168,
+    "commission": 0.0,
+    "slippage": 0.0,
+    "flat_minute_utc": null
+  },
+  "reference": {
+    "quotes": 365764,
+    "final_quote_utc": "2010-12-31T21:59:00Z",
+    "final_quote_utc_minute": 21563879,
+    "closed_trades": 472,
+    "data_path": "D:\\xau-ml-scalper-claude\\microstructure-edge-map\\cache\\M1_2010.private.npz",
+    "data_sha256": "d1f2ece2d4b0b82b180bc9dd723df9acaaedeb56d54ac4fd54b39b104e96c029",
+    "events": {
+      "A": {
+        "confirmations": 3083,
+        "eligible_entries": 361
+      },
+      "B": {
+        "confirmations": 1541,
+        "eligible_entries": 114
+      }
+    }
+  },
+  "cutoff_selection": "2010-09-01 calendar boundary, plus first open-exposure minute on/after that date; no outcome-based selection.",
+  "checks": [
+    {
+      "name": "calendar_boundary",
+      "prefix_quotes": 242660,
+      "final_quote_utc": "2010-08-31T23:59:00Z",
+      "final_quote_utc_minute": 21388319,
+      "features_exact_prefix_match": {
+        "mid": true,
+        "y": true,
+        "s60": true,
+        "sl": true,
+        "eff": true
+      },
+      "signals": [
+        {
+          "rule": "A",
+          "policy": "long_only",
+          "confirmations": 2069,
+          "eligible_entries": 231,
+          "exact_prefix_match": true
+        },
+        {
+          "rule": "B",
+          "policy": "vol_le15",
+          "confirmations": 1030,
+          "eligible_entries": 68,
+          "exact_prefix_match": true
+        }
+      ],
+      "equity_rows_exactly_equal": 242660,
+      "past_closed_trades_exactly_equal": 297,
+      "terminal_open_positions": 0,
+      "terminal_liquidation": false,
+      "signal_prefix_pass": true,
+      "execution_equity_prefix_pass": true,
+      "execution_trade_prefix_pass": true
+    },
+    {
+      "name": "open_position_boundary",
+      "prefix_quotes": 246524,
+      "final_quote_utc": "2010-09-03T17:40:00Z",
+      "final_quote_utc_minute": 21392260,
+      "features_exact_prefix_match": {
+        "mid": true,
+        "y": true,
+        "s60": true,
+        "sl": true,
+        "eff": true
+      },
+      "signals": [
+        {
+          "rule": "A",
+          "policy": "long_only",
+          "confirmations": 2096,
+          "eligible_entries": 232,
+          "exact_prefix_match": true
+        },
+        {
+          "rule": "B",
+          "policy": "vol_le15",
+          "confirmations": 1042,
+          "eligible_entries": 68,
+          "exact_prefix_match": true
+        }
+      ],
+      "equity_rows_exactly_equal": 246524,
+      "past_closed_trades_exactly_equal": 297,
+      "terminal_open_positions": 1,
+      "terminal_liquidation": false,
+      "signal_prefix_pass": true,
+      "execution_equity_prefix_pass": true,
+      "execution_trade_prefix_pass": true
+    }
+  ],
+  "locks": {
+    "original": {
+      "path": "D:\\xau-ml-scalper-claude\\v1-rx\\out\\LOCK.json",
+      "sha256": "8a11e22ad87eececccb948228a4101a368efec4407add46b496051d39df91fa1",
+      "lock_sidecar_verified": true,
+      "source_hashes": [
+        {
+          "path": "D:\\xau-ml-scalper-claude\\v1-rx\\baseline_engine.py",
+          "locked_sha256": "964127ce2827f8e157a2d013dc17e121c48a97b1305288b945f0fa843719ed88",
+          "observed_sha256": "964127ce2827f8e157a2d013dc17e121c48a97b1305288b945f0fa843719ed88",
+          "match": true
+        },
+        {
+          "path": "D:\\xau-ml-scalper-claude\\v1-rx\\strategy.py",
+          "locked_sha256": "080bddb0b67d629f066e09057d869543e0c0bb5c88a5dbcd08e28da56ba8a883",
+          "observed_sha256": "080bddb0b67d629f066e09057d869543e0c0bb5c88a5dbcd08e28da56ba8a883",
+          "match": true
+        },
+        {
+          "path": "D:\\xau-ml-scalper-claude\\v1-rx\\study.py",
+          "locked_sha256": "952d78eb8489fd8473da22cc65f0b0564e59a540e896a43d6d8e12c5e17b7697",
+          "observed_sha256": "952d78eb8489fd8473da22cc65f0b0564e59a540e896a43d6d8e12c5e17b7697",
+          "match": true
+        }
+      ]
+    },
+    "balanced": {
+      "path": "D:\\xau-ml-scalper-claude\\v1-rx\\out\\balanced\\LOCK.json",
+      "sha256": "0d225bf50f824ecc89604f5352d003eca4bc5f6d8e633239c277e0f06dfcd373",
+      "lock_sidecar_verified": true,
+      "source_hashes": [
+        {
+          "path": "D:\\xau-ml-scalper-claude\\v1-rx\\baseline_engine.py",
+          "locked_sha256": "964127ce2827f8e157a2d013dc17e121c48a97b1305288b945f0fa843719ed88",
+          "observed_sha256": "964127ce2827f8e157a2d013dc17e121c48a97b1305288b945f0fa843719ed88",
+          "match": true
+        },
+        {
+          "path": "D:\\xau-ml-scalper-claude\\v1-rx\\strategy.py",
+          "locked_sha256": "080bddb0b67d629f066e09057d869543e0c0bb5c88a5dbcd08e28da56ba8a883",
+          "observed_sha256": "080bddb0b67d629f066e09057d869543e0c0bb5c88a5dbcd08e28da56ba8a883",
+          "match": true
+        },
+        {
+          "path": "D:\\xau-ml-scalper-claude\\v1-rx\\study.py",
+          "locked_sha256": "952d78eb8489fd8473da22cc65f0b0564e59a540e896a43d6d8e12c5e17b7697",
+          "observed_sha256": "952d78eb8489fd8473da22cc65f0b0564e59a540e896a43d6d8e12c5e17b7697",
+          "match": true
+        },
+        {
+          "path": "D:\\xau-ml-scalper-claude\\v1-rx\\balanced.py",
+          "locked_sha256": "d248a967c2636596e25b79847d1d3e59c6cb85874b498ed96efec079c17f6f89",
+          "observed_sha256": "d248a967c2636596e25b79847d1d3e59c6cb85874b498ed96efec079c17f6f89",
+          "match": true
+        }
+      ]
+    }
+  },
+  "all_locked_source_hashes_match_after_signal_and_execution_checks": true,
+  "source_hashes_unchanged_during_checks": true,
+  "both_locks_unchanged": true,
+  "original_engine_byte_identical": true,
+  "engine_sha256": "964127ce2827f8e157a2d013dc17e121c48a97b1305288b945f0fa843719ed88",
+  "prior_report": {
+    "path": "D:\\xau-ml-scalper-claude\\v1-rx\\research\\CAUSAL_CHECKS.json",
+    "sha256": "c0a0a74aac54df174e3b4cd91ba2b130c289833a1aeb258b61d14143ae1ecd0a",
+    "preserved_unchanged": true,
+    "generated_utc": "2026-10-31T15:01:19.709548+00:00",
+    "note": "The earlier report is retained. Its study.py hash predates the current locked runner snapshot; engine and strategy hashes remain unchanged.",
+    "source_changes_since_prior_report": [
+      {
+        "name": "study",
+        "path": "D:\\xau-ml-scalper-claude\\v1-rx\\study.py",
+        "previous_sha256": "b260d9af076d08e24c2cb5541c587eca88911dfe420f70da2af2e805c2aa6ca9",
+        "final_sha256": "952d78eb8489fd8473da22cc65f0b0564e59a540e896a43d6d8e12c5e17b7697"
+      }
+    ]
+  }
+}

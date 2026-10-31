@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "total_training_cells": 48,
+  "training_signal_trade_equity_prefix_checks": 48,
+  "validation_prefix_checks": 1,
+  "opposite_net_cost_identities": 24,
+  "baseline_reproduced": true,
+  "source_data_lock_hashes_verified": true,
+  "validation_status": "NOT_CONFIRMED",
+  "new_version_created": false,
+  "first_run_note": "Initial training run aborted before lock because a signal module synthetic-test section changed concurrently. Reran unchanged candidates after files stabilized; no first-run selection or validation occurred."
+}

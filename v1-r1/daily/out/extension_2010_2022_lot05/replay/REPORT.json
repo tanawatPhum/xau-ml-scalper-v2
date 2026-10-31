@@ -1,0 +1,292 @@
+{
+  "summary": {
+    "trades": 4482,
+    "open_positions": 0,
+    "end_balance_thb": 2143492.7727491097,
+    "end_equity_thb": 2143492.7727491097,
+    "net_equity_thb": 2043492.7727491097,
+    "realized_net_thb": 2043492.7727491097,
+    "closed_trade_net_thb": 2043492.7727491106,
+    "open_unrealized_thb": 0.0,
+    "max_equity_drawdown_thb": 286236.2085001427,
+    "max_equity_drawdown_pct": 23.762228169747218,
+    "max_balance_drawdown_thb": 251047.86850017286,
+    "lowest_equity_thb": 97575.3139999986,
+    "max_gross_oz": 100.0,
+    "nonpositive_equity_minutes": 0,
+    "first_nonpositive_utc_minute": null,
+    "gross_mid_thb": 3314892.7487500166,
+    "spread_cost_thb": 1271399.9760000003,
+    "slippage_cost_thb": 0.0,
+    "commission_thb": 0.0,
+    "open_entry_commission_thb": 0.0,
+    "commission_paid_thb": 0.0
+  },
+  "metrics": {
+    "net": 2043492.7727491097,
+    "dd": 286236.2085001427,
+    "dd_pct": 23.762228169747218,
+    "loss": 11202685.88450034,
+    "trades": 4482,
+    "worst": -98534.10600000039,
+    "lowest": 97575.3139999986,
+    "recent": 737090.1917494806,
+    "early": 1306402.580999629,
+    "open_positions": 0,
+    "late_cutoff_exits": 3,
+    "market_close_crossings": 0,
+    "session_crossings": 0,
+    "trades_spanning_data_gap": 0,
+    "scheduled_exits": 751
+  },
+  "yearly": {
+    "2010": {
+      "trades": 318,
+      "closed_net": 371612.6782499342,
+      "equity_change": 371612.6782499343,
+      "end_equity": 471612.6782499343,
+      "dd": 64183.26200000875,
+      "loss": 482760.72350002476,
+      "worst": -22784.619000000243,
+      "start_equity": 100000.0,
+      "dd_pct": 23.762228169747218
+    },
+    "2011": {
+      "trades": 541,
+      "closed_net": 607373.7119998971,
+      "equity_change": 607373.7119998974,
+      "end_equity": 1078986.3902498316,
+      "dd": 151055.7427500105,
+      "loss": 1530329.762500039,
+      "worst": -98534.10600000039,
+      "start_equity": 471612.6782499343,
+      "dd_pct": 22.732062290444905
+    },
+    "2012": {
+      "trades": 478,
+      "closed_net": 190541.31524989998,
+      "equity_change": 190541.3152498994,
+      "end_equity": 1269527.705499731,
+      "dd": 71477.58200002275,
+      "loss": 1069824.313250038,
+      "worst": -37161.352250000244,
+      "start_equity": 1078986.3902498316,
+      "dd_pct": 6.27657592630553
+    },
+    "2013": {
+      "trades": 522,
+      "closed_net": 136874.87549989764,
+      "equity_change": 136874.8754998981,
+      "end_equity": 1406402.580999629,
+      "dd": 119018.14375001029,
+      "loss": 1421417.2912500403,
+      "worst": -49728.857750000214,
+      "start_equity": 1269527.705499731,
+      "dd_pct": 8.909784166234791
+    },
+    "2014": {
+      "trades": 187,
+      "closed_net": 54941.25724996641,
+      "equity_change": 54941.2572499665,
+      "end_equity": 1461343.8382495956,
+      "dd": 73507.15900001233,
+      "loss": 378177.56625001476,
+      "worst": -19524.125500000173,
+      "start_equity": 1406402.580999629,
+      "dd_pct": 5.066929210057804
+    },
+    "2015": {
+      "trades": 179,
+      "closed_net": 87236.35249996194,
+      "equity_change": 87236.35249996162,
+      "end_equity": 1548580.1907495572,
+      "dd": 97934.68850001786,
+      "loss": 308095.52950001636,
+      "worst": -19319.817000000014,
+      "start_equity": 1461343.8382495956,
+      "dd_pct": 6.244961967440915
+    },
+    "2016": {
+      "trades": 276,
+      "closed_net": 46149.23774995317,
+      "equity_change": 46149.23774995236,
+      "end_equity": 1594729.4284995096,
+      "dd": 149542.84675001865,
+      "loss": 639264.4115000188,
+      "worst": -26596.407750000137,
+      "start_equity": 1548580.1907495572,
+      "dd_pct": 8.933452162695739
+    },
+    "2017": {
+      "trades": 61,
+      "closed_net": 68220.4654999866,
+      "equity_change": 68220.46549998643,
+      "end_equity": 1662949.893999496,
+      "dd": 17928.493000000017,
+      "loss": 49278.02825000359,
+      "worst": -12586.923249999707,
+      "start_equity": 1594729.4284995096,
+      "dd_pct": 1.1115924924056917
+    },
+    "2018": {
+      "trades": 57,
+      "closed_net": 5371.118499986631,
+      "equity_change": 5371.118499987526,
+      "end_equity": 1668321.0124994835,
+      "dd": 22665.579750001198,
+      "loss": 73323.95675000855,
+      "worst": -8634.98900000044,
+      "start_equity": 1662949.893999496,
+      "dd_pct": 1.3463491099591505
+    },
+    "2019": {
+      "trades": 183,
+      "closed_net": 35333.55099996339,
+      "equity_change": 35333.55099996342,
+      "end_equity": 1703654.563499447,
+      "dd": 114388.27675000206,
+      "loss": 395277.8500000141,
+      "worst": -34577.10300000011,
+      "start_equity": 1668321.0124994835,
+      "dd_pct": 6.7784736282325335
+    },
+    "2020": {
+      "trades": 607,
+      "closed_net": 327324.1674998845,
+      "equity_change": 327324.1674998838,
+      "end_equity": 2030978.7309993308,
+      "dd": 169263.68250000826,
+      "loss": 1877664.343500043,
+      "worst": -66363.11550000019,
+      "start_equity": 1703654.563499447,
+      "dd_pct": 9.754721818886555
+    },
+    "2021": {
+      "trades": 517,
+      "closed_net": -25548.693500112997,
+      "equity_change": -25548.69350011414,
+      "end_equity": 2005430.0374992166,
+      "dd": 158903.04650000832,
+      "loss": 1452870.669250041,
+      "worst": -39814.83000000065,
+      "start_equity": 2030978.7309993308,
+      "dd_pct": 7.782937747666492
+    },
+    "2022": {
+      "trades": 556,
+      "closed_net": 138062.73524989167,
+      "equity_change": 138062.73524989304,
+      "end_equity": 2143492.7727491097,
+      "dd": 239824.40900000976,
+      "loss": 1524401.4390000375,
+      "worst": -54298.78300000023,
+      "start_equity": 2005430.0374992166,
+      "dd_pct": 11.598431078434112
+    }
+  },
+  "config": {
+    "start": 100000.0,
+    "oz": 50.0,
+    "fx": 33.77,
+    "cost_mode": "fixed",
+    "spread": 0.168,
+    "commission": 0.0,
+    "slippage": 0.0,
+    "flat_minute_utc": null
+  },
+  "diagnostics": {
+    "cancelled_entries": 1,
+    "pending_orders_at_end": 0,
+    "gap_count": 3389,
+    "close_based_stop": true,
+    "terminal_liquidation": false,
+    "late_cutoff_exits": 3,
+    "market_close_crossings": 0,
+    "session_crossings": 0,
+    "trades_spanning_data_gap": 0,
+    "scheduled_exits": 751,
+    "stop_theta": 2.5
+  },
+  "provenance": {
+    "created_utc": "2026-10-31T16:02:09.656401+00:00",
+    "owner_authorized_2020_2022": true,
+    "years": [
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022
+    ],
+    "selected_id": "D058",
+    "rules": {
+      "A": {
+        "k": 1.0,
+        "long_vol": true,
+        "min_usd": 3.0,
+        "leg": 2.5,
+        "policy": "skip_late"
+      },
+      "B": {
+        "k": 2.0,
+        "long_vol": false,
+        "min_usd": 3.0,
+        "leg": 3.5,
+        "policy": "vol_le15"
+      }
+    },
+    "stop_theta": 2.5,
+    "config": {
+      "start": 100000.0,
+      "oz": 50.0,
+      "fx": 33.77,
+      "cost_mode": "fixed",
+      "spread": 0.168,
+      "commission": 0.0,
+      "slippage": 0.0,
+      "flat_minute_utc": null
+    },
+    "lock_sha256": "b819a098e183f944287c120fa64628786a7fc368c437e781c76c19c01ab94432",
+    "source_hashes": {
+      "D:\\xau-ml-scalper-claude\\v1-rx\\daily\\calendar_rules.py": "2042fe2103c70fca31aef2c62489ee6e29c4af89dfbe08baa9a26c5f11b40148",
+      "D:\\xau-ml-scalper-claude\\v1-rx\\daily\\execution.py": "8b7126b11116f4a1968341938c544be33dd762d68e26fc06aec7a708e80f5697",
+      "D:\\xau-ml-scalper-claude\\v1-rx\\daily\\run_study.py": "579e6b0c26d4484927a157c7d12a1b6fe0b5f4cc204558fb6d4233fc10ed1d7b",
+      "D:\\xau-ml-scalper-claude\\v1-rx\\daily\\DESIGN.md": "acd23fad0212f6a89fa033abcdb3c95d4defb5b4687f70e547b46529f944d6e1",
+      "D:\\xau-ml-scalper-claude\\v1-rx\\baseline_engine.py": "964127ce2827f8e157a2d013dc17e121c48a97b1305288b945f0fa843719ed88",
+      "D:\\xau-ml-scalper-claude\\v1-rx\\strategy.py": "080bddb0b67d629f066e09057d869543e0c0bb5c88a5dbcd08e28da56ba8a883",
+      "D:\\xau-ml-scalper-claude\\v1-rx\\study.py": "952d78eb8489fd8473da22cc65f0b0564e59a540e896a43d6d8e12c5e17b7697",
+      "D:\\xau-ml-scalper-claude\\v1-rx\\daily\\extend_2022.py": "1fd0531f2ba12bbfe0a52c73e35a3a47f1fb2bb6e20bbd5e647c9564e22ce5ff"
+    },
+    "data_hashes": {
+      "D:\\xau-ml-scalper-claude\\microstructure-edge-map\\cache\\M1_2010.private.npz": "d1f2ece2d4b0b82b180bc9dd723df9acaaedeb56d54ac4fd54b39b104e96c029",
+      "D:\\xau-ml-scalper-claude\\microstructure-edge-map\\cache\\M1_2011.private.npz": "6510880b5793e1e53aac1c62f5da71b476795459dd06ce799f85e2eea52fb7c3",
+      "D:\\xau-ml-scalper-claude\\microstructure-edge-map\\cache\\M1_2012.private.npz": "793e75f05409d58bb3f765fdebf0c5a1171183ffd0685d335bd3cc69c42ff9e9",
+      "D:\\xau-ml-scalper-claude\\microstructure-edge-map\\cache\\M1_2013.private.npz": "d212194522ba8f2df3cea55c233a4980e9fdb65c839d6a05afdf0e50634a8dd2",
+      "D:\\xau-ml-scalper-claude\\microstructure-edge-map\\cache\\M1_2014.private.npz": "b404bf7b3d9eae979624dc078fbfda4027d8e66f7e805152b067f7f0e173ab62",
+      "D:\\xau-ml-scalper-claude\\microstructure-edge-map\\cache\\M1_2015.private.npz": "6f0030be36ddc836f00ea4cb1ee6c90fcef1c426eefa398ef260fbc81d2cc45f",
+      "D:\\xau-ml-scalper-claude\\microstructure-edge-map\\cache\\M1_2016.private.npz": "635235b3809f75ca5f319a2c81cd1a03070f9be3eceaf6aebfd890289b40cf8d",
+      "D:\\xau-ml-scalper-claude\\microstructure-edge-map\\cache\\M1_2017.private.npz": "38f3741edc1541a3f098444a9315fdfc1e5a519278331d0a4e6f90c05fa98206",
+      "D:\\xau-ml-scalper-claude\\microstructure-edge-map\\cache\\M1_2018.private.npz": "76da72a5b725c528a86a5864324629edfd3e457d66ac8fa2285e6605986da3a8",
+      "D:\\xau-ml-scalper-claude\\microstructure-edge-map\\cache\\M1_2019.private.npz": "9b3e172c83209c696e777e2cccd37beee943a2de0c031a6011002ddfd4a6155e",
+      "D:\\xau-ml-scalper-claude\\microstructure-edge-map\\cache\\M1_2020.private.npz": "7167f470cbbb7e1922e8835496d608323a0783e831b152114d8929347f98facf",
+      "D:\\xau-ml-scalper-claude\\microstructure-edge-map\\cache\\M1_2021.private.npz": "05e8bbadac70a11f289b3e84a9706c5b9958c3de3ae4d4d0ba6bd162adcff503",
+      "D:\\xau-ml-scalper-claude\\microstructure-edge-map\\cache\\M1_2022.private.npz": "d6e9bb69de6d4dab2e4b4fa1f2033f094c8b83e08203a1dca23c9600aaeacaf0"
+    },
+    "mode": "Frozen parameters; continuous equity; no annual capital reset; no retuning"
+  },
+  "completed_utc": "2026-10-31T16:02:23.676031+00:00",
+  "checks": {
+    "past_2010_2019_equity_and_trades_match_scaled_original": true,
+    "yearly_reconciles": true,
+    "source_data_and_lock_unchanged": true,
+    "market_close_crossings_independently_recounted": true
+  },
+  "extension_net_2020_2022": 439838.2092496627
+}

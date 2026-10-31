@@ -1,0 +1,32 @@
+[
+ {
+  "lot": 0.1,
+  "capital_hist_dd20": 50000,
+  "capital_boot95_dd30": 88000,
+  "capital_needed": 88000
+ },
+ {
+  "lot": 0.2,
+  "capital_hist_dd20": 99000,
+  "capital_boot95_dd30": 175000,
+  "capital_needed": 175000
+ },
+ {
+  "lot": 0.3,
+  "capital_hist_dd20": 148000,
+  "capital_boot95_dd30": 262000,
+  "capital_needed": 262000
+ },
+ {
+  "lot": 0.4,
+  "capital_hist_dd20": 197000,
+  "capital_boot95_dd30": 349000,
+  "capital_needed": 349000
+ },
+ {
+  "lot": 0.5,
+  "capital_hist_dd20": 246000,
+  "capital_boot95_dd30": 436000,
+  "capital_needed": 436000
+ }
+]

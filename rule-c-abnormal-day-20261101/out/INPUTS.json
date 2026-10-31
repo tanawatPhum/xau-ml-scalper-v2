@@ -1,0 +1,49 @@
+{
+  "frozen_utc": "2026-10-31T18:10:34.192292+00:00",
+  "sources": {
+    "D:\\xau-ml-scalper-claude\\rule-c-abnormal-day-20261101\\PLAN.md": "b02cf55c798599dba53abd3f6826883db1fcf064670098b1f0bc653ff04ae60f",
+    "D:\\xau-ml-scalper-claude\\rule-c-abnormal-day-20261101\\hypothesis.py": "bd12b196d28c4d825aca1764811590b36b84aa339e1a5e04b01974326d4cb7e6",
+    "D:\\xau-ml-scalper-claude\\rule-c-abnormal-day-20261101\\executor.py": "ee303dde3b9f03ca01505556940c8bbf627a29c85224e2ecccbcae1b72cb400b",
+    "D:\\xau-ml-scalper-claude\\rule-c-abnormal-day-20261101\\test_synthetic.py": "4574d1c874c26d629d2e852df71ad44a0d7e65f9aaee6c6fab672bf129454d9c",
+    "D:\\xau-ml-scalper-claude\\rule-c-abnormal-day-20261101\\run.py": "9419cb9a4757e8469e307397bdbd8f9f0ee62ee2e675b9627d3dea21e115c86f",
+    "D:\\xau-ml-scalper-claude\\rule-c-literature-20261101\\trial.py": "bc4559a94a8cdae4081891a5c17484ddb2e1fd598bb98ce1c7fcd586bbf6dc5c",
+    "D:\\xau-ml-scalper-claude\\rule-c-literature-20261101\\signals.py": "033792585e2bb8e6883e67658b8966e1f7a9f3cb40be22d2b74fc30c3f593207",
+    "D:\\xau-ml-scalper-claude\\rule-c-research-20261101\\replay.py": "df0fc8d2f03980027e0d27ee3cbdea58adefecf1ca27af968e498736205ba84e",
+    "D:\\xau-ml-scalper-claude\\v1-r2\\v1_r2.py": "718bed8f4d7cd66f7b06bb7dd027891625638097bb7552404122c7cbec13e0b5",
+    "D:\\xau-ml-scalper-claude\\v1-r2\\PLAN.md": "3b8112f83bb40f633c36ad9d177e9389ee4162a5b493519dc8f175473fcee660",
+    "D:\\xau-ml-scalper-claude\\v1-r2\\out\\LOCK.json": "9523319b9f2ae27b3b3daf683ec28fec8535005ba364d3623aa825da04bcdfe0",
+    "D:\\xau-ml-scalper-claude\\v1-r2\\out\\LOCK.sha256": "d8cc2ff3474da7202a92f2a548b5c84960cdc2346d48d87d628cf7d22f507732",
+    "D:\\xau-ml-scalper-claude\\v1-r1\\daily\\calendar_rules.py": "2042fe2103c70fca31aef2c62489ee6e29c4af89dfbe08baa9a26c5f11b40148",
+    "D:\\xau-ml-scalper-claude\\v1-r1\\daily\\execution.py": "8b7126b11116f4a1968341938c544be33dd762d68e26fc06aec7a708e80f5697",
+    "D:\\xau-ml-scalper-claude\\v1-r1\\daily\\run_study.py": "579e6b0c26d4484927a157c7d12a1b6fe0b5f4cc204558fb6d4233fc10ed1d7b",
+    "D:\\xau-ml-scalper-claude\\v1-r1\\daily\\DESIGN.md": "acd23fad0212f6a89fa033abcdb3c95d4defb5b4687f70e547b46529f944d6e1",
+    "D:\\xau-ml-scalper-claude\\v1-r1\\baseline_engine.py": "964127ce2827f8e157a2d013dc17e121c48a97b1305288b945f0fa843719ed88",
+    "D:\\xau-ml-scalper-claude\\v1-r1\\strategy.py": "080bddb0b67d629f066e09057d869543e0c0bb5c88a5dbcd08e28da56ba8a883",
+    "D:\\xau-ml-scalper-claude\\v1-r1\\study.py": "952d78eb8489fd8473da22cc65f0b0564e59a540e896a43d6d8e12c5e17b7697"
+  },
+  "data_hashes": {
+    "D:\\xau-ml-scalper-claude\\microstructure-edge-map\\cache\\M1_2010.private.npz": "d1f2ece2d4b0b82b180bc9dd723df9acaaedeb56d54ac4fd54b39b104e96c029",
+    "D:\\xau-ml-scalper-claude\\microstructure-edge-map\\cache\\M1_2011.private.npz": "6510880b5793e1e53aac1c62f5da71b476795459dd06ce799f85e2eea52fb7c3",
+    "D:\\xau-ml-scalper-claude\\microstructure-edge-map\\cache\\M1_2012.private.npz": "793e75f05409d58bb3f765fdebf0c5a1171183ffd0685d335bd3cc69c42ff9e9",
+    "D:\\xau-ml-scalper-claude\\microstructure-edge-map\\cache\\M1_2013.private.npz": "d212194522ba8f2df3cea55c233a4980e9fdb65c839d6a05afdf0e50634a8dd2",
+    "D:\\xau-ml-scalper-claude\\microstructure-edge-map\\cache\\M1_2014.private.npz": "b404bf7b3d9eae979624dc078fbfda4027d8e66f7e805152b067f7f0e173ab62",
+    "D:\\xau-ml-scalper-claude\\microstructure-edge-map\\cache\\M1_2015.private.npz": "6f0030be36ddc836f00ea4cb1ee6c90fcef1c426eefa398ef260fbc81d2cc45f",
+    "D:\\xau-ml-scalper-claude\\microstructure-edge-map\\cache\\M1_2016.private.npz": "635235b3809f75ca5f319a2c81cd1a03070f9be3eceaf6aebfd890289b40cf8d"
+  },
+  "spec": {
+    "id": "C_prior_abnormal_day",
+    "paper_doi": "10.1007/s11408-021-00380-w",
+    "timezone": "UTC+03:00",
+    "reference_valid_days": 60,
+    "z_threshold": 2.0,
+    "minimum_daily_quotes": 1000,
+    "first_minute_max": 120,
+    "last_minute_min": 1320,
+    "expiry_minute": 360,
+    "minimum_scale": 0.5,
+    "direction": "opposite previous calendar day return",
+    "stop": "disabled",
+    "target": "disabled"
+  },
+  "market_outcomes_read": false
+}

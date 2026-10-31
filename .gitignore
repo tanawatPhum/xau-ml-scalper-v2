@@ -1,0 +1,41 @@
+# Withheld by owner while Claude develops this revision.
+/v1-r3/
+
+# Local compatibility junction; the canonical files are in v1-r1/.
+/v1-rx/
+
+# Third-party prices and local price-derived arrays stay on this machine.
+*.private.*
+cache/
+/data-ext/us500/native/
+*.bi5
+
+# Interpreter/build caches and local environments.
+__pycache__/
+numba_cache/
+*.py[cod]
+*.nbc
+*.nbi
+.pytest_cache/
+.test-temp*/
+.venv/
+venv/
+
+# Credentials and machine-local agent configuration.
+.env
+.env.*
+!.env.example
+!.env.sample
+*.pem
+*.key
+credentials.json
+secrets.json
+.aws/
+.codex/
+.agents/
+.claude/
+
+# Operating system files.
+Thumbs.db
+Desktop.ini
+.DS_Store

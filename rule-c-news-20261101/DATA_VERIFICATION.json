@@ -1,0 +1,22 @@
+{
+  "rows": 82,
+  "header_verified_explicit": 34,
+  "header_verified_missing": 6,
+  "header_date_zone_mismatches": 0,
+  "design_regular_verified": 8,
+  "validation_regular_verified": 24,
+  "actual_latency_verified": 0,
+  "duplicate_dates": 0,
+  "duplicate_urls": 0,
+  "input_hashes_unchanged": true,
+  "evidence_hashes": {
+    "source_evidence\\design_official_pages.txt": "cbce55e6baf04ba1f84e8a90aa878b2873ac7e0634bd8d4583cd9d004d5caf22",
+    "source_evidence\\design_update_dates.txt": "f05a9bfeda52ae542eb7b4e20a1fdf5bf0fe1332327414a324f0c991f824f0d3",
+    "source_evidence\\older_and_extra_official_pages.txt": "386b991ec310fbd553e799b0ab731be5bd479ad905e1c1b9eea88dadf80cd5a7",
+    "source_evidence\\validation_official_pages_0.txt": "1e2b0900a1bdfa62475e564c93c7c1a763b974acd6eed06e3a7bd08d2ba0f465",
+    "source_evidence\\validation_official_pages_1.txt": "e89c1d4069b2956337ea1516853482466a24b945531399523e2c56cf692d95dd",
+    "source_evidence\\validation_official_pages_2.txt": "b7f2c46774a9e11233eec822e3d885d77be8136fb982a0b0a910275ed5e3077b"
+  },
+  "manifest_sha256": "9a66e108e7231e3fa781324d359357e4a9f5143519ac796ca1109d478820394e",
+  "design_manifest_sha256": "e0f37211c248586e5a21c7a964a5f11575c78d18b705244bb7e86d727cca8d41"
+}

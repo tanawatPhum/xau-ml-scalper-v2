@@ -1,0 +1,45 @@
+{
+  "status": "PASS",
+  "checks": [
+    {
+      "name": "baseline",
+      "quotes": 235376,
+      "last_minute": 21388319,
+      "trades": 517,
+      "open_positions": 0
+    },
+    {
+      "name": "baseline",
+      "quotes": 236320,
+      "last_minute": 21389265,
+      "trades": 517,
+      "open_positions": 1
+    },
+    {
+      "name": "old_rx",
+      "quotes": 235376,
+      "last_minute": 21388319,
+      "trades": 254,
+      "open_positions": 0
+    },
+    {
+      "name": "old_rx",
+      "quotes": 239160,
+      "last_minute": 21392260,
+      "trades": 254,
+      "open_positions": 1
+    }
+  ],
+  "source_hashes": {
+    "D:\\xau-ml-scalper-claude\\v1-rx\\daily\\calendar_rules.py": "2042fe2103c70fca31aef2c62489ee6e29c4af89dfbe08baa9a26c5f11b40148",
+    "D:\\xau-ml-scalper-claude\\v1-rx\\daily\\execution.py": "8b7126b11116f4a1968341938c544be33dd762d68e26fc06aec7a708e80f5697",
+    "D:\\xau-ml-scalper-claude\\v1-rx\\daily\\run_study.py": "579e6b0c26d4484927a157c7d12a1b6fe0b5f4cc204558fb6d4233fc10ed1d7b",
+    "D:\\xau-ml-scalper-claude\\v1-rx\\daily\\DESIGN.md": "acd23fad0212f6a89fa033abcdb3c95d4defb5b4687f70e547b46529f944d6e1",
+    "D:\\xau-ml-scalper-claude\\v1-rx\\baseline_engine.py": "964127ce2827f8e157a2d013dc17e121c48a97b1305288b945f0fa843719ed88",
+    "D:\\xau-ml-scalper-claude\\v1-rx\\strategy.py": "080bddb0b67d629f066e09057d869543e0c0bb5c88a5dbcd08e28da56ba8a883",
+    "D:\\xau-ml-scalper-claude\\v1-rx\\study.py": "952d78eb8489fd8473da22cc65f0b0564e59a540e896a43d6d8e12c5e17b7697"
+  },
+  "data_hashes": {
+    "D:\\xau-ml-scalper-claude\\microstructure-edge-map\\cache\\M1_2010.private.npz": "d1f2ece2d4b0b82b180bc9dd723df9acaaedeb56d54ac4fd54b39b104e96c029"
+  }
+}

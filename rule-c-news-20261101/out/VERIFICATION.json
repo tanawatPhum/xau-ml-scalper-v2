@@ -1,0 +1,16 @@
+{
+  "source_hashes_unchanged": true,
+  "input_metadata_unchanged": true,
+  "design_data_hashes_unchanged": true,
+  "baseline_training_reproduced": true,
+  "prefix": {
+    "status": "PASS",
+    "quotes": 2191498,
+    "open_at_cut": true
+  },
+  "primary_signals": 5,
+  "actual_latency_verified": false,
+  "validation_prices_read": false,
+  "post2019_prices_read": false,
+  "gvz_or_us500_read": false
+}

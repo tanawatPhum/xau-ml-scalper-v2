@@ -1,0 +1,76 @@
+{
+  "summary": {
+    "trades": 427,
+    "open_positions": 0,
+    "end_balance_thb": 105681.1271000018,
+    "end_equity_thb": 105681.1271000018,
+    "net_equity_thb": 5681.127100001802,
+    "realized_net_thb": 5681.127100001802,
+    "closed_trade_net_thb": 5681.127100001793,
+    "open_unrealized_thb": 0.0,
+    "max_equity_drawdown_thb": 34062.78589999961,
+    "max_equity_drawdown_pct": 30.43747585518585,
+    "max_balance_drawdown_thb": 33104.393299999705,
+    "lowest_equity_thb": 77847.89310000063,
+    "max_gross_oz": 20.0,
+    "nonpositive_equity_minutes": 0,
+    "first_nonpositive_utc_minute": null,
+    "gross_mid_thb": 47141.4003500015,
+    "spread_cost_thb": 41460.27324999971,
+    "slippage_cost_thb": 0.0,
+    "commission_thb": 0.0,
+    "open_entry_commission_thb": 0.0,
+    "commission_paid_thb": 0.0
+  },
+  "metrics": {
+    "net": 5681.127100001802,
+    "dd": 34062.78589999961,
+    "dd_pct": 30.43747585518585,
+    "loss": 152637.6983999998,
+    "trades": 427,
+    "worst": -7533.073900000083,
+    "lowest": 77847.89310000063,
+    "recent": 5681.127100001802,
+    "early": 0.0,
+    "open_positions": 0
+  },
+  "yearly": {
+    "2017": {
+      "trades": 115,
+      "closed_net": 9742.30730000013,
+      "equity_change": 9742.307300000131,
+      "end_equity": 109742.30730000013,
+      "dd": 6612.503699999506,
+      "loss": 25749.28730000024,
+      "worst": -4460.003899999807
+    },
+    "2018": {
+      "trades": 104,
+      "closed_net": -9486.668399999577,
+      "equity_change": -9486.668399999573,
+      "end_equity": 100255.63890000056,
+      "dd": 14190.491700000057,
+      "loss": 34917.16690000006,
+      "worst": -3113.9317000000015
+    },
+    "2019": {
+      "trades": 208,
+      "closed_net": 5425.488200001239,
+      "equity_change": 5425.488200001244,
+      "end_equity": 105681.1271000018,
+      "dd": 23564.368299999842,
+      "loss": 91971.24419999948,
+      "worst": -7533.073900000083
+    }
+  },
+  "config": {
+    "start": 100000.0,
+    "oz": 10.0,
+    "fx": 33.77,
+    "cost_mode": "historical",
+    "spread": 0.168,
+    "commission": 0.0,
+    "slippage": 0.0,
+    "flat_minute_utc": null
+  }
+}

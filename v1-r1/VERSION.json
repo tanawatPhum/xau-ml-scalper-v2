@@ -1,0 +1,12 @@
+{
+  "version": "v1-r1",
+  "revision": 1,
+  "series": "v1",
+  "previous_name": "v1-rx",
+  "strategy_id": "D058",
+  "entrypoint": "v1_r1.py",
+  "parameter_lock": "daily/out/LOCK.json",
+  "parameter_lock_sha256": "b819a098e183f944287c120fa64628786a7fc368c437e781c76c19c01ab94432",
+  "renamed_date_ict": "2026-10-31",
+  "version_policy": "../VERSIONING.md"
+}

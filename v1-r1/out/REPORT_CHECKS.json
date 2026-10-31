@@ -1,0 +1,40 @@
+{
+  "status": "PASS",
+  "source_hashes_verified": true,
+  "baseline_engine_identical": true,
+  "comparison_data_identical": true,
+  "baseline_reproduced": true,
+  "yearly_equity_reconciles": true,
+  "closed_trades_reconcile": true,
+  "training_prefix_reconciles": true,
+  "actual_prefix_checks": "research/FINAL_CAUSAL_CHECKS.json",
+  "extras": {
+    "v1": {
+      "profit_factor": 1.130293696059108,
+      "win_pct": 63.285420944558524,
+      "losing_trades": 2681,
+      "mean_losing_trade": -1028.3177873182058,
+      "lot05": {
+        "net": 1796046.47474854,
+        "end": 1896046.47474854,
+        "dd": 342314.67050025216,
+        "dd_pct": 42.78977868082393,
+        "lowest": 80198.96049998293
+      }
+    },
+    "rx": {
+      "profit_factor": 1.2850947720123296,
+      "win_pct": 63.569604086845466,
+      "losing_trades": 1141,
+      "mean_losing_trade": -1083.1802971954837,
+      "lot05": {
+        "net": 1761755.572499391,
+        "end": 1861755.572499391,
+        "dd": 225790.44125015475,
+        "dd_pct": 26.996091832406027,
+        "lowest": 83207.86749999781
+      }
+    }
+  },
+  "report_generator_sha256": "721c5fa2c757f8d549d24c89ef2346cd4935f506dafab9f75fa71a0d570e956f"
+}

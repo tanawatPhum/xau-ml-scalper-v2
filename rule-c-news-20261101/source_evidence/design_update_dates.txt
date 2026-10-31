@@ -1,0 +1,321 @@
+Federal Reserve Board - Federal Reserve issues FOMC statement (https://www.federalreserve.gov/newsevents/pressreleases/monetary20160127a.htm)
+citeturn14view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"https://www.federalreserve.gov/newsevents/pressreleases/monetary20160127a.htm","pattern":"Last Update"}); Total lines: 51
+L14: Given the economic outlook, the Committee decided to maintain the target range for the federal funds rate at 1/4 to 1/2 percent. The stance of monetary policy remains accommodative, thereby supporting further improvement in labor market conditions and a return to 2 percent inflation.
+L15: In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its objectives of maximum employment and 2 percent inflation. This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.
+L16: In light of the current shortfall of inflation from 2 percent, the Committee will carefully monitor actual and expected progress toward its inflation goal. The Committee expects that economic conditions will evolve in a manner that will warrant only gradual increases in the federal funds rate; the federal funds rate is likely to remain, for some time, below levels that are expected to prevail in the longer run.
+L17: However, the actual path of the federal funds rate will depend on the economic outlook as informed by incoming data.
+L18: The Committee is maintaining its existing policy of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing Treasury securities at auction, and it anticipates doing so until normalization of the level of the federal funds rate is well under way. This policy, by keeping the Committee's holdings of longer-term securities at sizable levels, should help maintain accommodative financial conditions.
+L19: Voting for the FOMC monetary policy action were: Janet L. Yellen, Chair; William C. Dudley, Vice Chairman; Lael Brainard; James Bullard; Stanley Fischer; Esther L. George; Loretta J. Mester; Jerome H. Powell; Eric Rosengren; and Daniel K. Tarullo.
+L20: 
+L21: 【2†Implementation Note issued January 27, 2016】
+L22: 
+L23: Last Update: January 27, 2016
+L24: ###### Board of Governors of the Federal Reserve System
+L25: 
+L26:   * 【3†About the Fed】
+L27:   * 【4†News & Events】
+L28:   * 【5†Monetary Policy】
+L29:   * 【6†Supervision & Regulation】
+L30:   * 【7†Financial Stability】
+L31:   * 【8†Payment Systems】
+L32:   * 【9†Economic Research】
+L33:   * 【10†Data】
+L34:   * 【11†Consumers & Communities】
+L35:   * 【12†Connect with the Board】
+L36: ###### Tools and Information
+L37: 
+L38:   * 【13†Contact】
+L39:   * 【14†Publications】
+L40:   * 【15†Freedom of Information (FOIA)】
+L41:   * 【16†Office of Inspector General†oig.federalreserve.gov】
+L42:   * 【17†Budget & Performance】 | 【18†Audit】
+L43:   * 【19†No FEAR Act】
+L44:   * 【20†Español】
+L45:   * 【21†Website Policies】 | 【22†Privacy Program】
+L46:   * 【23†Accessibility】
+L47: 【24†Federal Reserve Facebook Page†www.facebook.com】 【25†Federal Reserve Instagram Page†www.instagram.com】 【26†Federal Reserve YouTube Page†www.youtube.com】 【27†Federal Reserve Flickr Page†www.flickr.com】 【28†Federal Reserve LinkedIn Page†www.linkedin.com】 【29†Federal Reserve Threads Page†www.threads.net】 【30†Link to Federal Reserve Bluesky Page†bsky.app】 【31†Subscribe to RSS】 【32†Subscribe to Email】
+L48: 
+L49: Board of Governors of the Federal Reserve System
+L50: 20th Street and Constitution Avenue N.W., Washington, DC 20551
+--------------------------------------------------------------------------------
+Federal Reserve Board - Federal Reserve issues FOMC statement (https://www.federalreserve.gov/newsevents/pressreleases/monetary20160316a.htm)
+citeturn14view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"https://www.federalreserve.gov/newsevents/pressreleases/monetary20160316a.htm","pattern":"Last Update"}); Total lines: 51
+L14: Against this backdrop, the Committee decided to maintain the target range for the federal funds rate at 1/4 to 1/2 percent. The stance of monetary policy remains accommodative, thereby supporting further improvement in labor market conditions and a return to 2 percent inflation.
+L15: In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its objectives of maximum employment and 2 percent inflation. This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.
+L16: In light of the current shortfall of inflation from 2 percent, the Committee will carefully monitor actual and expected progress toward its inflation goal. The Committee expects that economic conditions will evolve in a manner that will warrant only gradual increases in the federal funds rate; the federal funds rate is likely to remain, for some time, below levels that are expected to prevail in the longer run.
+L17: However, the actual path of the federal funds rate will depend on the economic outlook as informed by incoming data.
+L18: The Committee is maintaining its existing policy of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing Treasury securities at auction, and it anticipates doing so until normalization of the level of the federal funds rate is well under way. This policy, by keeping the Committee's holdings of longer-term securities at sizable levels, should help maintain accommodative financial conditions.
+L19: Voting for the FOMC monetary policy action were: Janet L. Yellen, Chair; William C. Dudley, Vice Chairman; Lael Brainard; James Bullard; Stanley Fischer; Loretta J. Mester; Jerome H. Powell; Eric Rosengren; and Daniel K. Tarullo. Voting against the action was Esther L. George, who preferred at this meeting to raise the target range for the federal funds rate to 1/2 to 3/4 percent.
+L20: 
+L21: 【2†Implementation Note issued March 16, 2016】
+L22: 
+L23: Last Update: March 16, 2016
+L24: ###### Board of Governors of the Federal Reserve System
+L25: 
+L26:   * 【3†About the Fed】
+L27:   * 【4†News & Events】
+L28:   * 【5†Monetary Policy】
+L29:   * 【6†Supervision & Regulation】
+L30:   * 【7†Financial Stability】
+L31:   * 【8†Payment Systems】
+L32:   * 【9†Economic Research】
+L33:   * 【10†Data】
+L34:   * 【11†Consumers & Communities】
+L35:   * 【12†Connect with the Board】
+L36: ###### Tools and Information
+L37: 
+L38:   * 【13†Contact】
+L39:   * 【14†Publications】
+L40:   * 【15†Freedom of Information (FOIA)】
+L41:   * 【16†Office of Inspector General†oig.federalreserve.gov】
+L42:   * 【17†Budget & Performance】 | 【18†Audit】
+L43:   * 【19†No FEAR Act】
+L44:   * 【20†Español】
+L45:   * 【21†Website Policies】 | 【22†Privacy Program】
+L46:   * 【23†Accessibility】
+L47: 【24†Federal Reserve Facebook Page†www.facebook.com】 【25†Federal Reserve Instagram Page†www.instagram.com】 【26†Federal Reserve YouTube Page†www.youtube.com】 【27†Federal Reserve Flickr Page†www.flickr.com】 【28†Federal Reserve LinkedIn Page†www.linkedin.com】 【29†Federal Reserve Threads Page†www.threads.net】 【30†Link to Federal Reserve Bluesky Page†bsky.app】 【31†Subscribe to RSS】 【32†Subscribe to Email】
+L48: 
+L49: Board of Governors of the Federal Reserve System
+L50: 20th Street and Constitution Avenue N.W., Washington, DC 20551
+--------------------------------------------------------------------------------
+Federal Reserve Board - Federal Reserve issues FOMC statement (https://www.federalreserve.gov/newsevents/pressreleases/monetary20160427a.htm)
+citeturn14view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"https://www.federalreserve.gov/newsevents/pressreleases/monetary20160427a.htm","pattern":"Last Update"}); Total lines: 51
+L14: Against this backdrop, the Committee decided to maintain the target range for the federal funds rate at 1/4 to 1/2 percent. The stance of monetary policy remains accommodative, thereby supporting further improvement in labor market conditions and a return to 2 percent inflation.
+L15: In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its objectives of maximum employment and 2 percent inflation. This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.
+L16: In light of the current shortfall of inflation from 2 percent, the Committee will carefully monitor actual and expected progress toward its inflation goal. The Committee expects that economic conditions will evolve in a manner that will warrant only gradual increases in the federal funds rate; the federal funds rate is likely to remain, for some time, below levels that are expected to prevail in the longer run.
+L17: However, the actual path of the federal funds rate will depend on the economic outlook as informed by incoming data.
+L18: The Committee is maintaining its existing policy of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing Treasury securities at auction, and it anticipates doing so until normalization of the level of the federal funds rate is well under way. This policy, by keeping the Committee's holdings of longer-term securities at sizable levels, should help maintain accommodative financial conditions.
+L19: Voting for the FOMC monetary policy action were: Janet L. Yellen, Chair; William C. Dudley, Vice Chairman; Lael Brainard; James Bullard; Stanley Fischer; Loretta J. Mester; Jerome H. Powell; Eric Rosengren; and Daniel K. Tarullo. Voting against the action was Esther L. George, who preferred at this meeting to raise the target range for the federal funds rate to 1/2 to 3/4 percent.
+L20: 
+L21: 【2†Implementation Note issued April 27, 2016】
+L22: 
+L23: Last Update: April 27, 2016
+L24: ###### Board of Governors of the Federal Reserve System
+L25: 
+L26:   * 【3†About the Fed】
+L27:   * 【4†News & Events】
+L28:   * 【5†Monetary Policy】
+L29:   * 【6†Supervision & Regulation】
+L30:   * 【7†Financial Stability】
+L31:   * 【8†Payment Systems】
+L32:   * 【9†Economic Research】
+L33:   * 【10†Data】
+L34:   * 【11†Consumers & Communities】
+L35:   * 【12†Connect with the Board】
+L36: ###### Tools and Information
+L37: 
+L38:   * 【13†Contact】
+L39:   * 【14†Publications】
+L40:   * 【15†Freedom of Information (FOIA)】
+L41:   * 【16†Office of Inspector General†oig.federalreserve.gov】
+L42:   * 【17†Budget & Performance】 | 【18†Audit】
+L43:   * 【19†No FEAR Act】
+L44:   * 【20†Español】
+L45:   * 【21†Website Policies】 | 【22†Privacy Program】
+L46:   * 【23†Accessibility】
+L47: 【24†Federal Reserve Facebook Page†www.facebook.com】 【25†Federal Reserve Instagram Page†www.instagram.com】 【26†Federal Reserve YouTube Page†www.youtube.com】 【27†Federal Reserve Flickr Page†www.flickr.com】 【28†Federal Reserve LinkedIn Page†www.linkedin.com】 【29†Federal Reserve Threads Page†www.threads.net】 【30†Link to Federal Reserve Bluesky Page†bsky.app】 【31†Subscribe to RSS】 【32†Subscribe to Email】
+L48: 
+L49: Board of Governors of the Federal Reserve System
+L50: 20th Street and Constitution Avenue N.W., Washington, DC 20551
+--------------------------------------------------------------------------------
+Federal Reserve Board - Federal Reserve issues FOMC statement (https://www.federalreserve.gov/newsevents/pressreleases/monetary20160615a.htm)
+citeturn14view3 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"https://www.federalreserve.gov/newsevents/pressreleases/monetary20160615a.htm","pattern":"Last Update"}); Total lines: 51
+L13: Inflation is expected to remain low in the near term, in part because of earlier declines in energy prices, but to rise to 2 percent over the medium term as the transitory effects of past declines in energy and import prices dissipate and the labor market strengthens further. The Committee continues to closely monitor inflation indicators and global economic and financial developments.
+L14: Against this backdrop, the Committee decided to maintain the target range for the federal funds rate at 1/4 to 1/2 percent. The stance of monetary policy remains accommodative, thereby supporting further improvement in labor market conditions and a return to 2 percent inflation.
+L15: In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its objectives of maximum employment and 2 percent inflation. This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.
+L16: In light of the current shortfall of inflation from 2 percent, the Committee will carefully monitor actual and expected progress toward its inflation goal. The Committee expects that economic conditions will evolve in a manner that will warrant only gradual increases in the federal funds rate; the federal funds rate is likely to remain, for some time, below levels that are expected to prevail in the longer run.
+L17: However, the actual path of the federal funds rate will depend on the economic outlook as informed by incoming data.
+L18: The Committee is maintaining its existing policy of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing Treasury securities at auction, and it anticipates doing so until normalization of the level of the federal funds rate is well under way. This policy, by keeping the Committee's holdings of longer-term securities at sizable levels, should help maintain accommodative financial conditions.
+L19: Voting for the FOMC monetary policy action were: Janet L. Yellen, Chair; William C. Dudley, Vice Chairman; Lael Brainard; James Bullard; Stanley Fischer; Esther L. George; Loretta J. Mester; Jerome H. Powell; Eric Rosengren; and Daniel K. Tarullo.
+L20: 
+L21: 【2†Implementation Note issued June 15, 2016】
+L22: 
+L23: Last Update: June 15, 2016
+L24: ###### Board of Governors of the Federal Reserve System
+L25: 
+L26:   * 【3†About the Fed】
+L27:   * 【4†News & Events】
+L28:   * 【5†Monetary Policy】
+L29:   * 【6†Supervision & Regulation】
+L30:   * 【7†Financial Stability】
+L31:   * 【8†Payment Systems】
+L32:   * 【9†Economic Research】
+L33:   * 【10†Data】
+L34:   * 【11†Consumers & Communities】
+L35:   * 【12†Connect with the Board】
+L36: ###### Tools and Information
+L37: 
+L38:   * 【13†Contact】
+L39:   * 【14†Publications】
+L40:   * 【15†Freedom of Information (FOIA)】
+L41:   * 【16†Office of Inspector General†oig.federalreserve.gov】
+L42:   * 【17†Budget & Performance】 | 【18†Audit】
+L43:   * 【19†No FEAR Act】
+L44:   * 【20†Español】
+L45:   * 【21†Website Policies】 | 【22†Privacy Program】
+L46:   * 【23†Accessibility】
+L47: 【24†Federal Reserve Facebook Page†www.facebook.com】 【25†Federal Reserve Instagram Page†www.instagram.com】 【26†Federal Reserve YouTube Page†www.youtube.com】 【27†Federal Reserve Flickr Page†www.flickr.com】 【28†Federal Reserve LinkedIn Page†www.linkedin.com】 【29†Federal Reserve Threads Page†www.threads.net】 【30†Link to Federal Reserve Bluesky Page†bsky.app】 【31†Subscribe to RSS】 【32†Subscribe to Email】
+L48: 
+L49: Board of Governors of the Federal Reserve System
+L50: 20th Street and Constitution Avenue N.W., Washington, DC 20551
+--------------------------------------------------------------------------------
+Federal Reserve Board - Federal Reserve issues FOMC statement (https://www.federalreserve.gov/newsevents/pressreleases/monetary20160727a.htm)
+citeturn14view4 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"https://www.federalreserve.gov/newsevents/pressreleases/monetary20160727a.htm","pattern":"Last Update"}); Total lines: 51
+L14: Against this backdrop, the Committee decided to maintain the target range for the federal funds rate at 1/4 to 1/2 percent. The stance of monetary policy remains accommodative, thereby supporting further improvement in labor market conditions and a return to 2 percent inflation.
+L15: In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its objectives of maximum employment and 2 percent inflation. This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.
+L16: In light of the current shortfall of inflation from 2 percent, the Committee will carefully monitor actual and expected progress toward its inflation goal. The Committee expects that economic conditions will evolve in a manner that will warrant only gradual increases in the federal funds rate; the federal funds rate is likely to remain, for some time, below levels that are expected to prevail in the longer run.
+L17: However, the actual path of the federal funds rate will depend on the economic outlook as informed by incoming data.
+L18: The Committee is maintaining its existing policy of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing Treasury securities at auction, and it anticipates doing so until normalization of the level of the federal funds rate is well under way. This policy, by keeping the Committee's holdings of longer-term securities at sizable levels, should help maintain accommodative financial conditions.
+L19: Voting for the FOMC monetary policy action were: Janet L. Yellen, Chair; William C. Dudley, Vice Chairman; Lael Brainard; James Bullard; Stanley Fischer; Loretta J. Mester; Jerome H. Powell; Eric Rosengren; and Daniel K. Tarullo. Voting against the action was Esther L. George, who preferred at this meeting to raise the target range for the federal funds rate to 1/2 to 3/4 percent.
+L20: 
+L21: 【2†Implementation Note issued July 27, 2016】
+L22: 
+L23: Last Update: July 27, 2016
+L24: ###### Board of Governors of the Federal Reserve System
+L25: 
+L26:   * 【3†About the Fed】
+L27:   * 【4†News & Events】
+L28:   * 【5†Monetary Policy】
+L29:   * 【6†Supervision & Regulation】
+L30:   * 【7†Financial Stability】
+L31:   * 【8†Payment Systems】
+L32:   * 【9†Economic Research】
+L33:   * 【10†Data】
+L34:   * 【11†Consumers & Communities】
+L35:   * 【12†Connect with the Board】
+L36: ###### Tools and Information
+L37: 
+L38:   * 【13†Contact】
+L39:   * 【14†Publications】
+L40:   * 【15†Freedom of Information (FOIA)】
+L41:   * 【16†Office of Inspector General†oig.federalreserve.gov】
+L42:   * 【17†Budget & Performance】 | 【18†Audit】
+L43:   * 【19†No FEAR Act】
+L44:   * 【20†Español】
+L45:   * 【21†Website Policies】 | 【22†Privacy Program】
+L46:   * 【23†Accessibility】
+L47: 【24†Federal Reserve Facebook Page†www.facebook.com】 【25†Federal Reserve Instagram Page†www.instagram.com】 【26†Federal Reserve YouTube Page†www.youtube.com】 【27†Federal Reserve Flickr Page†www.flickr.com】 【28†Federal Reserve LinkedIn Page†www.linkedin.com】 【29†Federal Reserve Threads Page†www.threads.net】 【30†Link to Federal Reserve Bluesky Page†bsky.app】 【31†Subscribe to RSS】 【32†Subscribe to Email】
+L48: 
+L49: Board of Governors of the Federal Reserve System
+L50: 20th Street and Constitution Avenue N.W., Washington, DC 20551
+--------------------------------------------------------------------------------
+Federal Reserve Board - Federal Reserve issues FOMC statement (https://www.federalreserve.gov/newsevents/pressreleases/monetary20160921a.htm)
+citeturn14view5 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"https://www.federalreserve.gov/newsevents/pressreleases/monetary20160921a.htm","pattern":"Last Update"}); Total lines: 51
+L14: Against this backdrop, the Committee decided to maintain the target range for the federal funds rate at 1/4 to 1/2 percent. The Committee judges that the case for an increase in the federal funds rate has strengthened but decided, for the time being, to wait for further evidence of continued progress toward its objectives. The stance of monetary policy remains accommodative, thereby supporting further improvement in labor market conditions and a return to 2 percent inflation.
+L15: In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its objectives of maximum employment and 2 percent inflation. This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.
+L16: In light of the current shortfall of inflation from 2 percent, the Committee will carefully monitor actual and expected progress toward its inflation goal. The Committee expects that economic conditions will evolve in a manner that will warrant only gradual increases in the federal funds rate; the federal funds rate is likely to remain, for some time, below levels that are expected to prevail in the longer run.
+L17: However, the actual path of the federal funds rate will depend on the economic outlook as informed by incoming data.
+L18: The Committee is maintaining its existing policy of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing Treasury securities at auction, and it anticipates doing so until normalization of the level of the federal funds rate is well under way. This policy, by keeping the Committee's holdings of longer-term securities at sizable levels, should help maintain accommodative financial conditions.
+L19: Voting for the FOMC monetary policy action were: Janet L. Yellen, Chair; William C. Dudley, Vice Chairman; Lael Brainard; James Bullard; Stanley Fischer; Jerome H. Powell; and Daniel K. Tarullo. Voting against the action were: Esther L. George, Loretta J. Mester, and Eric Rosengren, each of whom preferred at this meeting to raise the target range for the federal funds rate to 1/2 to 3/4 percent.
+L20: 
+L21: 【2†Implementation Note issued September 21, 2016】
+L22: 
+L23: Last Update: September 21, 2016
+L24: ###### Board of Governors of the Federal Reserve System
+L25: 
+L26:   * 【3†About the Fed】
+L27:   * 【4†News & Events】
+L28:   * 【5†Monetary Policy】
+L29:   * 【6†Supervision & Regulation】
+L30:   * 【7†Financial Stability】
+L31:   * 【8†Payment Systems】
+L32:   * 【9†Economic Research】
+L33:   * 【10†Data】
+L34:   * 【11†Consumers & Communities】
+L35:   * 【12†Connect with the Board】
+L36: ###### Tools and Information
+L37: 
+L38:   * 【13†Contact】
+L39:   * 【14†Publications】
+L40:   * 【15†Freedom of Information (FOIA)】
+L41:   * 【16†Office of Inspector General†oig.federalreserve.gov】
+L42:   * 【17†Budget & Performance】 | 【18†Audit】
+L43:   * 【19†No FEAR Act】
+L44:   * 【20†Español】
+L45:   * 【21†Website Policies】 | 【22†Privacy Program】
+L46:   * 【23†Accessibility】
+L47: 【24†Federal Reserve Facebook Page†www.facebook.com】 【25†Federal Reserve Instagram Page†www.instagram.com】 【26†Federal Reserve YouTube Page†www.youtube.com】 【27†Federal Reserve Flickr Page†www.flickr.com】 【28†Federal Reserve LinkedIn Page†www.linkedin.com】 【29†Federal Reserve Threads Page†www.threads.net】 【30†Link to Federal Reserve Bluesky Page†bsky.app】 【31†Subscribe to RSS】 【32†Subscribe to Email】
+L48: 
+L49: Board of Governors of the Federal Reserve System
+L50: 20th Street and Constitution Avenue N.W., Washington, DC 20551
+--------------------------------------------------------------------------------
+Federal Reserve Board - Federal Reserve issues FOMC statement (https://www.federalreserve.gov/newsevents/pressreleases/monetary20161102a.htm)
+citeturn14view6 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"https://www.federalreserve.gov/newsevents/pressreleases/monetary20161102a.htm","pattern":"Last Update"}); Total lines: 51
+L14: Against this backdrop, the Committee decided to maintain the target range for the federal funds rate at 1/4 to 1/2 percent. The Committee judges that the case for an increase in the federal funds rate has continued to strengthen but decided, for the time being, to wait for some further evidence of continued progress toward its objectives. The stance of monetary policy remains accommodative, thereby supporting further improvement in labor market conditions and a return to 2 percent inflation.
+L15: In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its objectives of maximum employment and 2 percent inflation. This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.
+L16: In light of the current shortfall of inflation from 2 percent, the Committee will carefully monitor actual and expected progress toward its inflation goal. The Committee expects that economic conditions will evolve in a manner that will warrant only gradual increases in the federal funds rate; the federal funds rate is likely to remain, for some time, below levels that are expected to prevail in the longer run.
+L17: However, the actual path of the federal funds rate will depend on the economic outlook as informed by incoming data.
+L18: The Committee is maintaining its existing policy of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing Treasury securities at auction, and it anticipates doing so until normalization of the level of the federal funds rate is well under way. This policy, by keeping the Committee's holdings of longer-term securities at sizable levels, should help maintain accommodative financial conditions.
+L19: Voting for the FOMC monetary policy action were: Janet L. Yellen, Chair; William C. Dudley, Vice Chairman; Lael Brainard; James Bullard; Stanley Fischer; Jerome H. Powell; Eric Rosengren; and Daniel K. Tarullo. Voting against the action were: Esther L. George and Loretta J. Mester, each of whom preferred at this meeting to raise the target range for the federal funds rate to 1/2 to 3/4 percent.
+L20: 
+L21: 【2†Implementation Note issued November 2, 2016】
+L22: 
+L23: Last Update: November 02, 2016
+L24: ###### Board of Governors of the Federal Reserve System
+L25: 
+L26:   * 【3†About the Fed】
+L27:   * 【4†News & Events】
+L28:   * 【5†Monetary Policy】
+L29:   * 【6†Supervision & Regulation】
+L30:   * 【7†Financial Stability】
+L31:   * 【8†Payment Systems】
+L32:   * 【9†Economic Research】
+L33:   * 【10†Data】
+L34:   * 【11†Consumers & Communities】
+L35:   * 【12†Connect with the Board】
+L36: ###### Tools and Information
+L37: 
+L38:   * 【13†Contact】
+L39:   * 【14†Publications】
+L40:   * 【15†Freedom of Information (FOIA)】
+L41:   * 【16†Office of Inspector General†oig.federalreserve.gov】
+L42:   * 【17†Budget & Performance】 | 【18†Audit】
+L43:   * 【19†No FEAR Act】
+L44:   * 【20†Español】
+L45:   * 【21†Website Policies】 | 【22†Privacy Program】
+L46:   * 【23†Accessibility】
+L47: 【24†Federal Reserve Facebook Page†www.facebook.com】 【25†Federal Reserve Instagram Page†www.instagram.com】 【26†Federal Reserve YouTube Page†www.youtube.com】 【27†Federal Reserve Flickr Page†www.flickr.com】 【28†Federal Reserve LinkedIn Page†www.linkedin.com】 【29†Federal Reserve Threads Page†www.threads.net】 【30†Link to Federal Reserve Bluesky Page†bsky.app】 【31†Subscribe to RSS】 【32†Subscribe to Email】
+L48: 
+L49: Board of Governors of the Federal Reserve System
+L50: 20th Street and Constitution Avenue N.W., Washington, DC 20551
+--------------------------------------------------------------------------------
+Federal Reserve Board - Federal Reserve issues FOMC statement (https://www.federalreserve.gov/newsevents/pressreleases/monetary20161214a.htm)
+citeturn14view7 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"https://www.federalreserve.gov/newsevents/pressreleases/monetary20161214a.htm","pattern":"Last Update"}); Total lines: 51
+L14: In view of realized and expected labor market conditions and inflation, the Committee decided to raise the target range for the federal funds rate to 1/2 to 3/4 percent. The stance of monetary policy remains accommodative, thereby supporting some further strengthening in labor market conditions and a return to 2 percent inflation.
+L15: In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its objectives of maximum employment and 2 percent inflation. This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.
+L16: In light of the current shortfall of inflation from 2 percent, the Committee will carefully monitor actual and expected progress toward its inflation goal. The Committee expects that economic conditions will evolve in a manner that will warrant only gradual increases in the federal funds rate; the federal funds rate is likely to remain, for some time, below levels that are expected to prevail in the longer run.
+L17: However, the actual path of the federal funds rate will depend on the economic outlook as informed by incoming data.
+L18: The Committee is maintaining its existing policy of reinvesting principal payments from its holdings of agency debt and agency mortgage-backed securities in agency mortgage-backed securities and of rolling over maturing Treasury securities at auction, and it anticipates doing so until normalization of the level of the federal funds rate is well under way. This policy, by keeping the Committee's holdings of longer-term securities at sizable levels, should help maintain accommodative financial conditions.
+L19: Voting for the FOMC monetary policy action were: Janet L. Yellen, Chair; William C. Dudley, Vice Chairman; Lael Brainard; James Bullard; Stanley Fischer; Esther L. George; Loretta J. Mester; Jerome H. Powell; Eric Rosengren; and Daniel K. Tarullo.
+L20: 
+L21: 【2†Implementation Note issued December 14, 2016】
+L22: 
+L23: Last Update: December 14, 2016
+L24: ###### Board of Governors of the Federal Reserve System
+L25: 
+L26:   * 【3†About the Fed】
+L27:   * 【4†News & Events】
+L28:   * 【5†Monetary Policy】
+L29:   * 【6†Supervision & Regulation】
+L30:   * 【7†Financial Stability】
+L31:   * 【8†Payment Systems】
+L32:   * 【9†Economic Research】
+L33:   * 【10†Data】
+L34:   * 【11†Consumers & Communities】
+L35:   * 【12†Connect with the Board】
+L36: ###### Tools and Information
+L37: 
+L38:   * 【13†Contact】
+L39:   * 【14†Publications】
+L40:   * 【15†Freedom of Information (FOIA)】
+L41:   * 【16†Office of Inspector General†oig.federalreserve.gov】
+L42:   * 【17†Budget & Performance】 | 【18†Audit】
+L43:   * 【19†No FEAR Act】
+L44:   * 【20†Español】
+L45:   * 【21†Website Policies】 | 【22†Privacy Program】
+L46:   * 【23†Accessibility】
+L47: 【24†Federal Reserve Facebook Page†www.facebook.com】 【25†Federal Reserve Instagram Page†www.instagram.com】 【26†Federal Reserve YouTube Page†www.youtube.com】 【27†Federal Reserve Flickr Page†www.flickr.com】 【28†Federal Reserve LinkedIn Page†www.linkedin.com】 【29†Federal Reserve Threads Page†www.threads.net】 【30†Link to Federal Reserve Bluesky Page†bsky.app】 【31†Subscribe to RSS】 【32†Subscribe to Email】
+L48: 
+L49: Board of Governors of the Federal Reserve System
+L50: 20th Street and Constitution Avenue N.W., Washington, DC 20551
+

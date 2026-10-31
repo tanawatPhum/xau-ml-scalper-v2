@@ -1,0 +1,114 @@
+{
+  "kind": "engineering_correction_not_holdout_exam",
+  "years": [
+    2010
+  ],
+  "allow_2020_2022": false,
+  "created_utc": "2026-10-31T15:31:40.667694+00:00",
+  "config": {
+    "start": 100000.0,
+    "oz": 10.0,
+    "fx": 33.77,
+    "cost_mode": "fixed",
+    "spread": 0.168,
+    "commission": 0.0,
+    "slippage": 0.0,
+    "flat_minute_utc": null
+  },
+  "rules": {
+    "A": {
+      "k": 1.0,
+      "long_vol": true,
+      "min_usd": 2.1626934441569983,
+      "leg": 2.5
+    },
+    "B": {
+      "k": 1.5,
+      "long_vol": false,
+      "min_usd": 0.0,
+      "leg": 3.5
+    }
+  },
+  "summary": {
+    "trades": 7,
+    "open_positions": 0,
+    "end_balance_thb": 100214.42650997061,
+    "end_equity_thb": 100214.42650997061,
+    "net_equity_thb": 214.4265099706099,
+    "realized_net_thb": 214.4265099706099,
+    "closed_trade_net_thb": 214.4265099706081,
+    "open_unrealized_thb": 0.0,
+    "max_equity_drawdown_thb": 8644.864368784736,
+    "max_equity_drawdown_pct": 8.110076698922168,
+    "max_balance_drawdown_thb": 7123.552225454012,
+    "lowest_equity_thb": 97949.24922244235,
+    "max_gross_oz": 10.0,
+    "nonpositive_equity_minutes": 0,
+    "first_nonpositive_utc_minute": null,
+    "gross_mid_thb": 611.5617099708916,
+    "spread_cost_thb": 397.1352000000001,
+    "slippage_cost_thb": 0.0,
+    "commission_thb": 0.0,
+    "open_entry_commission_thb": 0.0,
+    "commission_paid_thb": 0.0
+  },
+  "diagnostics": {
+    "cancelled_entries": 0,
+    "pending_orders_at_end": 0,
+    "gap_count": 0,
+    "close_based_stop": true,
+    "terminal_liquidation": false
+  },
+  "yearly": {
+    "2010": {
+      "closed_trades": 7,
+      "realized_net_thb": 214.4265099706099,
+      "closed_trade_net_thb": 214.4265099706081,
+      "start_equity_thb": 100000.0,
+      "end_equity_thb": 100214.42650997061,
+      "equity_change_thb": 214.4265099706099,
+      "max_equity_drawdown_thb": 8644.864368784736
+    }
+  },
+  "by_rule": {
+    "A": {
+      "trades": 6,
+      "net_thb": -840.9564580284114,
+      "win_rate": 0.6666666666666666
+    },
+    "B": {
+      "trades": 1,
+      "net_thb": 1055.382967999018,
+      "win_rate": 1.0
+    }
+  },
+  "exit_reasons": {
+    "swing": 6,
+    "stop": 1
+  },
+  "source_hashes": {
+    "D:\\xau-ml-scalper-claude\\swing-causal-execution\\engine.py": "964127ce2827f8e157a2d013dc17e121c48a97b1305288b945f0fa843719ed88",
+    "D:\\xau-ml-scalper-claude\\swing-causal-execution\\run.py": "1501d3e6bdcfa23609fdfdb10265c766caedb40f6f72bba804386bfb29f05d50",
+    "D:\\xau-ml-scalper-claude\\v1-rx\\daily\\.test-all-green\\test_cli_creates_new_reconcile0\\cache\\M1_2010.private.npz": "46ba98f539e64ba82b8a90c224f3ca4e6af1faa0c8153552abe419af4c74b132"
+  },
+  "versions": {
+    "numpy": "2.2.6",
+    "pandas": "2.3.1",
+    "numba": "0.63.1"
+  },
+  "assumptions": [
+    "Signal filter fixed at confirmation close; fill at exact next minute close.",
+    "Close-based stop submits an exit for the next observed quote; not an intrabar stop.",
+    "Data-gap liquidation occurs after the gap; no retrospective last-bar fill.",
+    "exit_delay_minutes is stop/swing-reason request latency only; forced gap/scheduled exits report zero.",
+    "No assumed broker session calendar; UTC cutoff disabled unless supplied.",
+    "Commission/slippage are user assumptions; zero does not prove zero execution cost.",
+    "Liquidation equity includes estimated exit costs; EOF positions remain open.",
+    "Realized net is cash balance change including paid entry commissions on open positions.",
+    "Gross/spread/slippage/commission cost totals refer to closed trades; commission_paid includes open entries.",
+    "No margin liquidation, funding/swap, variable FX or intraminute risk simulation.",
+    "Daily cutoff in UTC does not adjust for DST, holidays or a broker-specific calendar.",
+    "Signals/parameters unchanged except causal dollar filter and adjacent-minute volatility.",
+    "Volatility/swing state is continuous across year boundaries; no artificial annual reset."
+  ]
+}

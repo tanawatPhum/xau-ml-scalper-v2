@@ -1,0 +1,78 @@
+gvz {"rows": 3343, "first": "2009-09-18", "last": "2022-12-30"}
+fomc {"press_releases": 110, "statements": 109, "missing_time": 48}
+retry https://web.archive.org/web/2023id_/https://www.bls.gov/bls/news-release/empsit.htm 429
+retry https://web.archive.org/web/2023id_/https://www.bls.gov/bls/news-release/empsit.htm 429
+retry https://web.archive.org/web/2023id_/https://www.bls.gov/bls/news-release/empsit.htm 429
+retry https://web.archive.org/web/2023id_/https://www.bls.gov/bls/news-release/empsit.htm 429
+retry https://web.archive.org/web/2023id_/https://www.bls.gov/bls/news-release/empsit.htm 429
+retry https://web.archive.org/web/2023id_/https://www.bls.gov/bls/news-release/empsit.htm 429
+nfp {"error": "failed https://web.archive.org/web/2023id_/https://www.bls.gov/bls/news-release/empsit.htm"}
+retry https://web.archive.org/web/2023id_/https://www.bls.gov/bls/news-release/cpi.htm 429
+retry https://web.archive.org/web/2023id_/https://www.bls.gov/bls/news-release/cpi.htm 429
+retry https://web.archive.org/web/2023id_/https://www.bls.gov/bls/news-release/cpi.htm 429
+retry https://web.archive.org/web/2023id_/https://www.bls.gov/bls/news-release/cpi.htm 429
+retry https://web.archive.org/web/2023id_/https://www.bls.gov/bls/news-release/cpi.htm 429
+retry https://web.archive.org/web/2023id_/https://www.bls.gov/bls/news-release/cpi.htm 429
+cpi {"error": "failed https://web.archive.org/web/2023id_/https://www.bls.gov/bls/news-release/cpi.htm"}
+bea page 0 found 0 min year None
+bea page 1 found 0 min year None
+bea page 2 found 2 min year 2025
+bea page 3 found 0 min year 2025
+bea page 4 found 0 min year 2025
+bea page 5 found 0 min year 2025
+bea page 6 found 4 min year 2024
+bea page 7 found 2 min year 2023
+bea page 8 found 0 min year 2023
+bea page 9 found 0 min year 2023
+bea page 10 found 0 min year 2023
+bea page 11 found 2 min year 2022
+bea page 12 found 0 min year 2022
+bea page 13 found 6 min year 2021
+bea page 14 found 6 min year 2020
+bea page 15 found 2 min year 2020
+bea page 16 found 6 min year 2019
+bea page 17 found 0 min year 2019
+bea page 18 found 6 min year 2019
+bea page 19 found 2 min year 2018
+bea page 20 found 7 min year 2018
+bea page 21 found 2 min year 2018
+bea page 22 found 0 min year 2018
+bea page 23 found 3 min year 2017
+bea page 24 found 0 min year 2017
+bea page 25 found 0 min year 2017
+bea page 26 found 0 min year 2017
+bea page 27 found 0 min year 2017
+bea page 28 found 0 min year 2017
+bea page 29 found 0 min year 2017
+bea page 30 found 0 min year 2017
+bea page 31 found 0 min year 2017
+bea page 32 found 0 min year 2017
+bea page 33 found 0 min year 2017
+bea page 34 found 0 min year 2017
+bea page 35 found 0 min year 2017
+bea page 36 found 0 min year 2017
+bea page 37 found 0 min year 2017
+bea page 38 found 0 min year 2017
+bea page 39 found 0 min year 2017
+bea page 40 found 0 min year 2017
+bea page 41 found 0 min year 2017
+bea page 42 found 0 min year 2017
+bea page 43 found 0 min year 2017
+bea page 44 found 0 min year 2017
+bea page 45 found 0 min year 2017
+bea page 46 found 0 min year 2017
+bea page 47 found 0 min year 2017
+bea page 48 found 0 min year 2017
+bea page 49 found 0 min year 2017
+bea page 50 found 0 min year 2017
+bea page 51 found 0 min year 2017
+bea page 52 found 0 min year 2017
+bea page 53 found 0 min year 2017
+bea page 54 found 0 min year 2017
+bea page 55 found 0 min year 2017
+bea page 56 found 0 min year 2017
+bea page 57 found 0 min year 2017
+bea page 58 found 0 min year 2017
+bea page 59 found 0 min year 2017
+gdp {"rows": 38, "per_year": {"2017": 2, "2018": 8, "2019": 10, "2020": 7, "2021": 9, "2022": 2}}
+MACRO DONE

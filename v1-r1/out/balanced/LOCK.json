@@ -1,0 +1,98 @@
+{
+  "locked_utc": "2026-10-31T15:07:41.214711+00:00",
+  "training_end": 2016,
+  "selected_id": "P20",
+  "rules": {
+    "A": {
+      "k": 1.0,
+      "long_vol": true,
+      "min_usd": 2.1626934441569983,
+      "leg": 2.5,
+      "policy": "long_only"
+    },
+    "B": {
+      "k": 2.0,
+      "long_vol": false,
+      "min_usd": 3.0,
+      "leg": 3.5,
+      "policy": "vol_le15"
+    }
+  },
+  "selected_metrics": {
+    "net": 329434.96134989406,
+    "dd": 34155.4845500199,
+    "dd_pct": 12.464022384920659,
+    "loss": 1090938.3303500405,
+    "trades": 2705,
+    "worst": -13197.315999999977,
+    "lowest": 96641.57349999956,
+    "recent": -11137.51485003106,
+    "early": 340572.4761999251,
+    "open_positions": 0
+  },
+  "baseline_metrics": {
+    "net": 285802.7705497632,
+    "dd": 68220.12780004635,
+    "dd_pct": 22.995914261779145,
+    "loss": 2386872.88675009,
+    "trades": 5873,
+    "worst": -13570.981050000086,
+    "lowest": 96039.79209999659,
+    "recent": -33224.78335007827,
+    "early": 319027.5538998415,
+    "open_positions": 1
+  },
+  "amended_training_pass": true,
+  "original_training_pass": false,
+  "amendment": "Remove only50%trade-count floor; no new candidates, no price retuning.",
+  "validation_status": "Exploratory reused validation after disclosed post-search gate amendment; initial fallback outcomes already available.",
+  "source_hashes": {
+    "D:\\xau-ml-scalper-claude\\v1-rx\\baseline_engine.py": "964127ce2827f8e157a2d013dc17e121c48a97b1305288b945f0fa843719ed88",
+    "D:\\xau-ml-scalper-claude\\v1-rx\\strategy.py": "080bddb0b67d629f066e09057d869543e0c0bb5c88a5dbcd08e28da56ba8a883",
+    "D:\\xau-ml-scalper-claude\\v1-rx\\study.py": "952d78eb8489fd8473da22cc65f0b0564e59a540e896a43d6d8e12c5e17b7697",
+    "D:\\xau-ml-scalper-claude\\v1-rx\\balanced.py": "d248a967c2636596e25b79847d1d3e59c6cb85874b498ed96efec079c17f6f89"
+  },
+  "input_report_hashes": {
+    "D:\\xau-ml-scalper-claude\\v1-rx\\out\\PORTFOLIO_TRAIN.json": "932527d2819437eb65eecc4542a2554077f6c6e3ccb17bded1eb0fd72360d408",
+    "D:\\xau-ml-scalper-claude\\v1-rx\\out\\BASE_TRAIN.json": "55c4b6c230f9ad092ca879f41a2ca5b4805203d73eca1feace8aaf805b57c741",
+    "D:\\xau-ml-scalper-claude\\v1-rx\\out\\LOCK.json": "8a11e22ad87eececccb948228a4101a368efec4407add46b496051d39df91fa1",
+    "D:\\xau-ml-scalper-claude\\v1-rx\\out\\EVALUATION.json": "881c501ee1b779bb6deea2559591ea5ab972a8a46bda2b211efdf94e26d3b28a",
+    "D:\\xau-ml-scalper-claude\\v1-rx\\out\\evaluation\\full\\fixed\\baseline\\REPORT.json": "235ac16d8ae70d66621a31e71987fd9702b8d98937e2fd6c71540cb8a2830536",
+    "D:\\xau-ml-scalper-claude\\v1-rx\\out\\evaluation\\full\\cost_example\\baseline\\REPORT.json": "b466b58bfc75dbe406c5dde1869a7648c9f0a3518927b7992d39cb7942899b97",
+    "D:\\xau-ml-scalper-claude\\v1-rx\\out\\evaluation\\full\\historical\\baseline\\REPORT.json": "99365e7d76fdbd687f16ca57d814ccf5b8a528f81925c79c02192983fabb0b83",
+    "D:\\xau-ml-scalper-claude\\v1-rx\\out\\evaluation\\validation\\fixed\\baseline\\REPORT.json": "e09b74986b5625ce266fc5e3c075a33d6975ad4adae54b76a854d6097f76bbba",
+    "D:\\xau-ml-scalper-claude\\v1-rx\\out\\evaluation\\validation\\cost_example\\baseline\\REPORT.json": "8582a01919e33f9d527bc2b3ee62070906de206e72baa464eaca9bacba460aa2",
+    "D:\\xau-ml-scalper-claude\\v1-rx\\out\\evaluation\\validation\\historical\\baseline\\REPORT.json": "afeb4a4c755de667d5c2d3975d51fe472583fe6e57c56ca9048b70d58b007653"
+  },
+  "training_data_hashes": {
+    "M1_2010.private.npz": "d1f2ece2d4b0b82b180bc9dd723df9acaaedeb56d54ac4fd54b39b104e96c029",
+    "M1_2011.private.npz": "6510880b5793e1e53aac1c62f5da71b476795459dd06ce799f85e2eea52fb7c3",
+    "M1_2012.private.npz": "793e75f05409d58bb3f765fdebf0c5a1171183ffd0685d335bd3cc69c42ff9e9",
+    "M1_2013.private.npz": "d212194522ba8f2df3cea55c233a4980e9fdb65c839d6a05afdf0e50634a8dd2",
+    "M1_2014.private.npz": "b404bf7b3d9eae979624dc078fbfda4027d8e66f7e805152b067f7f0e173ab62",
+    "M1_2015.private.npz": "6f0030be36ddc836f00ea4cb1ee6c90fcef1c426eefa398ef260fbc81d2cc45f",
+    "M1_2016.private.npz": "635235b3809f75ca5f319a2c81cd1a03070f9be3eceaf6aebfd890289b40cf8d"
+  },
+  "comparison_data_hashes": {
+    "M1_2010.private.npz": "d1f2ece2d4b0b82b180bc9dd723df9acaaedeb56d54ac4fd54b39b104e96c029",
+    "M1_2011.private.npz": "6510880b5793e1e53aac1c62f5da71b476795459dd06ce799f85e2eea52fb7c3",
+    "M1_2012.private.npz": "793e75f05409d58bb3f765fdebf0c5a1171183ffd0685d335bd3cc69c42ff9e9",
+    "M1_2013.private.npz": "d212194522ba8f2df3cea55c233a4980e9fdb65c839d6a05afdf0e50634a8dd2",
+    "M1_2014.private.npz": "b404bf7b3d9eae979624dc078fbfda4027d8e66f7e805152b067f7f0e173ab62",
+    "M1_2015.private.npz": "6f0030be36ddc836f00ea4cb1ee6c90fcef1c426eefa398ef260fbc81d2cc45f",
+    "M1_2016.private.npz": "635235b3809f75ca5f319a2c81cd1a03070f9be3eceaf6aebfd890289b40cf8d",
+    "M1_2017.private.npz": "38f3741edc1541a3f098444a9315fdfc1e5a519278331d0a4e6f90c05fa98206",
+    "M1_2018.private.npz": "76da72a5b725c528a86a5864324629edfd3e457d66ac8fa2285e6605986da3a8",
+    "M1_2019.private.npz": "9b3e172c83209c696e777e2cccd37beee943a2de0c031a6011002ddfd4a6155e"
+  },
+  "config": {
+    "start": 100000.0,
+    "oz": 10.0,
+    "fx": 33.77,
+    "cost_mode": "fixed",
+    "spread": 0.168,
+    "commission": 0.0,
+    "slippage": 0.0,
+    "flat_minute_utc": null
+  }
+}

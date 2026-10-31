@@ -1,0 +1,17 @@
+{
+  "net": 256570.27659990883,
+  "dd": 31325.052000018128,
+  "dd_pct": 14.187333510027278,
+  "loss": 919653.6822000355,
+  "trades": 2323,
+  "worst": -13197.315999999977,
+  "lowest": 95941.85909999929,
+  "recent": -1729.6994000298437,
+  "early": 258299.97599993867,
+  "open_positions": 0,
+  "late_cutoff_exits": 7,
+  "market_close_crossings": 0,
+  "session_crossings": 0,
+  "trades_spanning_data_gap": 0,
+  "scheduled_exits": 411
+}

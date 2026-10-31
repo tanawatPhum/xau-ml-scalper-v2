@@ -1,0 +1,73 @@
+{
+  "locked_utc": "2026-10-31T15:02:37.469548+00:00",
+  "training_end": 2016,
+  "rules": {
+    "A": {
+      "k": 1.25,
+      "long_vol": true,
+      "min_usd": 3.0,
+      "leg": 5.0,
+      "policy": "skip_asia"
+    },
+    "B": {
+      "k": 2.0,
+      "long_vol": false,
+      "min_usd": 1.5,
+      "leg": 5.0,
+      "policy": "vol_ge1"
+    }
+  },
+  "selected_id": "P01",
+  "training_pass": false,
+  "selected_metrics": {
+    "net": 105071.47144998953,
+    "dd": 9101.015000001411,
+    "dd_pct": 6.121374435590201,
+    "loss": 73272.28865000418,
+    "trades": 249,
+    "worst": -4807.497200000035,
+    "lowest": 98907.54049999996,
+    "recent": 4063.375249996636,
+    "early": 101008.0961999929,
+    "open_positions": 0
+  },
+  "baseline_metrics": {
+    "net": 285802.7705497632,
+    "dd": 68220.12780004635,
+    "dd_pct": 22.995914261779145,
+    "loss": 2386872.88675009,
+    "trades": 5873,
+    "worst": -13570.981050000086,
+    "lowest": 96039.79209999659,
+    "recent": -33224.78335007827,
+    "early": 319027.5538998415,
+    "open_positions": 1
+  },
+  "single_rule_cells": 176,
+  "portfolio_cells": 36,
+  "source_hashes": {
+    "D:\\xau-ml-scalper-claude\\v1-rx\\baseline_engine.py": "964127ce2827f8e157a2d013dc17e121c48a97b1305288b945f0fa843719ed88",
+    "D:\\xau-ml-scalper-claude\\v1-rx\\strategy.py": "080bddb0b67d629f066e09057d869543e0c0bb5c88a5dbcd08e28da56ba8a883",
+    "D:\\xau-ml-scalper-claude\\v1-rx\\study.py": "952d78eb8489fd8473da22cc65f0b0564e59a540e896a43d6d8e12c5e17b7697"
+  },
+  "training_data_hashes": {
+    "M1_2010.private.npz": "d1f2ece2d4b0b82b180bc9dd723df9acaaedeb56d54ac4fd54b39b104e96c029",
+    "M1_2011.private.npz": "6510880b5793e1e53aac1c62f5da71b476795459dd06ce799f85e2eea52fb7c3",
+    "M1_2012.private.npz": "793e75f05409d58bb3f765fdebf0c5a1171183ffd0685d335bd3cc69c42ff9e9",
+    "M1_2013.private.npz": "d212194522ba8f2df3cea55c233a4980e9fdb65c839d6a05afdf0e50634a8dd2",
+    "M1_2014.private.npz": "b404bf7b3d9eae979624dc078fbfda4027d8e66f7e805152b067f7f0e173ab62",
+    "M1_2015.private.npz": "6f0030be36ddc836f00ea4cb1ee6c90fcef1c426eefa398ef260fbc81d2cc45f",
+    "M1_2016.private.npz": "635235b3809f75ca5f319a2c81cd1a03070f9be3eceaf6aebfd890289b40cf8d"
+  },
+  "policy": "no redesign after2017-2019; no2020+ reads",
+  "config": {
+    "start": 100000.0,
+    "oz": 10.0,
+    "fx": 33.77,
+    "cost_mode": "fixed",
+    "spread": 0.168,
+    "commission": 0.0,
+    "slippage": 0.0,
+    "flat_minute_utc": null
+  }
+}
