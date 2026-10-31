@@ -5,8 +5,8 @@ in the main project lives under this folder.
 
 - Research workspace, published to `https://github.com/tanawatPhum/xau-ml-scalper-v2`.
   Publication does not promote any experiment to a Stable artefact.
-- `v1-r3/` is intentionally withheld from Git while it is being developed (owner instruction,
-  2026-11-01). References to that local revision may remain in historical reports and metadata.
+- `v1-r3/` is included in Git with owner authorization (2026-11-01); its research status
+  remains as documented below.
 - `v1-rx/` is a local compatibility junction to `v1-r1/` and is not included in Git.
 - Read-only on `D:\xau-ml-scalper\data\raw\...`; protected years 2023+ are never read.
 - `cache/` and `*.private.*` files hold price-derived arrays and stay local.

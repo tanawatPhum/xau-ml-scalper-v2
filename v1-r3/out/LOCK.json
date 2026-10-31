@@ -1,0 +1,108 @@
+{
+ "version": "v1-r3",
+ "locked_utc": "2026-10-31T18:48:02.344704+00:00",
+ "status": "NOT_CONFIRMED",
+ "base_version": "v1-r2",
+ "base_lock_sha256": "9523319b9f2ae27b3b3daf683ec28fec8535005ba364d3623aa825da04bcdfe0",
+ "filters": {
+  "A": {},
+  "B": {}
+ },
+ "training_metrics": {
+  "net": 353805.2506998925,
+  "dd": 29686.869300000195,
+  "dd_pct": 12.474871818536437,
+  "loss": 1250588.2004000414,
+  "trades": 2737,
+  "worst": -19706.82120000008,
+  "lowest": 99261.45009999996,
+  "recent": 46954.65224997187,
+  "early": 306850.59844992065,
+  "open_positions": 0,
+  "late_cutoff_exits": 3,
+  "market_close_crossings": 0,
+  "session_crossings": 0,
+  "trades_spanning_data_gap": 0,
+  "scheduled_exits": 411
+ },
+ "base_training_metrics": {
+  "net": 353805.2506998925,
+  "dd": 29686.869300000195,
+  "dd_pct": 12.474871818536437,
+  "loss": 1250588.2004000414,
+  "trades": 2737,
+  "worst": -19706.82120000008,
+  "lowest": 99261.45009999996,
+  "recent": 46954.65224997187,
+  "early": 306850.59844992065,
+  "open_positions": 0,
+  "late_cutoff_exits": 3,
+  "market_close_crossings": 0,
+  "session_crossings": 0,
+  "trades_spanning_data_gap": 0,
+  "scheduled_exits": 411
+ },
+ "stage1_picks": [
+  "A-F1:15",
+  "B-F2:settle"
+ ],
+ "kept_after_null": [
+  "B-F2:settle"
+ ],
+ "stage2_path": [
+  {
+   "step": "all kept picks",
+   "keys": [
+    "B-F2"
+   ],
+   "metrics": {
+    "net": 360959.59404989297,
+    "dd": 29686.869300000195,
+    "dd_pct": 12.474871818536437,
+    "loss": 1241511.8375000414,
+    "trades": 2730,
+    "worst": -19706.82120000008,
+    "lowest": 99261.45009999996,
+    "recent": 48627.95574997197,
+    "early": 312331.638299921,
+    "open_positions": 0,
+    "late_cutoff_exits": 3,
+    "market_close_crossings": 0,
+    "session_crossings": 0,
+    "trades_spanning_data_gap": 0,
+    "scheduled_exits": 407
+   },
+   "t_diff": 1.4542385974040202
+  },
+  {
+   "step": "greedy add B-F2",
+   "kept": true,
+   "metrics": {
+    "net": 360959.59404989297,
+    "dd": 29686.869300000195,
+    "dd_pct": 12.474871818536437,
+    "loss": 1241511.8375000414,
+    "trades": 2730,
+    "worst": -19706.82120000008,
+    "lowest": 99261.45009999996,
+    "recent": 48627.95574997197,
+    "early": 312331.638299921,
+    "open_positions": 0,
+    "late_cutoff_exits": 3,
+    "market_close_crossings": 0,
+    "session_crossings": 0,
+    "trades_spanning_data_gap": 0,
+    "scheduled_exits": 407
+   }
+  }
+ ],
+ "ledger_cells": 46,
+ "code_sha256": "9e2187f1316e83c1dc018fbe259c8e4e5bb05612672dc07409ac89fa4eea04b2",
+ "plan_sha256": "71d8b9ac277e1c29f8ffb7539726ec086b027f4e05877f1682226d0a39bcaee9",
+ "events_sha256": "585fb70e7187775ab6d110bf1b79e1fe78a87225e85508de99f24f7dc0e64f41",
+ "training_years": [
+  2010,
+  2016
+ ],
+ "note": "design 2010-2016 only; 2017+ gold and external data not read before this lock"
+}

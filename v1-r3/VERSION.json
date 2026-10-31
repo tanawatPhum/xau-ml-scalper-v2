@@ -1,0 +1,13 @@
+{
+  "version": "v1-r3",
+  "revision": 3,
+  "series": "v1",
+  "parent": "v1-r2",
+  "change": "literature-driven entry filters F1-F9 (deadline, settlement, jump concentration, news, seasonal theta, vol surprise, GVZ, S&P flight-to-gold, round numbers)",
+  "entrypoint": "v1_r3.py",
+  "parameter_lock": "out/LOCK.json",
+  "parameter_lock_sha256": "a5bac9f28019404b2b37fa0d72acccf68dc1c8e110061eaaf64fc85d8d438c83",
+  "status": "NOT_CONFIRMED (no filter beat v1-r2 on both net and DD in 2010-2016; 2017+ not opened)",
+  "created_date_ict": "2026-11-01",
+  "version_policy": "../VERSIONING.md"
+}

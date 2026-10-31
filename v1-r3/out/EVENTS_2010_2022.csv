@@ -1,0 +1,577 @@
+type,date,time_et,source,note,utc_minute
+NFP,2010-01-08,08:30,BLS archive page captured via WebFetch 2026-11-01,,21049290
+CPI,2010-01-15,08:30,BLS archive page captured via WebFetch 2026-11-01,,21059370
+FOMC,2010-01-27,14:15,Fed schedule practice (12:30 presser days 2011-12; 14:15 to Jan-2013; 14:00 after),spike check 14:15 (4.1x median) AGREES,21076995
+GDP,2010-01-29,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,21079530
+NFP,2010-02-05,08:30,BLS archive page captured via WebFetch 2026-11-01,,21089610
+CPI,2010-02-19,08:30,BLS archive page captured via WebFetch 2026-11-01,,21109770
+GDP,2010-02-26,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,21119850
+NFP,2010-03-05,08:30,BLS archive page captured via WebFetch 2026-11-01,,21129930
+FOMC,2010-03-16,14:15,Fed schedule practice (12:30 presser days 2011-12; 14:15 to Jan-2013; 14:00 after),spike check 14:15 (4.5x median) AGREES,21146055
+CPI,2010-03-18,08:30,BLS archive page captured via WebFetch 2026-11-01,,21148590
+GDP,2010-03-26,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,21160110
+NFP,2010-04-02,08:30,BLS archive page captured via WebFetch 2026-11-01,,21170190
+CPI,2010-04-14,08:30,BLS archive page captured via WebFetch 2026-11-01,,21187470
+FOMC,2010-04-28,14:15,Fed schedule practice (12:30 presser days 2011-12; 14:15 to Jan-2013; 14:00 after),spike check 14:15 (11.3x median) AGREES,21207975
+GDP,2010-04-30,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,21210510
+NFP,2010-05-07,08:30,BLS archive page captured via WebFetch 2026-11-01,,21220590
+FOMC,2010-05-09,21:15,federalreserve.gov statement page,"Federal Reserve Board - FOMC statement: Federal Reserve, European Central Bank, ",21224235
+CPI,2010-05-19,08:30,BLS archive page captured via WebFetch 2026-11-01,,21237870
+GDP,2010-05-27,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,added: Q1-2010 second estimate,21249390
+NFP,2010-06-04,08:30,BLS archive page captured via WebFetch 2026-11-01,,21260910
+CPI,2010-06-17,08:30,BLS archive page captured via WebFetch 2026-11-01,,21279630
+FOMC,2010-06-23,14:15,Fed schedule practice (12:30 presser days 2011-12; 14:15 to Jan-2013; 14:00 after),spike check 14:00 (2.7x median) differs,21288615
+GDP,2010-06-25,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,21291150
+NFP,2010-07-02,08:30,BLS archive page captured via WebFetch 2026-11-01,,21301230
+CPI,2010-07-16,08:30,BLS archive page captured via WebFetch 2026-11-01,,21321390
+GDP,2010-07-30,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,21341550
+NFP,2010-08-06,08:30,BLS archive page captured via WebFetch 2026-11-01,,21351630
+FOMC,2010-08-10,14:15,Fed schedule practice (12:30 presser days 2011-12; 14:15 to Jan-2013; 14:00 after),spike check 14:15 (10.1x median) AGREES,21357735
+CPI,2010-08-13,08:30,BLS archive page captured via WebFetch 2026-11-01,,21361710
+GDP,2010-08-27,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,21381870
+NFP,2010-09-03,08:30,BLS archive page captured via WebFetch 2026-11-01,,21391950
+CPI,2010-09-17,08:30,BLS archive page captured via WebFetch 2026-11-01,,21412110
+FOMC,2010-09-21,14:15,Fed schedule practice (12:30 presser days 2011-12; 14:15 to Jan-2013; 14:00 after),spike check 14:15 (4.4x median) AGREES,21418215
+GDP,2010-09-30,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,21430830
+NFP,2010-10-08,08:30,BLS archive page captured via WebFetch 2026-11-01,,21442350
+CPI,2010-10-15,08:30,BLS archive page captured via WebFetch 2026-11-01,,21452430
+GDP,2010-10-29,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,21472590
+FOMC,2010-11-03,14:15,Fed schedule practice (12:30 presser days 2011-12; 14:15 to Jan-2013; 14:00 after),spike check 14:15 (9.0x median) AGREES,21480135
+NFP,2010-11-05,08:30,BLS archive page captured via WebFetch 2026-11-01,,21482670
+CPI,2010-11-17,08:30,BLS archive page captured via WebFetch 2026-11-01,,21500010
+GDP,2010-11-23,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,21508650
+NFP,2010-12-03,08:30,BLS archive page captured via WebFetch 2026-11-01,,21523050
+FOMC,2010-12-14,14:15,Fed schedule practice (12:30 presser days 2011-12; 14:15 to Jan-2013; 14:00 after),spike check 12:30 (2.9x median) differs,21539235
+CPI,2010-12-15,08:30,BLS archive page captured via WebFetch 2026-11-01,,21540330
+GDP,2010-12-22,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,21550410
+NFP,2011-01-07,08:30,BLS archive page captured via WebFetch 2026-11-01,,21573450
+CPI,2011-01-14,08:30,BLS archive page captured via WebFetch 2026-11-01,,21583530
+FOMC,2011-01-26,14:15,Fed schedule practice (12:30 presser days 2011-12; 14:15 to Jan-2013; 14:00 after),spike check 14:15 (9.4x median) AGREES,21601155
+GDP,2011-01-28,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,21603690
+NFP,2011-02-04,08:30,BLS archive page captured via WebFetch 2026-11-01,,21613770
+CPI,2011-02-17,08:30,BLS archive page captured via WebFetch 2026-11-01,,21632490
+GDP,2011-02-25,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,21644010
+NFP,2011-03-04,08:30,BLS archive page captured via WebFetch 2026-11-01,,21654090
+FOMC,2011-03-15,14:15,Fed schedule practice (12:30 presser days 2011-12; 14:15 to Jan-2013; 14:00 after),spike check 14:15 (4.8x median) AGREES,21670215
+CPI,2011-03-17,08:30,BLS archive page captured via WebFetch 2026-11-01,,21672750
+GDP,2011-03-25,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,21684270
+NFP,2011-04-01,08:30,BLS archive page captured via WebFetch 2026-11-01,,21694350
+CPI,2011-04-15,08:30,BLS archive page captured via WebFetch 2026-11-01,,21714510
+FOMC,2011-04-27,12:30,Fed schedule practice (12:30 presser days 2011-12; 14:15 to Jan-2013; 14:00 after),spike check 14:15 (3.6x median) differs,21732030
+GDP,2011-04-28,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,21733230
+NFP,2011-05-06,08:30,BLS archive page captured via WebFetch 2026-11-01,,21744750
+CPI,2011-05-13,08:30,BLS archive page captured via WebFetch 2026-11-01,,21754830
+GDP,2011-05-26,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,21773550
+NFP,2011-06-03,08:30,BLS archive page captured via WebFetch 2026-11-01,,21785070
+CPI,2011-06-15,08:30,BLS archive page captured via WebFetch 2026-11-01,,21802350
+FOMC,2011-06-22,12:30,Fed schedule practice (12:30 presser days 2011-12; 14:15 to Jan-2013; 14:00 after),spike check 12:30 (10.6x median) AGREES,21812670
+GDP,2011-06-24,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,21815310
+NFP,2011-07-08,08:30,BLS archive page captured via WebFetch 2026-11-01,,21835470
+CPI,2011-07-15,08:30,BLS archive page captured via WebFetch 2026-11-01,,21845550
+GDP,2011-07-29,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,21865710
+NFP,2011-08-05,08:30,BLS archive page captured via WebFetch 2026-11-01,,21875790
+FOMC,2011-08-09,14:15,Fed schedule practice (12:30 presser days 2011-12; 14:15 to Jan-2013; 14:00 after),spike check 12:30 (2.8x median) differs,21881895
+CPI,2011-08-18,08:30,BLS archive page captured via WebFetch 2026-11-01,,21894510
+GDP,2011-08-26,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,21906030
+NFP,2011-09-02,08:30,BLS archive page captured via WebFetch 2026-11-01,,21916110
+CPI,2011-09-15,08:30,BLS archive page captured via WebFetch 2026-11-01,,21934830
+FOMC,2011-09-21,14:15,Fed schedule practice (12:30 presser days 2011-12; 14:15 to Jan-2013; 14:00 after),spike check 14:15 (3.3x median) AGREES,21943815
+GDP,2011-09-29,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,21954990
+NFP,2011-10-07,08:30,BLS archive page captured via WebFetch 2026-11-01,,21966510
+CPI,2011-10-19,08:30,BLS archive page captured via WebFetch 2026-11-01,,21983790
+GDP,2011-10-27,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,21995310
+FOMC,2011-11-02,12:30,Fed schedule practice (12:30 presser days 2011-12; 14:15 to Jan-2013; 14:00 after),spike check 14:15 (2.6x median) differs,22004190
+NFP,2011-11-04,08:30,BLS archive page captured via WebFetch 2026-11-01,,22006830
+CPI,2011-11-16,08:30,BLS archive page captured via WebFetch 2026-11-01,,22024170
+GDP,2011-11-22,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,22032810
+NFP,2011-12-02,08:30,BLS archive page captured via WebFetch 2026-11-01,,22047210
+FOMC,2011-12-13,14:15,Fed schedule practice (12:30 presser days 2011-12; 14:15 to Jan-2013; 14:00 after),spike check 14:15 (5.3x median) AGREES,22063395
+CPI,2011-12-16,08:30,BLS archive page captured via WebFetch 2026-11-01,,22067370
+GDP,2011-12-22,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,22076010
+NFP,2012-01-06,08:30,BLS archive page captured via WebFetch 2026-11-01,,22097610
+CPI,2012-01-19,08:30,BLS archive page captured via WebFetch 2026-11-01,,22116330
+FOMC,2012-01-25,12:30,Fed schedule practice (12:30 presser days 2011-12; 14:15 to Jan-2013; 14:00 after),spike check 14:00 (4.6x median) differs,22125210
+GDP,2012-01-27,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,22127850
+NFP,2012-02-03,08:30,BLS archive page captured via WebFetch 2026-11-01,,22137930
+CPI,2012-02-17,08:30,BLS archive page captured via WebFetch 2026-11-01,,22158090
+GDP,2012-02-29,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,22175370
+NFP,2012-03-09,08:30,BLS archive page captured via WebFetch 2026-11-01,,22188330
+FOMC,2012-03-13,14:15,Fed schedule practice (12:30 presser days 2011-12; 14:15 to Jan-2013; 14:00 after),spike check 14:15 (12.7x median) AGREES,22194375
+CPI,2012-03-16,08:30,BLS archive page captured via WebFetch 2026-11-01,,22198350
+GDP,2012-03-29,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,22217070
+NFP,2012-04-06,08:30,BLS archive page captured via WebFetch 2026-11-01,,22228590
+CPI,2012-04-13,08:30,BLS archive page captured via WebFetch 2026-11-01,,22238670
+FOMC,2012-04-25,12:30,Fed schedule practice (12:30 presser days 2011-12; 14:15 to Jan-2013; 14:00 after),spike check 12:30 (17.1x median) AGREES,22256190
+GDP,2012-04-27,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,22258830
+NFP,2012-05-04,08:30,BLS archive page captured via WebFetch 2026-11-01,,22268910
+CPI,2012-05-15,08:30,BLS archive page captured via WebFetch 2026-11-01,,22284750
+GDP,2012-05-31,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,22307790
+NFP,2012-06-01,08:30,BLS archive page captured via WebFetch 2026-11-01,,22309230
+CPI,2012-06-14,08:30,BLS archive page captured via WebFetch 2026-11-01,,22327950
+FOMC,2012-06-20,12:30,Fed schedule practice (12:30 presser days 2011-12; 14:15 to Jan-2013; 14:00 after),spike check 12:30 (16.8x median) AGREES,22336830
+GDP,2012-06-28,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,22348110
+NFP,2012-07-06,08:30,BLS archive page captured via WebFetch 2026-11-01,,22359630
+CPI,2012-07-17,08:30,BLS archive page captured via WebFetch 2026-11-01,,22375470
+GDP,2012-07-27,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,22389870
+FOMC,2012-08-01,14:15,Fed schedule practice (12:30 presser days 2011-12; 14:15 to Jan-2013; 14:00 after),spike check 14:15 (10.0x median) AGREES,22397415
+NFP,2012-08-03,08:30,BLS archive page captured via WebFetch 2026-11-01,,22399950
+CPI,2012-08-15,08:30,BLS archive page captured via WebFetch 2026-11-01,,22417230
+GDP,2012-08-29,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,22437390
+NFP,2012-09-07,08:30,BLS archive page captured via WebFetch 2026-11-01,,22450350
+FOMC,2012-09-13,12:30,Fed schedule practice (12:30 presser days 2011-12; 14:15 to Jan-2013; 14:00 after),spike check 12:30 (34.0x median) AGREES,22459230
+CPI,2012-09-14,08:30,BLS archive page captured via WebFetch 2026-11-01,,22460430
+GDP,2012-09-27,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,22479150
+NFP,2012-10-05,08:30,BLS archive page captured via WebFetch 2026-11-01,,22490670
+CPI,2012-10-16,08:30,BLS archive page captured via WebFetch 2026-11-01,,22506510
+FOMC,2012-10-24,14:15,Fed schedule practice (12:30 presser days 2011-12; 14:15 to Jan-2013; 14:00 after),spike check 14:15 (8.3x median) AGREES,22518375
+GDP,2012-10-26,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,22520910
+NFP,2012-11-02,08:30,BLS archive page captured via WebFetch 2026-11-01,,22530990
+CPI,2012-11-15,08:30,BLS archive page captured via WebFetch 2026-11-01,,22549770
+GDP,2012-11-29,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,22569930
+NFP,2012-12-07,08:30,BLS archive page captured via WebFetch 2026-11-01,,22581450
+FOMC,2012-12-12,12:30,Fed schedule practice (12:30 presser days 2011-12; 14:15 to Jan-2013; 14:00 after),spike check 12:30 (15.9x median) AGREES,22588890
+CPI,2012-12-14,08:30,BLS archive page captured via WebFetch 2026-11-01,,22591530
+GDP,2012-12-20,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,22600170
+NFP,2013-01-04,08:30,BLS archive page captured via WebFetch 2026-11-01,,22621770
+CPI,2013-01-16,08:30,BLS archive page captured via WebFetch 2026-11-01,,22639050
+GDP,2013-01-30,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,22659210
+FOMC,2013-01-30,14:15,Fed schedule practice (12:30 presser days 2011-12; 14:15 to Jan-2013; 14:00 after),spike check 14:15 (24.6x median) AGREES,22659555
+NFP,2013-02-01,08:30,BLS archive page captured via WebFetch 2026-11-01,,22662090
+CPI,2013-02-21,08:30,BLS archive page captured via WebFetch 2026-11-01,,22690890
+GDP,2013-02-28,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,22700970
+NFP,2013-03-08,08:30,BLS archive page captured via WebFetch 2026-11-01,,22712490
+CPI,2013-03-15,08:30,BLS archive page captured via WebFetch 2026-11-01,,22722510
+FOMC,2013-03-20,14:00,Fed schedule practice (12:30 presser days 2011-12; 14:15 to Jan-2013; 14:00 after),spike check 14:00 (14.6x median) AGREES,22730040
+GDP,2013-03-28,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,22741230
+NFP,2013-04-05,08:30,BLS archive page captured via WebFetch 2026-11-01,,22752750
+CPI,2013-04-16,08:30,BLS archive page captured via WebFetch 2026-11-01,,22768590
+GDP,2013-04-26,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,22782990
+FOMC,2013-05-01,14:00,Fed schedule practice (12:30 presser days 2011-12; 14:15 to Jan-2013; 14:00 after),spike check 14:00 (10.6x median) AGREES,22790520
+NFP,2013-05-03,08:30,BLS archive page captured via WebFetch 2026-11-01,,22793070
+CPI,2013-05-16,08:30,BLS archive page captured via WebFetch 2026-11-01,,22811790
+GDP,2013-05-30,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,22831950
+NFP,2013-06-07,08:30,BLS archive page captured via WebFetch 2026-11-01,,22843470
+CPI,2013-06-18,08:30,BLS archive page captured via WebFetch 2026-11-01,,22859310
+FOMC,2013-06-19,14:00,Fed schedule practice (12:30 presser days 2011-12; 14:15 to Jan-2013; 14:00 after),spike check 14:00 (23.8x median) AGREES,22861080
+GDP,2013-06-26,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,22870830
+NFP,2013-07-05,08:30,BLS archive page captured via WebFetch 2026-11-01,,22883790
+CPI,2013-07-16,08:30,BLS archive page captured via WebFetch 2026-11-01,,22899630
+GDP,2013-07-31,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,22921230
+FOMC,2013-07-31,14:00,Fed schedule practice (12:30 presser days 2011-12; 14:15 to Jan-2013; 14:00 after),spike check 14:00 (10.7x median) AGREES,22921560
+NFP,2013-08-02,08:30,BLS archive page captured via WebFetch 2026-11-01,,22924110
+CPI,2013-08-15,08:30,BLS archive page captured via WebFetch 2026-11-01,,22942830
+GDP,2013-08-29,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,22962990
+NFP,2013-09-06,08:30,BLS archive page captured via WebFetch 2026-11-01,,22974510
+CPI,2013-09-17,08:30,BLS archive page captured via WebFetch 2026-11-01,,22990350
+FOMC,2013-09-18,14:00,Fed schedule practice (12:30 presser days 2011-12; 14:15 to Jan-2013; 14:00 after),spike check 14:00 (33.4x median) AGREES,22992120
+GDP,2013-09-26,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,23003310
+NFP,2013-10-22,08:30,BLS archive page captured via WebFetch 2026-11-01,,23040750
+CPI,2013-10-30,08:30,BLS archive page captured via WebFetch 2026-11-01,,23052270
+FOMC,2013-10-30,14:00,Fed schedule practice (12:30 presser days 2011-12; 14:15 to Jan-2013; 14:00 after),spike check 14:00 (60.7x median) AGREES,23052600
+GDP,2013-11-07,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,23063850
+NFP,2013-11-08,08:30,BLS archive page captured via WebFetch 2026-11-01,,23065290
+CPI,2013-11-20,08:30,BLS archive page captured via WebFetch 2026-11-01,,23082570
+GDP,2013-12-05,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,23104170
+NFP,2013-12-06,08:30,BLS archive page captured via WebFetch 2026-11-01,,23105610
+CPI,2013-12-17,08:30,BLS archive page captured via WebFetch 2026-11-01,,23121450
+FOMC,2013-12-18,14:00,Fed schedule practice (12:30 presser days 2011-12; 14:15 to Jan-2013; 14:00 after),spike check 14:00 (45.2x median) AGREES,23123220
+GDP,2013-12-20,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,23125770
+NFP,2014-01-10,08:30,BLS archive page captured via WebFetch 2026-11-01,,23156010
+CPI,2014-01-16,08:30,BLS archive page captured via WebFetch 2026-11-01,,23164650
+FOMC,2014-01-29,14:00,Fed schedule practice (12:30 presser days 2011-12; 14:15 to Jan-2013; 14:00 after),spike check 14:00 (10.5x median) AGREES,23183700
+GDP,2014-01-30,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,23184810
+NFP,2014-02-07,08:30,BLS archive page captured via WebFetch 2026-11-01,,23196330
+CPI,2014-02-20,08:30,BLS archive page captured via WebFetch 2026-11-01,,23215050
+GDP,2014-02-28,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,23226570
+NFP,2014-03-07,08:30,BLS archive page captured via WebFetch 2026-11-01,,23236650
+CPI,2014-03-18,08:30,BLS archive page captured via WebFetch 2026-11-01,,23252430
+FOMC,2014-03-19,14:00,Fed schedule practice (12:30 presser days 2011-12; 14:15 to Jan-2013; 14:00 after),spike check 14:00 (13.5x median) AGREES,23254200
+GDP,2014-03-27,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,23265390
+NFP,2014-04-04,08:30,BLS archive page captured via WebFetch 2026-11-01,,23276910
+CPI,2014-04-15,08:30,BLS archive page captured via WebFetch 2026-11-01,,23292750
+GDP,2014-04-30,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,23314350
+FOMC,2014-04-30,14:00,Fed schedule practice (12:30 presser days 2011-12; 14:15 to Jan-2013; 14:00 after),spike check 14:15 (7.7x median) differs,23314680
+NFP,2014-05-02,08:30,BLS archive page captured via WebFetch 2026-11-01,,23317230
+CPI,2014-05-15,08:30,BLS archive page captured via WebFetch 2026-11-01,,23335950
+GDP,2014-05-29,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,23356110
+NFP,2014-06-06,08:30,BLS archive page captured via WebFetch 2026-11-01,,23367630
+CPI,2014-06-17,08:30,BLS archive page captured via WebFetch 2026-11-01,,23383470
+FOMC,2014-06-18,14:00,Fed schedule practice (12:30 presser days 2011-12; 14:15 to Jan-2013; 14:00 after),spike check 14:00 (10.3x median) AGREES,23385240
+GDP,2014-06-25,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,23394990
+NFP,2014-07-03,08:30,BLS archive page captured via WebFetch 2026-11-01,,23406510
+CPI,2014-07-22,08:30,BLS archive page captured via WebFetch 2026-11-01,,23433870
+GDP,2014-07-30,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,23445390
+FOMC,2014-07-30,14:00,Fed schedule practice (12:30 presser days 2011-12; 14:15 to Jan-2013; 14:00 after),spike check 14:00 (9.6x median) AGREES,23445720
+NFP,2014-08-01,08:30,BLS archive page captured via WebFetch 2026-11-01,,23448270
+CPI,2014-08-19,08:30,BLS archive page captured via WebFetch 2026-11-01,,23474190
+GDP,2014-08-28,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,23487150
+NFP,2014-09-05,08:30,BLS archive page captured via WebFetch 2026-11-01,,23498670
+CPI,2014-09-17,08:30,BLS archive page captured via WebFetch 2026-11-01,,23515950
+FOMC,2014-09-17,14:00,Fed schedule practice (12:30 presser days 2011-12; 14:15 to Jan-2013; 14:00 after),spike check 14:00 (30.1x median) AGREES,23516280
+GDP,2014-09-26,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,23528910
+NFP,2014-10-03,08:30,BLS archive page captured via WebFetch 2026-11-01,,23538990
+CPI,2014-10-22,08:30,BLS archive page captured via WebFetch 2026-11-01,,23566350
+FOMC,2014-10-29,14:00,Fed schedule practice (12:30 presser days 2011-12; 14:15 to Jan-2013; 14:00 after),spike check 14:00 (22.1x median) AGREES,23576760
+GDP,2014-10-30,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,23577870
+NFP,2014-11-07,08:30,BLS archive page captured via WebFetch 2026-11-01,,23589450
+CPI,2014-11-20,08:30,BLS archive page captured via WebFetch 2026-11-01,,23608170
+GDP,2014-11-25,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,23615370
+NFP,2014-12-05,08:30,BLS archive page captured via WebFetch 2026-11-01,,23629770
+CPI,2014-12-17,08:30,BLS archive page captured via WebFetch 2026-11-01,,23647050
+FOMC,2014-12-17,14:00,Fed schedule practice (12:30 presser days 2011-12; 14:15 to Jan-2013; 14:00 after),spike check 14:00 (8.4x median) AGREES,23647380
+GDP,2014-12-23,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,23655690
+NFP,2015-01-09,08:30,BLS archive page captured via WebFetch 2026-11-01,,23680170
+CPI,2015-01-16,08:30,BLS archive page captured via WebFetch 2026-11-01,,23690250
+FOMC,2015-01-28,14:00,Fed schedule practice (12:30 presser days 2011-12; 14:15 to Jan-2013; 14:00 after),spike check 14:00 (8.3x median) AGREES,23707860
+GDP,2015-01-30,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,23710410
+NFP,2015-02-06,08:30,BLS archive page captured via WebFetch 2026-11-01,,23720490
+CPI,2015-02-26,08:30,BLS archive page captured via WebFetch 2026-11-01,,23749290
+GDP,2015-02-27,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,23750730
+NFP,2015-03-06,08:30,BLS archive page captured via WebFetch 2026-11-01,,23760810
+FOMC,2015-03-18,14:00,Fed schedule practice (12:30 presser days 2011-12; 14:15 to Jan-2013; 14:00 after),spike check 14:00 (19.1x median) AGREES,23778360
+CPI,2015-03-24,08:30,BLS archive page captured via WebFetch 2026-11-01,,23786670
+GDP,2015-03-27,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,23790990
+NFP,2015-04-03,08:30,BLS archive page captured via WebFetch 2026-11-01,,23801070
+CPI,2015-04-17,08:30,BLS archive page captured via WebFetch 2026-11-01,,23821230
+GDP,2015-04-29,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,23838510
+FOMC,2015-04-29,14:00,Fed schedule practice (12:30 presser days 2011-12; 14:15 to Jan-2013; 14:00 after),spike check 14:00 (24.5x median) AGREES,23838840
+NFP,2015-05-08,08:30,BLS archive page captured via WebFetch 2026-11-01,,23851470
+CPI,2015-05-22,08:30,BLS archive page captured via WebFetch 2026-11-01,,23871630
+GDP,2015-05-29,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,23881710
+NFP,2015-06-05,08:30,BLS archive page captured via WebFetch 2026-11-01,,23891790
+FOMC,2015-06-17,14:00,Fed schedule practice (12:30 presser days 2011-12; 14:15 to Jan-2013; 14:00 after),spike check 14:00 (17.3x median) AGREES,23909400
+CPI,2015-06-18,08:30,BLS archive page captured via WebFetch 2026-11-01,,23910510
+GDP,2015-06-24,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,23919150
+NFP,2015-07-02,08:30,BLS archive page captured via WebFetch 2026-11-01,,23930670
+CPI,2015-07-17,08:30,BLS archive page captured via WebFetch 2026-11-01,,23952270
+FOMC,2015-07-29,14:00,Fed schedule practice (12:30 presser days 2011-12; 14:15 to Jan-2013; 14:00 after),spike check 14:00 (14.1x median) AGREES,23969880
+GDP,2015-07-30,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,23970990
+NFP,2015-08-07,08:30,BLS archive page captured via WebFetch 2026-11-01,,23982510
+CPI,2015-08-19,08:30,BLS archive page captured via WebFetch 2026-11-01,,23999790
+GDP,2015-08-27,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,24011310
+NFP,2015-09-04,08:30,BLS archive page captured via WebFetch 2026-11-01,,24022830
+CPI,2015-09-16,08:30,BLS archive page captured via WebFetch 2026-11-01,,24040110
+FOMC,2015-09-17,14:00,Fed schedule practice (12:30 presser days 2011-12; 14:15 to Jan-2013; 14:00 after),spike check 14:00 (25.8x median) AGREES,24041880
+GDP,2015-09-25,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,24053070
+NFP,2015-10-02,08:30,BLS archive page captured via WebFetch 2026-11-01,,24063150
+CPI,2015-10-15,08:30,BLS archive page captured via WebFetch 2026-11-01,,24081870
+FOMC,2015-10-28,14:00,Fed schedule practice (12:30 presser days 2011-12; 14:15 to Jan-2013; 14:00 after),spike check 14:00 (30.4x median) AGREES,24100920
+GDP,2015-10-29,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,24102030
+NFP,2015-11-06,08:30,BLS archive page captured via WebFetch 2026-11-01,,24113610
+CPI,2015-11-17,08:30,BLS archive page captured via WebFetch 2026-11-01,,24129450
+GDP,2015-11-24,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,24139530
+NFP,2015-12-04,08:30,BLS archive page captured via WebFetch 2026-11-01,,24153930
+CPI,2015-12-15,08:30,BLS archive page captured via WebFetch 2026-11-01,,24169770
+FOMC,2015-12-16,14:00,Fed schedule practice (12:30 presser days 2011-12; 14:15 to Jan-2013; 14:00 after),spike check 14:00 (25.6x median) AGREES,24171540
+GDP,2015-12-22,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,24179850
+NFP,2016-01-08,08:30,BLS archive page captured via WebFetch 2026-11-01,,24204330
+CPI,2016-01-20,08:30,BLS archive page captured via WebFetch 2026-11-01,,24221610
+FOMC,2016-01-27,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,24232020
+GDP,2016-01-29,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,24234570
+NFP,2016-02-05,08:30,BLS archive page captured via WebFetch 2026-11-01,,24244650
+CPI,2016-02-19,08:30,BLS archive page captured via WebFetch 2026-11-01,,24264810
+GDP,2016-02-26,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,24274890
+NFP,2016-03-04,08:30,BLS archive page captured via WebFetch 2026-11-01,,24284970
+CPI,2016-03-16,08:30,BLS archive page captured via WebFetch 2026-11-01,,24302190
+FOMC,2016-03-16,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,24302520
+GDP,2016-03-25,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,24315150
+NFP,2016-04-01,08:30,BLS archive page captured via WebFetch 2026-11-01,,24325230
+CPI,2016-04-14,08:30,BLS archive page captured via WebFetch 2026-11-01,,24343950
+FOMC,2016-04-27,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,24363000
+GDP,2016-04-28,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,24364110
+NFP,2016-05-06,08:30,BLS archive page captured via WebFetch 2026-11-01,,24375630
+CPI,2016-05-17,08:30,BLS archive page captured via WebFetch 2026-11-01,,24391470
+GDP,2016-05-27,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,24405870
+NFP,2016-06-03,08:30,BLS archive page captured via WebFetch 2026-11-01,,24415950
+FOMC,2016-06-15,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,24433560
+CPI,2016-06-16,08:30,BLS archive page captured via WebFetch 2026-11-01,,24434670
+GDP,2016-06-28,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,24451950
+NFP,2016-07-08,08:30,BLS archive page captured via WebFetch 2026-11-01,,24466350
+CPI,2016-07-15,08:30,BLS archive page captured via WebFetch 2026-11-01,,24476430
+FOMC,2016-07-27,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,24494040
+GDP,2016-07-29,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,24496590
+NFP,2016-08-05,08:30,BLS archive page captured via WebFetch 2026-11-01,,24506670
+CPI,2016-08-16,08:30,BLS archive page captured via WebFetch 2026-11-01,,24522510
+GDP,2016-08-26,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,24536910
+NFP,2016-09-02,08:30,BLS archive page captured via WebFetch 2026-11-01,,24546990
+CPI,2016-09-16,08:30,BLS archive page captured via WebFetch 2026-11-01,,24567150
+FOMC,2016-09-21,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,24574680
+GDP,2016-09-29,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,24585870
+NFP,2016-10-07,08:30,BLS archive page captured via WebFetch 2026-11-01,,24597390
+CPI,2016-10-18,08:30,BLS archive page captured via WebFetch 2026-11-01,,24613230
+GDP,2016-10-28,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,24627630
+FOMC,2016-11-02,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,24635160
+NFP,2016-11-04,08:30,BLS archive page captured via WebFetch 2026-11-01,,24637710
+CPI,2016-11-17,08:30,BLS archive page captured via WebFetch 2026-11-01,,24656490
+GDP,2016-11-29,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,24673770
+NFP,2016-12-02,08:30,BLS archive page captured via WebFetch 2026-11-01,,24678090
+FOMC,2016-12-14,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,24695700
+CPI,2016-12-15,08:30,BLS archive page captured via WebFetch 2026-11-01,,24696810
+GDP,2016-12-22,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,24706890
+NFP,2017-01-06,08:30,BLS archive page captured via WebFetch 2026-11-01,,24728490
+CPI,2017-01-18,08:30,BLS archive page captured via WebFetch 2026-11-01,,24745770
+GDP,2017-01-27,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,24758730
+FOMC,2017-02-01,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,24766260
+NFP,2017-02-03,08:30,BLS archive page captured via WebFetch 2026-11-01,,24768810
+CPI,2017-02-15,08:30,BLS archive page captured via WebFetch 2026-11-01,,24786090
+GDP,2017-02-28,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,24804810
+NFP,2017-03-10,08:30,BLS archive page captured via WebFetch 2026-11-01,,24819210
+CPI,2017-03-15,08:30,BLS archive page captured via WebFetch 2026-11-01,,24826350
+FOMC,2017-03-15,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,24826680
+GDP,2017-03-30,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,24847950
+NFP,2017-04-07,08:30,BLS archive page captured via WebFetch 2026-11-01,,24859470
+CPI,2017-04-14,08:30,BLS archive page captured via WebFetch 2026-11-01,,24869550
+GDP,2017-04-28,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,24889710
+FOMC,2017-05-03,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,24897240
+NFP,2017-05-05,08:30,BLS archive page captured via WebFetch 2026-11-01,,24899790
+CPI,2017-05-12,08:30,BLS archive page captured via WebFetch 2026-11-01,,24909870
+GDP,2017-05-26,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,24930030
+NFP,2017-06-02,08:30,BLS archive page captured via WebFetch 2026-11-01,,24940110
+CPI,2017-06-14,08:30,BLS archive page captured via WebFetch 2026-11-01,,24957390
+FOMC,2017-06-14,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,24957720
+GDP,2017-06-29,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,24978990
+NFP,2017-07-07,08:30,BLS archive page captured via WebFetch 2026-11-01,,24990510
+CPI,2017-07-14,08:30,BLS archive page captured via WebFetch 2026-11-01,,25000590
+FOMC,2017-07-26,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,25018200
+GDP,2017-07-28,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,25020750
+NFP,2017-08-04,08:30,BLS archive page captured via WebFetch 2026-11-01,,25030830
+CPI,2017-08-11,08:30,BLS archive page captured via WebFetch 2026-11-01,,25040910
+GDP,2017-08-30,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,25068270
+NFP,2017-09-01,08:30,BLS archive page captured via WebFetch 2026-11-01,,25071150
+CPI,2017-09-14,08:30,BLS archive page captured via WebFetch 2026-11-01,,25089870
+FOMC,2017-09-20,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,25098840
+GDP,2017-09-28,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,25110030
+NFP,2017-10-06,08:30,BLS archive page captured via WebFetch 2026-11-01,,25121550
+CPI,2017-10-13,08:30,BLS archive page captured via WebFetch 2026-11-01,,25131630
+GDP,2017-10-27,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,25151790
+FOMC,2017-11-01,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,25159320
+NFP,2017-11-03,08:30,BLS archive page captured via WebFetch 2026-11-01,,25161870
+CPI,2017-11-15,08:30,BLS archive page captured via WebFetch 2026-11-01,,25179210
+GDP,2017-11-29,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,25199370
+NFP,2017-12-08,08:30,BLS archive page captured via WebFetch 2026-11-01,,25212330
+CPI,2017-12-13,08:30,BLS archive page captured via WebFetch 2026-11-01,,25219530
+FOMC,2017-12-13,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,25219860
+GDP,2017-12-21,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,25231050
+NFP,2018-01-05,08:30,BLS archive page captured via WebFetch 2026-11-01,,25252650
+CPI,2018-01-12,08:30,BLS archive page captured via WebFetch 2026-11-01,,25262730
+GDP,2018-01-26,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,25282890
+FOMC,2018-01-31,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,25290420
+NFP,2018-02-02,08:30,BLS archive page captured via WebFetch 2026-11-01,,25292970
+CPI,2018-02-14,08:30,BLS archive page captured via WebFetch 2026-11-01,,25310250
+GDP,2018-02-28,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,25330410
+NFP,2018-03-09,08:30,BLS archive page captured via WebFetch 2026-11-01,,25343370
+CPI,2018-03-13,08:30,BLS archive page captured via WebFetch 2026-11-01,,25349070
+FOMC,2018-03-21,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,25360920
+GDP,2018-03-28,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,25370670
+NFP,2018-04-06,08:30,BLS archive page captured via WebFetch 2026-11-01,,25383630
+CPI,2018-04-11,08:30,BLS archive page captured via WebFetch 2026-11-01,,25390830
+GDP,2018-04-27,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,25413870
+FOMC,2018-05-02,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,25421400
+NFP,2018-05-04,08:30,BLS archive page captured via WebFetch 2026-11-01,,25423950
+CPI,2018-05-10,08:30,BLS archive page captured via WebFetch 2026-11-01,,25432590
+GDP,2018-05-30,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,25461390
+NFP,2018-06-01,08:30,BLS archive page captured via WebFetch 2026-11-01,,25464270
+CPI,2018-06-12,08:30,BLS archive page captured via WebFetch 2026-11-01,,25480110
+FOMC,2018-06-13,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,25481880
+GDP,2018-06-28,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,25503150
+NFP,2018-07-06,08:30,BLS archive page captured via WebFetch 2026-11-01,,25514670
+CPI,2018-07-12,08:30,BLS archive page captured via WebFetch 2026-11-01,,25523310
+GDP,2018-07-27,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,25544910
+FOMC,2018-08-01,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,25552440
+NFP,2018-08-03,08:30,BLS archive page captured via WebFetch 2026-11-01,,25554990
+CPI,2018-08-10,08:30,BLS archive page captured via WebFetch 2026-11-01,,25565070
+GDP,2018-08-29,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,25592430
+NFP,2018-09-07,08:30,BLS archive page captured via WebFetch 2026-11-01,,25605390
+CPI,2018-09-13,08:30,BLS archive page captured via WebFetch 2026-11-01,,25614030
+FOMC,2018-09-26,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,25633080
+GDP,2018-09-27,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,25634190
+NFP,2018-10-05,08:30,BLS archive page captured via WebFetch 2026-11-01,,25645710
+CPI,2018-10-11,08:30,BLS archive page captured via WebFetch 2026-11-01,,25654350
+GDP,2018-10-26,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,25675950
+NFP,2018-11-02,08:30,BLS archive page captured via WebFetch 2026-11-01,,25686030
+FOMC,2018-11-08,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,25695060
+CPI,2018-11-14,08:30,BLS archive page captured via WebFetch 2026-11-01,,25703370
+GDP,2018-11-28,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,25723530
+NFP,2018-12-07,08:30,BLS archive page captured via WebFetch 2026-11-01,,25736490
+CPI,2018-12-12,08:30,BLS archive page captured via WebFetch 2026-11-01,,25743690
+FOMC,2018-12-19,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,25754100
+GDP,2018-12-21,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,25756650
+NFP,2019-01-04,08:30,BLS archive page captured via WebFetch 2026-11-01,,25776810
+CPI,2019-01-11,08:30,BLS archive page captured via WebFetch 2026-11-01,,25786890
+FOMC,2019-01-30,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,25814580
+NFP,2019-02-01,08:30,BLS archive page captured via WebFetch 2026-11-01,,25817130
+CPI,2019-02-13,08:30,BLS archive page captured via WebFetch 2026-11-01,,25834410
+GDP,2019-02-28,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,25856010
+NFP,2019-03-08,08:30,BLS archive page captured via WebFetch 2026-11-01,,25867530
+CPI,2019-03-12,08:30,BLS archive page captured via WebFetch 2026-11-01,,25873230
+FOMC,2019-03-20,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,25885080
+GDP,2019-03-28,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,25896270
+NFP,2019-04-05,08:30,BLS archive page captured via WebFetch 2026-11-01,,25907790
+CPI,2019-04-10,08:30,BLS archive page captured via WebFetch 2026-11-01,,25914990
+GDP,2019-04-26,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,25938030
+FOMC,2019-05-01,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,25945560
+NFP,2019-05-03,08:30,BLS archive page captured via WebFetch 2026-11-01,,25948110
+CPI,2019-05-10,08:30,BLS archive page captured via WebFetch 2026-11-01,,25958190
+GDP,2019-05-30,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,25986990
+NFP,2019-06-07,08:30,BLS archive page captured via WebFetch 2026-11-01,,25998510
+CPI,2019-06-12,08:30,BLS archive page captured via WebFetch 2026-11-01,,26005710
+FOMC,2019-06-19,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,26016120
+GDP,2019-06-27,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,26027310
+NFP,2019-07-05,08:30,BLS archive page captured via WebFetch 2026-11-01,,26038830
+CPI,2019-07-11,08:30,BLS archive page captured via WebFetch 2026-11-01,,26047470
+GDP,2019-07-26,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,26069070
+FOMC,2019-07-31,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,26076600
+NFP,2019-08-02,08:30,BLS archive page captured via WebFetch 2026-11-01,,26079150
+CPI,2019-08-13,08:30,BLS archive page captured via WebFetch 2026-11-01,,26094990
+GDP,2019-08-29,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,26118030
+NFP,2019-09-06,08:30,BLS archive page captured via WebFetch 2026-11-01,,26129550
+CPI,2019-09-12,08:30,BLS archive page captured via WebFetch 2026-11-01,,26138190
+FOMC,2019-09-18,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,26147160
+GDP,2019-09-26,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,26158350
+NFP,2019-10-04,08:30,BLS archive page captured via WebFetch 2026-11-01,,26169870
+CPI,2019-10-10,08:30,BLS archive page captured via WebFetch 2026-11-01,,26178510
+FOMC,2019-10-11,11:00,federalreserve.gov statement page,Federal Reserve Board - Statement Regarding Monetary Policy Implementation,26180100
+GDP,2019-10-30,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,26207310
+FOMC,2019-10-30,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,26207640
+NFP,2019-11-01,08:30,BLS archive page captured via WebFetch 2026-11-01,,26210190
+CPI,2019-11-13,08:30,BLS archive page captured via WebFetch 2026-11-01,,26227530
+GDP,2019-11-27,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,26247690
+NFP,2019-12-06,08:30,BLS archive page captured via WebFetch 2026-11-01,,26260650
+CPI,2019-12-11,08:30,BLS archive page captured via WebFetch 2026-11-01,,26267850
+FOMC,2019-12-11,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,26268180
+GDP,2019-12-20,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,26280810
+NFP,2020-01-10,08:30,BLS archive page captured via WebFetch 2026-11-01,,26311050
+CPI,2020-01-14,08:30,BLS archive page captured via WebFetch 2026-11-01,,26316810
+FOMC,2020-01-29,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,26338740
+GDP,2020-01-30,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,26339850
+NFP,2020-02-07,08:30,BLS archive page captured via WebFetch 2026-11-01,,26351370
+CPI,2020-02-13,08:30,BLS archive page captured via WebFetch 2026-11-01,,26360010
+GDP,2020-02-27,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,26380170
+FOMC,2020-03-03,10:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,26387460
+NFP,2020-03-06,08:30,BLS archive page captured via WebFetch 2026-11-01,,26391690
+CPI,2020-03-11,08:30,BLS archive page captured via WebFetch 2026-11-01,,26398830
+FOMC,2020-03-15,17:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,26405100
+FOMC,2020-03-23,08:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,26416080
+GDP,2020-03-26,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,26420430
+NFP,2020-04-03,08:30,BLS archive page captured via WebFetch 2026-11-01,,26431950
+CPI,2020-04-10,08:30,BLS archive page captured via WebFetch 2026-11-01,,26442030
+GDP,2020-04-29,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,26469390
+FOMC,2020-04-29,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,26469720
+NFP,2020-05-08,08:30,BLS archive page captured via WebFetch 2026-11-01,,26482350
+CPI,2020-05-12,08:30,BLS archive page captured via WebFetch 2026-11-01,,26488110
+GDP,2020-05-28,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,26511150
+NFP,2020-06-05,08:30,BLS archive page captured via WebFetch 2026-11-01,,26522670
+CPI,2020-06-10,08:30,BLS archive page captured via WebFetch 2026-11-01,,26529870
+FOMC,2020-06-10,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,26530200
+GDP,2020-06-25,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,26551470
+NFP,2020-07-02,08:30,BLS archive page captured via WebFetch 2026-11-01,,26561550
+CPI,2020-07-14,08:30,BLS archive page captured via WebFetch 2026-11-01,,26578830
+FOMC,2020-07-29,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,26600760
+GDP,2020-07-30,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,26601870
+NFP,2020-08-07,08:30,BLS archive page captured via WebFetch 2026-11-01,,26613390
+CPI,2020-08-12,08:30,BLS archive page captured via WebFetch 2026-11-01,,26620590
+GDP,2020-08-27,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,26642190
+FOMC,2020-08-27,09:10,federalreserve.gov statement page,Federal Reserve Board - Federal Open Market Committee announces approval of upda,26642230
+NFP,2020-09-04,08:30,BLS archive page captured via WebFetch 2026-11-01,,26653710
+CPI,2020-09-11,08:30,BLS archive page captured via WebFetch 2026-11-01,,26663790
+FOMC,2020-09-16,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,26671320
+GDP,2020-09-30,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,26691150
+NFP,2020-10-02,08:30,BLS archive page captured via WebFetch 2026-11-01,,26694030
+CPI,2020-10-13,08:30,BLS archive page captured via WebFetch 2026-11-01,,26709870
+GDP,2020-10-29,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,26732910
+FOMC,2020-11-05,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,26743380
+NFP,2020-11-06,08:30,BLS archive page captured via WebFetch 2026-11-01,,26744490
+CPI,2020-11-12,08:30,BLS archive page captured via WebFetch 2026-11-01,,26753130
+GDP,2020-11-25,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,26771850
+NFP,2020-12-04,08:30,BLS archive page captured via WebFetch 2026-11-01,,26784810
+CPI,2020-12-10,08:30,BLS archive page captured via WebFetch 2026-11-01,,26793450
+FOMC,2020-12-16,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,26802420
+GDP,2020-12-22,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,26810730
+NFP,2021-01-08,08:30,BLS archive page captured via WebFetch 2026-11-01,,26835210
+CPI,2021-01-13,08:30,BLS archive page captured via WebFetch 2026-11-01,,26842410
+FOMC,2021-01-27,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,26862900
+GDP,2021-01-28,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,26864010
+NFP,2021-02-05,08:30,BLS archive page captured via WebFetch 2026-11-01,,26875530
+CPI,2021-02-10,08:30,BLS archive page captured via WebFetch 2026-11-01,,26882730
+GDP,2021-02-25,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,26904330
+NFP,2021-03-05,08:30,BLS archive page captured via WebFetch 2026-11-01,,26915850
+CPI,2021-03-10,08:30,BLS archive page captured via WebFetch 2026-11-01,,26923050
+FOMC,2021-03-17,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,26933400
+GDP,2021-03-25,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,26944590
+NFP,2021-04-02,08:30,BLS archive page captured via WebFetch 2026-11-01,,26956110
+CPI,2021-04-13,08:30,BLS archive page captured via WebFetch 2026-11-01,,26971950
+FOMC,2021-04-28,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,26993880
+GDP,2021-04-29,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,26994990
+NFP,2021-05-07,08:30,BLS archive page captured via WebFetch 2026-11-01,,27006510
+CPI,2021-05-12,08:30,BLS archive page captured via WebFetch 2026-11-01,,27013710
+GDP,2021-05-27,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,27035310
+NFP,2021-06-04,08:30,BLS archive page captured via WebFetch 2026-11-01,,27046830
+CPI,2021-06-10,08:30,BLS archive page captured via WebFetch 2026-11-01,,27055470
+FOMC,2021-06-16,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,27064440
+GDP,2021-06-24,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,27075630
+NFP,2021-07-02,08:30,BLS archive page captured via WebFetch 2026-11-01,,27087150
+CPI,2021-07-13,08:30,BLS archive page captured via WebFetch 2026-11-01,,27102990
+FOMC,2021-07-28,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,27124920
+GDP,2021-07-29,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,27126030
+NFP,2021-08-06,08:30,BLS archive page captured via WebFetch 2026-11-01,,27137550
+CPI,2021-08-11,08:30,BLS archive page captured via WebFetch 2026-11-01,,27144750
+GDP,2021-08-26,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,27166350
+NFP,2021-09-03,08:30,BLS archive page captured via WebFetch 2026-11-01,,27177870
+CPI,2021-09-14,08:30,BLS archive page captured via WebFetch 2026-11-01,,27193710
+FOMC,2021-09-22,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,27205560
+GDP,2021-09-30,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,27216750
+NFP,2021-10-08,08:30,BLS archive page captured via WebFetch 2026-11-01,,27228270
+CPI,2021-10-13,08:30,BLS archive page captured via WebFetch 2026-11-01,,27235470
+GDP,2021-10-28,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,27257070
+FOMC,2021-11-03,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,27266040
+NFP,2021-11-05,08:30,BLS archive page captured via WebFetch 2026-11-01,,27268590
+CPI,2021-11-10,08:30,BLS archive page captured via WebFetch 2026-11-01,,27275850
+GDP,2021-11-24,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,27296010
+NFP,2021-12-03,08:30,BLS archive page captured via WebFetch 2026-11-01,,27308970
+CPI,2021-12-10,08:30,BLS archive page captured via WebFetch 2026-11-01,,27319050
+FOMC,2021-12-15,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,27326580
+GDP,2021-12-22,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,27336330
+NFP,2022-01-07,08:30,BLS archive page captured via WebFetch 2026-11-01,,27359370
+CPI,2022-01-12,08:30,BLS archive page captured via WebFetch 2026-11-01,,27366570
+FOMC,2022-01-26,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,27387060
+GDP,2022-01-27,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,27388170
+NFP,2022-02-04,08:30,BLS archive page captured via WebFetch 2026-11-01,,27399690
+CPI,2022-02-10,08:30,BLS archive page captured via WebFetch 2026-11-01,,27408330
+GDP,2022-02-24,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,27428490
+NFP,2022-03-04,08:30,BLS archive page captured via WebFetch 2026-11-01,,27440010
+CPI,2022-03-10,08:30,BLS archive page captured via WebFetch 2026-11-01,,27448650
+FOMC,2022-03-16,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,27457560
+GDP,2022-03-30,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,27477390
+NFP,2022-04-01,08:30,BLS archive page captured via WebFetch 2026-11-01,,27480270
+CPI,2022-04-12,08:30,BLS archive page captured via WebFetch 2026-11-01,,27496110
+GDP,2022-04-28,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,27519150
+FOMC,2022-05-04,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,27528120
+NFP,2022-05-06,08:30,BLS archive page captured via WebFetch 2026-11-01,,27530670
+CPI,2022-05-11,08:30,BLS archive page captured via WebFetch 2026-11-01,,27537870
+GDP,2022-05-26,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,27559470
+NFP,2022-06-03,08:30,BLS archive page captured via WebFetch 2026-11-01,,27570990
+CPI,2022-06-10,08:30,BLS archive page captured via WebFetch 2026-11-01,,27581070
+FOMC,2022-06-15,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,27588600
+GDP,2022-06-29,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,27608430
+NFP,2022-07-08,08:30,BLS archive page captured via WebFetch 2026-11-01,,27621390
+CPI,2022-07-13,08:30,BLS archive page captured via WebFetch 2026-11-01,,27628590
+FOMC,2022-07-27,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,27649080
+GDP,2022-07-28,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,27650190
+NFP,2022-08-05,08:30,BLS archive page captured via WebFetch 2026-11-01,,27661710
+CPI,2022-08-10,08:30,BLS archive page captured via WebFetch 2026-11-01,,27668910
+GDP,2022-08-25,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,27690510
+NFP,2022-09-02,08:30,BLS archive page captured via WebFetch 2026-11-01,,27702030
+CPI,2022-09-13,08:30,BLS archive page captured via WebFetch 2026-11-01,,27717870
+FOMC,2022-09-21,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,27729720
+GDP,2022-09-29,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,27740910
+NFP,2022-10-07,08:30,BLS archive page captured via WebFetch 2026-11-01,,27752430
+CPI,2022-10-13,08:30,BLS archive page captured via WebFetch 2026-11-01,,27761070
+GDP,2022-10-27,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,27781230
+FOMC,2022-11-02,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,27790200
+NFP,2022-11-04,08:30,BLS archive page captured via WebFetch 2026-11-01,,27792750
+CPI,2022-11-10,08:30,BLS archive page captured via WebFetch 2026-11-01,,27801450
+GDP,2022-11-30,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,27830250
+NFP,2022-12-02,08:30,BLS archive page captured via WebFetch 2026-11-01,,27833130
+CPI,2022-12-13,08:30,BLS archive page captured via WebFetch 2026-11-01,,27848970
+FOMC,2022-12-14,14:00,federalreserve.gov statement page,Federal Reserve Board - Federal Reserve issues FOMC statement,27850740
+GDP,2022-12-22,08:30,ALFRED GDP vintage dates via WebFetch 2026-11-01,,27861930

@@ -1,0 +1,14 @@
+Descriptive overshoot audit, 2010-16, v1-r2 zigzag streams (check_overshoot.py).
+O/theta = how far the pullback ran beyond its confirmation price before the next event (our trade's adverse extension).
+Pairs whose next event lies after a stream reset (>30-min data gap) are excluded. The design-phase DIAGNOSTICS file included them.
+
+A leg 0-1.5   n 5795 mean 1.225 median 0.732 P(O<1) 0.597 P(O<=0.01) 0.106 reset-excluded 0.085
+A leg 1.5-2.5 n 6706 mean 1.092 median 0.630 P(O<1) 0.642 P(O<=0.01) 0.101 reset-excluded 0.097
+A leg 2.5-3.5 n 2417 mean 0.933 median 0.560 P(O<1) 0.680 P(O<=0.01) 0.106 reset-excluded 0.107
+A leg 3.5-5   n 1186 mean 0.971 median 0.589 P(O<1) 0.670 P(O<=0.01) 0.093 reset-excluded 0.130
+A leg 5-inf   n  411 mean 0.906 median 0.612 P(O<1) 0.706 P(O<=0.01) 0.092 reset-excluded 0.185
+B leg 0-1.5   n 2943 mean 1.136 median 0.592 P(O<1) 0.650 P(O<=0.01) 0.088 reset-excluded 0.097
+B leg 1.5-2.5 n 2328 mean 1.311 median 0.621 P(O<1) 0.639 P(O<=0.01) 0.077 reset-excluded 0.221
+B leg 2.5-3.5 n  927 mean 1.236 median 0.591 P(O<1) 0.648 P(O<=0.01) 0.083 reset-excluded 0.280
+B leg 3.5-5   n  412 mean 1.116 median 0.513 P(O<1) 0.687 P(O<=0.01) 0.083 reset-excluded 0.391
+B leg 5-inf   n  134 mean 0.830 median 0.304 P(O<1) 0.784 P(O<=0.01) 0.082 reset-excluded 0.606

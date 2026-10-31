@@ -1,0 +1,50 @@
+CHECK PASS: v1-r2 signals and 2010-16 metrics reproduced {"net": 353805.2506998925, "dd": 29686.869300000195, "trades": 2737}
+stage1 A F1 15 net 354950 dd 29687 t 1.66 blocked 9 OK
+stage1 A F1 30 net 357597 dd 29687 t 1.74 blocked 16 
+stage1 A F1 60 net 354971 dd 29687 t 0.44 blocked 30 
+stage1 A F2 settle net 350003 dd 29687 t -0.47 blocked 33 
+stage1 A F2 glds net 353577 dd 29687 t -0.06 blocked 20 
+stage1 A F3 leg_high net 313009 dd 29687 t -1.46 blocked 400 
+stage1 A F3 leg_low net 270730 dd 29801 t -3.03 blocked 332 
+stage1 A F3 pb_high net 311666 dd 29687 t -1.46 blocked 358 
+stage1 A F3 pb_low net 308518 dd 32963 t -1.89 blocked 324 
+stage1 A F3n jump_norel net 320466 dd 29687 t -1.21 blocked 375 
+stage1 A F3n jump_rel net 346348 dd 30323 t -1.36 blocked 25 
+stage1 A F4 seas net 372158 dd 34923 t 0.36 blocked 0 
+stage1 A F4 seas_bp net 317508 dd 30117 t -0.66 blocked 0 
+stage1 A F5 2.0 net 325284 dd 29913 t -1.09 blocked 174 
+stage1 A F5 3.0 net 332450 dd 34798 t -1.21 blocked 40 
+stage1 A F6 leg_release net 369135 dd 29687 t 0.92 blocked 100 
+stage1 A F6 pb_release net 352238 dd 29687 t -0.25 blocked 18 
+stage1 A F6 window net 356942 dd 29687 t 0.44 blocked 10 
+stage1 A F7 low net 310808 dd 29687 t -1.57 blocked 601 
+stage1 A F7 high net 243968 dd 16249 t -2.21 blocked 963 
+stage1 A F8 15 net 346279 dd 33542 t -1.01 blocked 47 
+stage1 A F8 60 net 338039 dd 30680 t -1.21 blocked 115 
+stage1 A F9 reject net 265454 dd 37390 t -2.14 blocked 532 
+stage1 B F1 15 net 355005 dd 29687 t 0.84 blocked 22 
+stage1 B F1 30 net 351037 dd 29687 t -1.1 blocked 39 
+stage1 B F1 60 net 347382 dd 29687 t -1.62 blocked 56 
+stage1 B F2 settle net 360960 dd 29687 t 1.45 blocked 7 OK
+stage1 B F2 glds net 349541 dd 29687 t -0.9 blocked 13 
+stage1 B F3 leg_high net 347994 dd 29687 t -0.9 blocked 4 
+stage1 B F3 leg_low net 351574 dd 29687 t -1.28 blocked 3 
+stage1 B F3 pb_high net 360540 dd 29687 t 0.82 blocked 38 
+stage1 B F3 pb_low net 333411 dd 29271 t -1.89 blocked 41 
+stage1 B F3n jump_norel net 353932 dd 29687 t 0.05 blocked 3 
+stage1 B F3n jump_rel net 347868 dd 29687 t -1.0 blocked 1 
+stage1 B F4 seas net 301351 dd 41267 t -1.76 blocked 0 
+stage1 B F4 seas_bp net 312878 dd 41759 t -1.22 blocked 0 
+stage1 B F5 2.0 net 331911 dd 29687 t -2.0 blocked 13 
+stage1 B F5 3.0 net 352002 dd 29687 t -0.3 blocked 2 
+stage1 B F6 leg_release net 348159 dd 30552 t -0.52 blocked 68 
+stage1 B F6 pb_release net 352581 dd 29687 t -0.32 blocked 4 
+stage1 B F6 window net 353805 dd 29687 t 0.0 blocked 0 
+stage1 B F7 low net 326464 dd 32946 t -2.22 blocked 178 
+stage1 B F7 high net 306440 dd 26886 t -1.68 blocked 241 
+stage1 B F8 15 net 347068 dd 29687 t -1.38 blocked 16 
+stage1 B F8 60 net 356865 dd 29687 t 0.36 blocked 39 
+stage1 B F9 reject net 291800 dd 28333 t -2.36 blocked 202 
+null A F1 15 beats 16 of 20
+null B F2 settle beats 20 of 20
+LOCK NOT_CONFIRMED {"A": {}, "B": {}} {"net": 353805.2506998925, "dd": 29686.869300000195, "trades": 2737, "recent": 46954.65224997187}
